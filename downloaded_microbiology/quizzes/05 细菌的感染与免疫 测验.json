@@ -1,0 +1,768 @@
+{
+  "quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "机会致病菌在特定条件下方可引起宿主发病。下列情况中最不易诱发机会致病菌感染的是？",
+      "answerOptions": [
+        {
+          "text": "长期大剂量使用广谱抗生素",
+          "isCorrect": false,
+          "rationale": "长期使用广谱抗生素会破坏正常菌群平衡，引发菌群失调，从而给机会致病菌创造大量繁殖的机会。"
+        },
+        {
+          "text": "接受大剂量免疫抑制剂或抗肿瘤药物治疗",
+          "isCorrect": false,
+          "rationale": "免疫抑制剂会削弱宿主的抗感染免疫防御能力，使原本无害的正常菌群转变为致病菌。"
+        },
+        {
+          "text": "正常菌群由体表移位至原本无菌的深部组织",
+          "isCorrect": false,
+          "rationale": "寄居部位改变是机会致病菌致病的典型条件之一，细菌进入无菌部位易引发严重感染。"
+        },
+        {
+          "text": "机体黏膜表面诱导产生特异性 $sIgA$",
+          "isCorrect": true,
+          "rationale": "特异性 $sIgA$ 能阻断微生物对黏膜上皮细胞的黏附和定植，增强黏膜防御能力，从而降低感染风险。"
+        }
+      ],
+      "hint": "思考黏膜表面特异性抗体对抗原入侵的防护作用与机体免疫低下或菌群失调之间的区别。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "大肠埃希菌 I 型菌毛黏附素在进入宿主体内后，能特异性结合肠黏膜上皮细胞表面的哪种分子结构？",
+      "answerOptions": [
+        {
+          "text": "D-甘露糖",
+          "isCorrect": true,
+          "rationale": "大肠埃希菌 I 型菌毛黏附素的靶受体为肠黏膜上皮细胞表面的 D-甘露糖，其特异性结合决定了感染的组织定位。"
+        },
+        {
+          "text": "N-乙酰葡萄糖胺",
+          "isCorrect": false,
+          "rationale": "N-乙酰葡萄糖胺是衣原体表面凝集素结合的靶受体，并非大肠埃希菌 I 型菌毛的受体。"
+        },
+        {
+          "text": "脂磷壁酸（LTA）",
+          "isCorrect": false,
+          "rationale": "脂磷壁酸是革兰阳性菌细胞壁的结构成分（如 A 群链球菌），属于细菌表面的非菌毛黏附素，而非宿主细胞受体。"
+        },
+        {
+          "text": "唾液酸",
+          "isCorrect": false,
+          "rationale": "唾液酸虽然是多种流感病毒或特定病原体的受体成分，但并不是大肠埃希菌 I 型菌毛黏附素的主要受体。"
+        }
+      ],
+      "hint": "注意区分不同黏附素受体在糖类结构上的差异。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "金黄色葡萄球菌感染引起的脓肿通常界限清楚、脓汁黏稠，而 A 群链球菌感染引起的化脓性炎症则易扩散、脓汁稀薄。导致金黄色葡萄球菌感染病灶局限化的关键酶是？",
+      "answerOptions": [
+        {
+          "text": "血浆凝固酶",
+          "isCorrect": true,
+          "rationale": "金黄色葡萄球菌产生的血浆凝固酶可使血浆中的纤维蛋白原转变成固态纤维蛋白包绕于菌体外，使感染部位与周围组织界限分明。"
+        },
+        {
+          "text": "透明质酸酶",
+          "isCorrect": false,
+          "rationale": "透明质酸酶可分解细胞间质，促进细菌在组织中扩散，是 A 群链球菌导致扩散性感染的因素。"
+        },
+        {
+          "text": "链激酶",
+          "isCorrect": false,
+          "rationale": "链激酶（溶纤维蛋白酶原）能够溶解纤维蛋白凝块，阻碍病灶局限化，为 A 群链球菌所产生。"
+        },
+        {
+          "text": "$sIgA$ 蛋白酶",
+          "isCorrect": false,
+          "rationale": "$sIgA$ 蛋白酶的功能是水解黏膜表面的 $sIgA$ 以降低特异性防御，与脓汁性状和病灶局限无关。"
+        }
+      ],
+      "hint": "对比凝固血纤维与溶解组织间质酶类对脓液性状及局限性的不同影响。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "实验将无荚膜的肺炎链球菌注射入小鼠腹腔，小鼠能正常存活；而将有荚膜的肺炎链球菌接种于小鼠后，小鼠在 24 小时内死亡。这说明荚膜的主要致病作用是？",
+      "answerOptions": [
+        {
+          "text": "直接抑制宿主细胞蛋白质合成",
+          "isCorrect": false,
+          "rationale": "抑制蛋白质合成通常是某些细胞毒素（如白喉毒素）的作用机制，而非荚膜的主要功能。"
+        },
+        {
+          "text": "发挥抗吞噬作用并抵抗体液杀菌物质",
+          "isCorrect": true,
+          "rationale": "荚膜能保护细菌免受宿主吞噬细胞的吞噬和体液杀菌物质的破坏，使其能在宿主体内大量繁殖并致病。"
+        },
+        {
+          "text": "通过酶解作用破坏宿主组织基质",
+          "isCorrect": false,
+          "rationale": "破坏组织基质主要是侵袭性酶类（如透明质酸酶）的作用，荚膜属于细菌表面结构。"
+        },
+        {
+          "text": "诱导宿主发生强烈的过敏反应",
+          "isCorrect": false,
+          "rationale": "荚膜的主要致病机制在于免疫逃逸和抗吞噬，而不是直接引发超敏反应。"
+        }
+      ],
+      "hint": "回忆肺炎链球菌表面结构在抵御宿主吞噬细胞中的功能。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "痢疾志贺菌侵入结肠黏膜上皮细胞并向邻近细胞扩散，造成黏膜下层坏死脱落和溃疡，形成典型的黏液脓血便。这一侵入上皮细胞的过程主要依赖于细菌表达的？",
+      "answerOptions": [
+        {
+          "text": "菌毛黏附素",
+          "isCorrect": false,
+          "rationale": "菌毛黏附素主要介导细菌黏附定植在细胞表面（“寻找立足之地”），本身不具备直接促使细菌进入细胞内部的作用。"
+        },
+        {
+          "text": "侵袭素（invasin）",
+          "isCorrect": true,
+          "rationale": "侵袭素能特异性识别宿主细胞膜蛋白并激活信号通路，使细菌被卷入宿主上皮细胞内，从而引发侵袭性感染。"
+        },
+        {
+          "text": "内毒素",
+          "isCorrect": false,
+          "rationale": "内毒素在细菌裂解后释放，引起发热、休克等全身反应，但不直接介导细菌进入细胞内。"
+        },
+        {
+          "text": "芽孢",
+          "isCorrect": false,
+          "rationale": "芽孢是细菌的休眠休止结构，与侵袭细胞的生物学过程无关。"
+        }
+      ],
+      "hint": "思考介导细菌穿过并侵入上皮细胞膜的关键染色体编码蛋白。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "中央静脉插管或人工心脏瓣膜等医疗植入物表面极易形成细菌生物被膜（BF）。关于细菌生物被膜的叙述，正确的是？",
+      "answerOptions": [
+        {
+          "text": "被膜内的细菌以单兵作战的浮游状态生长",
+          "isCorrect": false,
+          "rationale": "生物被膜是细菌借助信号分子相互联络、协同形成的膜状群体结构，并非浮游状态。"
+        },
+        {
+          "text": "生物被膜仅由细菌菌体构成，不含胞外产物",
+          "isCorrect": false,
+          "rationale": "生物被膜由细菌及其分泌的胞外多糖、蛋白质和 DNA 等胞外多聚物共同组成。"
+        },
+        {
+          "text": "被膜内的细菌对抗菌药物和宿主免疫清除具有高度抵抗力",
+          "isCorrect": true,
+          "rationale": "生物被膜保护被膜菌躲避抗菌药物和宿主免疫防御，常导致持续性和难治性感染。"
+        },
+        {
+          "text": "只需使用常规剂量的敏感抗生素即可彻底清除被膜菌",
+          "isCorrect": false,
+          "rationale": "由于生物被膜的保护作用，成百倍剂量的抗菌药物也难以将被膜菌彻底清除。"
+        }
+      ],
+      "hint": "考虑胞外多糖包裹下的群体细菌在抗药性与免疫逃逸方面的优势。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "体内诱生抗原（IVIAg）是细菌致病机制中的重要概念。下列关于 IVIAg 的说法，正确的是？",
+      "answerOptions": [
+        {
+          "text": "在体外人工培养基上大量表达",
+          "isCorrect": false,
+          "rationale": "体内诱导基因（IVIG）在体外人工培养条件下不表达，只有进入宿主体内后才被诱导表达。"
+        },
+        {
+          "text": "由体内诱导基因编码，仅在细菌侵入宿主体内后表达",
+          "isCorrect": true,
+          "rationale": "IVIAg 是病原菌为适应宿主体内环境、上调关键生存和毒力基因而产生的特异性抗原。"
+        },
+        {
+          "text": "主要成分为脂多糖，具有强耐热性",
+          "isCorrect": false,
+          "rationale": "脂多糖是革兰阴性菌的内毒素，而 IVIAg 是体内特异性诱导表达的抗原蛋白或相关产物。"
+        },
+        {
+          "text": "仅在细菌死后裂解时才释放",
+          "isCorrect": false,
+          "rationale": "IVIAg 是活菌适应宿主体内环境时主动表达的抗原，与内毒素的裂解释放特性不同。"
+        }
+      ],
+      "hint": "注意该类抗原在体外培养基与宿主体内表达条件的差异。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "外毒素与内毒素在理化性质和生物学效应上有显著差异。下列属于外毒素特征的是？",
+      "answerOptions": [
+        {
+          "text": "化学成分主要是脂多糖",
+          "isCorrect": false,
+          "rationale": "外毒素的化学成分主要是蛋白质，而内毒素的化学成分才是脂多糖。"
+        },
+        {
+          "text": "耐热性强，160℃ 加热 2~4 小时才被破坏",
+          "isCorrect": false,
+          "rationale": "外毒素对热不稳定，一般 60~80℃ 加热 30 分钟即可破坏；耐热是内毒素的特征。"
+        },
+        {
+          "text": "毒性作用强，经甲醛脱毒可制成类毒素",
+          "isCorrect": true,
+          "rationale": "外毒素抗原性强且为蛋白质成分，经甲醛处理可脱去毒性并保留抗原性，制成类毒素。"
+        },
+        {
+          "text": "各菌产生的毒素效应大致相同，均引起发热和休克",
+          "isCorrect": false,
+          "rationale": "外毒素对组织有高度选择性毒性，引起特殊临床表现；内毒素引起的临床效应才大致相同。"
+        }
+      ],
+      "hint": "对比蛋白质类毒素与脂多糖内毒素在热稳定性和脱毒特性上的区别。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "血脑屏障是机体固有免疫的重要组成部分。下列结构中不属于血脑屏障组成部分的是？",
+      "answerOptions": [
+        {
+          "text": "脑毛细血管内皮细胞",
+          "isCorrect": false,
+          "rationale": "脑毛细血管内皮细胞间的紧密连接是血脑屏障的关键物理封堵结构。"
+        },
+        {
+          "text": "星形胶质细胞",
+          "isCorrect": false,
+          "rationale": "星形胶质细胞包裹毛细血管，参与构成血脑屏障并发挥吞噬保护作用。"
+        },
+        {
+          "text": "软脑膜与脉络膜",
+          "isCorrect": false,
+          "rationale": "软脑膜和脉络膜共同参与构成了中枢神经系统与血液之间的隔离屏障。"
+        },
+        {
+          "text": "支气管黏膜上皮细胞",
+          "isCorrect": true,
+          "rationale": "支气管黏膜上皮细胞属于呼吸道黏膜屏障，不参与中枢神经系统的血脑屏障组成。"
+        }
+      ],
+      "hint": "回顾中枢神经系统固有屏障涉及的毛细血管和胶质细胞结构。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在针对胞外菌的适应性体液免疫应答中，特异性抗体发挥的作用不包括？",
+      "answerOptions": [
+        {
+          "text": "中和细菌外毒素",
+          "isCorrect": false,
+          "rationale": "抗体可作为中和抗体与外毒素特异性结合，封闭其毒性活性位点。"
+        },
+        {
+          "text": "封闭细菌黏附素以阻止其黏附",
+          "isCorrect": false,
+          "rationale": "抗体结合细菌表面的黏附素可阻断病原菌与宿主靶细胞受体的结合。"
+        },
+        {
+          "text": "直接激活 $CD8^+$ CTL 裂解靶细胞",
+          "isCorrect": true,
+          "rationale": "直接激活 $CD8^+$ CTL 属于细胞免疫机制，抗体作为体液免疫效应分子不能直接激活 CTL。"
+        },
+        {
+          "text": "结合补体经典途径溶解细菌",
+          "isCorrect": false,
+          "rationale": "抗体（如 $IgM$、$IgG$）与细菌结合后可通过经典途径激活补体，形成攻膜复合体溶解细菌。"
+        }
+      ],
+      "hint": "区分体液免疫效应分子作用与细胞毒性 T 细胞的杀伤机制。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "结核分枝杆菌等胞内寄生菌侵入机体后，机体彻底清除这些病原体主要依赖于？",
+      "answerOptions": [
+        {
+          "text": "$IgG$ 和 $IgM$ 介导的体液调理作用",
+          "isCorrect": false,
+          "rationale": "体液抗体无法穿透完整的宿主细胞膜杀灭细胞内繁殖的细菌，只能在细菌游离时起阻断作用。"
+        },
+        {
+          "text": "$CD4^+$ $Th1$ 细胞和 $CD8^+$ CTL 介导的细胞免疫",
+          "isCorrect": true,
+          "rationale": "清除胞内菌依赖 $Th1$ 分泌细胞因子活化巨噬细胞以及 CTL 特异性杀伤靶细胞。"
+        },
+        {
+          "text": "胃酸和胆汁的化学杀菌作用",
+          "isCorrect": false,
+          "rationale": "胃酸和胆汁属于胃肠道的固有化学屏障，无法清除已侵入组织细胞内部的胞内菌。"
+        },
+        {
+          "text": "体液中溶菌酶直接溶解菌体细胞壁",
+          "isCorrect": false,
+          "rationale": "溶菌酶主要对革兰阳性胞外菌有效，对藏匿于宿主细胞内的胞内寄生菌无能为力。"
+        }
+      ],
+      "hint": "注意胞内寄生菌在吞噬细胞内生存时需要哪种免疫细胞激活巨噬细胞。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "患者因化脓性病菌侵入血流并大量繁殖，随血流扩散至肝、肾等器官，形成新的化脓性病灶。这种全身感染类型称为？",
+      "answerOptions": [
+        {
+          "text": "毒血症（Toxemia）",
+          "isCorrect": false,
+          "rationale": "毒血症是致病菌在局部繁殖，仅其产生的毒素进入血流引起全身症状，血液中无细菌。"
+        },
+        {
+          "text": "菌血症（Bacteremia）",
+          "isCorrect": false,
+          "rationale": "菌血症是致病菌短暂侵入血流，但不在血液中大量繁殖，通常无严重全身中毒症状。"
+        },
+        {
+          "text": "败血症（Septicemia）",
+          "isCorrect": false,
+          "rationale": "败血症是致病菌在血流中大量繁殖并产生毒性产物，但不会在远端器官形成迁徙性化脓病灶。"
+        },
+        {
+          "text": "脓毒血症（Pyemia）",
+          "isCorrect": true,
+          "rationale": "脓毒血症是化脓性病菌入血大量繁殖并随血流扩散，在其他组织器官产生新的化脓性病灶。"
+        }
+      ],
+      "hint": "注意化脓性病菌随血流播散并在远端器官形成迁徙性脓肿的感染术语。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "隐性感染与带菌状态的共同点是均无明显的临床症状，但二者的本质区别在于？",
+      "answerOptions": [
+        {
+          "text": "隐性感染者不能获得特异性免疫力",
+          "isCorrect": false,
+          "rationale": "隐性感染能够刺激机体免疫系统，使宿主获得针对该病原菌的特异性免疫力。"
+        },
+        {
+          "text": "带菌状态下机体免疫力显著高于病原菌毒力",
+          "isCorrect": false,
+          "rationale": "带菌状态是病原菌与机体免疫力处于相对平衡的状态，并非免疫力显著占优。"
+        },
+        {
+          "text": "带菌者体内存留病原菌并可排菌，具有传染性",
+          "isCorrect": true,
+          "rationale": "带菌状态下病原菌在体内存留并向外排菌，是重要的传染源；而隐性感染者通常迅速清除病原菌。"
+        },
+        {
+          "text": "隐性感染只能通过病原学分离培养才能诊断",
+          "isCorrect": false,
+          "rationale": "隐性感染由于体内存留菌量极少，通常只能通过免疫学手段（如检测特异性抗体）检测出来。"
+        }
+      ],
+      "hint": "对比带菌者作为传染源与隐性感染者获得免疫保护的区别。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "患者在医院接受中央静脉置管治疗后，因置管表面形成铜绿假单胞菌生物被膜而发生血行感染。这种感染按来源分类属于？",
+      "answerOptions": [
+        {
+          "text": "内源性交叉感染",
+          "isCorrect": false,
+          "rationale": "交叉感染是指病人与病人或医护人员之间的直接或间接传播，属于外源性感染，概念不能混淆。"
+        },
+        {
+          "text": "医源性感染",
+          "isCorrect": true,
+          "rationale": "医源性感染属于外源性医院感染，是指在诊疗和预防过程中因器械（如插管）消毒不严或污染导致的感染。"
+        },
+        {
+          "text": "带菌状态激活感染",
+          "isCorrect": false,
+          "rationale": "该感染是由植入器材表面污染的生物被膜病原菌引起，并非宿主原先潜伏的带菌状态激活。"
+        },
+        {
+          "text": "环境气溶胶感染",
+          "isCorrect": false,
+          "rationale": "该病例是由于插入性诊治器材直接接触无菌部位造成的医源性感染，而非吸入污染空气所致。"
+        }
+      ],
+      "hint": "考虑由医疗诊治器材消毒不严或置管引起的感染类别。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "阴道内的乳杆菌通过分解糖类产生乳酸，降低局部环境的 $pH$ 值，从而抑制不耐酸的细菌生长。这种机制属于正常菌群的？",
+      "answerOptions": [
+        {
+          "text": "营养竞争作用",
+          "isCorrect": false,
+          "rationale": "营养竞争是指正常菌群消耗大量营养物质使外来菌无法获取营养，与产生酸性产物不同。"
+        },
+        {
+          "text": "生物拮抗作用",
+          "isCorrect": true,
+          "rationale": "产生有害代谢产物（如乳酸降低 $pH$）降低环境电势并抑菌，是生物拮抗的核心机制之一。"
+        },
+        {
+          "text": "诱导特异性免疫应答作用",
+          "isCorrect": false,
+          "rationale": "该过程是通过理化产物直接抑制外来菌，属于非特异性的生物拮抗，非免疫器官刺激作用。"
+        },
+        {
+          "text": "抗肿瘤作用",
+          "isCorrect": false,
+          "rationale": "乳杆菌降解产酸抑制杂菌是局部微环境防御，与抑制肿瘤细胞增殖无直接关联。"
+        }
+      ],
+      "hint": "思考正常菌群代谢产物对环境 pH 改变所产生的抑菌作用。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "人体肠道内的脆弱类杆菌和大肠埃希菌能够合成供宿主吸收利用的营养物质，主要包括？",
+      "answerOptions": [
+        {
+          "text": "维生素 K 和 B 族维生素",
+          "isCorrect": true,
+          "rationale": "肠道正常菌群如脆弱类杆菌和大肠埃希菌可合成维生素 K 和 B 族维生素供人体使用。"
+        },
+        {
+          "text": "维生素 A 和维生素 D",
+          "isCorrect": false,
+          "rationale": "维生素 A 和 D 主要通过食物摄入或皮下合成，并非肠道细菌合成的主要维生素。"
+        },
+        {
+          "text": "必需氨基酸与脂肪酸",
+          "isCorrect": false,
+          "rationale": "必需氨基酸主要由食物蛋白消化吸收，正常菌群合成的主要营养物质是特定维生素。"
+        },
+        {
+          "text": "免疫球蛋白与溶菌酶",
+          "isCorrect": false,
+          "rationale": "免疫球蛋白和溶菌酶是由宿主自身的浆细胞和上皮细胞/吞噬细胞产生的免疫分子。"
+        }
+      ],
+      "hint": "回忆肠道正常菌群能为人体合成的特定维生素种类。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "脑膜炎奈瑟菌和淋病奈瑟菌能够突破宿主黏膜屏障，其产生的一种能降低黏膜特异性防御的侵袭性胞外酶是？",
+      "answerOptions": [
+        {
+          "text": "血浆凝固酶",
+          "isCorrect": false,
+          "rationale": "血浆凝固酶是金黄色葡萄球菌产生的抗吞噬酶类。"
+        },
+        {
+          "text": "链激酶",
+          "isCorrect": false,
+          "rationale": "链激酶是 A 群溶血性链球菌产生的促扩散酶类。"
+        },
+        {
+          "text": "$sIgA$ 蛋白酶",
+          "isCorrect": true,
+          "rationale": "淋病奈瑟菌和脑膜炎奈瑟菌等可产生 $sIgA$ 蛋白酶，特异性水解黏膜表面的 $sIgA$，降低黏膜防御。"
+        },
+        {
+          "text": "透明质酸酶",
+          "isCorrect": false,
+          "rationale": "透明质酸酶主要由链球菌等产生，用于分解细胞间质透明质酸。"
+        }
+      ],
+      "hint": "关注能够特异性降解黏膜表面主要免疫球蛋白的酶。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "随着临床上广谱抗生素的大量使用，医院感染的病原菌种类发生了变迁。近年来最容易引起医院生物被膜感染且多重耐药的革兰阴性杆菌是？",
+      "answerOptions": [
+        {
+          "text": "肺炎链球菌",
+          "isCorrect": false,
+          "rationale": "肺炎链球菌属于革兰阳性球菌，不属于医院感染中占主导地位的革兰阴性耐药杆菌。"
+        },
+        {
+          "text": "铜绿假单胞菌",
+          "isCorrect": true,
+          "rationale": "铜绿假单胞菌是典型的革兰阴性杆菌，极易在插管及机体组织表面形成生物被膜并呈现多重耐药。"
+        },
+        {
+          "text": "白喉棒状杆菌",
+          "isCorrect": false,
+          "rationale": "白喉棒状杆菌为革兰阳性杆菌，主要引起外毒素介导的局部感染，非生物被膜耐药菌。"
+        },
+        {
+          "text": "破伤风梭菌",
+          "isCorrect": false,
+          "rationale": "破伤风梭菌属于厌氧芽孢细菌，通过创伤深部引发外毒素致病，不属于常见医院生物被膜感染菌。"
+        }
+      ],
+      "hint": "回忆常引起植入物生物被膜感染且耐药性强的革兰阴性杆菌。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "正常菌群是寄居在健康人体表及与外界相通腔道的微生物群。下列关于正常菌群生理作用的描述，正确的有？",
+      "answerOptions": [
+        {
+          "text": "生物拮抗：抵御外来致病菌的入侵与定植",
+          "isCorrect": true,
+          "rationale": "正常菌群通过生物屏障、营养竞争及产生酸性产物或过氧化氢等代谢物阻止外来致病菌定植。"
+        },
+        {
+          "text": "营养作用：参与物质转化并合成维生素 K 和 B 族维生素",
+          "isCorrect": true,
+          "rationale": "肠道菌群如大肠埃希菌能进行物质代谢并合成宿主自身难以合成的维生素，供机体吸收利用。"
+        },
+        {
+          "text": "免疫作用：促进宿主免疫器官发育并刺激免疫系统成熟",
+          "isCorrect": true,
+          "rationale": "正常菌群作为抗原刺激能诱导宿主产生 $sIgA$ 等免疫应答，促进免疫系统的发育与完善。"
+        },
+        {
+          "text": "清除作用：直接杀灭血液中循环的游离毒素",
+          "isCorrect": false,
+          "rationale": "正常菌群寄居于体表和腔道黏膜，不进入血液，不能直接清除血液中的游离毒素。"
+        }
+      ],
+      "hint": "思考正常菌群在屏障、营养及免疫刺激等方面的有益作用。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "机会致病菌（条件致病菌）在特定条件下可导致宿主发病。引发正常菌群转变为机会致病菌的常见因素包括？",
+      "answerOptions": [
+        {
+          "text": "不规范使用广谱抗生素导致菌群失调",
+          "isCorrect": true,
+          "rationale": "抗生素抑制或杀灭敏感菌，使耐药菌或真菌过度繁殖，引发微生态失调与感染。"
+        },
+        {
+          "text": "宿主因肿瘤化疗或使用免疫抑制剂导致免疫力下降",
+          "isCorrect": true,
+          "rationale": "宿主免疫防御功能被削弱后，难以控制正常菌群的数量，使其转化为致病菌。"
+        },
+        {
+          "text": "正常菌群由原寄居部位转移至其他无菌部位",
+          "isCorrect": true,
+          "rationale": "如大肠埃希菌从肠道进入尿道或腹腔，改变寄居部位后可引起尿路感染或腹膜炎。"
+        },
+        {
+          "text": "摄入过多经过高温加热熟化的食物",
+          "isCorrect": false,
+          "rationale": "食用熟化食物不会破坏人体内部的微生态平衡，也不会诱发机会致病菌感染。"
+        }
+      ],
+      "hint": "回忆微生态失调、抗生素滥用及寄居部位改变对机会致病菌的影响。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "细菌的黏附作用是致病的“寻找立足之地”过程。下列属于细菌表面的黏附素成分的有？",
+      "answerOptions": [
+        {
+          "text": "肠产毒素型大肠埃希菌的普通菌毛",
+          "isCorrect": true,
+          "rationale": "普通菌毛是革兰阴性菌主要的菌毛黏附素结构，介导细菌对肠黏膜的特异性黏附。"
+        },
+        {
+          "text": "鼠疫耶尔森菌的外膜蛋白（OMP）",
+          "isCorrect": true,
+          "rationale": "某些革兰阴性菌的外膜蛋白属于非菌毛黏附素，参与细菌的黏附定植。"
+        },
+        {
+          "text": "A 群链球菌细胞壁的 LTA-M 蛋白复合物",
+          "isCorrect": true,
+          "rationale": "A 群链球菌细胞壁表面的 LTA-M 蛋白复合物属于革兰阳性菌的非菌毛黏附素。"
+        },
+        {
+          "text": "肺炎支原体的 P1 蛋白",
+          "isCorrect": true,
+          "rationale": "肺炎支原体表面的 P1 蛋白属于非菌毛黏附素，可介导支原体黏附于呼吸道上皮。"
+        }
+      ],
+      "hint": "识别存在于菌毛及外膜蛋白、LTA-M复合物中的黏附结构。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "细菌生物被膜（BF）是细菌附着于有生命或无生命材料表面形成的群体结构。生物被膜对致病菌生存和致病产生的显著影响包括？",
+      "answerOptions": [
+        {
+          "text": "大幅增强细菌对抗菌药物和消毒剂的抵抗力",
+          "isCorrect": true,
+          "rationale": "胞外多聚物形成物理屏障并降低药物渗透，使被膜菌对抗生素产生高度耐药性。"
+        },
+        {
+          "text": "阻碍宿主吞噬细胞和免疫分子的清除作用",
+          "isCorrect": true,
+          "rationale": "生物被膜能屏蔽抗体和补体的作用，防止吞噬细胞对细菌的包围与吞噬。"
+        },
+        {
+          "text": "促进细菌之间耐药基因与毒力基因的捕获和转移",
+          "isCorrect": true,
+          "rationale": "被膜内细菌高密度聚集，极易发生菌间通讯传递和基因水平转移。"
+        },
+        {
+          "text": "使细菌完全失去侵袭力并转化为非致病菌",
+          "isCorrect": false,
+          "rationale": "生物被膜是细菌保护性生存和致病的重要机制，不会使细菌失去毒力。"
+        }
+      ],
+      "hint": "分析胞外多聚物屏障及细菌密集环境对药效和基因传递的影响。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "细菌内毒素（Endotoxin）是革兰阴性菌细胞壁的脂多糖组分。内毒素释放入血后可引发的全身性效应包括？",
+      "answerOptions": [
+        {
+          "text": "发热反应",
+          "isCorrect": true,
+          "rationale": "内毒素可作用于内源性热原质释放细胞，引发宿主体温升高与发热。"
+        },
+        {
+          "text": "白细胞数目改变",
+          "isCorrect": true,
+          "rationale": "内毒素入血早期可导致白细胞暂时减少，随后刺激骨髓释放导致白细胞显著增多。"
+        },
+        {
+          "text": "微循环障碍与内毒素性休克",
+          "isCorrect": true,
+          "rationale": "内毒素能降低血管阻力、增加通透性，导致微循环障碍和休克发生。"
+        },
+        {
+          "text": "弥散性血管内凝血（DIC）",
+          "isCorrect": true,
+          "rationale": "内毒素可激活凝血系统，导致广泛微血栓形成并引发 DIC。"
+        }
+      ],
+      "hint": "回忆脂多糖成分释放后引起的毒性效应与全身生理反应。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "机体固有免疫屏障在阻挡病原体入侵中起关键作用。完整的皮肤与黏膜发挥物理与化学防御作用的机制包括？",
+      "answerOptions": [
+        {
+          "text": "表皮细胞的脱落与更新带走黏附的微生物",
+          "isCorrect": true,
+          "rationale": "体表上皮细胞不间断的更新脱落有助于清除定植在体表的病原微生物。"
+        },
+        {
+          "text": "呼吸道黏膜纤毛摆动排除吸入的颗粒物与细菌",
+          "isCorrect": true,
+          "rationale": "纤毛运动配合黏液向上推送，可将黏附的病原体清出呼吸道。"
+        },
+        {
+          "text": "皮肤汗腺分泌乳酸及皮脂腺分泌脂肪酸抑菌",
+          "isCorrect": true,
+          "rationale": "乳酸维持皮肤酸性环境（$pH$ 5.2~5.8），脂肪酸则直接破坏敏感菌和真菌。"
+        },
+        {
+          "text": "黏膜分泌溶菌酶、抗菌肽和胃酸等杀菌物质",
+          "isCorrect": true,
+          "rationale": "分泌物中的化学杀菌分子能够直接破坏细菌细胞壁或细胞膜导致细菌死亡。"
+        }
+      ],
+      "hint": "从物理清除、纤毛运动与酸性分泌物等多角度思考体表防御。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "胞内寄生菌（如结核分枝杆菌）能逃避体液免疫杀伤。宿主清除胞内寄生菌主要依赖的细胞免疫机制有？",
+      "answerOptions": [
+        {
+          "text": "$CD4^+$ $Th1$ 细胞分泌 $IL-2$、$IFN-\\gamma$ 等细胞因子活化巨噬细胞",
+          "isCorrect": true,
+          "rationale": "$Th1$ 细胞分泌的 $IFN-\\gamma$ 能显著增强巨噬细胞的吞噬杀菌和消化能力。"
+        },
+        {
+          "text": "$CD8^+$ CTL 释放穿孔素和颗粒酶裂解感染的靶细胞",
+          "isCorrect": true,
+          "rationale": "CTL 可特异性破坏感染细菌的宿主细胞，迫使胞内菌释放出来被进一步清除。"
+        },
+        {
+          "text": "颗粒酶直接进入靶细胞杀伤胞内寄生菌",
+          "isCorrect": true,
+          "rationale": "CTL 释放的颗粒酶不仅诱导靶细胞凋亡，还能直接对胞内菌发挥杀伤作用。"
+        },
+        {
+          "text": "浆细胞分泌高亲和力抗体进入宿主细胞内直接中和细菌",
+          "isCorrect": false,
+          "rationale": "抗体分子无法自由穿过完整的宿主细胞膜进入细胞质内发挥中和作用。"
+        }
+      ],
+      "hint": "思考 Th1 细胞因子与 CTL 直接杀伤在清除胞内寄生菌中的协同作用。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "医院感染（Nosocomial infection）是临床医疗安全的重要隐患。下列关于医院感染微生态特征的描述，正确的有？",
+      "answerOptions": [
+        {
+          "text": "病原体以细菌为主（占 90% 以上），且革兰阴性杆菌居多",
+          "isCorrect": true,
+          "rationale": "革兰阴性杆菌是引发医院感染最主要的病原菌群体。"
+        },
+        {
+          "text": "医院感染菌株普遍常具有耐药性或多重耐药性",
+          "isCorrect": true,
+          "rationale": "医院环境中广泛使用抗生素，筛选出大量耐药及多重耐药菌株。"
+        },
+        {
+          "text": "感染的病原菌种类常随抗生素使用品种的变化而发生变迁",
+          "isCorrect": true,
+          "rationale": "临床用药选择压力的改变会直接驱动医院感染病原菌优势菌种的演变。"
+        },
+        {
+          "text": "绝大多数病原体属于强毒力外源性致病菌，健康人群极易感染",
+          "isCorrect": false,
+          "rationale": "医院感染病原体大多为机会致病菌，毒力较弱，主要感染免疫力低下的患者。"
+        }
+      ],
+      "hint": "分析医院环境特点对菌株耐药性及主要菌群种类的影响。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "细菌产生的侵袭性酶类能够帮助致病菌抗吞噬或向周围组织扩散。下列细菌与侵袭性酶类的匹配关系正确的有？",
+      "answerOptions": [
+        {
+          "text": "金黄色葡萄球菌 —— 血浆凝固酶",
+          "isCorrect": true,
+          "rationale": "金黄色葡萄球菌产生凝固酶，使纤维蛋白沉积在菌体表面抵抗吞噬。"
+        },
+        {
+          "text": "A 群溶血性链球菌 —— 透明质酸酶和链激酶",
+          "isCorrect": true,
+          "rationale": "A 群链球菌产生透明质酸酶分解组织间质，产生链激酶溶解纤维蛋白，促进扩散。"
+        },
+        {
+          "text": "脑膜炎奈瑟菌 —— $sIgA$ 蛋白酶",
+          "isCorrect": true,
+          "rationale": "脑膜炎奈瑟菌能产生 $sIgA$ 蛋白酶，降解黏膜局部保护性抗体 $sIgA$。"
+        },
+        {
+          "text": "霍乱弧菌 —— 透明质酸酶",
+          "isCorrect": false,
+          "rationale": "霍乱弧菌致病主要依赖霍乱肠毒素（外毒素），透明质酸酶不是其特征性侵袭酶。"
+        }
+      ],
+      "hint": "匹配金黄色葡萄球菌、链球菌及嗜血杆菌各自特有的致病酶。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    }
+  ],
+  "topics": {
+    "covered": [
+      "正常菌群与机会致病菌概念",
+      "细菌的侵袭力与致病因素",
+      "外毒素与内毒素的对比",
+      "宿主固有免疫与适应性免疫机制",
+      "感染的发生类型与临床表现",
+      "医院感染的分类与微生态特征"
+    ],
+    "followUp": [
+      "微生态失调与菌群失调症的临床防治",
+      "细菌生物被膜感染的耐药机制与干预策略",
+      "内毒素休克的发生机制与免疫阻断",
+      "胞内寄生菌免疫逃逸的具体分子途径",
+      "医院感染多重耐药菌的监控与防控"
+    ]
+  }
+}

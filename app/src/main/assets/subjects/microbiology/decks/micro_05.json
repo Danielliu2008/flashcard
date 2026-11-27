@@ -1,0 +1,354 @@
+{
+  "id": "micro_05",
+  "title": "05 细菌的感染与免疫 闪卡",
+  "description": "医学微生物学·感染基本类型（菌血/毒血/败血/脓毒血症）、正常菌群与二重感染、侵袭力与外毒素/内毒素对比、抗感染免疫核心考点",
+  "topics": {
+    "covered": [
+      "感染类型：隐性感染、显性感染与带菌状态（带菌者）",
+      "全身感染四大扩散类型全方位辨析（毒血症、菌血症、败血症、脓毒血症）",
+      "正常菌群四大生理功能与条件致病菌三大致病诱因",
+      "菌群失调与广谱抗生素诱发二重感染（假膜性肠炎）",
+      "细菌侵袭力构成（菌毛黏附、荚膜抗吞噬、侵袭性酶）",
+      "外毒素与内毒素全维度深度对比（来源/成分/耐热性/毒性/类毒素）",
+      "外毒素分子A-B亚基结构机制与类毒素/抗毒素应用",
+      "内毒素脂质A引发发热、休克与弥散性血管内凝血（DIC）",
+      "宿主固有免疫三大屏障与适应性免疫（体液抗体与胞内菌细胞免疫）"
+    ],
+    "followUp": [
+      "医院感染的特点、常见病原体与预防监控原则",
+      "病毒感染的溶细胞型、包涵体与潜伏感染致病机制"
+    ]
+  },
+  "flashcards": [
+    {
+      "c": 1,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【核心名词】什么是隐性感染、显性感染与带菌者？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **隐性感染**：无明显症状，但获得特异性免疫（多数传染病最常见结局）。\n• **显性感染**：出现特异临床症状体征。\n• **带菌者**：体内长期带菌并向外排毒但无明显症状，是隐匿危险的传染源（如伤寒带菌者）。"
+          }
+        ]
+      },
+      "pointType": "感染类型",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 2,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【极高频考点】毒血症、菌血症、败血症与脓毒血症全分辨。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **毒血症**：菌不入血，仅**外毒素入血**致全身症状（白喉、破伤风）。\n• **菌血症**：菌**一过性入血**，不在血中繁殖（伤寒早期）。\n• **败血症**：菌侵入血流并**大量生长繁殖产毒**，高热皮疹中毒深。\n• **脓毒血症**：化脓菌败血症伴随**全身多发转移性化脓病灶**（金葡菌脓肿）。"
+          }
+        ]
+      },
+      "pointType": "四大感染类型",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 3,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【生态屏障】正常菌群对宿主具有哪四大有益生理作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "① **生物拮抗**：排斥外来致病菌定植。\n② **营养代谢**：肠道菌合成**维生素 K 及 B 族**。\n③ **免疫促进**：刺激黏膜免疫系统发育成熟。\n④ **抗衰抗肿瘤**：清除过氧化物与降解前致癌物。"
+          }
+        ]
+      },
+      "pointType": "生理作用",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 4,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床高发】什么是二重感染？其诱发机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **概念**：长期滥用广谱抗生素杀灭敏感正常菌群，使不敏感耐药菌（难辨梭菌、白念珠菌）乘机剧烈增殖导致的继发新感染。\n• **典型疾病**：**假膜性肠炎**（难辨梭菌引起）。"
+          }
+        ]
+      },
+      "pointType": "二重感染",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 5,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【致病要素】细菌毒力由哪两大核心要素构成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **侵袭力**：定植黏附（菌毛）、抗吞噬（荚膜/SPA）、侵袭性酶（血浆凝固酶/透明质酸酶）。\n• **毒素**：**外毒素**（蛋白质）与**内毒素**（脂多糖）。"
+          }
+        ]
+      },
+      "pointType": "毒力构成",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 6,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【侵袭酶类】血浆凝固酶与透明质酸酶致病作用有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **血浆凝固酶**（金葡菌）：使纤维蛋白沉积包裹菌体抗吞噬，使**感染病灶局限化**。\n• **透明质酸酶（扩散因子）**（链球菌）：分解细胞间质透明质酸，使**感染弥漫性扩散**（蜂窝织炎）。"
+          }
+        ]
+      },
+      "pointType": "侵袭性酶",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 7,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【大纲黄金大题】外毒素与内毒素全维度对比速查。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **外毒素**：大多 G+ 菌；分泌至胞外；**蛋白质**；**不耐热**；**毒性极强**（微克致死）；特异靶器官；**强抗原性可制类毒素**。\n• **内毒素**：几乎所有 G- 菌；细胞壁裂解释放；**脂多糖（LPS/脂质A）**；**极耐热**；毒性较弱；发热休克DIC；**抗原性弱不能制类毒素**。"
+          }
+        ]
+      },
+      "pointType": "核心大题",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 8,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【毒素结构】外毒素经典的 A-B 亚基模型是如何协同致病的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **B 亚基**：结合亚基，无毒，特异结合靶细胞膜受体，介导 A 亚基穿入。\n• **A 亚基**：毒性活性催化亚基，进入胞质水解破坏核心靶标（如白喉毒素抑制蛋白质合成）。"
+          }
+        ]
+      },
+      "pointType": "分子机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 9,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【免疫制剂】类毒素与抗毒素有何本质不同？各用于何种免疫？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **类毒素（Toxoid）**：外毒素经甲醛脱毒制成，丧失毒性但保留免疫原性，用于**主动免疫预防接种**（如破伤风类毒素）。\n• **抗毒素（Antitoxin）**：含特异中和抗体的免疫血清，用于**被动免疫紧急救治**（如破伤风抗毒素 TAT）。"
+          }
+        ]
+      },
+      "pointType": "生物制品",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 10,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【内毒素效应】革兰阴性菌内毒素（LPS）入血诱发哪三大病理反应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "① **发热反应**：促使单核细胞释放 IL-1、TNF-α 致热。\n② **感染性休克**：微血管广泛扩张、通透性暴增致低血压休克。\n③ **弥散性血管内凝血（DIC）**：激活凝血因子形成广泛微血栓伴大出血。"
+          }
+        ]
+      },
+      "pointType": "病理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 11,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【宿主防线】宿主抗感染固有免疫包含哪三大生理屏障体系？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "① **皮肤黏膜屏障**：机械阻挡、分泌物化学杀菌、正常菌群拮抗。\n② **血脑屏障**：保护脑脊髓中枢神经系统免受感染。\n③ **胎盘屏障**：阻止母体血液病原体侵入胎儿。"
+          }
+        ]
+      },
+      "pointType": "机体屏障",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 12,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【特异免疫】抗胞外寄生菌与抗胞内寄生菌在免疫形式上有何根本区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **抗胞外菌**：**以体液免疫为主**（IgG/IgM 中和毒素、调理吞噬、溶菌；sIgA 黏膜阻断）。\n• **抗胞内菌**：**以细胞免疫为主**（抗体进不去细胞，依赖 Th1 活化巨噬细胞、CTL 裂解靶细胞）。"
+          }
+        ]
+      },
+      "pointType": "免疫机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 13,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【免疫逃逸】葡萄球菌 A 蛋白（SPA）是如何逃避吞噬杀伤的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **机制**：SPA 非特异性结合人 **IgG 的 Fc 段**。\n• **后果**：遮蔽 Fc 受体结合位点，彻底**阻断 IgG 的生理调理吞噬作用**。"
+          }
+        ]
+      },
+      "pointType": "逃逸机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 14,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【外毒素分类】外毒素三大临床分类及其代表是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **神经毒素**：破伤风毒素（强直痉挛）；肉毒毒素（弛缓性麻痹）。\n• **细胞毒素**：白喉毒素（失活 EF-2 抑制蛋白质翻译）。\n• **肠毒素**：霍乱肠毒素（cAMP 暴增致剧烈水样米泔水腹泻）。"
+          }
+        ]
+      },
+      "pointType": "毒素分类",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 15,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【易感感染】机会致病菌“异位寄生”典型疾病举例。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **尿路感染**：肠道大肠埃希菌逆行侵入尿道引起膀胱炎与肾盂肾炎。\n• **急性腹膜炎**：阑尾穿孔后肠道菌群大量进入腹膜腔引发弥漫化脓性腹膜炎。"
+          }
+        ]
+      },
+      "pointType": "异位寄生",
+      "starRating": "★★★",
+      "importance": 3
+    }
+  ]
+}

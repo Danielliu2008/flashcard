@@ -1,0 +1,777 @@
+{
+  "quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "在Ⅰ型超敏反应发生过程中，主要介导该反应的免疫球蛋白类型是哪一种？",
+      "answerOptions": [
+        {
+          "text": "IgM",
+          "isCorrect": false,
+          "rationale": "IgM主要参与初次免疫应答及Ⅱ型、Ⅲ型超敏反应。"
+        },
+        {
+          "text": "IgE",
+          "isCorrect": true,
+          "rationale": "IgE是黏膜下固有层B细胞产生并主要介导Ⅰ型超敏反应速发相的特异性抗体。"
+        },
+        {
+          "text": "IgA",
+          "isCorrect": false,
+          "rationale": "IgA主要发挥黏膜局部防御作用，不介导Ⅰ型超敏反应。"
+        },
+        {
+          "text": "IgG",
+          "isCorrect": false,
+          "rationale": "IgG主要参与Ⅱ型和Ⅲ型超敏反应，而非Ⅰ型超敏反应。"
+        }
+      ],
+      "hint": "考虑在黏膜下固有层B细胞产生并能与肥大细胞结合的特定抗体类别。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "某患者在接触花粉后数分钟内迅速出现荨麻疹和呼吸困难，消退也较快，几乎未造成严重组织损伤。这最符合哪一型超敏反应的临床特征？",
+      "answerOptions": [
+        {
+          "text": "Ⅰ型超敏反应",
+          "isCorrect": true,
+          "rationale": "Ⅰ型超敏反应以速发速退、主要引起功能紊乱而很少发生严重组织损伤为特征。"
+        },
+        {
+          "text": "Ⅱ型超敏反应",
+          "isCorrect": false,
+          "rationale": "Ⅱ型超敏反应通常导致细胞溶解或组织损伤，且发生相对较慢。"
+        },
+        {
+          "text": "Ⅳ型超敏反应",
+          "isCorrect": false,
+          "rationale": "Ⅳ型超敏反应由致敏T细胞介导，发生较为缓慢（迟发型）。"
+        },
+        {
+          "text": "Ⅲ型超敏反应",
+          "isCorrect": false,
+          "rationale": "Ⅲ型超敏反应涉及免疫复合物沉积引发的血管炎症和组织损伤。"
+        }
+      ],
+      "hint": "注意观察发作的速度、消退快慢以及是否造成严重的组织器质性损伤。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "关于Ⅰ型超敏反应的生物学特征，下列哪些描述是正确的？",
+      "answerOptions": [
+        {
+          "text": "发生快，消退也快",
+          "isCorrect": true,
+          "rationale": "反应通常在接触过敏原数分钟内发生，且在停止接触后较快消退。"
+        },
+        {
+          "text": "由IgE介导，主要效应细胞为肥大细胞和嗜碱性粒细胞",
+          "isCorrect": true,
+          "rationale": "Ⅰ型超敏反应关键在于IgE致敏肥大细胞和嗜碱性粒细胞后脱颗粒释放活性介质。"
+        },
+        {
+          "text": "主要引起生理功能紊乱，极少造成严重的组织细胞损伤",
+          "isCorrect": true,
+          "rationale": "该类型反应多表现为平滑肌痉挛和血管通透性增加等生理功能紊乱，器质性损伤极轻。"
+        },
+        {
+          "text": "属于细胞免疫介导的迟发型超敏反应",
+          "isCorrect": false,
+          "rationale": "细胞免疫介导的迟发型超敏反应属于Ⅳ型超敏反应。"
+        }
+      ],
+      "hint": "区分速发型体液免疫反应与迟发型细胞免疫反应的区别。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在Ⅰ型超敏反应中，变应原进入机体后主要激活哪种辅助性T细胞，进而诱导B细胞合成IgE？",
+      "answerOptions": [
+        {
+          "text": "$CD8^+ CTL$细胞",
+          "isCorrect": false,
+          "rationale": "CTL主要发挥杀伤靶细胞作用，不负责诱导IgE类别转换。"
+        },
+        {
+          "text": "$CD4^+ Th1$细胞",
+          "isCorrect": false,
+          "rationale": "Th1细胞主要分泌IFN-γ，促进细胞免疫和细胞毒反应而非IgE产生。"
+        },
+        {
+          "text": "Treg抑制性T细胞",
+          "isCorrect": false,
+          "rationale": "Treg细胞主要发挥免疫负调节作用，抑制免疫应答而非诱导IgE产生。"
+        },
+        {
+          "text": "$CD4^+ Th2$细胞",
+          "isCorrect": true,
+          "rationale": "Th2细胞通过分泌IL-4等细胞因子辅助B细胞发生IgE抗体的类别转换。"
+        }
+      ],
+      "hint": "该T细胞亚群主要通过分泌细胞因子促进B细胞发生IgE类别转换。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Ⅱ型和Ⅲ型超敏反应均属于体液免疫应答，它们共同的主要介导抗体是哪些？",
+      "answerOptions": [
+        {
+          "text": "IgM与IgG",
+          "isCorrect": true,
+          "rationale": "Ⅱ型和Ⅲ型超敏反应均由体液免疫中的IgM和IgG抗体通过结合相应抗原而介导。"
+        },
+        {
+          "text": "IgE与IgA",
+          "isCorrect": false,
+          "rationale": "IgE是Ⅰ型超敏反应的核心介质，而IgA主要分布于黏膜表面。"
+        },
+        {
+          "text": "IgD与IgE",
+          "isCorrect": false,
+          "rationale": "IgD主要作为B细胞表面受体，IgE介导Ⅰ型超敏反应。"
+        },
+        {
+          "text": "IgA与IgM",
+          "isCorrect": false,
+          "rationale": "IgA不直接参与Ⅱ型和Ⅲ型超敏反应的发生过程。"
+        }
+      ],
+      "hint": "回想细胞毒型和免疫复合物型超敏反应中所涉及的主要抗体同种型。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "接触性皮炎和结核性损伤属于哪一型超敏反应？",
+      "answerOptions": [
+        {
+          "text": "Ⅱ型超敏反应",
+          "isCorrect": false,
+          "rationale": "Ⅱ型超敏反应包括输血反应、新生儿溶血症等细胞毒型反应。"
+        },
+        {
+          "text": "Ⅳ型超敏反应",
+          "isCorrect": true,
+          "rationale": "接触性皮炎和结核性损伤是典型由致敏T细胞引发的迟发型（Ⅳ型）超敏反应。"
+        },
+        {
+          "text": "Ⅰ型超敏反应",
+          "isCorrect": false,
+          "rationale": "Ⅰ型超敏反应主要包括过敏性鼻炎、哮喘和荨麻疹等速发型反应。"
+        },
+        {
+          "text": "Ⅲ型超敏反应",
+          "isCorrect": false,
+          "rationale": "Ⅲ型超敏反应包括血清病、类风湿关节炎等复合物型反应。"
+        }
+      ],
+      "hint": "这类反应不依赖抗体，主要由致敏T细胞介导。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列哪些疾病属于Ⅲ型超敏反应（抗原抗体复合物型）的典型代表？",
+      "answerOptions": [
+        {
+          "text": "肾小球肾炎",
+          "isCorrect": true,
+          "rationale": "免疫复合物沉积在肾小球基底膜是引发肾小球肾炎的主要Ⅲ型超敏反应机制。"
+        },
+        {
+          "text": "Arthus反应",
+          "isCorrect": true,
+          "rationale": "Arthus反应是局部免疫复合物沉积引起的典型Ⅲ型超敏反应。"
+        },
+        {
+          "text": "接触性皮炎",
+          "isCorrect": false,
+          "rationale": "接触性皮炎是由致敏T细胞介导的Ⅳ型超敏反应。"
+        },
+        {
+          "text": "血清病",
+          "isCorrect": true,
+          "rationale": "血清病是全身性循环免疫复合物沉积在血管壁导致的Ⅲ型超敏反应疾病。"
+        }
+      ],
+      "hint": "寻找因循环免疫复合物沉积在组织血管壁而引发炎症损伤的病症。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Ⅳ型超敏反应又称为迟发型超敏反应，其主要参与的细胞免疫效应细胞是：",
+      "answerOptions": [
+        {
+          "text": "Th1细胞与CTL",
+          "isCorrect": true,
+          "rationale": "Ⅳ型超敏反应属于细胞免疫，Th1细胞释放淋巴因子，CTL直接杀伤靶细胞。"
+        },
+        {
+          "text": "浆细胞与中性粒细胞",
+          "isCorrect": false,
+          "rationale": "浆细胞产生抗体，中性粒细胞主要参与急性炎症和Ⅲ型超敏反应。"
+        },
+        {
+          "text": "肥大细胞与嗜碱性粒细胞",
+          "isCorrect": false,
+          "rationale": "肥大细胞和嗜碱性粒细胞是Ⅰ型速发型超敏反应的效应细胞。"
+        },
+        {
+          "text": "嗜酸性粒细胞与红细胞",
+          "isCorrect": false,
+          "rationale": "嗜酸性粒细胞多参与过敏晚期反应，红细胞不直接作为超敏反应效应细胞。"
+        }
+      ],
+      "hint": "关注介导细胞免疫而非体液免疫的特定T淋巴细胞亚群。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于“自身免疫”与“自身免疫病”的概念区别，下列说法正确的是：",
+      "answerOptions": [
+        {
+          "text": "自身免疫特指Ⅰ型超敏反应在自身组织中的发生",
+          "isCorrect": false,
+          "rationale": "自身免疫病可涉及多种超敏反应类型（如Ⅱ、Ⅲ、Ⅳ型），并非仅限Ⅰ型。"
+        },
+        {
+          "text": "自身免疫是机体对自身抗原产生应答的现象，而自身免疫病则是该应答导致组织损伤或功能障碍并出现临床症状",
+          "isCorrect": true,
+          "rationale": "自身免疫是生理性或病理性的免疫应答过程，而自身免疫病则是出现临床损伤和症状的病理状态。"
+        },
+        {
+          "text": "自身免疫病仅由外源性毒素引起，与自身致敏淋巴细胞无关",
+          "isCorrect": false,
+          "rationale": "自身免疫病是由针对自身抗原的自身抗体或致敏淋巴细胞攻击机体组织所致。"
+        },
+        {
+          "text": "自身免疫一定会直接导致严重的组织器官损伤和临床疾病",
+          "isCorrect": false,
+          "rationale": "低水平的自身免疫应答在正常机体中普遍存在，不一定会演变成自身免疫病。"
+        }
+      ],
+      "hint": "注意区分正常的免疫应答状态与出现器质性损害及症状的病理状态。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "某种病原体抗原与人体自身心肌细胞表面抗原具有相似结构，感染后诱发的抗体错误攻击心肌细胞引发风湿热。这种引发自身免疫病的机制被称为：",
+      "answerOptions": [
+        {
+          "text": "表位扩展机制",
+          "isCorrect": false,
+          "rationale": "表位扩展是指免疫应答从初始主导表位扩散至同种或其它抗原的其他表位。"
+        },
+        {
+          "text": "分子模拟机制",
+          "isCorrect": true,
+          "rationale": "病原体与宿主组织表位的相似性导致针对病原体的抗体交叉识别并攻击自身细胞。"
+        },
+        {
+          "text": "免疫忽视打破",
+          "isCorrect": false,
+          "rationale": "免疫忽视打破是指原本不引起免疫应答的低亲和力自身反应性细胞被激活。"
+        },
+        {
+          "text": "克隆清除缺陷",
+          "isCorrect": false,
+          "rationale": "克隆清除缺陷强调中枢免疫器官未能剔除自身反应性淋巴细胞克隆。"
+        }
+      ],
+      "hint": "思考病原体抗原表位与自身抗原结构交叉重叠现象的专业术语。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "正常情况下，自身反应性B细胞克隆会在发育过程中被清除（阴性选择）。若该机制失效，异常存活的克隆攻击自身组织可能导致类风湿关节炎。这种发病机制属于：",
+      "answerOptions": [
+        {
+          "text": "分子模拟机制",
+          "isCorrect": false,
+          "rationale": "该机制依赖外源病原体与自身抗原的结构相似性，而非自身克隆清除受阻。"
+        },
+        {
+          "text": "免疫调节细胞过载",
+          "isCorrect": false,
+          "rationale": "该机制涉及调节细胞功能衰退，不直接特指中枢发育中的阴性选择缺陷。"
+        },
+        {
+          "text": "隐蔽抗原释放",
+          "isCorrect": false,
+          "rationale": "该机制指原本解剖隔离的抗原释放入血，与克隆发育过程中的选择无关。"
+        },
+        {
+          "text": "克隆清除缺陷",
+          "isCorrect": true,
+          "rationale": "阴性选择失效导致未能剔除自身反应性B细胞克隆，使这些克隆存活并攻击关节等自身组织。"
+        }
+      ],
+      "hint": "考虑免疫耐受建立过程中针对自身应答克隆的清除机制发生故障。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "环孢素A（CsA）、FK506和雷帕霉素等免疫抑制剂在移植排斥反应治疗中被广泛应用，它们主要的分子抑制作用靶点是：",
+      "answerOptions": [
+        {
+          "text": "抑制IgE抗体的结合",
+          "isCorrect": false,
+          "rationale": "阻止IgE结合主要用于Ⅰ型超敏反应治疗，而非移植排斥的免疫抑制。"
+        },
+        {
+          "text": "抑制组胺的释放",
+          "isCorrect": false,
+          "rationale": "抗组胺药物主要用于缓解过敏症状，不能抑制T细胞介导的移植排斥。"
+        },
+        {
+          "text": "抑制IL-2的产生或信号传导",
+          "isCorrect": true,
+          "rationale": "CsA与FK506等通过阻断T细胞内信号转导通路抑制IL-2合成，从而阻断T细胞增殖。"
+        },
+        {
+          "text": "阻断补体C3的激活",
+          "isCorrect": false,
+          "rationale": "抑制补体激活不属于这类免疫抑制性抗生素的核心作用靶点。"
+        }
+      ],
+      "hint": "关注驱动T淋巴细胞增殖和激活的核心细胞因子。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在免疫增强疗法中，化学药物左旋咪唑（Levamisole）的主要免疫调节作用是：",
+      "answerOptions": [
+        {
+          "text": "抑制Ts（抑制性T细胞）活性",
+          "isCorrect": false,
+          "rationale": "西咪替丁主要通过抑制抑制性T细胞（Ts）来增强免疫应答。"
+        },
+        {
+          "text": "提高T细胞和NK细胞活性",
+          "isCorrect": true,
+          "rationale": "左旋咪唑作为化学免疫增强剂，能够增强T淋巴细胞和NK细胞的免疫功能。"
+        },
+        {
+          "text": "阻断B细胞产生IgG",
+          "isCorrect": false,
+          "rationale": "左旋咪唑并不通过阻断IgG产生来发挥免疫调节作用。"
+        },
+        {
+          "text": "巨噬细胞吞噬功能抑制",
+          "isCorrect": false,
+          "rationale": "左旋咪唑的作用是增强细胞免疫，而非抑制巨噬细胞功能。"
+        }
+      ],
+      "hint": "区分左旋咪唑与西咪替丁在免疫细胞调节方向上的侧重点。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "化学药物西咪替丁（Cimetidine）作为免疫增强剂时，其主要的免疫调节机制是：",
+      "answerOptions": [
+        {
+          "text": "降低Ts细胞（抑制性T细胞）活性",
+          "isCorrect": true,
+          "rationale": "西咪替丁通过拮抗H2受体抑制Ts细胞的活性，从而解除其对免疫应答的负调节。"
+        },
+        {
+          "text": "直接促进B细胞大量合成IgE",
+          "isCorrect": false,
+          "rationale": "西咪替丁不直接促进IgE的合成，且IgE过多会导致过敏。"
+        },
+        {
+          "text": "抑制NK细胞的细胞毒作用",
+          "isCorrect": false,
+          "rationale": "西咪替丁的作用是增强整体免疫功能，而非抑制NK细胞。"
+        },
+        {
+          "text": "结合肥大细胞阻断介质释放",
+          "isCorrect": false,
+          "rationale": "这属于色甘酸钠等抗过敏药物的作用机制。"
+        }
+      ],
+      "hint": "考虑该药物如何通过解除免疫抑制细胞的作用来间接增强免疫力。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列哪些属于常用于增强巨噬细胞（$M\\varphi$）功能的微生物制剂？",
+      "answerOptions": [
+        {
+          "text": "环孢素A",
+          "isCorrect": false,
+          "rationale": "环孢素A属于免疫抑制剂，会抑制免疫细胞功能而非增强巨噬细胞。"
+        },
+        {
+          "text": "西咪替丁",
+          "isCorrect": false,
+          "rationale": "西咪替丁是化学合成药物，主要作用于Ts细胞，不属于微生物制剂。"
+        },
+        {
+          "text": "短小棒状杆菌",
+          "isCorrect": true,
+          "rationale": "短小棒状杆菌是常用的微生物免疫增强剂，能有效刺激单核巨噬细胞系统。"
+        },
+        {
+          "text": "BCG（卡介苗）",
+          "isCorrect": true,
+          "rationale": "卡介苗作为微生物制剂能够显著激活巨噬细胞的吞噬和杀伤活性。"
+        }
+      ],
+      "hint": "选择来源于菌体成分且能激活单核巨噬细胞系统的制剂。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "临床上通过给患者输入造血干细胞以重建其免疫功能的疗法被称为：",
+      "answerOptions": [
+        {
+          "text": "脱敏治疗",
+          "isCorrect": false,
+          "rationale": "脱敏治疗主要用于减轻Ⅰ型超敏反应的敏感性。"
+        },
+        {
+          "text": "免疫替代",
+          "isCorrect": false,
+          "rationale": "免疫替代是指直接补充抗体或细胞因子等缺失的免疫分子而非移植干细胞。"
+        },
+        {
+          "text": "免疫重建",
+          "isCorrect": true,
+          "rationale": "输入造血干细胞能够重新建立机体的造血和免疫系统，称为免疫重建。"
+        },
+        {
+          "text": "免疫抑制",
+          "isCorrect": false,
+          "rationale": "免疫抑制是指使用药物降低免疫应答强度，与建立免疫系统相反。"
+        }
+      ],
+      "hint": "区分植入干细胞重新建立免疫系统与直接输入抗体等免疫活性物质的区别。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "如果临床上需要给免疫缺陷患者直接输入机体缺乏的抗体或免疫活性物质，这种治疗策略属于：",
+      "answerOptions": [
+        {
+          "text": "免疫重建疗法",
+          "isCorrect": false,
+          "rationale": "免疫重建依赖于造血干细胞移植以重新发育免疫细胞。"
+        },
+        {
+          "text": "免疫阻断疗法",
+          "isCorrect": false,
+          "rationale": "免疫阻断通常指阻止受体结合或中和有害分子。"
+        },
+        {
+          "text": "自身免疫耐受诱导",
+          "isCorrect": false,
+          "rationale": "诱导耐受旨在阻止自身免疫病中的损伤应答，而非补充缺失抗体。"
+        },
+        {
+          "text": "免疫替代疗法",
+          "isCorrect": true,
+          "rationale": "直接向机体输入缺乏的抗体或免疫活性物质属于免疫替代疗法。"
+        }
+      ],
+      "hint": "思考“补充/替换缺失物质”而非“重新构建细胞系统”的疗法名称。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "在免疫分子检测中，下列哪些分子属于检测的范围？",
+      "answerOptions": [
+        {
+          "text": "CD分子与黏附分子",
+          "isCorrect": true,
+          "rationale": "细胞表面表达的CD分子和黏附分子属于免疫分子检测范围。"
+        },
+        {
+          "text": "HLA分型",
+          "isCorrect": true,
+          "rationale": "HLA分型涉及主要组织相容性复合物分子的表达检测，属于免疫分子检测范畴。"
+        },
+        {
+          "text": "免疫球蛋白与补体",
+          "isCorrect": true,
+          "rationale": "体液中的免疫球蛋白和补体系统成分是免疫分子检测的关键指标。"
+        },
+        {
+          "text": "细胞因子",
+          "isCorrect": true,
+          "rationale": "免疫细胞分泌的细胞因子（如白细胞介素、干扰素）属于免疫分子检测范围。"
+        }
+      ],
+      "hint": "免疫分子检测涵盖体液中的抗体、补体以及细胞表面的受体与分型分子。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在免疫学检测中，利用已知抗体来检测未知抗原，常用于检测下列哪类物质？",
+      "answerOptions": [
+        {
+          "text": "未知自身抗体",
+          "isCorrect": false,
+          "rationale": "检测未知自身抗体需要使用已知抗原作为包被或反应试剂。"
+        },
+        {
+          "text": "HIV特异性抗体",
+          "isCorrect": false,
+          "rationale": "检测抗HIV抗体需要使用HIV特异性已知抗原。"
+        },
+        {
+          "text": "补体结合量",
+          "isCorrect": false,
+          "rationale": "补体结合试验测定的是补体活性，而非直接用已知抗体测定未知抗体。"
+        },
+        {
+          "text": "半抗原或大分子抗原",
+          "isCorrect": true,
+          "rationale": "利用已知抗体作为检测工具，可通过特异性结合来测定样品中的待测抗原或半抗原。"
+        }
+      ],
+      "hint": "根据抗原抗体特异性结合原理，确定使用已知抗体作为试剂时的待测靶标类型。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "抗原抗体反应中，“亲和力（Affinity）”的准确定义是：",
+      "answerOptions": [
+        {
+          "text": "补体参与下抗原抗体形成的沉淀量",
+          "isCorrect": false,
+          "rationale": "沉淀量受多种物理化学及比例因素影响，不直接等同于亲和力。"
+        },
+        {
+          "text": "一个抗体分子与整个抗原大分子间的总体结合强度",
+          "isCorrect": false,
+          "rationale": "抗体与整个多表位大分子抗原的总体结合强度称为亲合力（Avidity）。"
+        },
+        {
+          "text": "交叉抗原之间相互竞争结合抗体的能力",
+          "isCorrect": false,
+          "rationale": "交叉结合反映的是抗原表位的相似性，而非亲和力的定义。"
+        },
+        {
+          "text": "单一抗原表位与相应抗体单一抗原结合位点间的结合能力",
+          "isCorrect": true,
+          "rationale": "亲和力特指单表位与单结合位点之间结合的结合强度。"
+        }
+      ],
+      "hint": "区分单个抗原表位结合力与多表位抗体分子总体结合强度的概念。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "抗原抗体反应中的“亲合力（Avidity）”主要取决于下列哪一因素？",
+      "answerOptions": [
+        {
+          "text": "一个抗体分子与整个抗原大分子的结合强度，且与抗原表位数相关",
+          "isCorrect": true,
+          "rationale": "亲合力（Avidity）是多价抗体与多表位抗原结合的累积强度。"
+        },
+        {
+          "text": "抗体在血清中的半衰期",
+          "isCorrect": false,
+          "rationale": "血清半衰期反映抗体在体内的代谢周期，与结合强度无直接关系。"
+        },
+        {
+          "text": "仅由IgE抗体的结合浓度决定",
+          "isCorrect": false,
+          "rationale": "亲合力是各类多价抗体与抗原结合的通用物理化学特性。"
+        },
+        {
+          "text": "单一表位与单结合位点之间的结合能",
+          "isCorrect": false,
+          "rationale": "单一表位与单结合位点的结合能定义为亲和力（Affinity）。"
+        }
+      ],
+      "hint": "关注多价结合和整个大分子抗原之间的累积结合效果。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "抗原抗体反应发生交叉反应（Cross-reaction）的主要结构基础包括：",
+      "answerOptions": [
+        {
+          "text": "补体C1q结合位点",
+          "isCorrect": false,
+          "rationale": "C1q结合位点位于IgG/IgM的Fc段，与抗原结合部位的交叉反应性无关。"
+        },
+        {
+          "text": "绝对专一的独特型表位",
+          "isCorrect": false,
+          "rationale": "独特型表位具有高度专一性，通常不会导致与其他抗原的交叉反应。"
+        },
+        {
+          "text": "相似表位（Similar epitope）",
+          "isCorrect": true,
+          "rationale": "不同抗原具有结构极其相似的表位时，抗体可发生交叉结合。"
+        },
+        {
+          "text": "共有表位（Shared epitope）",
+          "isCorrect": true,
+          "rationale": "不同抗原具有相同的表位时，相同的抗体可与两者结合产生交叉反应。"
+        }
+      ],
+      "hint": "考虑不同抗原分子间因存在相同或相近的分子结构而导致的错配结合。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列哪些疾病与Ⅰ型超敏反应或其迟发相密切相关？",
+      "answerOptions": [
+        {
+          "text": "接触性皮炎",
+          "isCorrect": false,
+          "rationale": "接触性皮炎属于Ⅳ型迟发型超敏反应，与Ⅰ型超敏反应无关。"
+        },
+        {
+          "text": "慢性哮喘",
+          "isCorrect": true,
+          "rationale": "慢性哮喘与Ⅰ型超敏反应及其迟发相的持续气道炎症密切相关。"
+        },
+        {
+          "text": "慢性变应性鼻炎",
+          "isCorrect": true,
+          "rationale": "慢性变应性鼻炎是由Ⅰ型超敏反应及其后续炎性介质释放引起的局部疾病。"
+        },
+        {
+          "text": "湿疹与荨麻疹",
+          "isCorrect": true,
+          "rationale": "湿疹和荨麻疹是典型的Ⅰ型超敏反应皮肤表现。"
+        }
+      ],
+      "hint": "回想常见过敏性皮肤表现及呼吸道变应性疾病的分类。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列哪些属于多糖类及中草药类免疫增强剂？",
+      "answerOptions": [
+        {
+          "text": "灵芝",
+          "isCorrect": true,
+          "rationale": "灵芝多糖是经典的中草药来源免疫增强剂，可提升多种免疫细胞活性。"
+        },
+        {
+          "text": "短小棒状杆菌",
+          "isCorrect": false,
+          "rationale": "短小棒状杆菌属于细菌类微生物制剂，而非中草药成分。"
+        },
+        {
+          "text": "人参（皂甙）",
+          "isCorrect": true,
+          "rationale": "人参皂甙作为天然植物有效成分，具有明确的免疫调节与增强作用。"
+        },
+        {
+          "text": "左旋咪唑",
+          "isCorrect": false,
+          "rationale": "左旋咪唑是人工合成的化学药物，不属于多糖或中草药提取物。"
+        }
+      ],
+      "hint": "区分传统草药多糖提取物与微生物制剂或人工合成化学药物。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "在Ⅰ型超敏反应中，当变应原再次进入机体时，主要结合并激活附着在哪些细胞表面的IgE抗体？",
+      "answerOptions": [
+        {
+          "text": "嗜碱性粒细胞",
+          "isCorrect": true,
+          "rationale": "嗜碱性粒细胞结合IgE后，在抗原再次刺激时释放生物活性介质引发Ⅰ型超敏反应。"
+        },
+        {
+          "text": "细胞毒性T细胞",
+          "isCorrect": false,
+          "rationale": "细胞毒性T细胞主要参与细胞免疫（Ⅳ型超敏反应），不表达IgE受体介质释放。"
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": "红细胞膜表面不表达IgE Fc受体，不直接参与Ⅰ型超敏反应介质释放。"
+        },
+        {
+          "text": "肥大细胞",
+          "isCorrect": true,
+          "rationale": "肥大细胞表面表达高亲和力IgE Fc受体，是结合IgE并发生脱颗粒的主要细胞。"
+        }
+      ],
+      "hint": "寻找膜表面具有高亲和力IgE Fc受体（$Fc\\varepsilon RI$）的主要效应细胞。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "链球菌感染后，人体产生的抗体与心肌细胞发生交叉反应进而引发风湿热，这一现象说明了抗原抗体反应具有什么特性？",
+      "answerOptions": [
+        {
+          "text": "交叉反应性（基于相似或共有表位）",
+          "isCorrect": true,
+          "rationale": "病原体与心肌细胞具有相似表位，引发抗体交叉识别，表现出抗原抗体反应的交叉反应性。"
+        },
+        {
+          "text": "非特异性结合",
+          "isCorrect": false,
+          "rationale": "交叉反应仍基于特异性抗原表位的识别，并非无特异性的随机结合。"
+        },
+        {
+          "text": "依赖补体激活的专一性",
+          "isCorrect": false,
+          "rationale": "风湿热的产生源于抗原表位重叠导致的交叉结合，而非补体激活的专一性。"
+        },
+        {
+          "text": "绝对不可逆性",
+          "isCorrect": false,
+          "rationale": "抗原抗体结合是可逆的非共价结合，并非绝对不可逆。"
+        }
+      ],
+      "hint": "考虑不同来源的抗原因表位相似而发生的免疫交叉识别。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "体液免疫介导的超敏反应类型包括下列哪些？",
+      "answerOptions": [
+        {
+          "text": "Ⅲ型超敏反应",
+          "isCorrect": true,
+          "rationale": "Ⅲ型超敏反应由IgM或IgG抗体与抗原形成复合物介导，属于体液免疫应答。"
+        },
+        {
+          "text": "Ⅰ型超敏反应",
+          "isCorrect": true,
+          "rationale": "Ⅰ型超敏反应由IgE抗体介导，属于体液免疫应答。"
+        },
+        {
+          "text": "Ⅱ型超敏反应",
+          "isCorrect": true,
+          "rationale": "Ⅱ型超敏反应由IgM或IgG抗体介导，属于体液免疫应答。"
+        },
+        {
+          "text": "Ⅳ型超敏反应",
+          "isCorrect": false,
+          "rationale": "Ⅳ型超敏反应由致敏T细胞（如Th1、CTL）介导，属于细胞免疫应答。"
+        }
+      ],
+      "hint": "区分由抗体（IgE, IgG, IgM）介导与由T细胞介导的超敏反应类型。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "fill_in_blank",
+      "question": "人工主动免疫是给机体输入（1）_______物质，诱导机体自主产生免疫力；人工被动免疫是给机体输入（2）_______等制剂，使机体立即获得抗感染能力。",
+      "blankAnswers": [
+        "疫苗",
+        "抗体"
+      ],
+      "rationale": "标准答案及考点解析：人工主动免疫接种疫苗/类毒素，起效慢但免疫力持久；人工被动免疫注射抗毒素/丙种球蛋白抗体，起效迅速但维持时间短暂（2-3周）。",
+      "hint": "核心考点：人工主动免疫与被动免疫的异同。"
+    }
+  ],
+  "topics": {
+    "covered": [
+      "Ⅰ型超敏反应机制及主要效应成分",
+      "Ⅱ、Ⅲ、Ⅳ型超敏反应发生过程与相关疾病",
+      "自身免疫病的发生机制",
+      "免疫抑制剂与免疫增强剂的应用",
+      "免疫重建与免疫替代疗法",
+      "免疫学检测技术与抗原抗体反应特性"
+    ],
+    "followUp": [
+      "IgE介导的肥大细胞脱颗粒分子信号通路",
+      "类风湿关节炎与系统性红斑狼疮的免疫病理机制",
+      "单克隆抗体在免疫治疗中的诊断与应用",
+      "流式细胞术在免疫细胞检测中的应用"
+    ]
+  }
+}

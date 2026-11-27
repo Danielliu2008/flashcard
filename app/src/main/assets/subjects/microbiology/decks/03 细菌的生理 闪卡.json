@@ -1,0 +1,354 @@
+{
+  "id": "micro_03",
+  "title": "03 细菌的生理 闪卡",
+  "description": "医学微生物学·细菌物理性状、营养与生长繁殖条件、生长曲线四期、代谢产物（热原质/毒素）、人工培养与消毒灭菌法核心考点",
+  "topics": {
+    "covered": [
+      "细菌表面积、带电性（生理pH带负电）与渗透压",
+      "细菌营养物质、摄取机制与气体生长类型",
+      "细菌二分裂繁殖与生长曲线四大分期特征",
+      "对数期（形态典型/药敏最高）与稳定期（产毒素/抗生素/芽胞）",
+      "细菌分解产物（IMViC试验）与合成产物（热原质/毒素/色素）",
+      "热原质耐热性机制与无热原纯化方法",
+      "固体（菌落）、液体与半固体培养基动力学观察",
+      "灭菌、消毒、无菌、无菌操作与防腐概念辨析",
+      "高压蒸汽灭菌（121℃ 15-20min）、紫外线（TT二聚体）与滤过除菌"
+    ],
+    "followUp": [
+      "细菌耐药质粒在菌群间的接合传递",
+      "内毒素与外毒素在宿主体内引起的免疫应答"
+    ]
+  },
+  "flashcards": [
+    {
+      "c": 1,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【物理性状】在生理酸碱度（pH 7.2~7.6）环境下，细菌表面带何种电荷？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **带电状态**：细菌等电点在 pH 2~5，在生理 pH（7.2~7.6）环境中**解离带负电荷**。\n• **染色意义**：易与带正电荷的**碱性染料（如结晶紫、美蓝）**紧密结合上色。"
+          }
+        ]
+      },
+      "pointType": "物理性状",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 2,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【生长环境】根据对分子氧的需求与耐受能力，细菌分为哪四种气体类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **专性需氧**：必须有氧（结核杆菌）。\n• **微需氧**：低氧 5%~6%（幽门螺杆菌）。\n• **兼性厌氧**：有氧无氧均可（大多数致病菌，如大肠杆菌、金葡菌）。\n• **专性厌氧**：只能无氧，缺乏 SOD 与过氧化氢酶（破伤风梭菌）。"
+          }
+        ]
+      },
+      "pointType": "气体类型",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 3,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【生长曲线】液体培养基中细菌生长曲线分为哪四个主要时期？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "① **迟缓期（适应期）**：体积增大、代谢旺盛，菌数不增。\n② **对数期**：指数繁殖，**形态典型，药敏最高**。\n③ **稳定期**：增殖与死亡平衡，**产外毒素、抗生素、芽胞、热原质**。\n④ **衰亡期**：死亡超过活菌，形态多形自溶。"
+          }
+        ]
+      },
+      "pointType": "核心曲线",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 4,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【高频考点】细菌形态学检查和抗生素药敏试验应选用哪一时期的细菌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **选用时期**：**对数期（指数生长期）**。\n• **原因**：细菌生理活性最旺盛、形态染色最规整标准、对外界抗感染药物**敏感性最高**，结果最准确。"
+          }
+        ]
+      },
+      "pointType": "实验依据",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 5,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【高频考点】细菌产生外毒素、抗生素和形成芽胞主要在哪个时期？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **集中时期**：**稳定期**。\n• **原因**：活菌总数达峰值，次级代谢活跃，大量合成外毒素、抗生素、细菌素、热原质，产芽胞菌形成耐热芽胞。"
+          }
+        ]
+      },
+      "pointType": "高频考点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 6,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【鉴别试验】什么是 IMViC 试验？大肠埃希菌的反应特征是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **包含试验**：吲哚(I)、甲基红(M)、VP(Vi)、枸橼酸盐利用(C)。\n• **典型特征**：\n  • **大肠埃希菌**：**“+ + - -”**\n  • **产气肠杆菌**：**“- - + +”**"
+          }
+        ]
+      },
+      "pointType": "生化试验",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 7,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【药剂安全】什么是热原质（Pyrogen）？其耐热特性与去除方法是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **本质**：G- 菌细胞壁的**脂多糖（LPS/内毒素）**。\n• **耐热特性**：**极耐高热**，高压蒸汽灭菌（121℃）不能破坏；需 **180℃ 干烤 3~4h** 才能破坏。\n• **制药防范**：注射用水必须用**蒸馏法**制备无热原纯水。"
+          }
+        ]
+      },
+      "pointType": "重点概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 8,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【人工培养】细菌在液体、固体和半固体培养基中有何典型生长现象？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **液体**：均匀浑浊、沉淀（链球菌）、菌膜（结核杆菌）。\n• **固体**：单个细菌分裂形成的肉眼可见子细胞集团称为**菌落（Colony）**。\n• **半固体（0.3%~0.5%琼脂）**：**检查动力**，有动力呈云雾状扩散，无动力仅限穿刺线。"
+          }
+        ]
+      },
+      "pointType": "生长现象",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 9,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【大纲辨析】准确区分“灭菌”、“消毒”、“无菌”与“防腐”。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **灭菌**：杀灭或清除物体上**一切活微生物（包括芽胞）**。\n• **消毒**：仅杀灭物体上的**病原微生物**（不一定杀灭芽胞）。\n• **无菌**：完全不含任何活微生物。\n• **防腐**：**抑制微生物生长繁殖**（不一定杀死）。"
+          }
+        ]
+      },
+      "pointType": "五大术语",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 10,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【灭菌王牌】高压蒸汽灭菌法的标准参数是什么？地位如何？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **标准参数**：压力 103.4 kPa，温度 **121.3℃**，维持 **15~20 min**。\n• **核心地位**：湿热灭菌中杀菌最强、最彻底可靠的黄金方法，可彻底杀灭包括**芽胞**在内的一切微生物。"
+          }
+        ]
+      },
+      "pointType": "核心灭菌",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 11,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【物理消毒】紫外线杀菌的最适波长、机制与最大局限是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **最适波长**：**265~266 nm**。\n• **杀菌机制**：诱导 DNA 相邻碱基形成**胸腺嘧啶二聚体（TT二聚体）**干扰复制。\n• **最大局限**：**穿透力极差**（薄纸/玻璃即能阻挡），仅用于空气与物体表面消毒。"
+          }
+        ]
+      },
+      "pointType": "物理消毒",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 12,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【物理除菌】滤过除菌法的常用孔径是多少？能除病毒吗？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **常用孔径**：**0.22 μm**，用于热敏性液体（血清、抗生素、毒素）除菌。\n• **能除病毒吗**：**不能！** 病毒纳米级超微结构，能自由穿过滤膜；支原体亦可能穿过。"
+          }
+        ]
+      },
+      "pointType": "滤过除菌",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 13,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【化学消毒】乙醇（酒精）杀菌的最适浓度是多少？为什么不是纯酒精？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **最适浓度**：**70%~75%**。\n• **原理**：75% 酒精能渗入菌体深层使蛋白均匀变性；纯酒精使菌体表层蛋白瞬间硬化凝固成壳，反而阻挡药物渗透，深层细菌仍存活。"
+          }
+        ]
+      },
+      "pointType": "消毒机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 14,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【培养基类型】什么是选择培养基与鉴别培养基？请各举一例。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **选择培养基**：加入抑制剂抑制非目的菌，仅允许目标致病菌生长（如 **SS 琼脂**分离肠道沙门/志贺菌）。\n• **鉴别培养基**：加入特定底物和指示剂利用显色鉴别（如 **伊红美蓝 EMB 培养基**鉴别大肠杆菌深紫金属光泽菌落）。"
+          }
+        ]
+      },
+      "pointType": "培养基分类",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 15,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【色素鉴别】水溶性色素与脂溶性色素在表现上有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **水溶性色素**：溶于水，扩散染绿培养基或创面脓液（如**铜绿假单胞菌绿脓素**）。\n• **脂溶性色素**：不溶于水，仅沉积局限于菌落本身（如**金葡菌金黄色菌落**，培养基不变色）。"
+          }
+        ]
+      },
+      "pointType": "代谢产物",
+      "starRating": "★★☆",
+      "importance": 2
+    }
+  ]
+}

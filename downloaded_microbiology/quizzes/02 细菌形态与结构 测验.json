@@ -1,0 +1,741 @@
+{
+  "quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "根据细菌在不同平面分裂后的排列方式，下列球菌种类与分裂排列特点匹配正确的是？",
+      "answerOptions": [
+        {
+          "text": "葡萄球菌——多平面分裂，分裂后无规则排列呈葡萄状",
+          "isCorrect": true,
+          "rationale": "葡萄球菌沿多个不规则平面进行分裂，分裂后的菌体黏附在一起形成类似葡萄串的无规则簇状排列。"
+        },
+        {
+          "text": "链球菌——在两相互垂直的平面分裂，排列呈正方形",
+          "isCorrect": false,
+          "rationale": "链球菌是在同一平面上连续分裂，分裂后菌体连接呈链状；在两个相互垂直平面分裂并呈正方形排列的是四联球菌。"
+        },
+        {
+          "text": "脑膜炎奈瑟菌——在三个相互垂直的平面分裂，呈立方体排列",
+          "isCorrect": false,
+          "rationale": "脑膜炎奈瑟菌属于双球菌，是在同一平面分裂后成对排列；在三个相互垂直平面分裂呈立方体排列的是八叠球菌。"
+        },
+        {
+          "text": "四联球菌——同平面分裂，分裂后成对排列",
+          "isCorrect": false,
+          "rationale": "在同平面分裂且成对排列的是双球菌，而四联球菌是在两个相互垂直的平面上分裂。"
+        }
+      ],
+      "hint": "注意区分同平面、两个垂直平面、三个垂直平面以及多平面分裂的不同结果。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "溶菌酶（Lysozyme）具有杀菌作用，其作用的分子靶点位于细菌肽聚糖聚糖骨架的哪一特定化学键？",
+      "answerOptions": [
+        {
+          "text": "$\\beta-1,4$糖苷键",
+          "isCorrect": true,
+          "rationale": "溶菌酶能够特异性地切断N-乙酰胞壁酸（NAM）与N-乙酰葡糖胺（NAG）之间交替连接的$\\beta-1,4$糖苷键，导致聚糖骨架断裂。"
+        },
+        {
+          "text": "五肽交联桥中的肽键",
+          "isCorrect": false,
+          "rationale": "溶菌酶作用于聚糖骨架的糖苷键而非氨基酸之间的肽键，五肽交联桥主要存在于革兰阳性菌中。"
+        },
+        {
+          "text": "四肽侧链与胞壁酸连接的酰胺键",
+          "isCorrect": false,
+          "rationale": "四肽侧链通过氨基端与胞壁酸3位侧链羧基形成的肽键不受溶菌酶水解作用的影响。"
+        },
+        {
+          "text": "磷壁酸与肽聚糖之间的共价键",
+          "isCorrect": false,
+          "rationale": "磷壁酸是革兰阳性菌细胞壁的特殊成分，溶菌酶攻击的是所有细菌肽聚糖共有的聚糖骨架糖苷键。"
+        }
+      ],
+      "hint": "该化学键连接着N-乙酰胞壁酸（NAM）和N-乙酰葡糖胺（NAG）两个单糖分子。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "对比革兰阳性菌与革兰阴性菌的肽聚糖结构，革兰阴性菌独有的结构特征是？",
+      "answerOptions": [
+        {
+          "text": "四肽侧链第三位多为二氨基庚二酸（DAP），且侧链间直接交联",
+          "isCorrect": true,
+          "rationale": "革兰阴性菌（如大肠埃希菌）的四肽侧链第三位通常为DAP，且两个相邻四肽侧链间直接形成肽键相连，不含五肽交联桥。"
+        },
+        {
+          "text": "含有甘氨酸组成的五肽交联桥",
+          "isCorrect": false,
+          "rationale": "五肽交联桥（如甘氨酸五肽）是革兰阳性菌（如金黄色葡萄球菌）肽聚糖三维网状结构所特有的组成部分。"
+        },
+        {
+          "text": "肽聚糖层数丰富，厚达15～50层",
+          "isCorrect": false,
+          "rationale": "肽聚糖层数极厚（15～50层）是革兰阳性菌细胞壁的特征，革兰阴性菌仅有1～2层。"
+        },
+        {
+          "text": "聚糖骨架由NAM和NAG通过$\\alpha-1,4$糖苷键交替连接",
+          "isCorrect": false,
+          "rationale": "两类细菌的聚糖骨架均由NAM和NAG通过$\\beta-1,4$糖苷键（而非$\\alpha-1,4$键）交替排列连接而成。"
+        }
+      ],
+      "hint": "关注革兰阴性菌侧链中的特殊氨基酸种类以及侧链之间的连接方式。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列细胞壁结构或成分中，属于革兰阴性细菌特有的有？",
+      "answerOptions": [
+        {
+          "text": "脂多糖（LPS）",
+          "isCorrect": true,
+          "rationale": "脂多糖又称内毒素，位于革兰阴性菌外膜的最外层，是革兰阴性菌独特且重要的毒力成分。"
+        },
+        {
+          "text": "外膜（Outer membrane）",
+          "isCorrect": true,
+          "rationale": "外膜覆盖在革兰阴性菌肽聚糖层之外，由脂蛋白、脂质双层和脂多糖共同构成，革兰阳性菌无此结构。"
+        },
+        {
+          "text": "外膜下隙（周质空间，Periplasmic space）",
+          "isCorrect": true,
+          "rationale": "外膜下隙位于革兰阴性菌的细胞膜与外膜之间，占细胞体积的20-40%，富含多种水解酶类。"
+        },
+        {
+          "text": "磷壁酸（Teichoic acid）",
+          "isCorrect": false,
+          "rationale": "磷壁酸是革兰阳性菌细胞壁的特殊成分，穿插于较厚的肽聚糖层中，革兰阴性菌细胞壁不含磷壁酸。"
+        }
+      ],
+      "hint": "革兰阴性菌在较薄的肽聚糖层之外覆盖着一套复杂的复合膜结构。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在肽聚糖的前体分子合成过程中，“Park核苷酸”（UDP-N-乙酰胞壁酸五肽）的合成发生在细胞的哪一区域？",
+      "answerOptions": [
+        {
+          "text": "细胞质中",
+          "isCorrect": true,
+          "rationale": "肽聚糖合成的第一阶段在细胞质内进行，由葡萄糖出发经多步酶促反应合成 Park 核苷酸。"
+        },
+        {
+          "text": "细胞膜内侧面",
+          "isCorrect": false,
+          "rationale": "细胞膜上进行的是肽聚糖合成的第二阶段，即将 Park 核苷酸与类脂载体结合并接上 NAG 和甘氨酸。"
+        },
+        {
+          "text": "细胞膜外侧面",
+          "isCorrect": false,
+          "rationale": "细胞膜外进行的是第三阶段，即通过转糖基作用和转肽作用将双糖肽亚单位组装入细胞壁生长点。"
+        },
+        {
+          "text": "外膜下隙（周质空间）",
+          "isCorrect": false,
+          "rationale": "周质空间主要含有水解酶与结合蛋白，不直接作为 Park 核苷酸这一核心前体分子的合成场所。"
+        }
+      ],
+      "hint": "肽聚糖生物合成分为细胞内、细胞膜上和细胞膜外三个阶段， Park 核苷酸是最早形成的可溶性前体。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "青霉素（Penicillin）能够有效杀灭繁殖期细菌，其分子机制是抑制肽聚糖合成的哪一关键步骤？",
+      "answerOptions": [
+        {
+          "text": "细胞膜外的转肽作用（Transpeptidation）",
+          "isCorrect": true,
+          "rationale": "青霉素化学结构与 D-丙氨酰-D-丙氨酸相似，可竞争性抑制转肽酶（E），阻断肽链交联以阻止三维网状肽聚糖的形成。"
+        },
+        {
+          "text": "细胞质中 D-丙氨酰-D-丙氨酸的二肽合成",
+          "isCorrect": false,
+          "rationale": "抑制细胞质内 D-丙氨酰-D-丙氨酸合成酶及消旋酶的抗菌药物是环丝氨酸（Cycloserine），而非青霉素。"
+        },
+        {
+          "text": "细菌萜醇在细胞膜上的去磷酸化再生",
+          "isCorrect": false,
+          "rationale": "阻断类脂载体（细菌萜醇）去磷酸化再生的药物是杆菌肽（Bacitracin）。"
+        },
+        {
+          "text": "细胞膜外单体间的转糖基化作用（Transglycosylation）",
+          "isCorrect": false,
+          "rationale": "转糖基化作用是形成 $\\beta-1,4$ 糖苷键的过程，青霉素特异性作用于转肽酶而非转糖基酶。"
+        }
+      ],
+      "hint": "青霉素与 D-丙氨酰-D-丙氨酸结构相似，作用于细菌细胞膜外肽链相互交联的酶促反应。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "细菌萜醇（Bactoprenol，一种 $C_{55}$ 类异戊二烯醇）在肽聚糖合成过程中的核心生理功能是？",
+      "answerOptions": [
+        {
+          "text": "作为类脂载体，运送亲水性的肽聚糖前体跨越疏水性细胞膜",
+          "isCorrect": true,
+          "rationale": "细菌萜醇通过焦磷酸基团结合 Park 核苷酸衍生物，使其呈现强疏水性，从而能够顺利穿过疏水性的细胞膜脂质双层。"
+        },
+        {
+          "text": "直接催化相邻四肽侧链之间形成交叉肽键",
+          "isCorrect": false,
+          "rationale": "催化侧链交叉连接的是转肽酶，细菌萜醇仅起分子运载作用，不具备转肽酶催化活性。"
+        },
+        {
+          "text": "水解聚糖骨架上的糖苷键以提供细胞壁生长的开口",
+          "isCorrect": false,
+          "rationale": "水解聚糖骨架是自溶素或溶菌酶的功能，细菌萜醇是肽聚糖合成阶段的脂质载体。"
+        },
+        {
+          "text": "与青霉素结合并将其主动泵出细菌细胞外",
+          "isCorrect": false,
+          "rationale": "细菌萜醇参与细胞壁合成的前体转运，与耐药主动外排泵无直接关联。"
+        }
+      ],
+      "hint": "由于细胞膜具有疏水性，亲水性的糖肽前体需要借助特定脂溶性载体进行跨膜运输。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "关于分枝杆菌抗酸染色法（Acid-fast staining）的原理与操作细节，下列说法正确的有？",
+      "answerOptions": [
+        {
+          "text": "结核分枝杆菌细胞壁含有大量脂质，初染时需加热以促进染料穿透",
+          "isCorrect": true,
+          "rationale": "分枝杆菌细胞壁富含蜡质脂质，普通冷染难以着色，加热可使细胞壁脂质融化，利于苯酚复红进入菌体。"
+        },
+        {
+          "text": "脱色步骤使用的是3%盐酸乙醇溶液",
+          "isCorrect": true,
+          "rationale": "抗酸染色采用3%盐酸乙醇进行强脱色，结合了脂质的抗酸菌能抵抗酸性脱色剂脱色。"
+        },
+        {
+          "text": "经复染后，抗酸染色阳性菌呈现红色，非抗酸菌及杂菌呈蓝色",
+          "isCorrect": true,
+          "rationale": "抗酸阳性菌保持初染的苯酚复红红色，非抗酸菌脱色后被亚甲蓝复染为蓝色。"
+        },
+        {
+          "text": "抗酸阳性菌细胞壁主要成分为厚达50层的肽聚糖",
+          "isCorrect": false,
+          "rationale": "抗酸菌（如结核分枝杆菌）的抗酸特性源于其细胞壁中高含量的脂质（如分枝菌酸），而非极厚的肽聚糖层。"
+        }
+      ],
+      "hint": "结合初染加温、强酸脱色以及两种染料对不同菌种的着色结果进行判定。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于细菌荚膜（Capsule）的化学组成与生物学特性，下列描述错误的是？",
+      "answerOptions": [
+        {
+          "text": "所有细菌的荚膜化学成分均为高度水合的聚糖类（糖萼）",
+          "isCorrect": true,
+          "rationale": "绝大多数细菌的荚膜为多糖，但炭疽芽胞杆菌和鼠疫耶氏菌等少数细菌的荚膜成分为多肽。"
+        },
+        {
+          "text": "厚度大于等于 $0.2\\,\\mu\\text{m}$ 且边界明显的黏液样结构称为大荚膜",
+          "isCorrect": false,
+          "rationale": "广义荚膜根据厚度和形态分类，厚度在 $0.2\\,\\mu\\text{m}$ 以上且边界清晰者符合大荚膜（荚膜）的定义。"
+        },
+        {
+          "text": "普通染色下碱性染料对荚膜亲和力低，显微镜下常呈透明圈",
+          "isCorrect": false,
+          "rationale": "荚膜含水量高且对普通染料亲和力差，因此常规染色时菌体着色而周围呈现未着色的透明光环。"
+        },
+        {
+          "text": "荚膜是细菌的重要致病因子，可帮助细菌抗吞噬和逃避机体免疫识别",
+          "isCorrect": false,
+          "rationale": "荚膜具有抗吞噬作用，且某些菌（如LOS/荚膜多糖）可模拟宿主分子以逃避免疫攻击。"
+        }
+      ],
+      "hint": "注意炭疽芽胞杆菌等特殊菌株的荚膜化学成分与普通细菌的不同之处。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于细菌核质（拟核，Nucleoid）的超微结构与遗传特征，下列叙述正确的是？",
+      "answerOptions": [
+        {
+          "text": "大多数细菌的核质为单一闭合环状双股DNA分子，无核膜与核仁",
+          "isCorrect": true,
+          "rationale": "细菌作为原核生物，其遗传物质集中在细胞质某一区域，通常由一条闭合环状的双链 DNA 卷曲盘绕而成，不含核膜和核仁。"
+        },
+        {
+          "text": "核质在细菌细胞有丝分裂期会发生核膜解体与染色体高度凝集",
+          "isCorrect": false,
+          "rationale": "细菌以无丝分裂（二分裂）方式繁殖，不形成有丝分裂器，也没有核膜解体与重构的过程。"
+        },
+        {
+          "text": "电镜下核质中央为高密度 DNA 骨架，外围附着大量组蛋白",
+          "isCorrect": false,
+          "rationale": "核质中央是以 RNA 和蛋白质构成的骨架，周围附着超螺旋 DNA，细菌缺乏真核细胞典型的组蛋白包裹结构。"
+        },
+        {
+          "text": "细菌核质 DNA 的缺失不会影响细菌的基本生命活动与生存",
+          "isCorrect": false,
+          "rationale": "核质包含了细菌生命活动所必需的绝大多数基因，是细菌维持生存与遗传的核心结构。"
+        }
+      ],
+      "hint": "原核生物的染色体不同于真核生物，不存在复杂的染色质组蛋白包裹和有丝分裂过程。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "革兰阴性细菌外膜中的脂多糖（LPS，内毒素）由哪几个部分组成？",
+      "answerOptions": [
+        {
+          "text": "脂质A（Lipid A）",
+          "isCorrect": true,
+          "rationale": "脂质A是脂多糖的毒性与生物学活性核心部分，嵌入外膜脂质双层的外层。"
+        },
+        {
+          "text": "核心多糖（Core polysaccharide）",
+          "isCorrect": true,
+          "rationale": "核心多糖位于脂质A与特异多糖之间，连接两部分并具有属特异性。"
+        },
+        {
+          "text": "特异多糖（O-特异性侧链/O抗原）",
+          "isCorrect": true,
+          "rationale": "特异多糖由重复的糖单位组成，伸向菌体外部，决定细菌的型特异性抗原特征。"
+        },
+        {
+          "text": "脂磷壁酸（LTA）",
+          "isCorrect": false,
+          "rationale": "脂磷壁酸是革兰阳性菌细胞壁和细胞膜结合的成分，不属于脂多糖（LPS）的组成结构。"
+        }
+      ],
+      "hint": "脂多糖由内向外依次分为致毒核心成分、连接桥梁成分和最外层的糖链抗原成分。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在革兰染色实验中，95%脱色乙醇能使革兰阳性菌和革兰阴性菌呈现不同染色结果，其关键作用机制是？",
+      "answerOptions": [
+        {
+          "text": "乙醇使 $G^+$ 菌厚且交联紧密的肽聚糖网孔脱水缩小，结晶紫-碘复合物留在菌体内",
+          "isCorrect": true,
+          "rationale": "革兰阳性菌肽聚糖层厚且缺乏脂质，乙醇脱水使网孔收缩，阻碍了大分子的结晶紫-碘复合物渗出。"
+        },
+        {
+          "text": "乙醇溶解 $G^+$ 菌细胞壁中的高浓度磷壁酸，导致染料迅速流失",
+          "isCorrect": false,
+          "rationale": "乙醇溶解的是革兰阴性菌外膜的脂质，而非革兰阳性菌的磷壁酸。"
+        },
+        {
+          "text": "乙醇破坏 $G^-$ 菌的四肽侧链，使结晶紫脱色后被沙黄重新染色",
+          "isCorrect": false,
+          "rationale": "乙醇的作用是溶解革兰阴性菌外膜的高脂质并增加薄肽聚糖层的通透性，使其脱色，而非破坏侧链化学键。"
+        },
+        {
+          "text": "乙醇与 $G^+$ 菌的胞壁酸发生共价结合，增强了紫色的固色效果",
+          "isCorrect": false,
+          "rationale": "乙醇脱色主要是物理性的网孔变化和脂质抽取过程，并非与胞壁酸发生化学共价结合。"
+        }
+      ],
+      "hint": "结合两类细菌细胞壁在肽聚糖厚度、交联程度以及脂质含量上的显著差异来思考。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "多种抗菌药物通过抑制细菌细胞壁肽聚糖的合成发挥作用。下列药物与其抑制作作用环节对应正确的有？",
+      "answerOptions": [
+        {
+          "text": "环丝氨酸（Cycloserine）——抑制细胞质内 D-丙氨酰-D-丙氨酸的合成",
+          "isCorrect": true,
+          "rationale": "环丝氨酸可抑制丙氨酸消旋酶和 D-丙氨酰-D-丙氨酸合成酶，阻断细胞质内 Park 核苷酸的前体合成。"
+        },
+        {
+          "text": "万古霉素（Vancomycin）——抑制细胞膜上肽聚糖单体插入细胞壁生长点",
+          "isCorrect": true,
+          "rationale": "万古霉素与双糖肽亚单位结合，阻止其由类脂载体转移并插入至膜外肽聚糖链中。"
+        },
+        {
+          "text": "杆菌肽（Bacitracin）——抑制类脂载体（细菌萜醇焦磷酸）去磷酸化再生",
+          "isCorrect": true,
+          "rationale": "杆菌肽阻止焦磷酸细菌萜醇去磷酸化为单磷酸形式，使载体无法循环利用运载新的前体。"
+        },
+        {
+          "text": "青霉素（Penicillin）——抑制细胞质内 N-乙酰胞壁酸-UDP 的形成",
+          "isCorrect": false,
+          "rationale": "青霉素的作用靶点是细胞膜外催化肽链交联的转肽酶，而非细胞质内糖核苷酸的合成。"
+        }
+      ],
+      "hint": "区分不同药物分别作用于细胞质阶段、细胞膜转运阶段还是细胞膜外交联阶段。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "实验室观察细菌形态和测量其大小常用的显微镜类型以及基本测量单位分别是？",
+      "answerOptions": [
+        {
+          "text": "普通光学显微镜，微米（$\\mu\\text{m}$）",
+          "isCorrect": true,
+          "rationale": "普通光学显微镜分辨率约为 $0.25\\,\\mu\\text{m}$，足以观察大多数细菌（直径约 $0.5\\,\\mu\\text{m}$，长 $0.5\\sim5\\,\\mu\\text{m}$），常用测量单位为微米（$\\mu\\text{m}$）。"
+        },
+        {
+          "text": "电子显微镜，纳米（$\\text{nm}$）",
+          "isCorrect": false,
+          "rationale": "电子显微镜（分辨率 $1\\,\\text{nm}$）主要用于观察细菌内部超微结构，而非常规测量细菌个体大小。"
+        },
+        {
+          "text": "荧光显微镜，毫米（$\\text{mm}$）",
+          "isCorrect": false,
+          "rationale": "荧光显微镜用于特定荧光染色的细菌检测，细菌个体微小，不可用毫米（$\\text{mm}$）作为计量单位。"
+        },
+        {
+          "text": "相差显微镜，埃（$\\text{\\AA}$）",
+          "isCorrect": false,
+          "rationale": "相差显微镜多用于观察未染色活菌的动力，细菌大小测量单位为微米（$\\mu\\text{m}$）。"
+        }
+      ],
+      "hint": "常规细菌直径约为 $0.5\\,\\mu\\text{m}$，普通光学显微镜的分辨率极限在 $0.25\\,\\mu\\text{m}$ 左右。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "细菌细胞质内部具有极高浓度的无机盐和大分子物质，形成高达 5~25 个大气压的渗透压。使得细菌在低渗环境中不至于胀破的主要结构是？",
+      "answerOptions": [
+        {
+          "text": "细胞壁",
+          "isCorrect": true,
+          "rationale": "细胞壁坚韧而富有弹性，其三维网状肽聚糖结构能够承受极高的内部渗透压，保护细菌防止低渗裂解。"
+        },
+        {
+          "text": "细胞膜",
+          "isCorrect": false,
+          "rationale": "细胞膜质地柔韧且富含脂质，缺乏足够的机械强度来抵抗高内部渗透压造成的膨胀。"
+        },
+        {
+          "text": "荚膜",
+          "isCorrect": false,
+          "rationale": "荚膜主要发挥抗吞噬和黏附作用，并非所有细菌都具备，且不承担主要的物理机械抗张力功能。"
+        },
+        {
+          "text": "周质空间",
+          "isCorrect": false,
+          "rationale": "周质空间是含有酶类的缓冲区域，无法对细胞内部的高渗透压提供直接的机械支撑。"
+        }
+      ],
+      "hint": "该结构包绕在细胞膜外，由坚韧的肽聚糖网状交联构成。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "螺形菌是一类具有动力的革兰阴性菌，下列螺形菌的形态分类及代表菌株对应正确的有？",
+      "answerOptions": [
+        {
+          "text": "弧菌属（Vibrio）——菌体只有一个弯曲，呈弧形或逗点状，如霍乱弧菌",
+          "isCorrect": true,
+          "rationale": "弧菌属特征为单弯曲的弧形或逗点状杆菌，霍乱弧菌是其典型代表。"
+        },
+        {
+          "text": "螺菌属（Spirillum）——同一平面内有2~6个弯曲的小型坚硬螺形菌，如鼠咬热螺菌",
+          "isCorrect": true,
+          "rationale": "螺菌属菌体较为坚硬，弯曲数在2~6个且处于同一平面。"
+        },
+        {
+          "text": "螺杆菌属（Helicobacter）——连续弯曲呈螺旋状（不同平面），如幽门螺杆菌",
+          "isCorrect": true,
+          "rationale": "螺杆菌属呈螺杆状并在不同平面连续弯曲，幽门螺杆菌是引起胃炎的重要病原菌。"
+        },
+        {
+          "text": "弯曲菌属（Campylobacter）——呈U形或S形等，如空肠弯曲菌",
+          "isCorrect": true,
+          "rationale": "弯曲菌属菌体微弯，常呈现独特的 U 形、S 形或海鸥展翅状。"
+        }
+      ],
+      "hint": "螺形菌根据弯曲数目、是否在同一平面以及形态特征分为弧菌、螺菌、螺杆菌和弯曲菌等。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "革兰阴性菌的细胞膜与外膜之间存在外膜下隙（周质空间），下列关于该区域功能的描述，错误的是？",
+      "answerOptions": [
+        {
+          "text": "作为细菌核糖体合成与翻译蛋白质的主要场所",
+          "isCorrect": true,
+          "rationale": "蛋白质合成（核糖体翻译）发生在细菌的细胞质中，周质空间不含有核糖体。"
+        },
+        {
+          "text": "含有蛋白酶、核酸酶等多种水解酶，参与营养物质的降解与获取",
+          "isCorrect": false,
+          "rationale": "周质空间富含水解酶类，能将外源大分子营养切断为可被细胞膜吸收的小分子。"
+        },
+        {
+          "text": "含有 $\\beta-$ 内酰胺酶等，可灭活抗菌药物以形成耐药性",
+          "isCorrect": false,
+          "rationale": "革兰阴性菌分泌的 $\\beta-$ 内酰胺酶积聚在周质空间，能够在药物进入细胞膜前将其分解。"
+        },
+        {
+          "text": "含有胶原酶、透明质酸酶等毒力因子，协助细菌侵袭宿主组织",
+          "isCorrect": false,
+          "rationale": "周质空间中的某些侵袭性酶类作为毒力因子，有助于细菌破坏宿主结缔组织。"
+        }
+      ],
+      "hint": "注意区分细胞质（核糖体分布区）与细胞膜外间隙的功能分工。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "细菌细胞壁具有多种重要的生理功能和医学意义，下列说法正确的有？",
+      "answerOptions": [
+        {
+          "text": "维持细菌固有的形态并保护细菌抵御低渗环境",
+          "isCorrect": true,
+          "rationale": "坚韧的细胞壁为细菌提供物理支架，防止因内部高渗透压而在低渗溶液中水肿裂解。"
+        },
+        {
+          "text": "细胞壁成分（如LPS和磷壁酸）具有抗原性，可诱发宿主免疫应答",
+          "isCorrect": true,
+          "rationale": "革兰阴性菌的 LPS（O抗原）和革兰阳性菌的磷壁酸均为重要的表面抗原。"
+        },
+        {
+          "text": "细胞壁带有负电荷，能结合 $\\text{Mg}^{2+}$ 等二价阳离子，调节菌体离子平衡",
+          "isCorrect": true,
+          "rationale": "胞壁酸及 LPS 分子带负电荷，可吸附镁离子等以维持菌体内环境及代谢平衡。"
+        },
+        {
+          "text": "革兰阴性菌外膜的通透性屏障和主动外排机制与药物耐药相关",
+          "isCorrect": true,
+          "rationale": "外膜可阻止部分脂溶性或大分子抗菌药物渗入，结合外排泵能将药物排出菌体外。"
+        }
+      ],
+      "hint": "考虑细胞壁在物理保护、免疫原性、表面电荷以及药物屏障等方面的多重作用。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "细菌细胞壁缺陷型（又称细菌L型，L-form）在特定条件下可存活并保持繁殖能力。L型细菌存活的必备环境条件是？",
+      "answerOptions": [
+        {
+          "text": "高渗环境",
+          "isCorrect": true,
+          "rationale": "L型细菌缺失了细胞壁的机械保护，只有置于高渗环境（如高盐或高糖环境）中，才能避免因胞内高渗透压而吸水膨胀破裂。"
+        },
+        {
+          "text": "低渗环境",
+          "isCorrect": false,
+          "rationale": "在低渗环境中，失去细胞壁屏障的 L 型细菌会迅速吸水水肿并裂解死亡。"
+        },
+        {
+          "text": "必须存在高浓度的青霉素",
+          "isCorrect": false,
+          "rationale": "青霉素可以诱导 L 型细菌形成，但一旦形成后，只要处于高渗条件即可存活，无需依赖青霉素维持。"
+        },
+        {
+          "text": "必须由荚膜多糖替代细胞壁的功能",
+          "isCorrect": false,
+          "rationale": "L型细菌是指肽聚糖损伤的细菌，其存活依赖于高渗物理环境，而非由荚膜替代细胞壁功能。"
+        }
+      ],
+      "hint": "失去细胞壁的坚韧包裹后，细菌需要外界环境渗透压与其内部渗透压相匹配。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列杆菌的形态特征与其典型代表菌株匹配正确的有？",
+      "answerOptions": [
+        {
+          "text": "炭疽芽胞杆菌——菌体粗大，两端平齐，常呈链状排列",
+          "isCorrect": true,
+          "rationale": "炭疽芽胞杆菌属于大杆菌（长3～10 $\\mu\\text{m}$），菌体两端平齐呈竹节状链杆菌。"
+        },
+        {
+          "text": "结核分枝杆菌——菌体细长，常呈现分枝生长的趋势",
+          "isCorrect": true,
+          "rationale": "分枝杆菌属细胞壁富含脂质，生长时常有分枝状交织生长的特征。"
+        },
+        {
+          "text": "双歧杆菌——杆状菌体末端常呈现分叉状",
+          "isCorrect": true,
+          "rationale": "双歧杆菌（Bifidobacterium）在显微镜下典型形态为末端分叉呈 Y 或 V 字形。"
+        },
+        {
+          "text": "布鲁菌——菌体巨大，两端尖细呈梭状",
+          "isCorrect": false,
+          "rationale": "布鲁菌为小杆菌（0.6～1.5 $\\mu\\text{m}$），常呈球杆状；两端尖细呈梭状的是梭杆菌。"
+        }
+      ],
+      "hint": "对照杆菌的大小（大、中、小）以及特殊的末端形态（平齐、分叉、尖细）进行判断。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在临床鉴别肺炎链球菌等细菌时，常使用荚膜肿胀反应（Quellung reaction）。该试验的基本原理是？",
+      "answerOptions": [
+        {
+          "text": "荚膜多糖与特异性同型抗血清结合，使荚膜复合物变性膨胀并在光镜下清晰可见",
+          "isCorrect": true,
+          "rationale": "当特异性抗体与细菌荚膜多糖抗原结合后，结合物吸水折光率改变，使荚膜显著肿胀边界变清晰。"
+        },
+        {
+          "text": "墨汁进入荚膜内部导致多糖链发生物理性膨胀",
+          "isCorrect": false,
+          "rationale": "墨汁负染法只是利用背景着色衬托出透明的荚膜，并不引起化学性的荚膜肿胀。"
+        },
+        {
+          "text": "加热导致细菌细胞壁肽聚糖破坏并释放出大量水分充盈荚膜",
+          "isCorrect": false,
+          "rationale": "荚膜肿胀反应是特异性抗原抗体反应，无需加热水解细胞壁。"
+        },
+        {
+          "text": "溶菌酶水解荚膜多糖，产生低渗透压使水分子大量渗入",
+          "isCorrect": false,
+          "rationale": "溶菌酶作用于肽聚糖而非荚膜多糖，且该反应依靠的是免疫抗体的特异性结合。"
+        }
+      ],
+      "hint": "该反应利用了细菌荚膜多糖具有特异性抗原（如肺炎链球菌有85种以上血清型）的特点。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "根据提供的细菌学基础知识，下列关于细菌基本特征的描述正确的有？",
+      "answerOptions": [
+        {
+          "text": "属于原核单细胞生物，以二分裂（Binary fission）方式进行繁殖",
+          "isCorrect": true,
+          "rationale": "细菌结构简单，无无丝分裂以外的复杂分裂机制，主要通过二分裂繁殖。"
+        },
+        {
+          "text": "无成形细胞核，仅有拟核，且缺乏核膜与核仁",
+          "isCorrect": true,
+          "rationale": "原核生物的核心特征之一就是缺乏由核膜包围的成形细胞核及核仁结构。"
+        },
+        {
+          "text": "细胞质内除核糖体外，无其他复杂的膜包被细胞器",
+          "isCorrect": true,
+          "rationale": "细菌缺乏线粒体、高尔基体、内质网等膜相细胞器，核糖体是其唯一的细胞器。"
+        },
+        {
+          "text": "多数细菌在自然界中营自养性生活，少数营寄生生活",
+          "isCorrect": true,
+          "rationale": "源文本明确指出了细菌的特点之一为“多数在自然界中营自养性生活，少数营严格寄生性”。"
+        }
+      ],
+      "hint": "回顾细菌作为原核单细胞微生物在细胞结构、繁殖方式及生活习性上的总体特点。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "革兰阳性菌等电点较革兰阴性菌低（$G^+$ pH 2~3；$G^-$ pH 4~5），这使得革兰阳性菌？",
+      "answerOptions": [
+        {
+          "text": "在中性环境下载负电荷更多，与带正电荷的碱性染料（如结晶紫）结合更牢固",
+          "isCorrect": true,
+          "rationale": "革兰阳性菌细胞壁富含带负电荷的磷壁酸，等电点更低，在生理pH下带更多负电荷，与带正电的碱性染料结合更紧密。"
+        },
+        {
+          "text": "在生理环境中带正电荷更多，能吸附带负电荷的酸性染料",
+          "isCorrect": false,
+          "rationale": "环境 pH 高于等电点时菌体带负电荷，等电点越低带负电荷越多，结合的是碱性（阳离子）染料。"
+        },
+        {
+          "text": "能够抵抗盐酸乙醇的脱色作用而保持初染的红色",
+          "isCorrect": false,
+          "rationale": "抗盐酸乙醇脱色是抗酸染色（抗酸菌）的特性，而非革兰阳性菌的革兰染色机理。"
+        },
+        {
+          "text": "细胞壁外形成一层高浓度的阳离子屏障阻止青霉素进入",
+          "isCorrect": false,
+          "rationale": "电荷特性与染料结合及离子平衡有关，并非阻挡青霉素渗入的屏障。"
+        }
+      ],
+      "hint": "结合等电点与环境 pH 的关系，判断细菌表面带何种电荷以及其对阳离子染料的吸引力。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "关于显微镜技术在细菌检查中的应用与分辨率限制，下列说法正确的有？",
+      "answerOptions": [
+        {
+          "text": "普通光学显微镜的分辨率为 $0.25\\,\\mu\\text{m}$，可用于观察绝大多数细菌的外形",
+          "isCorrect": true,
+          "rationale": "一般细菌直径在 $0.5\\,\\mu\\text{m}$ 以上，大于普通光镜 $0.25\\,\\mu\\text{m}$ 的分辨率极限。"
+        },
+        {
+          "text": "电子显微镜的分辨率可达 $1\\,\\text{nm}$，能看清细菌的超微结构（如菌毛、质膜）",
+          "isCorrect": true,
+          "rationale": "电镜分辨率极高，能够用于观察极细微的菌毛、鞭毛基体及内部超微结构。"
+        },
+        {
+          "text": "暗视野显微镜与相差显微镜常用于观察未染色活菌的形态与动力",
+          "isCorrect": true,
+          "rationale": "由于未染色细菌半透明，相差和暗视野显微镜可利用折光率差异对比观察活菌。"
+        },
+        {
+          "text": "墨汁负染法是在普通光镜油镜下观察肺炎链球菌等荚膜的常用方法",
+          "isCorrect": true,
+          "rationale": "墨汁颗粒不穿透荚膜，可使背景着色，在普通光镜下呈现衬托出的透明荚膜圈。"
+        }
+      ],
+      "hint": "回顾普通光学显微镜、电子显微镜的分辨率数值及各种特殊显微镜/负染法的适用范围。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "某些细菌表面具有厚度小于 $0.2\\,\\mu\\text{m}$、与菌体结合较紧密且光镜下不易直接看清的黏液结构，这类结构被称为？",
+      "answerOptions": [
+        {
+          "text": "微荚膜（Microcapsule）",
+          "isCorrect": true,
+          "rationale": "厚度小于 $0.2\\,\\mu\\text{m}$ 的荚膜称为微荚膜，如伤寒沙门菌的 Vi 抗原和大肠埃希菌的 K 抗原。"
+        },
+        {
+          "text": "大荚膜（Macrocapsule）",
+          "isCorrect": false,
+          "rationale": "大荚膜的厚度大于等于 $0.2\\,\\mu\\text{m}$，且边界清晰，可通过负染等方法直观看到。"
+        },
+        {
+          "text": "黏液层（Slime layer）",
+          "isCorrect": false,
+          "rationale": "黏液层是指松散附着于细菌表面、边界不明显且容易被冲洗掉的胞外多聚物。"
+        },
+        {
+          "text": "外膜（Outer membrane）",
+          "isCorrect": false,
+          "rationale": "外膜是革兰阴性菌细胞壁的固有基本结构成分，并非胞外合成的黏液样多聚物。"
+        }
+      ],
+      "hint": "注意区分大荚膜（大于等于 $0.2\\,\\mu\\text{m}$）与微荚膜（小于 $0.2\\,\\mu\\text{m}$）的厚度界限。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "经过标准革兰染色流程（结晶紫初染 $\\rightarrow$ 碘液媒染 $\\rightarrow$ 乙醇脱色 $\\rightarrow$ 沙黄复染）后，革兰阳性菌与革兰阴性菌分别呈现的最终颜色是？",
+      "answerOptions": [
+        {
+          "text": "革兰阳性菌呈紫色，革兰阴性菌呈红色",
+          "isCorrect": true,
+          "rationale": "革兰阳性菌保持初染结晶紫的紫色，革兰阴性菌脱色后被复染剂沙黄染成红色。"
+        },
+        {
+          "text": "革兰阳性菌呈红色，革兰阴性菌呈紫色",
+          "isCorrect": false,
+          "rationale": "该颜色颠倒了革兰阳性菌（紫色）与革兰阴性菌（红色）的对应关系。"
+        },
+        {
+          "text": "革兰阳性菌呈蓝色，革兰阴性菌呈红色",
+          "isCorrect": false,
+          "rationale": "蓝色是抗酸染色中复染亚甲蓝对非抗酸杂菌的着色结果，革兰染色阳性菌为紫色。"
+        },
+        {
+          "text": "革兰阳性菌呈紫色，革兰阴性菌呈无色透明",
+          "isCorrect": false,
+          "rationale": "革兰阴性菌脱色后若不进行沙黄复染则为无色，经沙黄复染后呈现红色。"
+        }
+      ],
+      "hint": "阳性菌保留初染染料（结晶紫）颜色，阴性菌被脱色后摄取复染染料（沙黄）颜色。"
+    }
+  ],
+  "topics": {
+    "covered": [
+      "细菌的大小与形态分类",
+      "革兰阳性菌与革兰阴性菌细胞壁结构差异",
+      "肽聚糖的化学组成与生物合成过程",
+      "作用于细胞壁合成阶段的抗菌药物机制",
+      "细菌的拟核与荚膜结构特征",
+      "细菌形态检查与染色技术（革兰染色与抗酸染色）"
+    ],
+    "followUp": [
+      "细菌鞭毛的排列方式与运动机制",
+      "细菌菌毛（普通菌毛与性菌毛）的黏附与遗传传递功能",
+      "细菌芽胞的形成过程及其耐热抗性机制",
+      "外膜孔蛋白（Porins）与革兰阴性菌药物渗透屏障",
+      "细菌 L 型的临床诱导原因与培养鉴别"
+    ]
+  }
+}

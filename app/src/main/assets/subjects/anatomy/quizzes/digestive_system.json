@@ -1,0 +1,6044 @@
+{
+  "unit": "digestive_system",
+  "title": "Unit 10 消化系统 课后习题与全真自测",
+  "questions": [
+    {
+      "c": "1",
+      "type": "single_choice",
+      "question": "胰液和胆汁进入哪个器官参与消化过程？",
+      "prompt": "胰液和胆汁进入哪个器官参与消化过程？",
+      "answerOptions": [
+        {
+          "text": "十二指肠",
+          "isCorrect": true,
+          "rationale": "胆总管与胰管常汇合成肝胰壶腹，开口于十二指肠大乳头。"
+        },
+        {
+          "text": "回肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "空肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "十二指肠",
+          "isCorrect": true,
+          "rationale": "胆总管与胰管常汇合成肝胰壶腹，开口于十二指肠大乳头。"
+        },
+        {
+          "text": "回肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "空肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆总管与胰管常汇合成肝胰壶腹，开口于十二指肠大乳头。",
+      "hint": "",
+      "id": 1
+    },
+    {
+      "c": "2",
+      "type": "single_choice",
+      "question": "胆汁参与下列哪种物质的消化和吸收？",
+      "prompt": "胆汁参与下列哪种物质的消化和吸收？",
+      "answerOptions": [
+        {
+          "text": "核酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淀粉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "脂肪",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶，主要含胆盐，乳化脂肪形成微滴，促进脂肪消化吸收。"
+        },
+        {
+          "text": "蛋白质",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "核酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淀粉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "脂肪",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶，主要含胆盐，乳化脂肪形成微滴，促进脂肪消化吸收。"
+        },
+        {
+          "text": "蛋白质",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆汁不含消化酶，主要含胆盐，乳化脂肪形成微滴，促进脂肪消化吸收。",
+      "hint": "",
+      "id": 2
+    },
+    {
+      "c": "3",
+      "type": "single_choice",
+      "question": "胆汁产生于：",
+      "prompt": "胆汁产生于：",
+      "answerOptions": [
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆总管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏",
+          "isCorrect": true,
+          "rationale": "注意区分：胆汁由肝细胞持续分泌产生，胆囊仅储存和浓缩胆汁。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆总管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏",
+          "isCorrect": true,
+          "rationale": "注意区分：胆汁由肝细胞持续分泌产生，胆囊仅储存和浓缩胆汁。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "注意区分：胆汁由肝细胞持续分泌产生，胆囊仅储存和浓缩胆汁。",
+      "hint": "",
+      "id": 3
+    },
+    {
+      "c": "4",
+      "type": "single_choice",
+      "question": "下面由胰腺分泌的物质是：",
+      "prompt": "下面由胰腺分泌的物质是：",
+      "answerOptions": [
+        {
+          "text": "糜蛋白酶",
+          "isCorrect": true,
+          "rationale": "内因子由胃壁细胞分泌；胆囊收缩素由小肠I细胞分泌；胃泌素由胃窦G细胞分泌；糜蛋白酶由胰腺分泌。"
+        },
+        {
+          "text": "胆囊收缩素",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "内因子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃泌素",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "糜蛋白酶",
+          "isCorrect": true,
+          "rationale": "内因子由胃壁细胞分泌；胆囊收缩素由小肠I细胞分泌；胃泌素由胃窦G细胞分泌；糜蛋白酶由胰腺分泌。"
+        },
+        {
+          "text": "胆囊收缩素",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "内因子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃泌素",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "内因子由胃壁细胞分泌；胆囊收缩素由小肠I细胞分泌；胃泌素由胃窦G细胞分泌；糜蛋白酶由胰腺分泌。",
+      "hint": "",
+      "id": 4
+    },
+    {
+      "c": "5",
+      "type": "single_choice",
+      "question": "下列消化管道位置中，正常情况下不会出现胆汁的是：",
+      "prompt": "下列消化管道位置中，正常情况下不会出现胆汁的是：",
+      "answerOptions": [
+        {
+          "text": "肝左管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆总管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": true,
+          "rationale": "胆汁由肝内外胆道排入十二指肠，正常有幽门括约肌阻挡逆流，胃内不应出现胆汁。"
+        },
+        {
+          "text": "十二指肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肝左管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆总管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": true,
+          "rationale": "胆汁由肝内外胆道排入十二指肠，正常有幽门括约肌阻挡逆流，胃内不应出现胆汁。"
+        },
+        {
+          "text": "十二指肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆汁由肝内外胆道排入十二指肠，正常有幽门括约肌阻挡逆流，胃内不应出现胆汁。",
+      "hint": "",
+      "id": 5
+    },
+    {
+      "c": "6",
+      "type": "single_choice",
+      "question": "大肠能够吸收的主要物质是：",
+      "prompt": "大肠能够吸收的主要物质是：",
+      "answerOptions": [
+        {
+          "text": "水和麦芽糖",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "无机盐和部分氨基酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "葡萄糖和脂肪",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "水和无机盐",
+          "isCorrect": true,
+          "rationale": "大肠黏膜主要吸收水分和无机盐，使食糜浓缩成粪便。"
+        }
+      ],
+      "options": [
+        {
+          "text": "水和麦芽糖",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "无机盐和部分氨基酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "葡萄糖和脂肪",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "水和无机盐",
+          "isCorrect": true,
+          "rationale": "大肠黏膜主要吸收水分和无机盐，使食糜浓缩成粪便。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "大肠黏膜主要吸收水分和无机盐，使食糜浓缩成粪便。",
+      "hint": "",
+      "id": 6
+    },
+    {
+      "c": "7",
+      "type": "single_choice",
+      "question": "小肠绒毛结构所包含的层次是：",
+      "prompt": "小肠绒毛结构所包含的层次是：",
+      "answerOptions": [
+        {
+          "text": "黏膜上皮+固有层",
+          "isCorrect": true,
+          "rationale": "考点辨析：小肠皱襞由黏膜+黏膜下层向肠腔突出形成；小肠绒毛仅由黏膜上皮和固有层向肠腔突起形成。"
+        },
+        {
+          "text": "黏膜上皮+固有层+黏膜肌层",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "黏膜上皮",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "黏膜上皮+固有层+黏膜下层",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "黏膜上皮+固有层",
+          "isCorrect": true,
+          "rationale": "考点辨析：小肠皱襞由黏膜+黏膜下层向肠腔突出形成；小肠绒毛仅由黏膜上皮和固有层向肠腔突起形成。"
+        },
+        {
+          "text": "黏膜上皮+固有层+黏膜肌层",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "黏膜上皮",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "黏膜上皮+固有层+黏膜下层",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "考点辨析：小肠皱襞由黏膜+黏膜下层向肠腔突出形成；小肠绒毛仅由黏膜上皮和固有层向肠腔突起形成。",
+      "hint": "",
+      "id": 7
+    },
+    {
+      "c": "8",
+      "type": "single_choice",
+      "question": "关于小肠的解剖生理叙述，错误的是：",
+      "prompt": "关于小肠的解剖生理叙述，错误的是：",
+      "answerOptions": [
+        {
+          "text": "分为十二指肠、空肠和回肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "是消化和吸收的主要场所",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "全长约 5~7 米",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "管壁厚薄均匀，肠腔平滑",
+          "isCorrect": true,
+          "rationale": "小肠管壁有密集的环状皱襞和小肠绒毛，肠壁并非平滑均匀。"
+        }
+      ],
+      "options": [
+        {
+          "text": "分为十二指肠、空肠和回肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "是消化和吸收的主要场所",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "全长约 5~7 米",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "管壁厚薄均匀，肠腔平滑",
+          "isCorrect": true,
+          "rationale": "小肠管壁有密集的环状皱襞和小肠绒毛，肠壁并非平滑均匀。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "小肠管壁有密集的环状皱襞和小肠绒毛，肠壁并非平滑均匀。",
+      "hint": "",
+      "id": 8
+    },
+    {
+      "c": "9",
+      "type": "single_choice",
+      "question": "脂肪消化后的长链脂肪酸和乳糜微粒的主要吸收途径是：",
+      "prompt": "脂肪消化后的长链脂肪酸和乳糜微粒的主要吸收途径是：",
+      "answerOptions": [
+        {
+          "text": "直接进入门静脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "经淋巴系统进入组织供细胞利用",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "经淋巴途径进入血液",
+          "isCorrect": true,
+          "rationale": "长链脂肪酸在小肠上皮细胞内重新酯化为甘油三酯并组装成乳糜微粒，排入中央乳糜管经胸导管回流进入血液。"
+        },
+        {
+          "text": "经肠系膜静脉进入下腔静脉",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "直接进入门静脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "经淋巴系统进入组织供细胞利用",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "经淋巴途径进入血液",
+          "isCorrect": true,
+          "rationale": "长链脂肪酸在小肠上皮细胞内重新酯化为甘油三酯并组装成乳糜微粒，排入中央乳糜管经胸导管回流进入血液。"
+        },
+        {
+          "text": "经肠系膜静脉进入下腔静脉",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "长链脂肪酸在小肠上皮细胞内重新酯化为甘油三酯并组装成乳糜微粒，排入中央乳糜管经胸导管回流进入血液。",
+      "hint": "",
+      "id": 9
+    },
+    {
+      "c": "10",
+      "type": "single_choice",
+      "question": "下列不属于胆汁生理功能的是：",
+      "prompt": "下列不属于胆汁生理功能的是：",
+      "answerOptions": [
+        {
+          "text": "促进脂溶性维生素吸收",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "将脂肪酶解为脂肪酸和甘油一酯",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶，不能直接酶解脂肪；直接酶解脂肪的是胰脂肪酶。"
+        },
+        {
+          "text": "促进脂肪分解",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "乳化脂肪降低脂肪表面张力",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "促进脂溶性维生素吸收",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "将脂肪酶解为脂肪酸和甘油一酯",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶，不能直接酶解脂肪；直接酶解脂肪的是胰脂肪酶。"
+        },
+        {
+          "text": "促进脂肪分解",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "乳化脂肪降低脂肪表面张力",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆汁不含消化酶，不能直接酶解脂肪；直接酶解脂肪的是胰脂肪酶。",
+      "hint": "",
+      "id": 10
+    },
+    {
+      "c": "11",
+      "type": "single_choice",
+      "question": "下列消化液中不含任何消化酶的是：",
+      "prompt": "下列消化液中不含任何消化酶的是：",
+      "answerOptions": [
+        {
+          "text": "胰液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": true,
+          "rationale": "胆汁是唯一不含消化酶的重要消化液，其消化促进作用完全依赖胆盐的乳化作用。"
+        },
+        {
+          "text": "唾液",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胰液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": true,
+          "rationale": "胆汁是唯一不含消化酶的重要消化液，其消化促进作用完全依赖胆盐的乳化作用。"
+        },
+        {
+          "text": "唾液",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆汁是唯一不含消化酶的重要消化液，其消化促进作用完全依赖胆盐的乳化作用。",
+      "hint": "",
+      "id": 11
+    },
+    {
+      "c": "12",
+      "type": "single_choice",
+      "question": "舌乳头中感受一般触觉、痛温觉感觉（无味蕾）的是：",
+      "prompt": "舌乳头中感受一般触觉、痛温觉感觉（无味蕾）的是：",
+      "answerOptions": [
+        {
+          "text": "叶状乳头",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "菌状乳头",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "丝状乳头",
+          "isCorrect": true,
+          "rationale": "丝状乳头数量最多，上皮浅层角化，不含味蕾，司一般感觉；轮廓乳头、菌状乳头含味蕾。"
+        },
+        {
+          "text": "轮廓乳头",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "叶状乳头",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "菌状乳头",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "丝状乳头",
+          "isCorrect": true,
+          "rationale": "丝状乳头数量最多，上皮浅层角化，不含味蕾，司一般感觉；轮廓乳头、菌状乳头含味蕾。"
+        },
+        {
+          "text": "轮廓乳头",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "丝状乳头数量最多，上皮浅层角化，不含味蕾，司一般感觉；轮廓乳头、菌状乳头含味蕾。",
+      "hint": "",
+      "id": 12
+    },
+    {
+      "c": "13",
+      "type": "single_choice",
+      "question": "人体中pH值最低（酸性最强）的消化液是：",
+      "prompt": "人体中pH值最低（酸性最强）的消化液是：",
+      "answerOptions": [
+        {
+          "text": "小肠液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃液",
+          "isCorrect": true,
+          "rationale": "胃液pH为0.9~1.5，强酸性环境源于胃壁细胞分泌的盐酸。"
+        },
+        {
+          "text": "唾液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰液",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "小肠液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃液",
+          "isCorrect": true,
+          "rationale": "胃液pH为0.9~1.5，强酸性环境源于胃壁细胞分泌的盐酸。"
+        },
+        {
+          "text": "唾液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰液",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胃液pH为0.9~1.5，强酸性环境源于胃壁细胞分泌的盐酸。",
+      "hint": "",
+      "id": 13
+    },
+    {
+      "c": "14",
+      "type": "single_choice",
+      "question": "下列关于肝脏血管的叙述正确的是：",
+      "prompt": "下列关于肝脏血管的叙述正确的是：",
+      "answerOptions": [
+        {
+          "text": "肝脏的静脉血经门静脉回流入下腔静脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝静脉与肝门静脉汇合后汇入下腔静脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "门静脉血液中包含肠道吸收的全部脂类物质",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏的供血动脉是肝固有动脉，起自腹腔干",
+          "isCorrect": true,
+          "rationale": "肝固有动脉为肝营养血管，起自腹腔干的分支肝总动脉；门静脉为功能血管；肝静脉直接注入下腔静脉。"
+        }
+      ],
+      "options": [
+        {
+          "text": "肝脏的静脉血经门静脉回流入下腔静脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝静脉与肝门静脉汇合后汇入下腔静脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "门静脉血液中包含肠道吸收的全部脂类物质",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏的供血动脉是肝固有动脉，起自腹腔干",
+          "isCorrect": true,
+          "rationale": "肝固有动脉为肝营养血管，起自腹腔干的分支肝总动脉；门静脉为功能血管；肝静脉直接注入下腔静脉。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肝固有动脉为肝营养血管，起自腹腔干的分支肝总动脉；门静脉为功能血管；肝静脉直接注入下腔静脉。",
+      "hint": "",
+      "id": 14
+    },
+    {
+      "c": "15",
+      "type": "single_choice",
+      "question": "以下哪种物质不是食物消化的最终终末吸收形式？",
+      "prompt": "以下哪种物质不是食物消化的最终终末吸收形式？",
+      "answerOptions": [
+        {
+          "text": "葡萄糖",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "甘油",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "麦芽糖",
+          "isCorrect": true,
+          "rationale": "麦芽糖是双糖，必须被小肠微绒毛上的麦芽糖酶水解为葡萄糖单糖后方可被吸收。"
+        },
+        {
+          "text": "氨基酸",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "葡萄糖",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "甘油",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "麦芽糖",
+          "isCorrect": true,
+          "rationale": "麦芽糖是双糖，必须被小肠微绒毛上的麦芽糖酶水解为葡萄糖单糖后方可被吸收。"
+        },
+        {
+          "text": "氨基酸",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "麦芽糖是双糖，必须被小肠微绒毛上的麦芽糖酶水解为葡萄糖单糖后方可被吸收。",
+      "hint": "",
+      "id": 15
+    },
+    {
+      "c": "16",
+      "type": "single_choice",
+      "question": "食物中脂肪开始化学性消化的部位主要是在：",
+      "prompt": "食物中脂肪开始化学性消化的部位主要是在：",
+      "answerOptions": [
+        {
+          "text": "十二指肠",
+          "isCorrect": true,
+          "rationale": "脂肪的消化主要在十二指肠开始，依靠胰脂肪酶和胆汁的协同作用。"
+        },
+        {
+          "text": "口腔",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "十二指肠",
+          "isCorrect": true,
+          "rationale": "脂肪的消化主要在十二指肠开始，依靠胰脂肪酶和胆汁的协同作用。"
+        },
+        {
+          "text": "口腔",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "脂肪的消化主要在十二指肠开始，依靠胰脂肪酶和胆汁的协同作用。",
+      "hint": "",
+      "id": 16
+    },
+    {
+      "c": "17",
+      "type": "single_choice",
+      "question": "能特异性激活胰腺分泌的糜蛋白酶原的物质是：",
+      "prompt": "能特异性激活胰腺分泌的糜蛋白酶原的物质是：",
+      "answerOptions": [
+        {
+          "text": "肠致活酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "糜蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": true,
+          "rationale": "肠致活酶激活胰蛋白酶原生成胰蛋白酶；胰蛋白酶激活糜蛋白酶原为糜蛋白酶。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肠致活酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "糜蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": true,
+          "rationale": "肠致活酶激活胰蛋白酶原生成胰蛋白酶；胰蛋白酶激活糜蛋白酶原为糜蛋白酶。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肠致活酶激活胰蛋白酶原生成胰蛋白酶；胰蛋白酶激活糜蛋白酶原为糜蛋白酶。",
+      "hint": "",
+      "id": 17
+    },
+    {
+      "c": "18",
+      "type": "single_choice",
+      "question": "管壁肌层中明确存在骨骼肌成分的消化管是：",
+      "prompt": "管壁肌层中明确存在骨骼肌成分的消化管是：",
+      "answerOptions": [
+        {
+          "text": "食管",
+          "isCorrect": true,
+          "rationale": "食管上1/3为骨骼肌，下1/3为平滑肌，中1/3为骨骼肌与平滑肌混合。"
+        },
+        {
+          "text": "横结肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "空肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "食管",
+          "isCorrect": true,
+          "rationale": "食管上1/3为骨骼肌，下1/3为平滑肌，中1/3为骨骼肌与平滑肌混合。"
+        },
+        {
+          "text": "横结肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "空肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "食管上1/3为骨骼肌，下1/3为平滑肌，中1/3为骨骼肌与平滑肌混合。",
+      "hint": "",
+      "id": 18
+    },
+    {
+      "c": "19",
+      "type": "single_choice",
+      "question": "生成胆汁的器官是：",
+      "prompt": "生成胆汁的器官是：",
+      "answerOptions": [
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏",
+          "isCorrect": true,
+          "rationale": "肝细胞分泌胆汁。"
+        }
+      ],
+      "options": [
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏",
+          "isCorrect": true,
+          "rationale": "肝细胞分泌胆汁。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肝细胞分泌胆汁。",
+      "hint": "",
+      "id": 19
+    },
+    {
+      "c": "20",
+      "type": "single_choice",
+      "question": "分泌物中含有分解糖、蛋白、脂类多种强效消化酶的腺体是：",
+      "prompt": "分泌物中含有分解糖、蛋白、脂类多种强效消化酶的腺体是：",
+      "answerOptions": [
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "胰腺外分泌部产生胰淀粉酶、胰脂肪酶、胰蛋白酶原等全套消化酶。"
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "胰腺外分泌部产生胰淀粉酶、胰脂肪酶、胰蛋白酶原等全套消化酶。"
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胰腺外分泌部产生胰淀粉酶、胰脂肪酶、胰蛋白酶原等全套消化酶。",
+      "hint": "",
+      "id": 20
+    },
+    {
+      "c": "21",
+      "type": "single_choice",
+      "question": "胆汁与胰液共同进入哪个器官参与化学消化？",
+      "prompt": "胆汁与胰液共同进入哪个器官参与化学消化？",
+      "answerOptions": [
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "十二指肠（小肠）",
+          "isCorrect": true,
+          "rationale": "两管开口于十二指肠降部。"
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "十二指肠（小肠）",
+          "isCorrect": true,
+          "rationale": "两管开口于十二指肠降部。"
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "两管开口于十二指肠降部。",
+      "hint": "",
+      "id": 21
+    },
+    {
+      "c": "22",
+      "type": "single_choice",
+      "question": "人体内既是外分泌腺又是内分泌腺的重要消化器官是：",
+      "prompt": "人体内既是外分泌腺又是内分泌腺的重要消化器官是：",
+      "answerOptions": [
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "胰腺外分泌部产生胰液，内分泌部胰岛分泌胰岛素和胰高血糖素。"
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "胰腺外分泌部产生胰液，内分泌部胰岛分泌胰岛素和胰高血糖素。"
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胰腺外分泌部产生胰液，内分泌部胰岛分泌胰岛素和胰高血糖素。",
+      "hint": "",
+      "id": 22
+    },
+    {
+      "c": "23",
+      "type": "single_choice",
+      "question": "胃腺的壁细胞主要分泌的是：",
+      "prompt": "胃腺的壁细胞主要分泌的是：",
+      "answerOptions": [
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "HCl（盐酸）",
+          "isCorrect": true,
+          "rationale": "壁细胞分泌盐酸和内因子；主细胞分泌胃蛋白酶原。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "HCl（盐酸）",
+          "isCorrect": true,
+          "rationale": "壁细胞分泌盐酸和内因子；主细胞分泌胃蛋白酶原。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "壁细胞分泌盐酸和内因子；主细胞分泌胃蛋白酶原。",
+      "hint": "",
+      "id": 23
+    },
+    {
+      "c": "24",
+      "type": "single_choice",
+      "question": "在小肠中对蛋白质进行强力化学消化的胰源酶是：",
+      "prompt": "在小肠中对蛋白质进行强力化学消化的胰源酶是：",
+      "answerOptions": [
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": true,
+          "rationale": "胰蛋白酶在十二指肠水解蛋白质为多肽和寡肽。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": true,
+          "rationale": "胰蛋白酶在十二指肠水解蛋白质为多肽和寡肽。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胰蛋白酶在十二指肠水解蛋白质为多肽和寡肽。",
+      "hint": "",
+      "id": 24
+    },
+    {
+      "c": "25",
+      "type": "single_choice",
+      "question": "能够对脂类进行乳化分散、参与脂类消化吸收的是：",
+      "prompt": "能够对脂类进行乳化分散、参与脂类消化吸收的是：",
+      "answerOptions": [
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": true,
+          "rationale": "胆汁中的胆盐乳化脂肪增加接触面积。"
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": true,
+          "rationale": "胆汁中的胆盐乳化脂肪增加接触面积。"
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆汁中的胆盐乳化脂肪增加接触面积。",
+      "hint": "",
+      "id": 25
+    },
+    {
+      "c": "26",
+      "type": "single_choice",
+      "question": "能够激活糜蛋白酶原转化为糜蛋白酶的是：",
+      "prompt": "能够激活糜蛋白酶原转化为糜蛋白酶的是：",
+      "answerOptions": [
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": true,
+          "rationale": "胰蛋白酶限制性剪切糜蛋白酶原激活。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": true,
+          "rationale": "胰蛋白酶限制性剪切糜蛋白酶原激活。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胰蛋白酶限制性剪切糜蛋白酶原激活。",
+      "hint": "",
+      "id": 26
+    },
+    {
+      "c": "27",
+      "type": "single_choice",
+      "question": "在消化管中最初开始进行蛋白质化学性消化的是：",
+      "prompt": "在消化管中最初开始进行蛋白质化学性消化的是：",
+      "answerOptions": [
+        {
+          "text": "大肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": true,
+          "rationale": "胃液中的胃蛋白酶在强酸环境下初步水解蛋白质。"
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "大肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": true,
+          "rationale": "胃液中的胃蛋白酶在强酸环境下初步水解蛋白质。"
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胃液中的胃蛋白酶在强酸环境下初步水解蛋白质。",
+      "hint": "",
+      "id": 27
+    },
+    {
+      "c": "28",
+      "type": "single_choice",
+      "question": "人体消化道全长中最长的部分是：",
+      "prompt": "人体消化道全长中最长的部分是：",
+      "answerOptions": [
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": true,
+          "rationale": "成人小肠全长约 5~7 米。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": true,
+          "rationale": "成人小肠全长约 5~7 米。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "成人小肠全长约 5~7 米。",
+      "hint": "",
+      "id": 28
+    },
+    {
+      "c": "29",
+      "type": "single_choice",
+      "question": "人体最重要、最主要的消化和吸收场所是：",
+      "prompt": "人体最重要、最主要的消化和吸收场所是：",
+      "answerOptions": [
+        {
+          "text": "大肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": true,
+          "rationale": "小肠因表面积巨大、停留时间长、酶系全面成为消化吸收核心部位。"
+        }
+      ],
+      "options": [
+        {
+          "text": "大肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": true,
+          "rationale": "小肠因表面积巨大、停留时间长、酶系全面成为消化吸收核心部位。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "小肠因表面积巨大、停留时间长、酶系全面成为消化吸收核心部位。",
+      "hint": "",
+      "id": 29
+    },
+    {
+      "c": "30",
+      "type": "single_choice",
+      "question": "肠道寄生细菌能够合成VitK和B族维生素的消化道部位是：",
+      "prompt": "肠道寄生细菌能够合成VitK和B族维生素的消化道部位是：",
+      "answerOptions": [
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大肠",
+          "isCorrect": true,
+          "rationale": "大肠内细菌利用残渣合成维生素K和维生素B族。"
+        }
+      ],
+      "options": [
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大肠",
+          "isCorrect": true,
+          "rationale": "大肠内细菌利用残渣合成维生素K和维生素B族。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "大肠内细菌利用残渣合成维生素K和维生素B族。",
+      "hint": "",
+      "id": 30
+    },
+    {
+      "c": "31",
+      "type": "multiple_select",
+      "question": "能够显著增加小肠消化吸收表面积的特化结构有：",
+      "prompt": "能够显著增加小肠消化吸收表面积的特化结构有：",
+      "answerOptions": [
+        {
+          "text": "固有层",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "吸收上皮",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠皱襞",
+          "isCorrect": true,
+          "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。"
+        },
+        {
+          "text": "小肠绒毛",
+          "isCorrect": true,
+          "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。"
+        },
+        {
+          "text": "微绒毛",
+          "isCorrect": true,
+          "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。"
+        }
+      ],
+      "options": [
+        {
+          "text": "固有层",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "吸收上皮",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠皱襞",
+          "isCorrect": true,
+          "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。"
+        },
+        {
+          "text": "小肠绒毛",
+          "isCorrect": true,
+          "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。"
+        },
+        {
+          "text": "微绒毛",
+          "isCorrect": true,
+          "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。",
+      "hint": "",
+      "id": 31
+    },
+    {
+      "c": "32",
+      "type": "multiple_select",
+      "question": "下列消化管道中，能够进行化学性消化的有：",
+      "prompt": "下列消化管道中，能够进行化学性消化的有：",
+      "answerOptions": [
+        {
+          "text": "口腔",
+          "isCorrect": true,
+          "rationale": "口腔含唾液淀粉酶，空肠有胰液、肠液强力化学消化；食管和大肠不具备显著化学消化。"
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "横结肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "空肠",
+          "isCorrect": true,
+          "rationale": "口腔含唾液淀粉酶，空肠有胰液、肠液强力化学消化；食管和大肠不具备显著化学消化。"
+        },
+        {
+          "text": "乙状结肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "口腔",
+          "isCorrect": true,
+          "rationale": "口腔含唾液淀粉酶，空肠有胰液、肠液强力化学消化；食管和大肠不具备显著化学消化。"
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "横结肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "空肠",
+          "isCorrect": true,
+          "rationale": "口腔含唾液淀粉酶，空肠有胰液、肠液强力化学消化；食管和大肠不具备显著化学消化。"
+        },
+        {
+          "text": "乙状结肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "口腔含唾液淀粉酶，空肠有胰液、肠液强力化学消化；食管和大肠不具备显著化学消化。",
+      "hint": "",
+      "id": 32
+    },
+    {
+      "c": "33",
+      "type": "multiple_select",
+      "question": "下列器官中能够分泌消化酶的有：",
+      "prompt": "下列器官中能够分泌消化酶的有：",
+      "answerOptions": [
+        {
+          "text": "胃底腺",
+          "isCorrect": true,
+          "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。"
+        },
+        {
+          "text": "唾液腺",
+          "isCorrect": true,
+          "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。"
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。"
+        },
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大肠腺",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胃底腺",
+          "isCorrect": true,
+          "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。"
+        },
+        {
+          "text": "唾液腺",
+          "isCorrect": true,
+          "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。"
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。"
+        },
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大肠腺",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。",
+      "hint": "",
+      "id": 33
+    },
+    {
+      "c": "34",
+      "type": "multiple_select",
+      "question": "解剖学上属于下消化道的器官包括：",
+      "prompt": "解剖学上属于下消化道的器官包括：",
+      "answerOptions": [
+        {
+          "text": "降结肠",
+          "isCorrect": true,
+          "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。"
+        },
+        {
+          "text": "空肠",
+          "isCorrect": true,
+          "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。"
+        },
+        {
+          "text": "盲肠",
+          "isCorrect": true,
+          "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。"
+        },
+        {
+          "text": "十二指肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "降结肠",
+          "isCorrect": true,
+          "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。"
+        },
+        {
+          "text": "空肠",
+          "isCorrect": true,
+          "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。"
+        },
+        {
+          "text": "盲肠",
+          "isCorrect": true,
+          "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。"
+        },
+        {
+          "text": "十二指肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。",
+      "hint": "",
+      "id": 34
+    },
+    {
+      "c": "35",
+      "type": "multiple_select",
+      "question": "下列关于肝脏生理功能的叙述，正确的有：",
+      "prompt": "下列关于肝脏生理功能的叙述，正确的有：",
+      "answerOptions": [
+        {
+          "text": "肝脏具有强大的生物转化和解毒作用",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。"
+        },
+        {
+          "text": "肝脏分泌的球蛋白承担运输及抗感染作用",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏能够将葡萄糖转化为肝糖原并储存",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。"
+        },
+        {
+          "text": "肝脏合成的白蛋白对于维持血浆胶体渗透压有重要作用",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。"
+        },
+        {
+          "text": "肝脏分泌的胆汁中含有消化脂类物质的消化酶",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肝脏具有强大的生物转化和解毒作用",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。"
+        },
+        {
+          "text": "肝脏分泌的球蛋白承担运输及抗感染作用",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏能够将葡萄糖转化为肝糖原并储存",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。"
+        },
+        {
+          "text": "肝脏合成的白蛋白对于维持血浆胶体渗透压有重要作用",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。"
+        },
+        {
+          "text": "肝脏分泌的胆汁中含有消化脂类物质的消化酶",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。",
+      "hint": "",
+      "id": 35
+    },
+    {
+      "c": "36",
+      "type": "multiple_select",
+      "question": "胰腺外分泌和内分泌分泌的活性物质包括：",
+      "prompt": "胰腺外分泌和内分泌分泌的活性物质包括：",
+      "answerOptions": [
+        {
+          "text": "胆囊收缩素",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": true,
+          "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。"
+        },
+        {
+          "text": "淀粉酶",
+          "isCorrect": true,
+          "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。"
+        },
+        {
+          "text": "糜蛋白酶原",
+          "isCorrect": true,
+          "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胆囊收缩素",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": true,
+          "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。"
+        },
+        {
+          "text": "淀粉酶",
+          "isCorrect": true,
+          "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。"
+        },
+        {
+          "text": "糜蛋白酶原",
+          "isCorrect": true,
+          "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。",
+      "hint": "",
+      "id": 36
+    },
+    {
+      "c": "37",
+      "type": "multiple_select",
+      "question": "下列关于消化吸收的叙述，正确的有：",
+      "prompt": "下列关于消化吸收的叙述，正确的有：",
+      "answerOptions": [
+        {
+          "text": "小肠是吸收的重要场所，胃无吸收功能",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "糖和氨基酸吸收后先经门静脉进入肝脏，后由肝静脉汇入体循环",
+          "isCorrect": true,
+          "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。"
+        },
+        {
+          "text": "大肠能够吸收水分、无机盐、VitB12和VitK",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "脂类物质先吸收入乳糜管，随淋巴循环汇入体循环",
+          "isCorrect": true,
+          "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。"
+        },
+        {
+          "text": "胆汁有助于脂类物质消化并能够协助脂溶性维生素的吸收",
+          "isCorrect": true,
+          "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。"
+        }
+      ],
+      "options": [
+        {
+          "text": "小肠是吸收的重要场所，胃无吸收功能",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "糖和氨基酸吸收后先经门静脉进入肝脏，后由肝静脉汇入体循环",
+          "isCorrect": true,
+          "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。"
+        },
+        {
+          "text": "大肠能够吸收水分、无机盐、VitB12和VitK",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "脂类物质先吸收入乳糜管，随淋巴循环汇入体循环",
+          "isCorrect": true,
+          "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。"
+        },
+        {
+          "text": "胆汁有助于脂类物质消化并能够协助脂溶性维生素的吸收",
+          "isCorrect": true,
+          "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。",
+      "hint": "",
+      "id": 37
+    },
+    {
+      "c": "38",
+      "type": "multiple_select",
+      "question": "下列消化液中含有消化酶的有：",
+      "prompt": "下列消化液中含有消化酶的有：",
+      "answerOptions": [
+        {
+          "text": "胃液",
+          "isCorrect": true,
+          "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。"
+        },
+        {
+          "text": "胰液",
+          "isCorrect": true,
+          "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。"
+        },
+        {
+          "text": "大肠液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "唾液",
+          "isCorrect": true,
+          "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。"
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胃液",
+          "isCorrect": true,
+          "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。"
+        },
+        {
+          "text": "胰液",
+          "isCorrect": true,
+          "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。"
+        },
+        {
+          "text": "大肠液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "唾液",
+          "isCorrect": true,
+          "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。"
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。",
+      "hint": "",
+      "id": 38
+    },
+    {
+      "c": "39",
+      "type": "multiple_select",
+      "question": "人体能够分泌淀粉酶的消化腺体有：",
+      "prompt": "人体能够分泌淀粉酶的消化腺体有：",
+      "answerOptions": [
+        {
+          "text": "唾液腺",
+          "isCorrect": true,
+          "rationale": "唾液腺分泌唾液淀粉酶，胰腺分泌胰淀粉酶。"
+        },
+        {
+          "text": "胃底腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "唾液腺分泌唾液淀粉酶，胰腺分泌胰淀粉酶。"
+        },
+        {
+          "text": "大肠腺",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "唾液腺",
+          "isCorrect": true,
+          "rationale": "唾液腺分泌唾液淀粉酶，胰腺分泌胰淀粉酶。"
+        },
+        {
+          "text": "胃底腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "唾液腺分泌唾液淀粉酶，胰腺分泌胰淀粉酶。"
+        },
+        {
+          "text": "大肠腺",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "唾液腺分泌唾液淀粉酶，胰腺分泌胰淀粉酶。",
+      "hint": "",
+      "id": 39
+    },
+    {
+      "c": "40",
+      "type": "multiple_select",
+      "question": "人类正常唾液当中包含的成分有：",
+      "prompt": "人类正常唾液当中包含的成分有：",
+      "answerOptions": [
+        {
+          "text": "溶菌酶",
+          "isCorrect": true,
+          "rationale": "唾液主要含有唾液淀粉酶、溶菌酶和黏蛋白。"
+        },
+        {
+          "text": "脂肪酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "核糖核酸酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淀粉酶",
+          "isCorrect": true,
+          "rationale": "唾液主要含有唾液淀粉酶、溶菌酶和黏蛋白。"
+        }
+      ],
+      "options": [
+        {
+          "text": "溶菌酶",
+          "isCorrect": true,
+          "rationale": "唾液主要含有唾液淀粉酶、溶菌酶和黏蛋白。"
+        },
+        {
+          "text": "脂肪酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "核糖核酸酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淀粉酶",
+          "isCorrect": true,
+          "rationale": "唾液主要含有唾液淀粉酶、溶菌酶和黏蛋白。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "唾液主要含有唾液淀粉酶、溶菌酶和黏蛋白。",
+      "hint": "",
+      "id": 40
+    },
+    {
+      "c": "41",
+      "type": "judge",
+      "question": "【判断题】所有的营养物质都是通过小肠壁毛细血管吸收入血的。",
+      "prompt": "【判断题】所有的营养物质都是通过小肠壁毛细血管吸收入血的。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。长链脂肪酸和乳糜微粒等脂类主要经毛细淋巴管（乳糜管）吸收，汇入胸导管进入体循环。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。长链脂肪酸和乳糜微粒等脂类主要经毛细淋巴管（乳糜管）吸收，汇入胸导管进入体循环。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。长链脂肪酸和乳糜微粒等脂类主要经毛细淋巴管（乳糜管）吸收，汇入胸导管进入体循环。",
+      "hint": "",
+      "id": 41
+    },
+    {
+      "c": "42",
+      "type": "judge",
+      "question": "【判断题】肝门静脉进入肝脏后，经肝窦、中央静脉，最后由肝静脉汇入下腔静脉。",
+      "prompt": "【判断题】肝门静脉进入肝脏后，经肝窦、中央静脉，最后由肝静脉汇入下腔静脉。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。门静脉收集腹腔不成对脏器血液入肝，经肝窦滤过后汇入肝静脉，注入下腔静脉。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。门静脉收集腹腔不成对脏器血液入肝，经肝窦滤过后汇入肝静脉，注入下腔静脉。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。门静脉收集腹腔不成对脏器血液入肝，经肝窦滤过后汇入肝静脉，注入下腔静脉。",
+      "hint": "",
+      "id": 42
+    },
+    {
+      "c": "43",
+      "type": "judge",
+      "question": "【判断题】胆囊具有分泌和储存胆汁的功能。",
+      "prompt": "【判断题】胆囊具有分泌和储存胆汁的功能。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胆汁由肝细胞分泌，胆囊仅有储存、浓缩和排出胆汁的功能，无分泌胆汁作用。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胆汁由肝细胞分泌，胆囊仅有储存、浓缩和排出胆汁的功能，无分泌胆汁作用。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。胆汁由肝细胞分泌，胆囊仅有储存、浓缩和排出胆汁的功能，无分泌胆汁作用。",
+      "hint": "",
+      "id": 43
+    },
+    {
+      "c": "44",
+      "type": "judge",
+      "question": "【判断题】舌上的味蕾是感知冷热觉的特化神经末梢。",
+      "prompt": "【判断题】舌上的味蕾是感知冷热觉的特化神经末梢。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。味蕾是感受味觉（酸、甜、苦、咸、鲜）的化学感受器，冷热觉由游离神经末梢感知。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。味蕾是感受味觉（酸、甜、苦、咸、鲜）的化学感受器，冷热觉由游离神经末梢感知。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。味蕾是感受味觉（酸、甜、苦、咸、鲜）的化学感受器，冷热觉由游离神经末梢感知。",
+      "hint": "",
+      "id": 44
+    },
+    {
+      "c": "45",
+      "type": "judge",
+      "question": "【判断题】构成食管壁的肌层中不仅有平滑肌还有骨骼肌的存在。",
+      "prompt": "【判断题】构成食管壁的肌层中不仅有平滑肌还有骨骼肌的存在。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。食管肌层上1/3为骨骼肌，下1/3为平滑肌，中1/3两者兼有。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。食管肌层上1/3为骨骼肌，下1/3为平滑肌，中1/3两者兼有。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。食管肌层上1/3为骨骼肌，下1/3为平滑肌，中1/3两者兼有。",
+      "hint": "",
+      "id": 45
+    },
+    {
+      "c": "46",
+      "type": "judge",
+      "question": "【判断题】胃内仅进行化学和机械性消化，而没有任何吸收功能。",
+      "prompt": "【判断题】胃内仅进行化学和机械性消化，而没有任何吸收功能。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胃可吸收少量的水、无机盐、乙醇（酒精）及脂溶性药物（如阿司匹林）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胃可吸收少量的水、无机盐、乙醇（酒精）及脂溶性药物（如阿司匹林）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。胃可吸收少量的水、无机盐、乙醇（酒精）及脂溶性药物（如阿司匹林）。",
+      "hint": "",
+      "id": 46
+    },
+    {
+      "c": "47",
+      "type": "judge",
+      "question": "【判断题】脂肪的化学消化主要依赖于胆汁中的脂肪酶。",
+      "prompt": "【判断题】脂肪的化学消化主要依赖于胆汁中的脂肪酶。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胆汁中根本不含消化酶！脂肪的化学水解酶解依赖胰液中的胰脂肪酶。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胆汁中根本不含消化酶！脂肪的化学水解酶解依赖胰液中的胰脂肪酶。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。胆汁中根本不含消化酶！脂肪的化学水解酶解依赖胰液中的胰脂肪酶。",
+      "hint": "",
+      "id": 47
+    },
+    {
+      "c": "48",
+      "type": "judge",
+      "question": "【判断题】胃大部切除引发维生素B12吸收障碍的原因是由于维生素B12主要在胃内吸收。",
+      "prompt": "【判断题】胃大部切除引发维生素B12吸收障碍的原因是由于维生素B12主要在胃内吸收。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。维生素B12吸收部位在回肠末端。胃大部切除导致壁细胞减少、内因子缺乏，使VitB12无法结合受体被吸收。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。维生素B12吸收部位在回肠末端。胃大部切除导致壁细胞减少、内因子缺乏，使VitB12无法结合受体被吸收。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。维生素B12吸收部位在回肠末端。胃大部切除导致壁细胞减少、内因子缺乏，使VitB12无法结合受体被吸收。",
+      "hint": "",
+      "id": 48
+    },
+    {
+      "c": "49",
+      "type": "judge",
+      "question": "【判断题】大肠无化学性消化和吸收作用，主要功能是将食物残渣排出体外。",
+      "prompt": "【判断题】大肠无化学性消化和吸收作用，主要功能是将食物残渣排出体外。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。大肠能大量吸收水分和电解质，肠道细菌还能合成维生素K和B族维生素供吸收。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。大肠能大量吸收水分和电解质，肠道细菌还能合成维生素K和B族维生素供吸收。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。大肠能大量吸收水分和电解质，肠道细菌还能合成维生素K和B族维生素供吸收。",
+      "hint": "",
+      "id": 49
+    },
+    {
+      "c": "50",
+      "type": "judge",
+      "question": "【判断题】胃蛋白酶随食糜进入小肠后能够激活胰蛋白酶原。",
+      "prompt": "【判断题】胃蛋白酶随食糜进入小肠后能够激活胰蛋白酶原。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胃蛋白酶进入小肠弱碱性环境即失活变性；激活胰蛋白酶原的是十二指肠黏膜分泌的肠致活酶（肠激酶）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胃蛋白酶进入小肠弱碱性环境即失活变性；激活胰蛋白酶原的是十二指肠黏膜分泌的肠致活酶（肠激酶）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。胃蛋白酶进入小肠弱碱性环境即失活变性；激活胰蛋白酶原的是十二指肠黏膜分泌的肠致活酶（肠激酶）。",
+      "hint": "",
+      "id": 50
+    },
+    {
+      "c": "51",
+      "type": "judge",
+      "question": "【判断题】胃排空的速度与食物的理化性质和营养成分无关。",
+      "prompt": "【判断题】胃排空的速度与食物的理化性质和营养成分无关。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胃排空速度：糖类 > 蛋白质 > 脂肪。稀的、流质食物快于稠的、固态食物。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胃排空速度：糖类 > 蛋白质 > 脂肪。稀的、流质食物快于稠的、固态食物。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。胃排空速度：糖类 > 蛋白质 > 脂肪。稀的、流质食物快于稠的、固态食物。",
+      "hint": "",
+      "id": 51
+    },
+    {
+      "c": "52",
+      "type": "judge",
+      "question": "【判断题】小肠绒毛是由黏膜层与黏膜下层共同向管腔形成的隆起突起。",
+      "prompt": "【判断题】小肠绒毛是由黏膜层与黏膜下层共同向管腔形成的隆起突起。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。小肠皱襞由黏膜与黏膜下层共同构成；小肠绒毛仅由黏膜上皮和固有层突向肠腔形成。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。小肠皱襞由黏膜与黏膜下层共同构成；小肠绒毛仅由黏膜上皮和固有层突向肠腔形成。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。小肠皱襞由黏膜与黏膜下层共同构成；小肠绒毛仅由黏膜上皮和固有层突向肠腔形成。",
+      "hint": "",
+      "id": 52
+    },
+    {
+      "c": "53",
+      "type": "judge",
+      "question": "【判断题】交感神经兴奋能够促进消化道蠕动和消化腺分泌消化酶。",
+      "prompt": "【判断题】交感神经兴奋能够促进消化道蠕动和消化腺分泌消化酶。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。副交感神经（迷走神经）兴奋促进蠕动和分泌；交感神经兴奋抑制消化道运动与腺体分泌。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。副交感神经（迷走神经）兴奋促进蠕动和分泌；交感神经兴奋抑制消化道运动与腺体分泌。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。副交感神经（迷走神经）兴奋促进蠕动和分泌；交感神经兴奋抑制消化道运动与腺体分泌。",
+      "hint": "",
+      "id": 53
+    },
+    {
+      "c": "54",
+      "type": "judge",
+      "question": "【判断题】舌的一般感觉及味觉均由三叉神经传导至相应的感觉中枢。",
+      "prompt": "【判断题】舌的一般感觉及味觉均由三叉神经传导至相应的感觉中枢。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。舌前2/3一般感觉由三叉神经支配，味觉由面神经鼓索传导；舌后1/3一般感觉与味觉由舌咽神经支配。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。舌前2/3一般感觉由三叉神经支配，味觉由面神经鼓索传导；舌后1/3一般感觉与味觉由舌咽神经支配。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。舌前2/3一般感觉由三叉神经支配，味觉由面神经鼓索传导；舌后1/3一般感觉与味觉由舌咽神经支配。",
+      "hint": "",
+      "id": 54
+    },
+    {
+      "c": "55",
+      "type": "fill_blank",
+      "question": "消化系统由消化道和____构成，常把____到____的消化管道称为上消化道。",
+      "prompt": "消化系统由消化道和____构成，常把____到____的消化管道称为上消化道。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "消化腺",
+        "口腔",
+        "十二指肠"
+      ],
+      "blanks": [
+        "消化腺",
+        "口腔",
+        "十二指肠"
+      ],
+      "rationale": "临床与解剖上通常以屈氏韧带（十二指肠悬韧带）为界，口腔到十二指肠称为上消化道。",
+      "hint": "",
+      "id": 55
+    },
+    {
+      "c": "56",
+      "type": "fill_blank",
+      "question": "小肠包括____、____和____三部分，是食物消化和吸收的主要场所，VitB12的吸收在____进行。",
+      "prompt": "小肠包括____、____和____三部分，是食物消化和吸收的主要场所，VitB12的吸收在____进行。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "十二指肠",
+        "空肠",
+        "回肠",
+        "回肠"
+      ],
+      "blanks": [
+        "十二指肠",
+        "空肠",
+        "回肠",
+        "回肠"
+      ],
+      "rationale": "小肠分为十二指肠、空肠、回肠。回肠末端是维生素B12与内因子复合物吸收的特异性部位。",
+      "hint": "",
+      "id": 56
+    },
+    {
+      "c": "57",
+      "type": "fill_blank",
+      "question": "肝脏的基本结构和功能单位是____，肝细胞产生的胆汁可储存于____中，进食后经____进入____中参与对脂肪的消化。",
+      "prompt": "肝脏的基本结构和功能单位是____，肝细胞产生的胆汁可储存于____中，进食后经____进入____中参与对脂肪的消化。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "肝小叶",
+        "胆囊",
+        "胆总管",
+        "十二指肠"
+      ],
+      "blanks": [
+        "肝小叶",
+        "胆囊",
+        "胆总管",
+        "十二指肠"
+      ],
+      "rationale": "肝小叶是肝结构与功能单位；胆汁在胆囊浓缩储存，进食后经胆总管排入十二指肠降部大乳头。",
+      "hint": "",
+      "id": 57
+    },
+    {
+      "c": "58",
+      "type": "fill_blank",
+      "question": "胃____分泌的胃蛋白酶原在HCl作用下活化为____，与胰腺分泌的____和____共同参与对蛋白质的化学消化。",
+      "prompt": "胃____分泌的胃蛋白酶原在HCl作用下活化为____，与胰腺分泌的____和____共同参与对蛋白质的化学消化。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "主细胞",
+        "胃蛋白酶",
+        "胰蛋白酶",
+        "糜蛋白酶"
+      ],
+      "blanks": [
+        "主细胞",
+        "胃蛋白酶",
+        "胰蛋白酶",
+        "糜蛋白酶"
+      ],
+      "rationale": "胃底腺主细胞分泌胃蛋白酶原，壁细胞分泌盐酸；胰腺外分泌部产生胰蛋白酶原与糜蛋白酶原。",
+      "hint": "",
+      "id": 58
+    },
+    {
+      "c": "59",
+      "type": "fill_blank",
+      "question": "小肠吸收的营养物质经____进入肝脏，经过处理后经____进入下腔静脉，经由此途径吸收的营养物质主要是____和____，脂类则主要通过____吸收。",
+      "prompt": "小肠吸收的营养物质经____进入肝脏，经过处理后经____进入下腔静脉，经由此途径吸收的营养物质主要是____和____，脂类则主要通过____吸收。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "门静脉",
+        "肝静脉",
+        "碳水化合物（糖）",
+        "蛋白（氨基酸）",
+        "淋巴循环"
+      ],
+      "blanks": [
+        "门静脉",
+        "肝静脉",
+        "碳水化合物（糖）",
+        "蛋白（氨基酸）",
+        "淋巴循环"
+      ],
+      "rationale": "水溶性营养素（糖、氨基酸）入门静脉到肝；长链脂肪酸与乳糜微粒入毛细淋巴管（乳糜管）。",
+      "hint": "",
+      "id": 59
+    },
+    {
+      "c": "60",
+      "type": "fill_blank",
+      "question": "唾液腺包括____、____和____，唾液中的____能对食物中的淀粉进行初步消化，____具有杀菌作用。",
+      "prompt": "唾液腺包括____、____和____，唾液中的____能对食物中的淀粉进行初步消化，____具有杀菌作用。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "腮腺",
+        "舌下腺",
+        "下颌下腺",
+        "唾液淀粉酶",
+        "溶菌酶"
+      ],
+      "blanks": [
+        "腮腺",
+        "舌下腺",
+        "下颌下腺",
+        "唾液淀粉酶",
+        "溶菌酶"
+      ],
+      "rationale": "三大唾液腺分泌唾液，含有唾液淀粉酶（分解淀粉为麦芽糖）和溶菌酶（抗菌）。",
+      "hint": "",
+      "id": 60
+    },
+    {
+      "c": "61",
+      "type": "fill_blank",
+      "question": "肝小叶包括____、____、肝血窦和门管区，门管区中存在____、____和____。",
+      "prompt": "肝小叶包括____、____、肝血窦和门管区，门管区中存在____、____和____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "中央静脉",
+        "肝细胞索",
+        "小叶间动脉",
+        "小叶间静脉",
+        "小叶间胆管"
+      ],
+      "blanks": [
+        "中央静脉",
+        "肝细胞索",
+        "小叶间动脉",
+        "小叶间静脉",
+        "小叶间胆管"
+      ],
+      "rationale": "门管区（汇管区）三联结构：小叶间动脉（营养）、小叶间静脉（门静脉分支）、小叶间胆管。",
+      "hint": "",
+      "id": 61
+    },
+    {
+      "c": "62",
+      "type": "fill_blank",
+      "question": "胰腺的外分泌部主要分泌多种____参与食物的化学性消化，内分泌部分泌____和____参与血糖的调节。",
+      "prompt": "胰腺的外分泌部主要分泌多种____参与食物的化学性消化，内分泌部分泌____和____参与血糖的调节。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "消化酶",
+        "胰岛素",
+        "胰高血糖素"
+      ],
+      "blanks": [
+        "消化酶",
+        "胰岛素",
+        "胰高血糖素"
+      ],
+      "rationale": "胰腺是兼具外分泌与内分泌的腺体。外分泌部分泌胰液，内分泌部（胰岛）β细胞泌胰岛素、α细胞泌胰高血糖素。",
+      "hint": "",
+      "id": 62
+    },
+    {
+      "c": "63",
+      "type": "fill_blank",
+      "question": "牙由形态上可分为____、____和____三部分。",
+      "prompt": "牙由形态上可分为____、____和____三部分。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "牙冠",
+        "牙颈",
+        "牙根"
+      ],
+      "blanks": [
+        "牙冠",
+        "牙颈",
+        "牙根"
+      ],
+      "rationale": "牙解剖上自上而下分为牙冠、牙颈和牙根。",
+      "hint": "",
+      "id": 63
+    },
+    {
+      "c": "64",
+      "type": "fill_blank",
+      "question": "胃借____与食管相接，借____与十二指肠相接，胃内容物进入十二指肠的过程称为____。",
+      "prompt": "胃借____与食管相接，借____与十二指肠相接，胃内容物进入十二指肠的过程称为____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "贲门",
+        "幽门",
+        "胃排空"
+      ],
+      "blanks": [
+        "贲门",
+        "幽门",
+        "胃排空"
+      ],
+      "rationale": "胃的入口为贲门，出口为幽门（有幽门括约肌）；食糜由胃排入十二指肠称为胃排空。",
+      "hint": "",
+      "id": 64
+    }
+  ],
+  "quiz": [
+    {
+      "c": "1",
+      "type": "single_choice",
+      "question": "胰液和胆汁进入哪个器官参与消化过程？",
+      "prompt": "胰液和胆汁进入哪个器官参与消化过程？",
+      "answerOptions": [
+        {
+          "text": "十二指肠",
+          "isCorrect": true,
+          "rationale": "胆总管与胰管常汇合成肝胰壶腹，开口于十二指肠大乳头。"
+        },
+        {
+          "text": "回肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "空肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "十二指肠",
+          "isCorrect": true,
+          "rationale": "胆总管与胰管常汇合成肝胰壶腹，开口于十二指肠大乳头。"
+        },
+        {
+          "text": "回肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "空肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆总管与胰管常汇合成肝胰壶腹，开口于十二指肠大乳头。",
+      "hint": "",
+      "id": 1
+    },
+    {
+      "c": "2",
+      "type": "single_choice",
+      "question": "胆汁参与下列哪种物质的消化和吸收？",
+      "prompt": "胆汁参与下列哪种物质的消化和吸收？",
+      "answerOptions": [
+        {
+          "text": "核酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淀粉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "脂肪",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶，主要含胆盐，乳化脂肪形成微滴，促进脂肪消化吸收。"
+        },
+        {
+          "text": "蛋白质",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "核酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淀粉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "脂肪",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶，主要含胆盐，乳化脂肪形成微滴，促进脂肪消化吸收。"
+        },
+        {
+          "text": "蛋白质",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆汁不含消化酶，主要含胆盐，乳化脂肪形成微滴，促进脂肪消化吸收。",
+      "hint": "",
+      "id": 2
+    },
+    {
+      "c": "3",
+      "type": "single_choice",
+      "question": "胆汁产生于：",
+      "prompt": "胆汁产生于：",
+      "answerOptions": [
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆总管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏",
+          "isCorrect": true,
+          "rationale": "注意区分：胆汁由肝细胞持续分泌产生，胆囊仅储存和浓缩胆汁。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆总管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏",
+          "isCorrect": true,
+          "rationale": "注意区分：胆汁由肝细胞持续分泌产生，胆囊仅储存和浓缩胆汁。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "注意区分：胆汁由肝细胞持续分泌产生，胆囊仅储存和浓缩胆汁。",
+      "hint": "",
+      "id": 3
+    },
+    {
+      "c": "4",
+      "type": "single_choice",
+      "question": "下面由胰腺分泌的物质是：",
+      "prompt": "下面由胰腺分泌的物质是：",
+      "answerOptions": [
+        {
+          "text": "糜蛋白酶",
+          "isCorrect": true,
+          "rationale": "内因子由胃壁细胞分泌；胆囊收缩素由小肠I细胞分泌；胃泌素由胃窦G细胞分泌；糜蛋白酶由胰腺分泌。"
+        },
+        {
+          "text": "胆囊收缩素",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "内因子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃泌素",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "糜蛋白酶",
+          "isCorrect": true,
+          "rationale": "内因子由胃壁细胞分泌；胆囊收缩素由小肠I细胞分泌；胃泌素由胃窦G细胞分泌；糜蛋白酶由胰腺分泌。"
+        },
+        {
+          "text": "胆囊收缩素",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "内因子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃泌素",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "内因子由胃壁细胞分泌；胆囊收缩素由小肠I细胞分泌；胃泌素由胃窦G细胞分泌；糜蛋白酶由胰腺分泌。",
+      "hint": "",
+      "id": 4
+    },
+    {
+      "c": "5",
+      "type": "single_choice",
+      "question": "下列消化管道位置中，正常情况下不会出现胆汁的是：",
+      "prompt": "下列消化管道位置中，正常情况下不会出现胆汁的是：",
+      "answerOptions": [
+        {
+          "text": "肝左管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆总管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": true,
+          "rationale": "胆汁由肝内外胆道排入十二指肠，正常有幽门括约肌阻挡逆流，胃内不应出现胆汁。"
+        },
+        {
+          "text": "十二指肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肝左管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆总管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": true,
+          "rationale": "胆汁由肝内外胆道排入十二指肠，正常有幽门括约肌阻挡逆流，胃内不应出现胆汁。"
+        },
+        {
+          "text": "十二指肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆汁由肝内外胆道排入十二指肠，正常有幽门括约肌阻挡逆流，胃内不应出现胆汁。",
+      "hint": "",
+      "id": 5
+    },
+    {
+      "c": "6",
+      "type": "single_choice",
+      "question": "大肠能够吸收的主要物质是：",
+      "prompt": "大肠能够吸收的主要物质是：",
+      "answerOptions": [
+        {
+          "text": "水和麦芽糖",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "无机盐和部分氨基酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "葡萄糖和脂肪",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "水和无机盐",
+          "isCorrect": true,
+          "rationale": "大肠黏膜主要吸收水分和无机盐，使食糜浓缩成粪便。"
+        }
+      ],
+      "options": [
+        {
+          "text": "水和麦芽糖",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "无机盐和部分氨基酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "葡萄糖和脂肪",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "水和无机盐",
+          "isCorrect": true,
+          "rationale": "大肠黏膜主要吸收水分和无机盐，使食糜浓缩成粪便。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "大肠黏膜主要吸收水分和无机盐，使食糜浓缩成粪便。",
+      "hint": "",
+      "id": 6
+    },
+    {
+      "c": "7",
+      "type": "single_choice",
+      "question": "小肠绒毛结构所包含的层次是：",
+      "prompt": "小肠绒毛结构所包含的层次是：",
+      "answerOptions": [
+        {
+          "text": "黏膜上皮+固有层",
+          "isCorrect": true,
+          "rationale": "考点辨析：小肠皱襞由黏膜+黏膜下层向肠腔突出形成；小肠绒毛仅由黏膜上皮和固有层向肠腔突起形成。"
+        },
+        {
+          "text": "黏膜上皮+固有层+黏膜肌层",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "黏膜上皮",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "黏膜上皮+固有层+黏膜下层",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "黏膜上皮+固有层",
+          "isCorrect": true,
+          "rationale": "考点辨析：小肠皱襞由黏膜+黏膜下层向肠腔突出形成；小肠绒毛仅由黏膜上皮和固有层向肠腔突起形成。"
+        },
+        {
+          "text": "黏膜上皮+固有层+黏膜肌层",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "黏膜上皮",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "黏膜上皮+固有层+黏膜下层",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "考点辨析：小肠皱襞由黏膜+黏膜下层向肠腔突出形成；小肠绒毛仅由黏膜上皮和固有层向肠腔突起形成。",
+      "hint": "",
+      "id": 7
+    },
+    {
+      "c": "8",
+      "type": "single_choice",
+      "question": "关于小肠的解剖生理叙述，错误的是：",
+      "prompt": "关于小肠的解剖生理叙述，错误的是：",
+      "answerOptions": [
+        {
+          "text": "分为十二指肠、空肠和回肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "是消化和吸收的主要场所",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "全长约 5~7 米",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "管壁厚薄均匀，肠腔平滑",
+          "isCorrect": true,
+          "rationale": "小肠管壁有密集的环状皱襞和小肠绒毛，肠壁并非平滑均匀。"
+        }
+      ],
+      "options": [
+        {
+          "text": "分为十二指肠、空肠和回肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "是消化和吸收的主要场所",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "全长约 5~7 米",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "管壁厚薄均匀，肠腔平滑",
+          "isCorrect": true,
+          "rationale": "小肠管壁有密集的环状皱襞和小肠绒毛，肠壁并非平滑均匀。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "小肠管壁有密集的环状皱襞和小肠绒毛，肠壁并非平滑均匀。",
+      "hint": "",
+      "id": 8
+    },
+    {
+      "c": "9",
+      "type": "single_choice",
+      "question": "脂肪消化后的长链脂肪酸和乳糜微粒的主要吸收途径是：",
+      "prompt": "脂肪消化后的长链脂肪酸和乳糜微粒的主要吸收途径是：",
+      "answerOptions": [
+        {
+          "text": "直接进入门静脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "经淋巴系统进入组织供细胞利用",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "经淋巴途径进入血液",
+          "isCorrect": true,
+          "rationale": "长链脂肪酸在小肠上皮细胞内重新酯化为甘油三酯并组装成乳糜微粒，排入中央乳糜管经胸导管回流进入血液。"
+        },
+        {
+          "text": "经肠系膜静脉进入下腔静脉",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "直接进入门静脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "经淋巴系统进入组织供细胞利用",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "经淋巴途径进入血液",
+          "isCorrect": true,
+          "rationale": "长链脂肪酸在小肠上皮细胞内重新酯化为甘油三酯并组装成乳糜微粒，排入中央乳糜管经胸导管回流进入血液。"
+        },
+        {
+          "text": "经肠系膜静脉进入下腔静脉",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "长链脂肪酸在小肠上皮细胞内重新酯化为甘油三酯并组装成乳糜微粒，排入中央乳糜管经胸导管回流进入血液。",
+      "hint": "",
+      "id": 9
+    },
+    {
+      "c": "10",
+      "type": "single_choice",
+      "question": "下列不属于胆汁生理功能的是：",
+      "prompt": "下列不属于胆汁生理功能的是：",
+      "answerOptions": [
+        {
+          "text": "促进脂溶性维生素吸收",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "将脂肪酶解为脂肪酸和甘油一酯",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶，不能直接酶解脂肪；直接酶解脂肪的是胰脂肪酶。"
+        },
+        {
+          "text": "促进脂肪分解",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "乳化脂肪降低脂肪表面张力",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "促进脂溶性维生素吸收",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "将脂肪酶解为脂肪酸和甘油一酯",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶，不能直接酶解脂肪；直接酶解脂肪的是胰脂肪酶。"
+        },
+        {
+          "text": "促进脂肪分解",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "乳化脂肪降低脂肪表面张力",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆汁不含消化酶，不能直接酶解脂肪；直接酶解脂肪的是胰脂肪酶。",
+      "hint": "",
+      "id": 10
+    },
+    {
+      "c": "11",
+      "type": "single_choice",
+      "question": "下列消化液中不含任何消化酶的是：",
+      "prompt": "下列消化液中不含任何消化酶的是：",
+      "answerOptions": [
+        {
+          "text": "胰液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": true,
+          "rationale": "胆汁是唯一不含消化酶的重要消化液，其消化促进作用完全依赖胆盐的乳化作用。"
+        },
+        {
+          "text": "唾液",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胰液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": true,
+          "rationale": "胆汁是唯一不含消化酶的重要消化液，其消化促进作用完全依赖胆盐的乳化作用。"
+        },
+        {
+          "text": "唾液",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆汁是唯一不含消化酶的重要消化液，其消化促进作用完全依赖胆盐的乳化作用。",
+      "hint": "",
+      "id": 11
+    },
+    {
+      "c": "12",
+      "type": "single_choice",
+      "question": "舌乳头中感受一般触觉、痛温觉感觉（无味蕾）的是：",
+      "prompt": "舌乳头中感受一般触觉、痛温觉感觉（无味蕾）的是：",
+      "answerOptions": [
+        {
+          "text": "叶状乳头",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "菌状乳头",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "丝状乳头",
+          "isCorrect": true,
+          "rationale": "丝状乳头数量最多，上皮浅层角化，不含味蕾，司一般感觉；轮廓乳头、菌状乳头含味蕾。"
+        },
+        {
+          "text": "轮廓乳头",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "叶状乳头",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "菌状乳头",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "丝状乳头",
+          "isCorrect": true,
+          "rationale": "丝状乳头数量最多，上皮浅层角化，不含味蕾，司一般感觉；轮廓乳头、菌状乳头含味蕾。"
+        },
+        {
+          "text": "轮廓乳头",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "丝状乳头数量最多，上皮浅层角化，不含味蕾，司一般感觉；轮廓乳头、菌状乳头含味蕾。",
+      "hint": "",
+      "id": 12
+    },
+    {
+      "c": "13",
+      "type": "single_choice",
+      "question": "人体中pH值最低（酸性最强）的消化液是：",
+      "prompt": "人体中pH值最低（酸性最强）的消化液是：",
+      "answerOptions": [
+        {
+          "text": "小肠液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃液",
+          "isCorrect": true,
+          "rationale": "胃液pH为0.9~1.5，强酸性环境源于胃壁细胞分泌的盐酸。"
+        },
+        {
+          "text": "唾液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰液",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "小肠液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃液",
+          "isCorrect": true,
+          "rationale": "胃液pH为0.9~1.5，强酸性环境源于胃壁细胞分泌的盐酸。"
+        },
+        {
+          "text": "唾液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰液",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胃液pH为0.9~1.5，强酸性环境源于胃壁细胞分泌的盐酸。",
+      "hint": "",
+      "id": 13
+    },
+    {
+      "c": "14",
+      "type": "single_choice",
+      "question": "下列关于肝脏血管的叙述正确的是：",
+      "prompt": "下列关于肝脏血管的叙述正确的是：",
+      "answerOptions": [
+        {
+          "text": "肝脏的静脉血经门静脉回流入下腔静脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝静脉与肝门静脉汇合后汇入下腔静脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "门静脉血液中包含肠道吸收的全部脂类物质",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏的供血动脉是肝固有动脉，起自腹腔干",
+          "isCorrect": true,
+          "rationale": "肝固有动脉为肝营养血管，起自腹腔干的分支肝总动脉；门静脉为功能血管；肝静脉直接注入下腔静脉。"
+        }
+      ],
+      "options": [
+        {
+          "text": "肝脏的静脉血经门静脉回流入下腔静脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝静脉与肝门静脉汇合后汇入下腔静脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "门静脉血液中包含肠道吸收的全部脂类物质",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏的供血动脉是肝固有动脉，起自腹腔干",
+          "isCorrect": true,
+          "rationale": "肝固有动脉为肝营养血管，起自腹腔干的分支肝总动脉；门静脉为功能血管；肝静脉直接注入下腔静脉。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肝固有动脉为肝营养血管，起自腹腔干的分支肝总动脉；门静脉为功能血管；肝静脉直接注入下腔静脉。",
+      "hint": "",
+      "id": 14
+    },
+    {
+      "c": "15",
+      "type": "single_choice",
+      "question": "以下哪种物质不是食物消化的最终终末吸收形式？",
+      "prompt": "以下哪种物质不是食物消化的最终终末吸收形式？",
+      "answerOptions": [
+        {
+          "text": "葡萄糖",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "甘油",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "麦芽糖",
+          "isCorrect": true,
+          "rationale": "麦芽糖是双糖，必须被小肠微绒毛上的麦芽糖酶水解为葡萄糖单糖后方可被吸收。"
+        },
+        {
+          "text": "氨基酸",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "葡萄糖",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "甘油",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "麦芽糖",
+          "isCorrect": true,
+          "rationale": "麦芽糖是双糖，必须被小肠微绒毛上的麦芽糖酶水解为葡萄糖单糖后方可被吸收。"
+        },
+        {
+          "text": "氨基酸",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "麦芽糖是双糖，必须被小肠微绒毛上的麦芽糖酶水解为葡萄糖单糖后方可被吸收。",
+      "hint": "",
+      "id": 15
+    },
+    {
+      "c": "16",
+      "type": "single_choice",
+      "question": "食物中脂肪开始化学性消化的部位主要是在：",
+      "prompt": "食物中脂肪开始化学性消化的部位主要是在：",
+      "answerOptions": [
+        {
+          "text": "十二指肠",
+          "isCorrect": true,
+          "rationale": "脂肪的消化主要在十二指肠开始，依靠胰脂肪酶和胆汁的协同作用。"
+        },
+        {
+          "text": "口腔",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "十二指肠",
+          "isCorrect": true,
+          "rationale": "脂肪的消化主要在十二指肠开始，依靠胰脂肪酶和胆汁的协同作用。"
+        },
+        {
+          "text": "口腔",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "脂肪的消化主要在十二指肠开始，依靠胰脂肪酶和胆汁的协同作用。",
+      "hint": "",
+      "id": 16
+    },
+    {
+      "c": "17",
+      "type": "single_choice",
+      "question": "能特异性激活胰腺分泌的糜蛋白酶原的物质是：",
+      "prompt": "能特异性激活胰腺分泌的糜蛋白酶原的物质是：",
+      "answerOptions": [
+        {
+          "text": "肠致活酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "糜蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": true,
+          "rationale": "肠致活酶激活胰蛋白酶原生成胰蛋白酶；胰蛋白酶激活糜蛋白酶原为糜蛋白酶。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肠致活酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "糜蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": true,
+          "rationale": "肠致活酶激活胰蛋白酶原生成胰蛋白酶；胰蛋白酶激活糜蛋白酶原为糜蛋白酶。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肠致活酶激活胰蛋白酶原生成胰蛋白酶；胰蛋白酶激活糜蛋白酶原为糜蛋白酶。",
+      "hint": "",
+      "id": 17
+    },
+    {
+      "c": "18",
+      "type": "single_choice",
+      "question": "管壁肌层中明确存在骨骼肌成分的消化管是：",
+      "prompt": "管壁肌层中明确存在骨骼肌成分的消化管是：",
+      "answerOptions": [
+        {
+          "text": "食管",
+          "isCorrect": true,
+          "rationale": "食管上1/3为骨骼肌，下1/3为平滑肌，中1/3为骨骼肌与平滑肌混合。"
+        },
+        {
+          "text": "横结肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "空肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "食管",
+          "isCorrect": true,
+          "rationale": "食管上1/3为骨骼肌，下1/3为平滑肌，中1/3为骨骼肌与平滑肌混合。"
+        },
+        {
+          "text": "横结肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "空肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "食管上1/3为骨骼肌，下1/3为平滑肌，中1/3为骨骼肌与平滑肌混合。",
+      "hint": "",
+      "id": 18
+    },
+    {
+      "c": "19",
+      "type": "single_choice",
+      "question": "生成胆汁的器官是：",
+      "prompt": "生成胆汁的器官是：",
+      "answerOptions": [
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏",
+          "isCorrect": true,
+          "rationale": "肝细胞分泌胆汁。"
+        }
+      ],
+      "options": [
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏",
+          "isCorrect": true,
+          "rationale": "肝细胞分泌胆汁。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肝细胞分泌胆汁。",
+      "hint": "",
+      "id": 19
+    },
+    {
+      "c": "20",
+      "type": "single_choice",
+      "question": "分泌物中含有分解糖、蛋白、脂类多种强效消化酶的腺体是：",
+      "prompt": "分泌物中含有分解糖、蛋白、脂类多种强效消化酶的腺体是：",
+      "answerOptions": [
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "胰腺外分泌部产生胰淀粉酶、胰脂肪酶、胰蛋白酶原等全套消化酶。"
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "胰腺外分泌部产生胰淀粉酶、胰脂肪酶、胰蛋白酶原等全套消化酶。"
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胰腺外分泌部产生胰淀粉酶、胰脂肪酶、胰蛋白酶原等全套消化酶。",
+      "hint": "",
+      "id": 20
+    },
+    {
+      "c": "21",
+      "type": "single_choice",
+      "question": "胆汁与胰液共同进入哪个器官参与化学消化？",
+      "prompt": "胆汁与胰液共同进入哪个器官参与化学消化？",
+      "answerOptions": [
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "十二指肠（小肠）",
+          "isCorrect": true,
+          "rationale": "两管开口于十二指肠降部。"
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "十二指肠（小肠）",
+          "isCorrect": true,
+          "rationale": "两管开口于十二指肠降部。"
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "两管开口于十二指肠降部。",
+      "hint": "",
+      "id": 21
+    },
+    {
+      "c": "22",
+      "type": "single_choice",
+      "question": "人体内既是外分泌腺又是内分泌腺的重要消化器官是：",
+      "prompt": "人体内既是外分泌腺又是内分泌腺的重要消化器官是：",
+      "answerOptions": [
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "胰腺外分泌部产生胰液，内分泌部胰岛分泌胰岛素和胰高血糖素。"
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "胰腺外分泌部产生胰液，内分泌部胰岛分泌胰岛素和胰高血糖素。"
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胰腺外分泌部产生胰液，内分泌部胰岛分泌胰岛素和胰高血糖素。",
+      "hint": "",
+      "id": 22
+    },
+    {
+      "c": "23",
+      "type": "single_choice",
+      "question": "胃腺的壁细胞主要分泌的是：",
+      "prompt": "胃腺的壁细胞主要分泌的是：",
+      "answerOptions": [
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "HCl（盐酸）",
+          "isCorrect": true,
+          "rationale": "壁细胞分泌盐酸和内因子；主细胞分泌胃蛋白酶原。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "HCl（盐酸）",
+          "isCorrect": true,
+          "rationale": "壁细胞分泌盐酸和内因子；主细胞分泌胃蛋白酶原。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "壁细胞分泌盐酸和内因子；主细胞分泌胃蛋白酶原。",
+      "hint": "",
+      "id": 23
+    },
+    {
+      "c": "24",
+      "type": "single_choice",
+      "question": "在小肠中对蛋白质进行强力化学消化的胰源酶是：",
+      "prompt": "在小肠中对蛋白质进行强力化学消化的胰源酶是：",
+      "answerOptions": [
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": true,
+          "rationale": "胰蛋白酶在十二指肠水解蛋白质为多肽和寡肽。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": true,
+          "rationale": "胰蛋白酶在十二指肠水解蛋白质为多肽和寡肽。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胰蛋白酶在十二指肠水解蛋白质为多肽和寡肽。",
+      "hint": "",
+      "id": 24
+    },
+    {
+      "c": "25",
+      "type": "single_choice",
+      "question": "能够对脂类进行乳化分散、参与脂类消化吸收的是：",
+      "prompt": "能够对脂类进行乳化分散、参与脂类消化吸收的是：",
+      "answerOptions": [
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": true,
+          "rationale": "胆汁中的胆盐乳化脂肪增加接触面积。"
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": true,
+          "rationale": "胆汁中的胆盐乳化脂肪增加接触面积。"
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆汁中的胆盐乳化脂肪增加接触面积。",
+      "hint": "",
+      "id": 25
+    },
+    {
+      "c": "26",
+      "type": "single_choice",
+      "question": "能够激活糜蛋白酶原转化为糜蛋白酶的是：",
+      "prompt": "能够激活糜蛋白酶原转化为糜蛋白酶的是：",
+      "answerOptions": [
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": true,
+          "rationale": "胰蛋白酶限制性剪切糜蛋白酶原激活。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": true,
+          "rationale": "胰蛋白酶限制性剪切糜蛋白酶原激活。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胰蛋白酶限制性剪切糜蛋白酶原激活。",
+      "hint": "",
+      "id": 26
+    },
+    {
+      "c": "27",
+      "type": "single_choice",
+      "question": "在消化管中最初开始进行蛋白质化学性消化的是：",
+      "prompt": "在消化管中最初开始进行蛋白质化学性消化的是：",
+      "answerOptions": [
+        {
+          "text": "大肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": true,
+          "rationale": "胃液中的胃蛋白酶在强酸环境下初步水解蛋白质。"
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "大肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": true,
+          "rationale": "胃液中的胃蛋白酶在强酸环境下初步水解蛋白质。"
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胃液中的胃蛋白酶在强酸环境下初步水解蛋白质。",
+      "hint": "",
+      "id": 27
+    },
+    {
+      "c": "28",
+      "type": "single_choice",
+      "question": "人体消化道全长中最长的部分是：",
+      "prompt": "人体消化道全长中最长的部分是：",
+      "answerOptions": [
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": true,
+          "rationale": "成人小肠全长约 5~7 米。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": true,
+          "rationale": "成人小肠全长约 5~7 米。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "成人小肠全长约 5~7 米。",
+      "hint": "",
+      "id": 28
+    },
+    {
+      "c": "29",
+      "type": "single_choice",
+      "question": "人体最重要、最主要的消化和吸收场所是：",
+      "prompt": "人体最重要、最主要的消化和吸收场所是：",
+      "answerOptions": [
+        {
+          "text": "大肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": true,
+          "rationale": "小肠因表面积巨大、停留时间长、酶系全面成为消化吸收核心部位。"
+        }
+      ],
+      "options": [
+        {
+          "text": "大肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": true,
+          "rationale": "小肠因表面积巨大、停留时间长、酶系全面成为消化吸收核心部位。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "小肠因表面积巨大、停留时间长、酶系全面成为消化吸收核心部位。",
+      "hint": "",
+      "id": 29
+    },
+    {
+      "c": "30",
+      "type": "single_choice",
+      "question": "肠道寄生细菌能够合成VitK和B族维生素的消化道部位是：",
+      "prompt": "肠道寄生细菌能够合成VitK和B族维生素的消化道部位是：",
+      "answerOptions": [
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大肠",
+          "isCorrect": true,
+          "rationale": "大肠内细菌利用残渣合成维生素K和维生素B族。"
+        }
+      ],
+      "options": [
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大肠",
+          "isCorrect": true,
+          "rationale": "大肠内细菌利用残渣合成维生素K和维生素B族。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "大肠内细菌利用残渣合成维生素K和维生素B族。",
+      "hint": "",
+      "id": 30
+    },
+    {
+      "c": "31",
+      "type": "multiple_select",
+      "question": "能够显著增加小肠消化吸收表面积的特化结构有：",
+      "prompt": "能够显著增加小肠消化吸收表面积的特化结构有：",
+      "answerOptions": [
+        {
+          "text": "固有层",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "吸收上皮",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠皱襞",
+          "isCorrect": true,
+          "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。"
+        },
+        {
+          "text": "小肠绒毛",
+          "isCorrect": true,
+          "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。"
+        },
+        {
+          "text": "微绒毛",
+          "isCorrect": true,
+          "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。"
+        }
+      ],
+      "options": [
+        {
+          "text": "固有层",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "吸收上皮",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠皱襞",
+          "isCorrect": true,
+          "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。"
+        },
+        {
+          "text": "小肠绒毛",
+          "isCorrect": true,
+          "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。"
+        },
+        {
+          "text": "微绒毛",
+          "isCorrect": true,
+          "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "环形皱襞（增加3倍）、小肠绒毛（增加10倍）、微绒毛（增加20倍），使吸收面积扩大数百倍。",
+      "hint": "",
+      "id": 31
+    },
+    {
+      "c": "32",
+      "type": "multiple_select",
+      "question": "下列消化管道中，能够进行化学性消化的有：",
+      "prompt": "下列消化管道中，能够进行化学性消化的有：",
+      "answerOptions": [
+        {
+          "text": "口腔",
+          "isCorrect": true,
+          "rationale": "口腔含唾液淀粉酶，空肠有胰液、肠液强力化学消化；食管和大肠不具备显著化学消化。"
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "横结肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "空肠",
+          "isCorrect": true,
+          "rationale": "口腔含唾液淀粉酶，空肠有胰液、肠液强力化学消化；食管和大肠不具备显著化学消化。"
+        },
+        {
+          "text": "乙状结肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "口腔",
+          "isCorrect": true,
+          "rationale": "口腔含唾液淀粉酶，空肠有胰液、肠液强力化学消化；食管和大肠不具备显著化学消化。"
+        },
+        {
+          "text": "食管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "横结肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "空肠",
+          "isCorrect": true,
+          "rationale": "口腔含唾液淀粉酶，空肠有胰液、肠液强力化学消化；食管和大肠不具备显著化学消化。"
+        },
+        {
+          "text": "乙状结肠",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "口腔含唾液淀粉酶，空肠有胰液、肠液强力化学消化；食管和大肠不具备显著化学消化。",
+      "hint": "",
+      "id": 32
+    },
+    {
+      "c": "33",
+      "type": "multiple_select",
+      "question": "下列器官中能够分泌消化酶的有：",
+      "prompt": "下列器官中能够分泌消化酶的有：",
+      "answerOptions": [
+        {
+          "text": "胃底腺",
+          "isCorrect": true,
+          "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。"
+        },
+        {
+          "text": "唾液腺",
+          "isCorrect": true,
+          "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。"
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。"
+        },
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大肠腺",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胃底腺",
+          "isCorrect": true,
+          "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。"
+        },
+        {
+          "text": "唾液腺",
+          "isCorrect": true,
+          "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。"
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。"
+        },
+        {
+          "text": "肝脏",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大肠腺",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肝脏分泌胆汁不含消化酶，大肠腺分泌黏液不含消化酶。",
+      "hint": "",
+      "id": 33
+    },
+    {
+      "c": "34",
+      "type": "multiple_select",
+      "question": "解剖学上属于下消化道的器官包括：",
+      "prompt": "解剖学上属于下消化道的器官包括：",
+      "answerOptions": [
+        {
+          "text": "降结肠",
+          "isCorrect": true,
+          "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。"
+        },
+        {
+          "text": "空肠",
+          "isCorrect": true,
+          "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。"
+        },
+        {
+          "text": "盲肠",
+          "isCorrect": true,
+          "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。"
+        },
+        {
+          "text": "十二指肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "降结肠",
+          "isCorrect": true,
+          "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。"
+        },
+        {
+          "text": "空肠",
+          "isCorrect": true,
+          "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。"
+        },
+        {
+          "text": "盲肠",
+          "isCorrect": true,
+          "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。"
+        },
+        {
+          "text": "十二指肠",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胆囊",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "空肠、回肠、大肠（盲肠、结肠、直肠）属于下消化道。十二指肠属上消化道；胆囊是消化腺附属器官。",
+      "hint": "",
+      "id": 34
+    },
+    {
+      "c": "35",
+      "type": "multiple_select",
+      "question": "下列关于肝脏生理功能的叙述，正确的有：",
+      "prompt": "下列关于肝脏生理功能的叙述，正确的有：",
+      "answerOptions": [
+        {
+          "text": "肝脏具有强大的生物转化和解毒作用",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。"
+        },
+        {
+          "text": "肝脏分泌的球蛋白承担运输及抗感染作用",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏能够将葡萄糖转化为肝糖原并储存",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。"
+        },
+        {
+          "text": "肝脏合成的白蛋白对于维持血浆胶体渗透压有重要作用",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。"
+        },
+        {
+          "text": "肝脏分泌的胆汁中含有消化脂类物质的消化酶",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肝脏具有强大的生物转化和解毒作用",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。"
+        },
+        {
+          "text": "肝脏分泌的球蛋白承担运输及抗感染作用",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏能够将葡萄糖转化为肝糖原并储存",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。"
+        },
+        {
+          "text": "肝脏合成的白蛋白对于维持血浆胶体渗透压有重要作用",
+          "isCorrect": true,
+          "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。"
+        },
+        {
+          "text": "肝脏分泌的胆汁中含有消化脂类物质的消化酶",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胆汁不含消化酶；抗感染的γ球蛋白主要由浆细胞合成。",
+      "hint": "",
+      "id": 35
+    },
+    {
+      "c": "36",
+      "type": "multiple_select",
+      "question": "胰腺外分泌和内分泌分泌的活性物质包括：",
+      "prompt": "胰腺外分泌和内分泌分泌的活性物质包括：",
+      "answerOptions": [
+        {
+          "text": "胆囊收缩素",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": true,
+          "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。"
+        },
+        {
+          "text": "淀粉酶",
+          "isCorrect": true,
+          "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。"
+        },
+        {
+          "text": "糜蛋白酶原",
+          "isCorrect": true,
+          "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胆囊收缩素",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": true,
+          "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。"
+        },
+        {
+          "text": "淀粉酶",
+          "isCorrect": true,
+          "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。"
+        },
+        {
+          "text": "糜蛋白酶原",
+          "isCorrect": true,
+          "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。"
+        },
+        {
+          "text": "HCl",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "盐酸由胃壁细胞分泌；胆囊收缩素由小肠黏膜I细胞分泌。",
+      "hint": "",
+      "id": 36
+    },
+    {
+      "c": "37",
+      "type": "multiple_select",
+      "question": "下列关于消化吸收的叙述，正确的有：",
+      "prompt": "下列关于消化吸收的叙述，正确的有：",
+      "answerOptions": [
+        {
+          "text": "小肠是吸收的重要场所，胃无吸收功能",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "糖和氨基酸吸收后先经门静脉进入肝脏，后由肝静脉汇入体循环",
+          "isCorrect": true,
+          "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。"
+        },
+        {
+          "text": "大肠能够吸收水分、无机盐、VitB12和VitK",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "脂类物质先吸收入乳糜管，随淋巴循环汇入体循环",
+          "isCorrect": true,
+          "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。"
+        },
+        {
+          "text": "胆汁有助于脂类物质消化并能够协助脂溶性维生素的吸收",
+          "isCorrect": true,
+          "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。"
+        }
+      ],
+      "options": [
+        {
+          "text": "小肠是吸收的重要场所，胃无吸收功能",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "糖和氨基酸吸收后先经门静脉进入肝脏，后由肝静脉汇入体循环",
+          "isCorrect": true,
+          "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。"
+        },
+        {
+          "text": "大肠能够吸收水分、无机盐、VitB12和VitK",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "脂类物质先吸收入乳糜管，随淋巴循环汇入体循环",
+          "isCorrect": true,
+          "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。"
+        },
+        {
+          "text": "胆汁有助于脂类物质消化并能够协助脂溶性维生素的吸收",
+          "isCorrect": true,
+          "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胃能吸收少量水、醇和阿司匹林；VitB12主要在回肠末端吸收。",
+      "hint": "",
+      "id": 37
+    },
+    {
+      "c": "38",
+      "type": "multiple_select",
+      "question": "下列消化液中含有消化酶的有：",
+      "prompt": "下列消化液中含有消化酶的有：",
+      "answerOptions": [
+        {
+          "text": "胃液",
+          "isCorrect": true,
+          "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。"
+        },
+        {
+          "text": "胰液",
+          "isCorrect": true,
+          "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。"
+        },
+        {
+          "text": "大肠液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "唾液",
+          "isCorrect": true,
+          "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。"
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "胃液",
+          "isCorrect": true,
+          "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。"
+        },
+        {
+          "text": "胰液",
+          "isCorrect": true,
+          "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。"
+        },
+        {
+          "text": "大肠液",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "唾液",
+          "isCorrect": true,
+          "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。"
+        },
+        {
+          "text": "胆汁",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "唾液含淀粉酶，胃液含胃蛋白酶，胰液含全套酶；大肠液和胆汁不含酶。",
+      "hint": "",
+      "id": 38
+    },
+    {
+      "c": "39",
+      "type": "multiple_select",
+      "question": "人体能够分泌淀粉酶的消化腺体有：",
+      "prompt": "人体能够分泌淀粉酶的消化腺体有：",
+      "answerOptions": [
+        {
+          "text": "唾液腺",
+          "isCorrect": true,
+          "rationale": "唾液腺分泌唾液淀粉酶，胰腺分泌胰淀粉酶。"
+        },
+        {
+          "text": "胃底腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "唾液腺分泌唾液淀粉酶，胰腺分泌胰淀粉酶。"
+        },
+        {
+          "text": "大肠腺",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "唾液腺",
+          "isCorrect": true,
+          "rationale": "唾液腺分泌唾液淀粉酶，胰腺分泌胰淀粉酶。"
+        },
+        {
+          "text": "胃底腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小肠腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胰腺",
+          "isCorrect": true,
+          "rationale": "唾液腺分泌唾液淀粉酶，胰腺分泌胰淀粉酶。"
+        },
+        {
+          "text": "大肠腺",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "唾液腺分泌唾液淀粉酶，胰腺分泌胰淀粉酶。",
+      "hint": "",
+      "id": 39
+    },
+    {
+      "c": "40",
+      "type": "multiple_select",
+      "question": "人类正常唾液当中包含的成分有：",
+      "prompt": "人类正常唾液当中包含的成分有：",
+      "answerOptions": [
+        {
+          "text": "溶菌酶",
+          "isCorrect": true,
+          "rationale": "唾液主要含有唾液淀粉酶、溶菌酶和黏蛋白。"
+        },
+        {
+          "text": "脂肪酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "核糖核酸酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淀粉酶",
+          "isCorrect": true,
+          "rationale": "唾液主要含有唾液淀粉酶、溶菌酶和黏蛋白。"
+        }
+      ],
+      "options": [
+        {
+          "text": "溶菌酶",
+          "isCorrect": true,
+          "rationale": "唾液主要含有唾液淀粉酶、溶菌酶和黏蛋白。"
+        },
+        {
+          "text": "脂肪酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "核糖核酸酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淀粉酶",
+          "isCorrect": true,
+          "rationale": "唾液主要含有唾液淀粉酶、溶菌酶和黏蛋白。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "唾液主要含有唾液淀粉酶、溶菌酶和黏蛋白。",
+      "hint": "",
+      "id": 40
+    },
+    {
+      "c": "41",
+      "type": "judge",
+      "question": "【判断题】所有的营养物质都是通过小肠壁毛细血管吸收入血的。",
+      "prompt": "【判断题】所有的营养物质都是通过小肠壁毛细血管吸收入血的。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。长链脂肪酸和乳糜微粒等脂类主要经毛细淋巴管（乳糜管）吸收，汇入胸导管进入体循环。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。长链脂肪酸和乳糜微粒等脂类主要经毛细淋巴管（乳糜管）吸收，汇入胸导管进入体循环。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。长链脂肪酸和乳糜微粒等脂类主要经毛细淋巴管（乳糜管）吸收，汇入胸导管进入体循环。",
+      "hint": "",
+      "id": 41
+    },
+    {
+      "c": "42",
+      "type": "judge",
+      "question": "【判断题】肝门静脉进入肝脏后，经肝窦、中央静脉，最后由肝静脉汇入下腔静脉。",
+      "prompt": "【判断题】肝门静脉进入肝脏后，经肝窦、中央静脉，最后由肝静脉汇入下腔静脉。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。门静脉收集腹腔不成对脏器血液入肝，经肝窦滤过后汇入肝静脉，注入下腔静脉。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。门静脉收集腹腔不成对脏器血液入肝，经肝窦滤过后汇入肝静脉，注入下腔静脉。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。门静脉收集腹腔不成对脏器血液入肝，经肝窦滤过后汇入肝静脉，注入下腔静脉。",
+      "hint": "",
+      "id": 42
+    },
+    {
+      "c": "43",
+      "type": "judge",
+      "question": "【判断题】胆囊具有分泌和储存胆汁的功能。",
+      "prompt": "【判断题】胆囊具有分泌和储存胆汁的功能。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胆汁由肝细胞分泌，胆囊仅有储存、浓缩和排出胆汁的功能，无分泌胆汁作用。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胆汁由肝细胞分泌，胆囊仅有储存、浓缩和排出胆汁的功能，无分泌胆汁作用。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。胆汁由肝细胞分泌，胆囊仅有储存、浓缩和排出胆汁的功能，无分泌胆汁作用。",
+      "hint": "",
+      "id": 43
+    },
+    {
+      "c": "44",
+      "type": "judge",
+      "question": "【判断题】舌上的味蕾是感知冷热觉的特化神经末梢。",
+      "prompt": "【判断题】舌上的味蕾是感知冷热觉的特化神经末梢。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。味蕾是感受味觉（酸、甜、苦、咸、鲜）的化学感受器，冷热觉由游离神经末梢感知。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。味蕾是感受味觉（酸、甜、苦、咸、鲜）的化学感受器，冷热觉由游离神经末梢感知。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。味蕾是感受味觉（酸、甜、苦、咸、鲜）的化学感受器，冷热觉由游离神经末梢感知。",
+      "hint": "",
+      "id": 44
+    },
+    {
+      "c": "45",
+      "type": "judge",
+      "question": "【判断题】构成食管壁的肌层中不仅有平滑肌还有骨骼肌的存在。",
+      "prompt": "【判断题】构成食管壁的肌层中不仅有平滑肌还有骨骼肌的存在。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。食管肌层上1/3为骨骼肌，下1/3为平滑肌，中1/3两者兼有。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。食管肌层上1/3为骨骼肌，下1/3为平滑肌，中1/3两者兼有。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。食管肌层上1/3为骨骼肌，下1/3为平滑肌，中1/3两者兼有。",
+      "hint": "",
+      "id": 45
+    },
+    {
+      "c": "46",
+      "type": "judge",
+      "question": "【判断题】胃内仅进行化学和机械性消化，而没有任何吸收功能。",
+      "prompt": "【判断题】胃内仅进行化学和机械性消化，而没有任何吸收功能。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胃可吸收少量的水、无机盐、乙醇（酒精）及脂溶性药物（如阿司匹林）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胃可吸收少量的水、无机盐、乙醇（酒精）及脂溶性药物（如阿司匹林）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。胃可吸收少量的水、无机盐、乙醇（酒精）及脂溶性药物（如阿司匹林）。",
+      "hint": "",
+      "id": 46
+    },
+    {
+      "c": "47",
+      "type": "judge",
+      "question": "【判断题】脂肪的化学消化主要依赖于胆汁中的脂肪酶。",
+      "prompt": "【判断题】脂肪的化学消化主要依赖于胆汁中的脂肪酶。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胆汁中根本不含消化酶！脂肪的化学水解酶解依赖胰液中的胰脂肪酶。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胆汁中根本不含消化酶！脂肪的化学水解酶解依赖胰液中的胰脂肪酶。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。胆汁中根本不含消化酶！脂肪的化学水解酶解依赖胰液中的胰脂肪酶。",
+      "hint": "",
+      "id": 47
+    },
+    {
+      "c": "48",
+      "type": "judge",
+      "question": "【判断题】胃大部切除引发维生素B12吸收障碍的原因是由于维生素B12主要在胃内吸收。",
+      "prompt": "【判断题】胃大部切除引发维生素B12吸收障碍的原因是由于维生素B12主要在胃内吸收。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。维生素B12吸收部位在回肠末端。胃大部切除导致壁细胞减少、内因子缺乏，使VitB12无法结合受体被吸收。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。维生素B12吸收部位在回肠末端。胃大部切除导致壁细胞减少、内因子缺乏，使VitB12无法结合受体被吸收。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。维生素B12吸收部位在回肠末端。胃大部切除导致壁细胞减少、内因子缺乏，使VitB12无法结合受体被吸收。",
+      "hint": "",
+      "id": 48
+    },
+    {
+      "c": "49",
+      "type": "judge",
+      "question": "【判断题】大肠无化学性消化和吸收作用，主要功能是将食物残渣排出体外。",
+      "prompt": "【判断题】大肠无化学性消化和吸收作用，主要功能是将食物残渣排出体外。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。大肠能大量吸收水分和电解质，肠道细菌还能合成维生素K和B族维生素供吸收。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。大肠能大量吸收水分和电解质，肠道细菌还能合成维生素K和B族维生素供吸收。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。大肠能大量吸收水分和电解质，肠道细菌还能合成维生素K和B族维生素供吸收。",
+      "hint": "",
+      "id": 49
+    },
+    {
+      "c": "50",
+      "type": "judge",
+      "question": "【判断题】胃蛋白酶随食糜进入小肠后能够激活胰蛋白酶原。",
+      "prompt": "【判断题】胃蛋白酶随食糜进入小肠后能够激活胰蛋白酶原。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胃蛋白酶进入小肠弱碱性环境即失活变性；激活胰蛋白酶原的是十二指肠黏膜分泌的肠致活酶（肠激酶）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胃蛋白酶进入小肠弱碱性环境即失活变性；激活胰蛋白酶原的是十二指肠黏膜分泌的肠致活酶（肠激酶）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。胃蛋白酶进入小肠弱碱性环境即失活变性；激活胰蛋白酶原的是十二指肠黏膜分泌的肠致活酶（肠激酶）。",
+      "hint": "",
+      "id": 50
+    },
+    {
+      "c": "51",
+      "type": "judge",
+      "question": "【判断题】胃排空的速度与食物的理化性质和营养成分无关。",
+      "prompt": "【判断题】胃排空的速度与食物的理化性质和营养成分无关。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胃排空速度：糖类 > 蛋白质 > 脂肪。稀的、流质食物快于稠的、固态食物。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。胃排空速度：糖类 > 蛋白质 > 脂肪。稀的、流质食物快于稠的、固态食物。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。胃排空速度：糖类 > 蛋白质 > 脂肪。稀的、流质食物快于稠的、固态食物。",
+      "hint": "",
+      "id": 51
+    },
+    {
+      "c": "52",
+      "type": "judge",
+      "question": "【判断题】小肠绒毛是由黏膜层与黏膜下层共同向管腔形成的隆起突起。",
+      "prompt": "【判断题】小肠绒毛是由黏膜层与黏膜下层共同向管腔形成的隆起突起。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。小肠皱襞由黏膜与黏膜下层共同构成；小肠绒毛仅由黏膜上皮和固有层突向肠腔形成。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。小肠皱襞由黏膜与黏膜下层共同构成；小肠绒毛仅由黏膜上皮和固有层突向肠腔形成。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。小肠皱襞由黏膜与黏膜下层共同构成；小肠绒毛仅由黏膜上皮和固有层突向肠腔形成。",
+      "hint": "",
+      "id": 52
+    },
+    {
+      "c": "53",
+      "type": "judge",
+      "question": "【判断题】交感神经兴奋能够促进消化道蠕动和消化腺分泌消化酶。",
+      "prompt": "【判断题】交感神经兴奋能够促进消化道蠕动和消化腺分泌消化酶。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。副交感神经（迷走神经）兴奋促进蠕动和分泌；交感神经兴奋抑制消化道运动与腺体分泌。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。副交感神经（迷走神经）兴奋促进蠕动和分泌；交感神经兴奋抑制消化道运动与腺体分泌。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。副交感神经（迷走神经）兴奋促进蠕动和分泌；交感神经兴奋抑制消化道运动与腺体分泌。",
+      "hint": "",
+      "id": 53
+    },
+    {
+      "c": "54",
+      "type": "judge",
+      "question": "【判断题】舌的一般感觉及味觉均由三叉神经传导至相应的感觉中枢。",
+      "prompt": "【判断题】舌的一般感觉及味觉均由三叉神经传导至相应的感觉中枢。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。舌前2/3一般感觉由三叉神经支配，味觉由面神经鼓索传导；舌后1/3一般感觉与味觉由舌咽神经支配。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。舌前2/3一般感觉由三叉神经支配，味觉由面神经鼓索传导；舌后1/3一般感觉与味觉由舌咽神经支配。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。舌前2/3一般感觉由三叉神经支配，味觉由面神经鼓索传导；舌后1/3一般感觉与味觉由舌咽神经支配。",
+      "hint": "",
+      "id": 54
+    },
+    {
+      "c": "55",
+      "type": "fill_blank",
+      "question": "消化系统由消化道和____构成，常把____到____的消化管道称为上消化道。",
+      "prompt": "消化系统由消化道和____构成，常把____到____的消化管道称为上消化道。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "消化腺",
+        "口腔",
+        "十二指肠"
+      ],
+      "blanks": [
+        "消化腺",
+        "口腔",
+        "十二指肠"
+      ],
+      "rationale": "临床与解剖上通常以屈氏韧带（十二指肠悬韧带）为界，口腔到十二指肠称为上消化道。",
+      "hint": "",
+      "id": 55
+    },
+    {
+      "c": "56",
+      "type": "fill_blank",
+      "question": "小肠包括____、____和____三部分，是食物消化和吸收的主要场所，VitB12的吸收在____进行。",
+      "prompt": "小肠包括____、____和____三部分，是食物消化和吸收的主要场所，VitB12的吸收在____进行。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "十二指肠",
+        "空肠",
+        "回肠",
+        "回肠"
+      ],
+      "blanks": [
+        "十二指肠",
+        "空肠",
+        "回肠",
+        "回肠"
+      ],
+      "rationale": "小肠分为十二指肠、空肠、回肠。回肠末端是维生素B12与内因子复合物吸收的特异性部位。",
+      "hint": "",
+      "id": 56
+    },
+    {
+      "c": "57",
+      "type": "fill_blank",
+      "question": "肝脏的基本结构和功能单位是____，肝细胞产生的胆汁可储存于____中，进食后经____进入____中参与对脂肪的消化。",
+      "prompt": "肝脏的基本结构和功能单位是____，肝细胞产生的胆汁可储存于____中，进食后经____进入____中参与对脂肪的消化。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "肝小叶",
+        "胆囊",
+        "胆总管",
+        "十二指肠"
+      ],
+      "blanks": [
+        "肝小叶",
+        "胆囊",
+        "胆总管",
+        "十二指肠"
+      ],
+      "rationale": "肝小叶是肝结构与功能单位；胆汁在胆囊浓缩储存，进食后经胆总管排入十二指肠降部大乳头。",
+      "hint": "",
+      "id": 57
+    },
+    {
+      "c": "58",
+      "type": "fill_blank",
+      "question": "胃____分泌的胃蛋白酶原在HCl作用下活化为____，与胰腺分泌的____和____共同参与对蛋白质的化学消化。",
+      "prompt": "胃____分泌的胃蛋白酶原在HCl作用下活化为____，与胰腺分泌的____和____共同参与对蛋白质的化学消化。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "主细胞",
+        "胃蛋白酶",
+        "胰蛋白酶",
+        "糜蛋白酶"
+      ],
+      "blanks": [
+        "主细胞",
+        "胃蛋白酶",
+        "胰蛋白酶",
+        "糜蛋白酶"
+      ],
+      "rationale": "胃底腺主细胞分泌胃蛋白酶原，壁细胞分泌盐酸；胰腺外分泌部产生胰蛋白酶原与糜蛋白酶原。",
+      "hint": "",
+      "id": 58
+    },
+    {
+      "c": "59",
+      "type": "fill_blank",
+      "question": "小肠吸收的营养物质经____进入肝脏，经过处理后经____进入下腔静脉，经由此途径吸收的营养物质主要是____和____，脂类则主要通过____吸收。",
+      "prompt": "小肠吸收的营养物质经____进入肝脏，经过处理后经____进入下腔静脉，经由此途径吸收的营养物质主要是____和____，脂类则主要通过____吸收。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "门静脉",
+        "肝静脉",
+        "碳水化合物（糖）",
+        "蛋白（氨基酸）",
+        "淋巴循环"
+      ],
+      "blanks": [
+        "门静脉",
+        "肝静脉",
+        "碳水化合物（糖）",
+        "蛋白（氨基酸）",
+        "淋巴循环"
+      ],
+      "rationale": "水溶性营养素（糖、氨基酸）入门静脉到肝；长链脂肪酸与乳糜微粒入毛细淋巴管（乳糜管）。",
+      "hint": "",
+      "id": 59
+    },
+    {
+      "c": "60",
+      "type": "fill_blank",
+      "question": "唾液腺包括____、____和____，唾液中的____能对食物中的淀粉进行初步消化，____具有杀菌作用。",
+      "prompt": "唾液腺包括____、____和____，唾液中的____能对食物中的淀粉进行初步消化，____具有杀菌作用。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "腮腺",
+        "舌下腺",
+        "下颌下腺",
+        "唾液淀粉酶",
+        "溶菌酶"
+      ],
+      "blanks": [
+        "腮腺",
+        "舌下腺",
+        "下颌下腺",
+        "唾液淀粉酶",
+        "溶菌酶"
+      ],
+      "rationale": "三大唾液腺分泌唾液，含有唾液淀粉酶（分解淀粉为麦芽糖）和溶菌酶（抗菌）。",
+      "hint": "",
+      "id": 60
+    },
+    {
+      "c": "61",
+      "type": "fill_blank",
+      "question": "肝小叶包括____、____、肝血窦和门管区，门管区中存在____、____和____。",
+      "prompt": "肝小叶包括____、____、肝血窦和门管区，门管区中存在____、____和____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "中央静脉",
+        "肝细胞索",
+        "小叶间动脉",
+        "小叶间静脉",
+        "小叶间胆管"
+      ],
+      "blanks": [
+        "中央静脉",
+        "肝细胞索",
+        "小叶间动脉",
+        "小叶间静脉",
+        "小叶间胆管"
+      ],
+      "rationale": "门管区（汇管区）三联结构：小叶间动脉（营养）、小叶间静脉（门静脉分支）、小叶间胆管。",
+      "hint": "",
+      "id": 61
+    },
+    {
+      "c": "62",
+      "type": "fill_blank",
+      "question": "胰腺的外分泌部主要分泌多种____参与食物的化学性消化，内分泌部分泌____和____参与血糖的调节。",
+      "prompt": "胰腺的外分泌部主要分泌多种____参与食物的化学性消化，内分泌部分泌____和____参与血糖的调节。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "消化酶",
+        "胰岛素",
+        "胰高血糖素"
+      ],
+      "blanks": [
+        "消化酶",
+        "胰岛素",
+        "胰高血糖素"
+      ],
+      "rationale": "胰腺是兼具外分泌与内分泌的腺体。外分泌部分泌胰液，内分泌部（胰岛）β细胞泌胰岛素、α细胞泌胰高血糖素。",
+      "hint": "",
+      "id": 62
+    },
+    {
+      "c": "63",
+      "type": "fill_blank",
+      "question": "牙由形态上可分为____、____和____三部分。",
+      "prompt": "牙由形态上可分为____、____和____三部分。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "牙冠",
+        "牙颈",
+        "牙根"
+      ],
+      "blanks": [
+        "牙冠",
+        "牙颈",
+        "牙根"
+      ],
+      "rationale": "牙解剖上自上而下分为牙冠、牙颈和牙根。",
+      "hint": "",
+      "id": 63
+    },
+    {
+      "c": "64",
+      "type": "fill_blank",
+      "question": "胃借____与食管相接，借____与十二指肠相接，胃内容物进入十二指肠的过程称为____。",
+      "prompt": "胃借____与食管相接，借____与十二指肠相接，胃内容物进入十二指肠的过程称为____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "贲门",
+        "幽门",
+        "胃排空"
+      ],
+      "blanks": [
+        "贲门",
+        "幽门",
+        "胃排空"
+      ],
+      "rationale": "胃的入口为贲门，出口为幽门（有幽门括约肌）；食糜由胃排入十二指肠称为胃排空。",
+      "hint": "",
+      "id": 64
+    }
+  ]
+}

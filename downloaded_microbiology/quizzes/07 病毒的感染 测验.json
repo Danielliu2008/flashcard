@@ -1,0 +1,735 @@
+{
+  "quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "病毒感染机体后的结局取决于宿主和病毒等多方面因素。下列关于宿主因素影响感染结局的叙述，正确的是？",
+      "answerOptions": [
+        {
+          "text": "宿主的遗传背景、免疫状态、年龄和一般健康状况对感染结局有显著影响",
+          "isCorrect": true,
+          "rationale": "宿主的遗传背景、免疫状态、年龄及健康状况共同决定了宿主对病毒的抵抗能力和免疫应答强弱。"
+        },
+        {
+          "text": "同一种病毒感染不同的个体后，其临床表现和感染结局必然完全相同",
+          "isCorrect": false,
+          "rationale": "即使感染同一种病毒，由于宿主个体间的免疫状态和遗传背景差异，临床表现也可能完全不同。"
+        },
+        {
+          "text": "年龄是唯一决定病毒感染后是否发病的宿主因素",
+          "isCorrect": false,
+          "rationale": "年龄虽然重要，但遗传背景、免疫状态及健康状况等因素同样起着关键作用。"
+        },
+        {
+          "text": "机体免疫状态仅影响恢复期，不影响初期感染的发生",
+          "isCorrect": false,
+          "rationale": "机体的固有免疫和适应性免疫状态在病毒入侵初期就直接影响病毒能否建立感染。"
+        }
+      ],
+      "hint": "思考个体差异对病毒致病作用及免疫反应的影响。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "下列关于病毒垂直传播（vertical transmission）的描述，正确的是？",
+      "answerOptions": [
+        {
+          "text": "人类已证实病毒可以通过生殖细胞直接遗传给后代",
+          "isCorrect": false,
+          "rationale": "截至目前，尚无确凿证据证实病毒可通过人类生殖细胞传给后代。"
+        },
+        {
+          "text": "围产期通过产道或哺乳将病毒传给新生儿不属于垂直传播范畴",
+          "isCorrect": false,
+          "rationale": "围产期感染（包括产道、哺乳或密切接触）同样归属于垂直传播的范畴。"
+        },
+        {
+          "text": "孕妇发生病毒血症时，病毒可通过胎盘屏障传播给胎儿",
+          "isCorrect": true,
+          "rationale": "孕妇发生病毒血症或病毒与血细胞结合时，病毒极易穿过胎盘屏障感染胎儿。"
+        },
+        {
+          "text": "垂直传播仅发生在胚胎发育的前3个月内",
+          "isCorrect": false,
+          "rationale": "垂直传播不仅发生在妊娠期，还包括围产期及产后哺乳等多种方式。"
+        }
+      ],
+      "hint": "注意垂直传播的定义及包含的传播途径（如胎盘、产道、哺乳等）。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "下列哪种病毒主要通过食入污染的水或食物（消化道途径）进行传播？",
+      "answerOptions": [
+        {
+          "text": "脊髓灰质炎病毒",
+          "isCorrect": true,
+          "rationale": "脊髓灰质炎病毒主要通过粪-口途径，即污染的水或食物经消化道传播。"
+        },
+        {
+          "text": "流感病毒",
+          "isCorrect": false,
+          "rationale": "流感病毒主要通过空气飞沫等呼吸道途径传播。"
+        },
+        {
+          "text": "乙型脑炎病毒",
+          "isCorrect": false,
+          "rationale": "乙型脑炎病毒主要通过昆虫叮咬（破损皮肤）传播。"
+        },
+        {
+          "text": "单纯疱疹病毒",
+          "isCorrect": false,
+          "rationale": "单纯疱疹病毒主要通过接触或性交等密切接触方式传播。"
+        }
+      ],
+      "hint": "回想常见消化道病毒感染的传播媒介与代表病毒。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "关于病毒在机体内的播散方式，下列说法正确的有？",
+      "answerOptions": [
+        {
+          "text": "局部感染是指有些病毒只在入侵部位感染局部组织细胞",
+          "isCorrect": true,
+          "rationale": "局部感染（表面感染）的特点是病毒增殖局限在侵入门户附近细胞内。"
+        },
+        {
+          "text": "全身感染可经血流、淋巴液或神经系统向远处器官播散",
+          "isCorrect": true,
+          "rationale": "病毒通过循环系统或神经通路可以扩散至全身多器官组织。"
+        },
+        {
+          "text": "病毒进入血液循环并随之播散的过程被称为病毒血症（viremia）",
+          "isCorrect": true,
+          "rationale": "病毒血症特指病毒侵入血液并在其中循环播散的状态。"
+        },
+        {
+          "text": "所有病毒感染都会引起严重的全身性病毒血症",
+          "isCorrect": false,
+          "rationale": "并非所有病毒都会入血，有些病毒仅引起局部感染而不发生病毒血症。"
+        }
+      ],
+      "hint": "区分局部感染与全身感染的播散途径和概念。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "杀细胞效应（cytocidal effect）主要常见于哪种类型的病毒感染？",
+      "answerOptions": [
+        {
+          "text": "无包膜、杀伤性强的病毒（如脊髓灰质炎病毒）",
+          "isCorrect": true,
+          "rationale": "杀细胞效应多见于无包膜且杀伤力强烈的病毒，子代释放时导致细胞迅速裂解死亡。"
+        },
+        {
+          "text": "有包膜以出芽方式释放的病毒（如流感病毒）",
+          "isCorrect": false,
+          "rationale": "包膜病毒通过出芽释放通常引起稳定状态感染，不立即裂解细胞。"
+        },
+        {
+          "text": "仅引起慢发病毒感染的朊粒",
+          "isCorrect": false,
+          "rationale": "慢发感染通常呈慢性进行性病变，不表现为急性体外裂解细胞的杀细胞效应。"
+        },
+        {
+          "text": "整合于宿主染色体的逆转录病毒",
+          "isCorrect": false,
+          "rationale": "基因整合往往导致宿主细胞转化或潜伏，而非急性杀细胞裂解。"
+        }
+      ],
+      "hint": "联想子代病毒暴发性释放导致细胞裂解的常见病毒结构类型。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "体外实验中，接种杀细胞性病毒后，在显微镜下观察到细胞变圆、坏死并从瓶壁脱落的现象被称为？",
+      "answerOptions": [
+        {
+          "text": "细胞病变效应（CPE）",
+          "isCorrect": true,
+          "rationale": "杀细胞效应在体外培养细胞上表现为细胞形态改变、坏死及脱落，即细胞病变效应（CPE）。"
+        },
+        {
+          "text": "合胞体形成（Syncytium formation）",
+          "isCorrect": false,
+          "rationale": "合胞体形成是指邻近细胞融合为多核巨细胞，而非细胞坏死脱落。"
+        },
+        {
+          "text": "细胞转化（Cell transformation）",
+          "isCorrect": false,
+          "rationale": "细胞转化表现为细胞失去接触抑制、无限增殖，与细胞坏死死亡相反。"
+        },
+        {
+          "text": "稳定状态感染（Steady state infection）",
+          "isCorrect": false,
+          "rationale": "稳定状态感染下细胞不会发生显微镜下急性坏死和脱落。"
+        }
+      ],
+      "hint": "体外细胞培养接种病毒后可见明显的病理形态学改变。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "稳定状态感染（steady state infection）通常不引起宿主细胞立即溶解死亡，其常见表现形式包括？",
+      "answerOptions": [
+        {
+          "text": "子代病毒以出芽方式缓慢释放",
+          "isCorrect": true,
+          "rationale": "出芽释放过程相对温和，不破坏细胞膜整体结构，细胞可继续存活并释放病毒。"
+        },
+        {
+          "text": "引起宿主邻近细胞融合形成多核巨细胞",
+          "isCorrect": true,
+          "rationale": "某些病毒改变宿主细胞膜结构，促使受染细胞与未受染细胞融合形成合胞体。"
+        },
+        {
+          "text": "使宿主细胞表面表达病毒基因编码的新抗原",
+          "isCorrect": true,
+          "rationale": "病毒复制过程中新合成的膜蛋白或整合产物可在细胞膜表面表达新抗原决定簇。"
+        },
+        {
+          "text": "瞬间大批释放子代病毒使细胞瞬间裂解",
+          "isCorrect": false,
+          "rationale": "瞬间裂解细胞是杀细胞效应的特征，不属于稳定状态感染。"
+        }
+      ],
+      "hint": "思考包膜病毒在不直接破坏细胞生存的前提下的复制与释放特征。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "麻疹病毒在体内感染细胞后，常促使感染细胞与邻近细胞融合，形成的特征性细胞结构是？",
+      "answerOptions": [
+        {
+          "text": "华新（Warthin）多核巨细胞",
+          "isCorrect": true,
+          "rationale": "麻疹病毒引起细胞融合后，在体内可形成特征性的华新多核巨细胞。"
+        },
+        {
+          "text": "内氏小体（Negri body）",
+          "isCorrect": false,
+          "rationale": "内氏小体是狂犬病病毒感染脑细胞形成的胞质内包涵体。"
+        },
+        {
+          "text": "红细胞吸附现象",
+          "isCorrect": false,
+          "rationale": "红细胞吸附是某些表达血凝素的病毒在细胞表面吸附红细胞的现象，不是多核巨细胞。"
+        },
+        {
+          "text": "肿瘤转化细胞",
+          "isCorrect": false,
+          "rationale": "细胞融合属于稳定性感染的细胞病变，不属于恶性肿瘤转化。"
+        }
+      ],
+      "hint": "注意麻疹病毒感染引起多核巨细胞的特定名称。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在可疑狂犬病的脑组织切片中，若观察到胞质内嗜酸性包涵体，该结构被称为？",
+      "answerOptions": [
+        {
+          "text": "内氏小体（Negri body）",
+          "isCorrect": true,
+          "rationale": "内氏小体是狂犬病病毒感染神经细胞后形成的特异性胞质内嗜酸性包涵体，具诊断价值。"
+        },
+        {
+          "text": "华新巨细胞",
+          "isCorrect": false,
+          "rationale": "华新巨细胞是麻疹病毒引起的细胞融合现象。"
+        },
+        {
+          "text": "核内包涵体",
+          "isCorrect": false,
+          "rationale": "狂犬病病毒包涵体位于细胞质内，而疱疹病毒等常形成核内包涵体。"
+        },
+        {
+          "text": "噬菌体",
+          "isCorrect": false,
+          "rationale": "噬菌体是感染细菌的病毒，与脑组织包涵体无关。"
+        }
+      ],
+      "hint": "该小体是狂犬病病理学诊断的重要指标。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "关于病毒感染与宿主细胞凋亡（apoptosis）关系的叙述，正确的有？",
+      "answerOptions": [
+        {
+          "text": "某些病毒诱导细胞凋亡有利于促进子代病毒的释放",
+          "isCorrect": true,
+          "rationale": "病毒通过诱导宿主细胞凋亡可以破坏细胞结构，帮助子代病毒颗粒散播。"
+        },
+        {
+          "text": "某些病毒抑制宿主细胞早期凋亡可延长细胞寿命以增加病毒产量",
+          "isCorrect": true,
+          "rationale": "抑制早期凋亡能维持宿主细胞活性，为病毒提供更充足的复制时间和资源。"
+        },
+        {
+          "text": "细胞凋亡是宿主限制病毒复制的唯一防御机制",
+          "isCorrect": false,
+          "rationale": "宿主限制病毒复制还依靠固有免疫（如干扰素、NK细胞）及适应性免疫等多种机制。"
+        },
+        {
+          "text": "所有病毒感染都会无条件抑制细胞凋亡",
+          "isCorrect": false,
+          "rationale": "不同病毒对细胞凋亡的作用不同，有的促进凋亡，有的抑制凋亡。"
+        }
+      ],
+      "hint": "思考病毒为了自身生存与扩散对宿主细胞生命周期的双向调控作用。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "某些DNA病毒或逆转录病毒感染宿主细胞后，可将病毒基因整合于宿主染色体中，这可能导致的细胞结局是？",
+      "answerOptions": [
+        {
+          "text": "细胞转化，失去接触抑制并获得肿瘤样增殖特性",
+          "isCorrect": true,
+          "rationale": "基因整合可改变细胞基因表达，导致细胞发生转化、无限制增殖并失去接触抑制。"
+        },
+        {
+          "text": "细胞瞬间溶解坏死并释放大量病毒颗粒",
+          "isCorrect": false,
+          "rationale": "瞬间裂解坏死是杀细胞效应对细胞的破坏，而非基因整合和细胞转化的表现。"
+        },
+        {
+          "text": "细胞完全停止核酸与蛋白质合成而陷入休眠",
+          "isCorrect": false,
+          "rationale": "转化后的细胞新陈代谢和增殖能力反而会增强。"
+        },
+        {
+          "text": "细胞自动退化为无核红细胞",
+          "isCorrect": false,
+          "rationale": "基因整合不会使有核细胞变成无核红细胞。"
+        }
+      ],
+      "hint": "整合后的基因会导致细胞生长调控失控，与肿瘤发生密切相关。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "登革热病毒感染患者可出现严重的出血和休克症状，其主要免疫病理机制属于？",
+      "answerOptions": [
+        {
+          "text": "Ⅲ型超敏反应（免疫复合物沉积于血管壁并激活补体）",
+          "isCorrect": true,
+          "rationale": "登革热病毒与抗体形成复合物沉积于血管壁，激活补体导致血管通透性升高引发出血休克。"
+        },
+        {
+          "text": "Ⅰ型速发型超敏反应（IgE介导）",
+          "isCorrect": false,
+          "rationale": "登革热出血休克不是由IgE介导的过敏反应导致的。"
+        },
+        {
+          "text": "单纯的杀细胞效应导致血管内皮细胞崩解",
+          "isCorrect": false,
+          "rationale": "其主要致病机制是免疫复合物介导的免疫病理损伤，而非单纯病毒毒力致死。"
+        },
+        {
+          "text": "Ⅳ型迟发型超敏反应（T细胞直接细胞毒）",
+          "isCorrect": false,
+          "rationale": "血管通透性增加主要是抗原-抗体复合物激活补体的结果，属于Ⅲ型超敏反应。"
+        }
+      ],
+      "hint": "回想循环中抗原-抗体复合物沉积在血管壁引起的损伤类型。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "慢性乙型肝炎患者常伴有关节炎症状，这主要是由于？",
+      "answerOptions": [
+        {
+          "text": "抗原-抗体复合物沉积于关节滑膜引起的Ⅲ型超敏反应",
+          "isCorrect": true,
+          "rationale": "乙肝病毒抗原与抗体结合形成免疫复合物，沉积于关节滑膜引发局部炎性损伤。"
+        },
+        {
+          "text": "乙肝病毒直接侵入并破坏关节软骨细胞",
+          "isCorrect": false,
+          "rationale": "乙肝病毒主要嗜肝，关节症状并非病毒直接感染软骨细胞所致。"
+        },
+        {
+          "text": "补体缺失导致的细胞溶解障碍",
+          "isCorrect": false,
+          "rationale": "此病理损害是补体被激活引发炎症，而非补体缺失。"
+        },
+        {
+          "text": "中性粒细胞在关节内过度吞噬导致组织坏死",
+          "isCorrect": false,
+          "rationale": "核心机制是免疫复合物沉积（Ⅲ型超敏反应）引发的血管与滑膜炎症。"
+        }
+      ],
+      "hint": "分析体液免疫应答产物在关节滑膜沉积所造成的损害。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于隐性病毒感染（subclinical/inapparent viral infection）的特点，下列说法正确的是？",
+      "answerOptions": [
+        {
+          "text": "病毒侵入机体后不引起明显的临床症状",
+          "isCorrect": true,
+          "rationale": "隐性感染定义即为病毒进入机体后不出现临床症状和体征。"
+        },
+        {
+          "text": "隐性感染者体内决不会有病毒增殖，因此不具传染性",
+          "isCorrect": false,
+          "rationale": "隐性感染者体内病毒仍可增殖并向体外播散，成为重要的病毒携带者和传染源。"
+        },
+        {
+          "text": "隐性感染绝不能使机体获得针对该病毒的特异性免疫力",
+          "isCorrect": false,
+          "rationale": "大多数隐性感染者可刺激机体产生免疫力，从而终止感染。"
+        },
+        {
+          "text": "隐性感染必定会发展为严重的慢性慢发感染",
+          "isCorrect": false,
+          "rationale": "隐性感染多数结局为清除病毒并获得免疫，仅少数可能转为持续携带。"
+        }
+      ],
+      "hint": "关注隐性感染在“临床症状”与“传染源作用”上的特征。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "急性病毒感染（acute viral infection）在病程和结局上的典型特点是？",
+      "answerOptions": [
+        {
+          "text": "潜伏期短、发病急，病程数日至数周，恢复后常清除病毒并获特异性免疫",
+          "isCorrect": true,
+          "rationale": "急性感染发病迅速，宿主免疫系统能有效清除病毒，病后通常获得持久免疫。"
+        },
+        {
+          "text": "病毒在体内长期滞留数年至数十载，症状反复发作迁延不愈",
+          "isCorrect": false,
+          "rationale": "长期滞留且反复发作属于慢性持续性感染的特征。"
+        },
+        {
+          "text": "潜伏期长达数年，一旦发病呈进行性加重并最终致死",
+          "isCorrect": false,
+          "rationale": "潜伏期极长且进行性致死属于慢发病毒感染。"
+        },
+        {
+          "text": "病毒基因永久整合于宿主染色体且终生不被免疫系统识别",
+          "isCorrect": false,
+          "rationale": "急性感染通常为病原消灭型，免疫系统会清除病毒。"
+        }
+      ],
+      "hint": "对比流感等常见急性病毒感染的发病速度与恢复过程。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "潜伏感染（latent infection）是持续性感染的一种类型，下列属于潜伏感染特征的有？",
+      "answerOptions": [
+        {
+          "text": "病毒在急性期后隐藏于特定部位，此时不产生或很少产生感染性病毒体",
+          "isCorrect": true,
+          "rationale": "潜伏期内病毒基因组隐匿于某些细胞中，通常检测不到完整的感染性病毒颗粒。"
+        },
+        {
+          "text": "当机体免疫力下降时，潜伏的病毒可被激活而导致感染复发",
+          "isCorrect": true,
+          "rationale": "免疫抑制、气候变化或情绪波动等因素常可诱发潜伏病毒重新激活发病。"
+        },
+        {
+          "text": "水痘-带状疱疹病毒（VZV）感染是潜伏感染的典型代表",
+          "isCorrect": true,
+          "rationale": "VZV初次感染引起水痘，恢复后潜伏于神经节，成年后免疫力下降时复发表现为带状疱疹。"
+        },
+        {
+          "text": "血液中可持续高浓度检测出感染性病毒体且终生不消退",
+          "isCorrect": false,
+          "rationale": "潜伏期内血中一般检测不到病毒，持续高病毒血症属于慢性感染的特征。"
+        }
+      ],
+      "hint": "思考水痘-带状疱疹病毒在神经节潜伏及复发的特点。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "麻疹病毒初次感染恢复多年后，极少数患者可发生进行性加重且结局致命的脑部病变——亚急性硬化性全脑炎（SSPE）。这种感染类型属于？",
+      "answerOptions": [
+        {
+          "text": "慢发病毒感染（slow virus infection）",
+          "isCorrect": true,
+          "rationale": "慢发病毒感染特点为潜伏期极长（数年至数十年），发病后呈进行性加重并导致死亡。"
+        },
+        {
+          "text": "急性感染",
+          "isCorrect": false,
+          "rationale": "SSPE病程漫长且进行性恶化，不属于急性感染。"
+        },
+        {
+          "text": "隐性感染",
+          "isCorrect": false,
+          "rationale": "SSPE有严重的神经系统临床症状和体征，不属于隐性感染。"
+        },
+        {
+          "text": "局部感染",
+          "isCorrect": false,
+          "rationale": "SSPE累及中枢神经系统且病变严重，不是局限在表面的局部感染。"
+        }
+      ],
+      "hint": "关注“极长潜伏期、进行性加重、最终致死”这一感染模式。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "乙型肝炎病毒（HBV）和丙型肝炎病毒（HCV）感染后，患者血中可持续检测出病毒，病程迁延不愈，这种感染类型属于？",
+      "answerOptions": [
+        {
+          "text": "慢性感染（chronic infection）",
+          "isCorrect": true,
+          "rationale": "慢性感染的特点是病毒未被完全清除，血中可长期检测出病毒，病程迁延反复。"
+        },
+        {
+          "text": "潜伏感染",
+          "isCorrect": false,
+          "rationale": "潜伏感染在非发作期血液中一般检测不到完整病毒颗粒。"
+        },
+        {
+          "text": "急性感染",
+          "isCorrect": false,
+          "rationale": "慢性肝炎病程超过数月至数年，不属于短期的急性感染。"
+        },
+        {
+          "text": "慢发病毒感染",
+          "isCorrect": false,
+          "rationale": "慢发病毒感染专指潜伏期长达数年且发病后呈亚急性/进行性致死性病变。"
+        }
+      ],
+      "hint": "结合乙肝/丙肝患者血液中可持续检测到病毒这一临床特点。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "固有免疫是机体抵御病毒感染的第一道防线。下列关于相关免疫细胞或屏障在病毒感染中作用的描述，正确的有？",
+      "answerOptions": [
+        {
+          "text": "NK细胞是抗病毒感染中主要的固有免疫杀伤细胞，可杀伤病毒感染的靶细胞",
+          "isCorrect": true,
+          "rationale": "NK细胞能无特异性地识别并杀伤病毒感染的靶细胞，且IFN-γ可增强其活性。"
+        },
+        {
+          "text": "巨噬细胞（Mφ）对阻止病毒扩散和促进感染恢复具有重要作用",
+          "isCorrect": true,
+          "rationale": "巨噬细胞具备吞噬和清除病毒的功能，若受损容易导致病毒入血引起病毒血症。"
+        },
+        {
+          "text": "中性粒细胞吞噬病毒后可直接将病毒完全灭活并清除",
+          "isCorrect": false,
+          "rationale": "中性粒细胞虽然能吞噬病毒，但通常不能将其杀灭，病毒反而可能在其体内增殖并带至全身。"
+        },
+        {
+          "text": "皮肤和黏膜及其分泌物（如胃酸、泪液）构成机体良好的防疫屏障",
+          "isCorrect": true,
+          "rationale": "皮肤黏膜的物理结构与化学分泌物是抵御病毒入侵的第一道机械与化学屏障。"
+        }
+      ],
+      "hint": "注意区分巨噬细胞、NK细胞与中性粒细胞在清除病毒能力上的差异。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "干扰素（IFN）是机体抗病毒固有免疫的关键分子。关于干扰素作用特性的叙述，正确的是？",
+      "answerOptions": [
+        {
+          "text": "干扰素不能直接灭活病毒，而是通过诱导细胞产生抗病毒蛋白发挥效应",
+          "isCorrect": true,
+          "rationale": "干扰素作用于邻近细胞上的受体，激活信号转导通路，诱导细胞合成抗病毒蛋白（AVP）来抑制病毒复制。"
+        },
+        {
+          "text": "干扰素可以直接在体外游离状态下破坏病毒的衣壳和核酸",
+          "isCorrect": false,
+          "rationale": "干扰素对游离病毒颗粒没有直接中和或杀灭作用。"
+        },
+        {
+          "text": "干扰素只针对特定病毒有作用，具有高度的病毒特异性",
+          "isCorrect": false,
+          "rationale": "干扰素具有种属特异性，但抗病毒谱广，无病毒特异性。"
+        },
+        {
+          "text": "只有在适应性体液免疫建立后，机体才开始分泌干扰素",
+          "isCorrect": false,
+          "rationale": "干扰素属于固有免疫分子，在病毒感染早期（数小时内）即可产生。"
+        }
+      ],
+      "hint": "思考干扰素的作用机制是直接作用于病毒本身还是作用于宿主细胞。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在特异性体液免疫中，能够特异性与游离病毒体结合，并直接阻止病毒吸附和侵入靶细胞的抗体是？",
+      "answerOptions": [
+        {
+          "text": "中和抗体（Neutralizing antibody）",
+          "isCorrect": true,
+          "rationale": "中和抗体通过与病毒表面抗原结合，阻止病毒与宿主细胞受体结合，从而中和病毒的感染性。"
+        },
+        {
+          "text": "自身抗体",
+          "isCorrect": false,
+          "rationale": "自身抗体针对宿主自身成分，可能引发自身免疫损伤而非有效防卫。"
+        },
+        {
+          "text": "嗜异性抗体",
+          "isCorrect": false,
+          "rationale": "嗜异性抗体缺乏特异性中和病毒感染的能力。"
+        },
+        {
+          "text": "补体C3b",
+          "isCorrect": false,
+          "rationale": "补体C3b是补体激活片段，起调理和调控作用，不是抗体。"
+        }
+      ],
+      "hint": "这种抗体在预防病毒再次感染和阻止病毒血症扩散中起核心作用。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "妊娠早期（前3个月内）孕妇感染风疹病毒或巨细胞病毒（CMV），极易导致胎儿畸形或流产，其关键原因之一是？",
+      "answerOptions": [
+        {
+          "text": "此时胎盘屏障尚未发育完善，病毒易穿过胎盘感染胎儿",
+          "isCorrect": true,
+          "rationale": "妊娠前3个月胎盘屏障发育不全，防御能力差，病毒容易通过胎盘侵犯胚胎。"
+        },
+        {
+          "text": "孕妇体内缺乏任何固有免疫细胞",
+          "isCorrect": false,
+          "rationale": "孕妇体内仍具备固有免疫细胞，只是胎盘结构屏障未发育成熟。"
+        },
+        {
+          "text": "风疹病毒只在妊娠前3个月内具有毒力",
+          "isCorrect": false,
+          "rationale": "病毒毒力不取决于孕周，而是胎儿受感染时的发育阶段及屏障健全度。"
+        },
+        {
+          "text": "胎儿在此期间会自动吸引病毒聚集",
+          "isCorrect": false,
+          "rationale": "主要是物理屏障未完善导致病毒容易通透。"
+        }
+      ],
+      "hint": "关注胚胎早期发育阶段机体屏障结构的成熟程度。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "病毒对宿主细胞的直接致病机制（对细胞的损伤作用）包括下列哪些形式？",
+      "answerOptions": [
+        {
+          "text": "杀细胞效应（造成细胞裂解死亡）",
+          "isCorrect": true,
+          "rationale": "无包膜杀伤性病毒复制后促使细胞破坏裂解。"
+        },
+        {
+          "text": "包涵体形成",
+          "isCorrect": true,
+          "rationale": "病毒复制在核内或胞质内留下的特异性结构痕迹或聚集物。"
+        },
+        {
+          "text": "基因整合与细胞转化",
+          "isCorrect": true,
+          "rationale": "病毒核酸整合至宿主基因组，改变细胞生长调控导致细胞转化。"
+        },
+        {
+          "text": "诱导或抑制宿主细胞凋亡",
+          "isCorrect": true,
+          "rationale": "病毒通过干预细胞凋亡信号通路来服务于自身的复制与释放。"
+        }
+      ],
+      "hint": "回想病毒感染细胞后，在细胞水平上引起的各种病理变化。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "下列哪种传播途径是导致血源性病毒（如HIV、HBV、HCV）在人群中水平传播的主要方式？",
+      "answerOptions": [
+        {
+          "text": "注射、输血或血液制品、器官移植",
+          "isCorrect": true,
+          "rationale": "血源性病毒主要通过直接进入血液循环的方式（输血、注射、注射器共用等）传播。"
+        },
+        {
+          "text": "空气飞沫传播",
+          "isCorrect": false,
+          "rationale": "飞沫传播是呼吸道病毒的主要传播途径。"
+        },
+        {
+          "text": "水和食物污染",
+          "isCorrect": false,
+          "rationale": "水和食物污染属于消化道传播途径。"
+        },
+        {
+          "text": "鼠类咬伤",
+          "isCorrect": false,
+          "rationale": "鼠类咬伤属于特定动物媒介传人途径（如汉坦病毒）。"
+        }
+      ],
+      "hint": "考虑血液循环直接暴露相关的医源性或行为因素。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列关于体液免疫在抗病毒感染中作用的叙述，正确的有？",
+      "answerOptions": [
+        {
+          "text": "抗体可清除细胞外的游离病毒",
+          "isCorrect": true,
+          "rationale": "体液抗体主要在体液（血液、组织液）中发挥作用，作用于细胞外的病毒颗粒。"
+        },
+        {
+          "text": "抗体能有效抑制病毒通过病毒血症向靶细胞扩散",
+          "isCorrect": true,
+          "rationale": "中和抗体结合血流中的病毒，阻止其进入远处器官靶细胞。"
+        },
+        {
+          "text": "抗体（包括非中和抗体）可通过调理作用增强吞噬细胞对病毒的吞噬杀灭",
+          "isCorrect": true,
+          "rationale": "抗体的Fc段可与吞噬细胞表面Fc受体结合，发挥调理促进吞噬作用。"
+        },
+        {
+          "text": "抗体可以直接深入进入宿主细胞内部清除正在复制的病毒核酸",
+          "isCorrect": false,
+          "rationale": "绝大多数抗体不能自由穿过宿主细胞膜进入细胞内，细胞内病毒的清除主要依赖细胞免疫。"
+        }
+      ],
+      "hint": "区分抗体对“细胞外游离病毒”与“细胞内复制病毒”作用能力的差异。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在某些包膜病毒（如流感病毒）出芽释放的过程中，宿主细胞膜表面可表达病毒基因编码的新抗原（如血凝素）。这种改变会导致的结局是？",
+      "answerOptions": [
+        {
+          "text": "表达新抗原的细胞成为特异性细胞免疫攻击的靶细胞",
+          "isCorrect": true,
+          "rationale": "宿主细胞膜表面表达病毒抗原后，可被机体细胞毒性T细胞（CTL）等识别并破坏。"
+        },
+        {
+          "text": "宿主细胞获得永久抵御其他所有病毒感染的能力",
+          "isCorrect": false,
+          "rationale": "表达新抗原并不赋予细胞对所有病毒的广谱抵抗力。"
+        },
+        {
+          "text": "宿主细胞立即转化为无限制增殖的恶性肿瘤细胞",
+          "isCorrect": false,
+          "rationale": "出芽表达新抗原是稳定性感染的过程，不等于肿瘤转化。"
+        },
+        {
+          "text": "细胞核膜立刻发生破裂使基因组完全崩解",
+          "isCorrect": false,
+          "rationale": "膜表面表达抗原主要引发免疫识别与攻击，而非自身核膜直接裂解。"
+        }
+      ],
+      "hint": "思考细胞膜表面表达外源病毒抗原后，免疫系统（尤其是细胞免疫）会做出什么反应。"
+    }
+  ],
+  "topics": {
+    "covered": [
+      "病毒感染的传播方式与途径",
+      "病毒对宿主细胞的致病机制",
+      "病毒感染的免疫病理作用",
+      "病毒感染的临床及病程类型",
+      "抗病毒固有免疫与适应性免疫"
+    ],
+    "followUp": [
+      "干扰素诱导抗病毒蛋白（AVP）的具体分子机制",
+      "肿瘤病毒基因整合与细胞恶性转化的分子通路",
+      "抗病毒体液免疫与细胞免疫的配合与逃逸机制",
+      "慢发病毒感染与朊粒致病特点"
+    ]
+  }
+}

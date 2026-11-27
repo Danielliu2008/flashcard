@@ -1,0 +1,527 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "病原体由母亲经由胎盘、产道或哺乳途径直接传给胎儿或新生儿的传播方式称为：",
+      "options": [
+        {
+          "text": "垂直传播（Vertical transmission）",
+          "isCorrect": true,
+          "rationale": "正确。由母体直接传给后代的方式即为垂直传播。"
+        },
+        {
+          "text": "水平传播（Horizontal transmission）",
+          "isCorrect": false,
+          "rationale": "水平传播是人群个体之间的横向传播。"
+        },
+        {
+          "text": "虫媒传播",
+          "isCorrect": false,
+          "rationale": "属于水平传播的节肢动物媒介途径。"
+        },
+        {
+          "text": "医源性传播",
+          "isCorrect": false,
+          "rationale": "属于医疗操作引起的传播。"
+        }
+      ],
+      "hint": "从母体到胎儿或婴儿的垂直传递。",
+      "rationale": "垂直传播是指病原体从母体直接传递给子代的传播途径，包括经胎盘、经产道和哺乳三种方式。"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "狂犬病毒感染患者或感染动物后，在小脑普肯耶细胞及大脑海马回胞质内形成的特异性嗜酸性包涵体称为：",
+      "options": [
+        {
+          "text": "内基小体（Negri body）",
+          "isCorrect": true,
+          "rationale": "正确。狂犬病毒在神经细胞质内形成的嗜酸性包涵体称为内基小体，是狂犬病病理确诊依据。"
+        },
+        {
+          "text": "高尔基小体",
+          "isCorrect": false,
+          "rationale": "高尔基体是正常细胞器。"
+        },
+        {
+          "text": "网状小体",
+          "isCorrect": false,
+          "rationale": "衣原体细胞内繁殖形式。"
+        },
+        {
+          "text": "原体",
+          "isCorrect": false,
+          "rationale": "衣原体细胞外感染形式。"
+        }
+      ],
+      "hint": "狂犬病神经元特异性嗜酸性包涵体名称。",
+      "rationale": "内基小体（Negri body）是狂犬病毒在脑神经细胞质内形成的特异性包涵体，对狂犬病的组织病理学确诊具有绝对诊断意义。"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "单纯疱疹病毒（HSV）在原发感染控制后，病毒基因组可长期潜伏于宿主特定组织内，在间歇期内不复制也不排毒。这种感染类型属于：",
+      "options": [
+        {
+          "text": "潜伏感染（Latent infection）",
+          "isCorrect": true,
+          "rationale": "正确。间歇期不排毒、免疫下降时复发，是潜伏感染的典型特征。"
+        },
+        {
+          "text": "慢性感染（Chronic infection）",
+          "isCorrect": false,
+          "rationale": "慢性感染在整个病程中持续低水平排毒（如HBV）。"
+        },
+        {
+          "text": "慢发病毒感染（Slow virus infection）",
+          "isCorrect": false,
+          "rationale": "慢发感染呈进行性不可逆致死性单向恶化。"
+        },
+        {
+          "text": "急性感染",
+          "isCorrect": false,
+          "rationale": "急性感染病程短并彻底清除。"
+        }
+      ],
+      "hint": "病毒潜伏在神经节，不复制不排毒，劳累发热后复发。",
+      "rationale": "潜伏感染是指原发感染后病毒未被完全清除，潜伏于神经节等特定组织内，间歇期不排毒，机体抵抗力下降时可反复被激活发病。"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "麻疹病毒感染儿童数年甚至十几年后，偶可引起一种亚急性进行性神经系统退化并最终致死的严重中枢神经疾病（SSPE）。这种感染属于：",
+      "options": [
+        {
+          "text": "慢发病毒感染（Slow virus infection）",
+          "isCorrect": true,
+          "rationale": "正确。潜伏期数年，发病后呈亚急性进行性致死恶化，属于慢发病毒感染。"
+        },
+        {
+          "text": "隐性感染",
+          "isCorrect": false,
+          "rationale": "SSPE有极严重的神经系统致死症状。"
+        },
+        {
+          "text": "顿挫感染",
+          "isCorrect": false,
+          "rationale": "顿挫感染不产生病毒体，无致死性神经损伤。"
+        },
+        {
+          "text": "带菌状态",
+          "isCorrect": false,
+          "rationale": "病毒感染不叫带菌。"
+        }
+      ],
+      "hint": "潜伏期极长（数年），发病后进行性致死。",
+      "rationale": "亚急性硬化性全脑炎（SSPE）是慢发病毒感染的典型代表，麻疹病毒在体内长期潜伏变异，多年后发病引起进行性脑退行性致死损害。"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "干扰素（IFN）具有强大的抗病毒活性，关于其直接发挥抗病毒作用的机制，下列说法正确的是：",
+      "options": [
+        {
+          "text": "与宿主细胞受体结合，诱导细胞合成2-5A合成酶和蛋白激酶PKR等抗病毒蛋白（AVP）",
+          "isCorrect": true,
+          "rationale": "正确。干扰素不直接杀灭病毒，而是通过活化AVP降解病毒mRNA并阻断翻译。"
+        },
+        {
+          "text": "在宿主细胞外直接与病毒衣壳蛋白结合，促使病毒颗粒在血清中崩解沉淀",
+          "isCorrect": false,
+          "rationale": "干扰素在细胞外不与游离病毒直接作用。"
+        },
+        {
+          "text": "直接激活补体经典途径对病毒包膜进行打孔溶解",
+          "isCorrect": false,
+          "rationale": "这是特异性抗体的功能，非干扰素功能。"
+        },
+        {
+          "text": "特异性抑制病毒DNA反转录酶的活性",
+          "isCorrect": false,
+          "rationale": "这是逆转录酶抑制剂药物机制。"
+        }
+      ],
+      "hint": "诱导宿主细胞产生抗病毒蛋白（AVP）。",
+      "rationale": "干扰素不直接作用于病毒体，而是结合宿主细胞受体诱导产生抗病毒蛋白（2-5A合成酶与PKR），降解病毒mRNA并抑制蛋白质合成。"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "干扰素的一大重要生物学特性是“种属特异性”，其具体含义是：",
+      "options": [
+        {
+          "text": "某一种属生物细胞产生的干扰素，通常只在该种属的细胞上发挥最高抗病毒活性",
+          "isCorrect": true,
+          "rationale": "正确。如人干扰素在人体细胞上活性最高，对其他动物细胞活性极低。"
+        },
+        {
+          "text": "一种干扰素只对某单一特定属的病毒具有抗病毒效果",
+          "isCorrect": false,
+          "rationale": "干扰素是广谱抗病毒的，对多种病毒均有效。"
+        },
+        {
+          "text": "只能由特定一种白细胞产生",
+          "isCorrect": false,
+          "rationale": "白细胞、成纤维细胞、T细胞等均可产生不同类型干扰素。"
+        },
+        {
+          "text": "只对具有包膜的病毒有效，对无包膜病毒无效",
+          "isCorrect": false,
+          "rationale": "对有无包膜病毒均有效。"
+        }
+      ],
+      "hint": "注意区分‘抗病毒的广谱性’与‘作用细胞宿主的种属特异性’。",
+      "rationale": "干扰素抗病毒作用是广谱的，但具有严格的宿主细胞种属特异性，人细胞合成的干扰素主要在人或灵长类细胞上发挥保护活性。"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "主要由活化的T淋巴细胞（Th1细胞）和NK细胞产生，主要发挥免疫调节作用而非直接抗病毒作用的干扰素类型是：",
+      "options": [
+        {
+          "text": "II型干扰素（IFN-γ / 免疫干扰素）",
+          "isCorrect": true,
+          "rationale": "正确。IFN-γ属于II型干扰素，主要调节巨噬细胞和特异性细胞免疫。"
+        },
+        {
+          "text": "IFN-α（白细胞干扰素）",
+          "isCorrect": false,
+          "rationale": "属于I型干扰素，主要抗病毒。"
+        },
+        {
+          "text": "IFN-β（成纤维细胞干扰素）",
+          "isCorrect": false,
+          "rationale": "属于I型干扰素，主要抗病毒。"
+        },
+        {
+          "text": "肿瘤坏死因子TNF-α",
+          "isCorrect": false,
+          "rationale": "TNF属于促炎细胞因子，非干扰素。"
+        }
+      ],
+      "hint": "由致敏T细胞产生的免疫干扰素（γ-干扰素）。",
+      "rationale": "I型干扰素（IFN-α/β）主要行使广谱抗病毒功能；II型干扰素（IFN-γ）主要由T细胞和NK细胞产生，发挥强效巨噬细胞活化与免疫调节功能。"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "特异性中和抗体能够有效清除细胞外的游离病毒体，其阻止病毒感染易感细胞的核心机制是：",
+      "options": [
+        {
+          "text": "与病毒表面吸附蛋白/刺突特异性结合，位阻性阻断病毒与宿主细胞表面受体的结合吸附",
+          "isCorrect": true,
+          "rationale": "正确。空间阻断受体识别是中和抗体的核心功能。"
+        },
+        {
+          "text": "进入宿主细胞内部特异性水解病毒单链RNA核酸",
+          "isCorrect": false,
+          "rationale": "抗体是大分子免疫球蛋白，无法进入活细胞内部水解核酸。"
+        },
+        {
+          "text": "直接氧化破坏病毒衣壳的肽聚糖骨架",
+          "isCorrect": false,
+          "rationale": "病毒根本没有肽聚糖结构。"
+        },
+        {
+          "text": "抑制宿主细胞核糖体的60S大亚基活性",
+          "isCorrect": false,
+          "rationale": "中和抗体不抑制宿主核糖体。"
+        }
+      ],
+      "hint": "阻止病毒结合靶细胞膜受体。",
+      "rationale": "中和抗体结合在病毒体表面抗原决定簇上，封闭了病毒与细胞表面受体的结合部位，阻碍病毒吸附穿入，并介导吞噬清除。"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "人类免疫缺陷病毒（HIV）主要特异性侵犯并破坏下列哪种关键免疫细胞，导致宿主细胞免疫与体液免疫功能全面衰竭？",
+      "options": [
+        {
+          "text": "CD4+ T淋巴细胞（辅助性T细胞）",
+          "isCorrect": true,
+          "rationale": "正确。HIV的gp120高度亲和CD4受体，造成CD4+ T细胞大量死亡耗竭。"
+        },
+        {
+          "text": "CD8+ 细胞毒性T淋巴细胞（CTL）",
+          "isCorrect": false,
+          "rationale": "HIV主要侵犯CD4+细胞，导致CD4/CD8比值严重倒置。"
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": false,
+          "rationale": "非HIV特异侵犯靶细胞。"
+        },
+        {
+          "text": "嗜酸性粒细胞",
+          "isCorrect": false,
+          "rationale": "非HIV受体表达靶细胞。"
+        }
+      ],
+      "hint": "艾滋病患者血检指标中哪类细胞计数严重降低？",
+      "rationale": "HIV表面包膜糖蛋白gp120特异性结合CD4+ T细胞表面的CD4分子及辅助受体，大量杀伤破坏CD4+ T细胞，导致整个免疫系统瘫痪。"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "经证实，高危型人乳头瘤病毒（HPV 16, 18型）持续感染与下列哪种人类恶性肿瘤的发生具有直接因果关联？",
+      "options": [
+        {
+          "text": "宫颈癌",
+          "isCorrect": true,
+          "rationale": "正确。HPV 16和18型高危型感染是诱发宫颈癌的最主要病因。"
+        },
+        {
+          "text": "原发性肝癌",
+          "isCorrect": false,
+          "rationale": "原发性肝癌与HBV/HCV相关。"
+        },
+        {
+          "text": "伯基特淋巴瘤",
+          "isCorrect": false,
+          "rationale": "伯基特淋巴瘤与EBV相关。"
+        },
+        {
+          "text": "卡波西肉瘤",
+          "isCorrect": false,
+          "rationale": "卡波西肉瘤与HHV-8相关。"
+        }
+      ],
+      "hint": "HPV疫苗针对预防的最核心妇科恶性肿瘤。",
+      "rationale": "高危型HPV（特别是16和18型）编码的E6和E7癌蛋白降解p53并失活pRb，是导致女性宫颈上皮恶变和宫颈癌发生的直接病因。"
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "在体外细胞培养瓶中，如果将干扰素与游离的病毒颗粒直接在试管中混合，干扰素便会像抗生素一样迅速裂解并灭活所有病毒颗粒。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": "判断错误。干扰素在体外不直接杀灭游离病毒，必须作用于活细胞诱导AVP后才能发挥抗病毒作用！"
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "判断正确。干扰素的作用机制是间接的，作用于靶细胞而非游离病毒。"
+        }
+      ],
+      "hint": "干扰素具有间接抗病毒性，体外直接接触无法灭活病毒。",
+      "rationale": "干扰素不能直接中和或杀灭病毒颗粒，必须与活细胞表面的特异受体结合，通过信号转导诱导产生抗病毒蛋白（AVP）后才能阻断病毒复制。"
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "水痘-带状疱疹病毒（VZV）在儿童期引起水痘痊愈后，少量病毒可长期潜伏于脊髓后根神经节，在成人免疫力下降时复发引起带状疱疹。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "判断正确。这是VZV典型的潜伏-激活复发过程。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": "符合VZV的致病特点与潜伏部位。"
+        }
+      ],
+      "hint": "水痘与带状疱疹是由同一种病毒在不同时期引起的两种截然不同表现。",
+      "rationale": "VZV初次感染引起儿童水痘，愈后病毒潜伏于脊髓后根感觉神经节中，在机体抵抗力低下时被激活引起带状分布的带状疱疹。"
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "中和抗体主要清除已侵入宿主细胞内部、正处于生物合成旺盛期的细胞内病毒。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": "判断错误。大分子抗体无法跨膜进入活细胞内，中和抗体只能清除细胞外游离的病毒颗粒！"
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "判断正确。抗体仅对细胞外游离病毒发挥中和阻断作用，清除细胞内病毒必须依赖CTL等细胞免疫。"
+        }
+      ],
+      "hint": "抗体分子能否自由跨过宿主活细胞膜清除胞质内的病毒？",
+      "rationale": "中和抗体作为大分子免疫球蛋白，仅能特异性结合细胞外游离的病毒体，阻断其再感染健康细胞；细胞内病毒主要靠细胞毒性T细胞（CTL）清除。"
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "慢性感染是指显性或隐性感染后，病毒长期潜伏在神经节内，在整个潜伏间歇期内完全不复制也不排出病毒。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": "判断错误。这是‘潜伏感染’的定义！慢性感染在整个病程中是持续复制排毒的（如HBV）。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "判断正确。慢性感染长期持续排毒；间歇期不排毒的属于潜伏感染。"
+        }
+      ],
+      "hint": "区分慢性感染（持续复制排毒）与潜伏感染（间歇期不排毒）。",
+      "rationale": "慢性感染病程迁延，病毒在机体内持续低水平复制并不断排毒；而潜伏期不复制、不排毒、仅在复发时排毒的为潜伏感染。"
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "question": "分泌型IgA（sIgA）主要存在于呼吸道、胃肠道及生殖道外分泌液中，是机体阻断外来病毒定植黏附的最重要黏膜免疫防线。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "判断正确。sIgA耐消化酶，是黏膜表面第一道特异性体液免疫屏障。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": "符合sIgA的黏膜防御功能。"
+        }
+      ],
+      "hint": "呼吸道和肠道黏膜分泌液中的主力抗体。",
+      "rationale": "外分泌型sIgA存在于唾液、泪液、呼吸道和消化道黏液中，能有效阻止病毒在黏膜表面的吸附与侵入，是局部抗感染的核心抗体。"
+    },
+    {
+      "id": 16,
+      "type": "multiple_select",
+      "question": "下列病毒中，能够通过胎盘或产道发生母婴“垂直传播”的常见病毒有：",
+      "options": [
+        {
+          "text": "风疹病毒（Rubella virus）",
+          "isCorrect": true,
+          "rationale": "引起严重先天性畸形（先天性风疹综合征）。"
+        },
+        {
+          "text": "巨细胞病毒（CMV）",
+          "isCorrect": true,
+          "rationale": "常见宫内感染病原体。"
+        },
+        {
+          "text": "乙型肝炎病毒（HBV）",
+          "isCorrect": true,
+          "rationale": "经典母婴垂直传播病毒。"
+        },
+        {
+          "text": "人类免疫缺陷病毒（HIV）",
+          "isCorrect": true,
+          "rationale": "可通过胎盘、产道及乳汁垂直传染。"
+        }
+      ],
+      "hint": "TORCH综合征核心病原体及肝炎、艾滋病毒。",
+      "rationale": "风疹病毒、巨细胞病毒、单纯疱疹病毒、乙肝病毒及HIV均属于可导致严重宫内感染或母婴垂直传播的典型病毒。"
+    },
+    {
+      "id": 17,
+      "type": "multiple_select",
+      "question": "关于干扰素（IFN）发挥广谱抗病毒作用的特性，描述正确的有：",
+      "options": [
+        {
+          "text": "抗病毒范围极广，对多种不同科属的DNA和RNA病毒均有效",
+          "isCorrect": true,
+          "rationale": "正确。广谱抗病毒。"
+        },
+        {
+          "text": "具有严格的宿主细胞种属特异性（人干扰素在人细胞上活性最高）",
+          "isCorrect": true,
+          "rationale": "正确。受体结合具有种属限制。"
+        },
+        {
+          "text": "通过诱导合成2-5A合成酶激活RNase L降解病毒mRNA",
+          "isCorrect": true,
+          "rationale": "正确。经典抗病毒生化途径之一。"
+        },
+        {
+          "text": "通过诱导蛋白激酶PKR磷酸化失活eIF-2阻断蛋白质翻译",
+          "isCorrect": true,
+          "rationale": "正确。经典抗病毒翻译抑制途径。"
+        }
+      ],
+      "hint": "干扰素的广谱性、种属特异性以及两大AVP生化机制。",
+      "rationale": "四个选项均准确概括了干扰素的生物学特性及其细胞内介导的AVP分子作用机制。"
+    },
+    {
+      "id": 18,
+      "type": "multiple_select",
+      "question": "下列属于病毒感染机体引起的典型“免疫病理损伤”的有：",
+      "options": [
+        {
+          "text": "乙型肝炎患者体内形成大量抗原-抗体循环免疫复合物沉积引起肾小球肾炎",
+          "isCorrect": true,
+          "rationale": "正确。III型超敏反应免疫复合物病。"
+        },
+        {
+          "text": "CD8+ 细胞毒性T细胞（CTL）在清除受染细胞时过度杀伤大量正常肝组织",
+          "isCorrect": true,
+          "rationale": "正确。IV型迟发性细胞免疫损伤。"
+        },
+        {
+          "text": "HIV特异性耗竭CD4+ T淋巴细胞引起严重的全身免疫功能缺陷",
+          "isCorrect": true,
+          "rationale": "正确。病毒引起的继发性免疫抑制。"
+        },
+        {
+          "text": "细菌质粒通过性菌毛接合转移扩散广谱抗生素耐药性",
+          "isCorrect": false,
+          "rationale": "错误。这是细菌耐药机制，不属于病毒免疫病理。"
+        }
+      ],
+      "hint": "病毒引起的免疫复合物沉积、CTL组织损伤以及免疫抑制。",
+      "rationale": "病毒引起的免疫病理涵盖免疫复合物病（III型）、CTL杀伤靶细胞引起的组织坏死（IV型）以及免疫细胞耗竭抑制（如HIV）。"
+    },
+    {
+      "id": 19,
+      "type": "multiple_select",
+      "question": "下列关于“潜伏感染”与“慢发病毒感染”的鉴别点，表述正确的有：",
+      "options": [
+        {
+          "text": "潜伏感染在间歇期内病毒不复制、不向体外排毒",
+          "isCorrect": true,
+          "rationale": "正确。潜伏期完全隐蔽。"
+        },
+        {
+          "text": "单纯疱疹病毒（HSV）和水痘-带状疱疹病毒（VZV）是潜伏感染的代表",
+          "isCorrect": true,
+          "rationale": "正确。典型神经节潜伏病毒。"
+        },
+        {
+          "text": "慢发病毒感染发病后病程持续进行性单向恶化，最终导致死亡",
+          "isCorrect": true,
+          "rationale": "正确。如SSPE或朊粒病。"
+        },
+        {
+          "text": "慢发病毒感染在发病前通常经历长达数月乃至数年的极长潜伏期",
+          "isCorrect": true,
+          "rationale": "正确。潜伏期超长是慢发感染的标志。"
+        }
+      ],
+      "hint": "潜伏感染有间歇不排毒与多次复发；慢发感染潜伏期极长且发病后不可逆致死。",
+      "rationale": "四个选项均准确表达了潜伏感染与慢发病毒感染的定义、病程特点与代表病原体。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "question": "干扰素主要分为两类：由白细胞和成纤维细胞产生的（1）____型干扰素主要行使抗病毒作用；由活化T细胞和NK细胞产生的（2）____型干扰素（IFN-γ）主要行使免疫调节作用。",
+      "blankAnswers": [
+        "I",
+        "II"
+      ],
+      "hint": "填写罗马数字I和II（或一和二）。",
+      "rationale": "I型干扰素（IFN-α/β）主要抗病毒；II型干扰素（IFN-γ）主要进行免疫调节。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "question": "在体外细胞培养中，溶细胞型病毒增殖直接引起的细胞变圆脱落死亡现象称为（1）____效应（CPE）；而水痘-带状疱疹病毒在原发感染水痘痊愈后，其基因组可长期潜伏于人体的（2）____神经节中，成年后复发表现为带状疱疹。",
+      "blankAnswers": [
+        "细胞病变",
+        "脊髓后根"
+      ],
+      "hint": "第一空填CPE的中文全称；第二空填VZV潜伏的神经节名称。",
+      "rationale": "CPE全称为细胞病变效应（Cytopathic effect）；VZV潜伏于脊髓后根感觉神经节或颅神经感觉神经节中。"
+    }
+  ]
+}

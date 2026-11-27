@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 后层闪卡阴影与卡片 (倾斜错落) -->
+    <path
+        android:fillColor="#30FFFFFF"
+        android:pathData="M37,28 L77,28 A6,6 0 0,1 83,34 L83,74 A6,6 0 0,1 77,80 L37,80 A6,6 0 0,1 31,74 L31,34 A6,6 0 0,1 37,28 Z" />
+
+    <!-- 前层主闪卡 (白色圆角矩形) -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M31,34 L71,34 A6,6 0 0,1 77,40 L77,80 A6,6 0 0,1 71,86 L31,86 A6,6 0 0,1 25,80 L25,40 A6,6 0 0,1 31,34 Z" />
+
+    <!-- 卡片内部条纹 (代表笔记/知识点) -->
+    <path
+        android:fillColor="#E8EAED"
+        android:pathData="M33,42 L55,42 A2,2 0 0,1 57,44 A2,2 0 0,1 55,46 L33,46 A2,2 0 0,1 31,44 A2,2 0 0,1 33,42 Z" />
+
+    <!-- 卡片中央智慧记忆星芒 (Google Sparkle 象征记忆与AI辅助) -->
+    <!-- 核心大星芒 (Google 经典蓝 #1A73E8) -->
+    <path
+        android:fillColor="#1A73E8"
+        android:pathData="M51,51 C51,58 45,63 38,63 C45,63 51,68 51,75 C51,68 57,63 64,63 C57,63 51,58 51,51 Z" />
+
+    <!-- 星芒中心光核 (黄色微光点 #FBBC04) -->
+    <path
+        android:fillColor="#FBBC04"
+        android:pathData="M51,61 A2,2 0 1,0 51,65 A2,2 0 1,0 51,61 Z" />
+
+    <!-- 伴生小星芒 (右上角 Google 绿 #34A853) -->
+    <path
+        android:fillColor="#34A853"
+        android:pathData="M67,41 C67,45 64,48 60,48 C64,48 67,51 67,55 C67,51 70,48 74,48 C70,48 67,45 67,41 Z" />
+
+    <!-- 知识脉络圆点 (Google 红 #EA4335) -->
+    <path
+        android:fillColor="#EA4335"
+        android:pathData="M69,69 A2.5,2.5 0 1,0 69,74 A2.5,2.5 0 1,0 69,69 Z" />
+
+</vector>

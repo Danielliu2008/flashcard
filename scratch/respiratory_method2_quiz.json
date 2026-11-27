@@ -1,0 +1,1014 @@
+{
+  "id": "quiz_respiratory_system",
+  "systemType": "RESPIRATORY",
+  "title": "呼吸系统 单元测验",
+  "description": "基于课件要点与官方课后习题标准答案，涵盖上/下呼吸道、肺泡表面活性物质、呼吸肌力学机制、血气运输与呼吸调节",
+  "coveredTopics": [
+    "上呼吸道与下呼吸道解剖",
+    "肺泡微细结构与表面活性物质",
+    "平静与用力呼吸动力学",
+    "肺容积与肺活量评估",
+    "氧与二氧化碳的血液运输机制",
+    "呼吸节律中枢与化学性体液调节"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "question": "呼吸系统由呼吸道和____构成，上呼吸道包括____、____、____，下呼吸道包括____和____，气体交换在____进行。",
+      "blankAnswers": [
+        "肺",
+        "鼻",
+        "咽",
+        "喉",
+        "气管",
+        "各级支气管",
+        "肺（泡）"
+      ],
+      "hint": "注意呼吸生理名词定义及解剖层次对应",
+      "rationale": "呼吸系统由呼吸道和肺两大部分组成；临床上将鼻、咽、喉称为上呼吸道，气管及支气管树称为下呼吸道；气体交换在肺泡进行。",
+      "options": []
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "question": "用以评价肺功能的肺活量包括____、____和____，用力呼气后仍留在肺内的气体被称为____。",
+      "blankAnswers": [
+        "潮气量",
+        "补吸气量",
+        "补呼气量",
+        "残气量"
+      ],
+      "hint": "注意呼吸生理名词定义及解剖层次对应",
+      "rationale": "肺活量 = 潮气量 + 补吸气量 + 补呼气量；尽力最大呼气后残留于肺内的气量为残气量。",
+      "options": []
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "question": "平静呼吸时____是主动过程，此时____和____收缩，胸腔内压力下降。",
+      "blankAnswers": [
+        "吸气",
+        "肋间外肌",
+        "膈肌"
+      ],
+      "hint": "注意呼吸生理名词定义及解剖层次对应",
+      "rationale": "平静吸气是主动过程，主要由肋间外肌和膈肌收缩引起；平静呼气为被动过程。",
+      "options": []
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "question": "胸膜分两层，紧贴在肺表面的为____，贴在胸壁内侧的是____，两层胸膜之间的腔隙为____，其中的压力____大气压。",
+      "blankAnswers": [
+        "脏层胸膜",
+        "壁层胸膜",
+        "胸膜腔",
+        "低于"
+      ],
+      "hint": "注意呼吸生理名词定义及解剖层次对应",
+      "rationale": "胸膜分为脏胸膜与壁胸膜，两层之间的潜在腔隙为胸膜腔，正常状态下胸膜腔内压低于大气压（呈负压）。",
+      "options": []
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "question": "平静吸气时____和____收缩，肺容积____，肺内压____，大气压____肺内压，气体进入肺内。",
+      "blankAnswers": [
+        "肋间外肌",
+        "膈肌",
+        "增大",
+        "降低",
+        "高于"
+      ],
+      "hint": "注意呼吸生理名词定义及解剖层次对应",
+      "rationale": "吸气肌收缩使胸廓扩大，肺顺应扩张，肺内压降低并低于大气压，形成外界气体流入肺内的压力差。",
+      "options": []
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "question": "尽力深吸气后再尽力呼气，呼出的最大气量称为____，功能残气量指____与____之和。",
+      "blankAnswers": [
+        "肺活量",
+        "补呼气量",
+        "残气量"
+      ],
+      "hint": "注意呼吸生理名词定义及解剖层次对应",
+      "rationale": "肺活量反映肺的最大通气储备潜力；功能残气量 = 补呼气量 + 残气量。",
+      "options": []
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "question": "生理无效腔包括____和____。",
+      "blankAnswers": [
+        "解剖无效腔",
+        "肺泡无效腔"
+      ],
+      "hint": "注意呼吸生理名词定义及解剖层次对应",
+      "rationale": "生理无效腔是解剖无效腔与肺泡无效腔的总和。健康成人肺泡无效腔极小，故生理无效腔接近解剖无效腔。",
+      "options": []
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "question": "肺泡表面活性物质由____分泌，作用为____。吸气时，随着气体进入肺泡容积增大，肺泡表面活性物质密度____，肺泡表面张力____。",
+      "blankAnswers": [
+        "Ⅱ型肺泡上皮细胞",
+        "降低肺泡表面张力",
+        "降低",
+        "增加"
+      ],
+      "hint": "注意呼吸生理名词定义及解剖层次对应",
+      "rationale": "肺泡Ⅱ型细胞分泌的二棕榈酰卵磷脂（DPPC）可降低表面张力。吸气时肺泡扩张，单分子层密度稀释降低，表面张力增大，防止肺泡过度膨胀。",
+      "options": []
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "question": "功能残气量包括____和____，其中无论怎样用力呼气依然存留在肺内的是____。",
+      "blankAnswers": [
+        "补呼气量",
+        "残气量",
+        "残气量"
+      ],
+      "hint": "注意呼吸生理名词定义及解剖层次对应",
+      "rationale": "平静呼气末存留在肺内的气量为功能残气量；用力呼气后依然留在肺内的气量为残气量。",
+      "options": []
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "question": "基本呼吸节律中枢位于____，____是调节呼吸运动最重要的生理性化学因素。",
+      "blankAnswers": [
+        "延髓",
+        "CO2",
+        "二氧化碳"
+      ],
+      "hint": "注意呼吸生理名词定义及解剖层次对应",
+      "rationale": "延髓是呼吸节律发生的基本中枢；动脉血中适量浓度的 CO2 是维持和兴奋呼吸中枢兴奋性最重要的体液因素。",
+      "options": []
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "下列不是肺活量的组成部分的是（ ）。",
+      "options": [
+        {
+          "text": "补呼气量",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "补吸气量",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "残气量",
+          "isCorrect": true,
+          "rationale": "肺活量 = 潮气量 + 补吸气量 + 补呼气量，不包含残气量。"
+        },
+        {
+          "text": "潮气量",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "肺活量 = 潮气量 + 补吸气量 + 补呼气量，不包含残气量。",
+      "blankAnswers": []
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "氧气在血液中运输时主要与（ ）结合在一起运输。",
+      "options": [
+        {
+          "text": "纤维蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血红蛋白",
+          "isCorrect": true,
+          "rationale": "血液中 98.5% 的氧气以氧合血红蛋白（HbO2）的形式化学结合运输。"
+        },
+        {
+          "text": "白蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "球蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "血液中 98.5% 的氧气以氧合血红蛋白（HbO2）的形式化学结合运输。",
+      "blankAnswers": []
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "参与平静呼吸的主要呼吸肌是（ ）。",
+      "options": [
+        {
+          "text": "肋间内肌和腹直肌",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肋间内肌和膈肌",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肋间外肌和膈肌",
+          "isCorrect": true,
+          "rationale": "平静吸气由主要吸气肌（肋间外肌和膈肌）收缩完成；呼气为肌松弛被动回缩。"
+        },
+        {
+          "text": "肋间外肌和肋间内肌",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "平静吸气由主要吸气肌（肋间外肌和膈肌）收缩完成；呼气为肌松弛被动回缩。",
+      "blankAnswers": []
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "肺泡表面活性物质的减少，将导致（ ）。",
+      "options": [
+        {
+          "text": "肺泡表面张力增大，肺泡易萎缩",
+          "isCorrect": true,
+          "rationale": "肺泡表面活性物质的主要作用是降低肺泡液-气界面的表面张力。其减少会导致表面张力增大，引起肺萎缩与肺顺应性下降。"
+        },
+        {
+          "text": "肺泡容易扩张",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肺泡表面张力降低",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胸内负压完全消失",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "肺泡表面活性物质的主要作用是降低肺泡液-气界面的表面张力。其减少会导致表面张力增大，引起肺萎缩与肺顺应性下降。",
+      "blankAnswers": []
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "下列关于胸膜腔的叙述，正确的是（ ）。",
+      "options": [
+        {
+          "text": "其内压始终等于大气压",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "左、右胸膜腔通过纵隔相互连通",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "由脏层胸膜独自围成",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "是密闭的潜在性负压腔隙",
+          "isCorrect": true,
+          "rationale": "胸膜腔是由脏胸膜和壁胸膜相互移行围成的密闭潜在腔隙，正常呈负压，左、右胸膜腔互不相通。"
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "胸膜腔是由脏胸膜和壁胸膜相互移行围成的密闭潜在腔隙，正常呈负压，左、右胸膜腔互不相通。",
+      "blankAnswers": []
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "下列关于气道与肺泡生理的叙述，正确的是（ ）。",
+      "options": [
+        {
+          "text": "终末细支气管以上的气道无肺泡因而无法与血液进行气体交换",
+          "isCorrect": true,
+          "rationale": "终末细支气管以上的气道属于解剖无效腔（导气部），壁内无肺泡，不能进行气体交换。气管软骨为后方缺如的'C'形软骨环。"
+        },
+        {
+          "text": "肺泡无效腔是因为没有气体进入肺泡因而无法进行气体交换",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "吸气时随肺泡扩张，表面活性物质密度减小，肺泡表面张力随之减小",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "气管软骨呈闭合完整圆环结构维持气道通畅",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "终末细支气管以上的气道属于解剖无效腔（导气部），壁内无肺泡，不能进行气体交换。气管软骨为后方缺如的'C'形软骨环。",
+      "blankAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "会厌软骨的主要生理作用是（ ）。",
+      "options": [
+        {
+          "text": "高速振动产生声音",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "在吞咽时下压盖住喉口，阻止异物入喉",
+          "isCorrect": true,
+          "rationale": "吞咽时喉上提，会厌向后下倒转覆盖喉口，防止食物或液体呛入呼吸道。"
+        },
+        {
+          "text": "阻挡吸入空气中的粉尘",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "作为颈部体表最突出的解剖标志",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "吞咽时喉上提，会厌向后下倒转覆盖喉口，防止食物或液体呛入呼吸道。",
+      "blankAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "上呼吸道不包括下列哪个解剖器官？（ ）",
+      "options": [
+        {
+          "text": "咽",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "气管",
+          "isCorrect": true,
+          "rationale": "临床解剖学上将鼻、咽、喉统称为上呼吸道；气管和各级支气管称为下呼吸道。"
+        },
+        {
+          "text": "鼻",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "喉",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "临床解剖学上将鼻、咽、喉统称为上呼吸道；气管和各级支气管称为下呼吸道。",
+      "blankAnswers": []
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "外呼吸的主要功能是（ ）。",
+      "options": [
+        {
+          "text": "在血液里交换氧气和氮气",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "运送外界氧气入血并排出二氧化碳",
+          "isCorrect": true,
+          "rationale": "外呼吸（肺呼吸）指机体与外界环境之间的气体交换，包括肺通气和肺换气。"
+        },
+        {
+          "text": "在血液里清除二氧化碳和一氧化碳",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "在组织细胞与血液之间完成气体交换",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "外呼吸（肺呼吸）指机体与外界环境之间的气体交换，包括肺通气和肺换气。",
+      "blankAnswers": []
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "控制机体基本呼吸节律的中枢位于（ ）。",
+      "options": [
+        {
+          "text": "间脑下丘脑",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大脑皮层运动区",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "脊髓前角",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "脑干延髓",
+          "isCorrect": true,
+          "rationale": "基本呼吸节律起源并受控于脑干延髓的自主节律神经元网络。"
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "基本呼吸节律起源并受控于脑干延髓的自主节律神经元网络。",
+      "blankAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "引起肺通气的直接动力是（ ）。",
+      "options": [
+        {
+          "text": "肺内压与外界大气压之间的压力差",
+          "isCorrect": true,
+          "rationale": "呼吸运动是肺通气的原动力，而直接动力是肺泡内气压（肺内压）与外界大气压之间的压力差。"
+        },
+        {
+          "text": "肺组织本身的舒缩活动",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "呼吸肌的主动收缩力量",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胸膜腔内负压的周期性变化",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "呼吸运动是肺通气的原动力，而直接动力是肺泡内气压（肺内压）与外界大气压之间的压力差。",
+      "blankAnswers": []
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "下列关于平静呼吸的描述，错误的是（ ）。",
+      "options": [
+        {
+          "text": "呼气时膈肌和肋间外肌舒张恢复原位",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "呼气时肋间内肌主动收缩下压胸廓",
+          "isCorrect": true,
+          "rationale": "平静呼气是被动过程，吸气肌舒张使胸廓自然回位，肋间内肌在用力呼气时才主动收缩。"
+        },
+        {
+          "text": "吸气时膈肌收缩向下移动",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "吸气时肋间外肌收缩向上提肋",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "平静呼气是被动过程，吸气肌舒张使胸廓自然回位，肋间内肌在用力呼气时才主动收缩。",
+      "blankAnswers": []
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "氧气（O2）在血液中运输的主要形式是（ ）。",
+      "options": [
+        {
+          "text": "高铁血红蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "氨基甲酰血红蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "物理溶解",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "氧合血红蛋白",
+          "isCorrect": true,
+          "rationale": "正常动脉血中 98.5% 的 O2 与红细胞内的血红蛋白结合成氧合血红蛋白（HbO2）进行运输。"
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "正常动脉血中 98.5% 的 O2 与红细胞内的血红蛋白结合成氧合血红蛋白（HbO2）进行运输。",
+      "blankAnswers": []
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "二氧化碳（CO2）在血液中运输的最主要形式是（ ）。",
+      "options": [
+        {
+          "text": "氧合血红蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "氨基甲酰血红蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "碳酸氢盐（HCO3-）",
+          "isCorrect": true,
+          "rationale": "血液中约 88% 的 CO2 通过红细胞内碳酸酐酶催化转化为碳酸氢盐形式运输。"
+        },
+        {
+          "text": "物理溶解",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "血液中约 88% 的 CO2 通过红细胞内碳酸酐酶催化转化为碳酸氢盐形式运输。",
+      "blankAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "平静呼气末肺内的气体容量称为（ ）。",
+      "options": [
+        {
+          "text": "残气量",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "补吸气量 + 残气量",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "补呼气量 + 潮气量",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "功能残气量",
+          "isCorrect": true,
+          "rationale": "功能残气量指平静呼气末仍留在肺内的气量（等于补呼气量 + 残气量），起缓冲肺泡气体分压波动的作用。"
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "功能残气量指平静呼气末仍留在肺内的气量（等于补呼气量 + 残气量），起缓冲肺泡气体分压波动的作用。",
+      "blankAnswers": []
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "构成喉部支架并向前突出形成喉结的软骨是（ ）。",
+      "options": [
+        {
+          "text": "勺状（杓状）软骨",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "甲状软骨",
+          "isCorrect": true,
+          "rationale": "甲状软骨是喉软骨中最大的一块，左右两板前缘相连处向前突出形成喉结（男性尤为明显）。"
+        },
+        {
+          "text": "会厌软骨",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "环状软骨",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "甲状软骨是喉软骨中最大的一块，左右两板前缘相连处向前突出形成喉结（男性尤为明显）。",
+      "blankAnswers": []
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "正常安静状态下，肺组织弹性阻力的主要来源是（ ）。",
+      "options": [
+        {
+          "text": "肺泡表面活性物质的分子斥力",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肺泡内液-气界面的表面张力",
+          "isCorrect": true,
+          "rationale": "肺弹性阻力由肺组织弹性纤维回缩力（约占 1/3）和肺泡液-气界面的表面张力（约占 2/3）构成，故表面张力是主要来源。"
+        },
+        {
+          "text": "肺组织本身的弹性纤维回缩力",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "气道阻力",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "结合呼吸系统的解剖结构与生理病理特征综合分析",
+      "rationale": "肺弹性阻力由肺组织弹性纤维回缩力（约占 1/3）和肺泡液-气界面的表面张力（约占 2/3）构成，故表面张力是主要来源。",
+      "blankAnswers": []
+    },
+    {
+      "id": 28,
+      "type": "multiple_select",
+      "question": "平静吸气过程中发生收缩的呼吸肌有（ ）。",
+      "options": [
+        {
+          "text": "肋间内肌",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "腹内斜肌",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "腹外斜肌",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肋间外肌",
+          "isCorrect": true,
+          "rationale": "平静吸气由主要吸气肌（肋间外肌与膈肌）主动收缩协同完成；肋间内肌与腹壁肌参与用力呼气。"
+        },
+        {
+          "text": "膈肌",
+          "isCorrect": true,
+          "rationale": "平静吸气由主要吸气肌（肋间外肌与膈肌）主动收缩协同完成；肋间内肌与腹壁肌参与用力呼气。"
+        }
+      ],
+      "hint": "注意多选题选项之间的排他性与解剖学细节",
+      "rationale": "平静吸气由主要吸气肌（肋间外肌与膈肌）主动收缩协同完成；肋间内肌与腹壁肌参与用力呼气。",
+      "blankAnswers": []
+    },
+    {
+      "id": 29,
+      "type": "multiple_select",
+      "question": "肺活量由下列哪几项肺容积成分组成？（ ）",
+      "options": [
+        {
+          "text": "潮气量",
+          "isCorrect": true,
+          "rationale": "肺活量是尽力深吸气后再尽力呼出的最大气量，等于潮气量 + 补吸气量 + 补呼气量。"
+        },
+        {
+          "text": "残气量",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "补吸气量",
+          "isCorrect": true,
+          "rationale": "肺活量是尽力深吸气后再尽力呼出的最大气量，等于潮气量 + 补吸气量 + 补呼气量。"
+        },
+        {
+          "text": "补呼气量",
+          "isCorrect": true,
+          "rationale": "肺活量是尽力深吸气后再尽力呼出的最大气量，等于潮气量 + 补吸气量 + 补呼气量。"
+        },
+        {
+          "text": "功能残气量",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "注意多选题选项之间的排他性与解剖学细节",
+      "rationale": "肺活量是尽力深吸气后再尽力呼出的最大气量，等于潮气量 + 补吸气量 + 补呼气量。",
+      "blankAnswers": []
+    },
+    {
+      "id": 30,
+      "type": "multiple_select",
+      "question": "在解剖学分类中，属于上呼吸道的器官有（ ）。",
+      "options": [
+        {
+          "text": "气管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "咽",
+          "isCorrect": true,
+          "rationale": "鼻、咽、喉位于胸腔之外，统称为上呼吸道；气管和各级支气管位于胸腔内，为下呼吸道。"
+        },
+        {
+          "text": "左主支气管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "鼻",
+          "isCorrect": true,
+          "rationale": "鼻、咽、喉位于胸腔之外，统称为上呼吸道；气管和各级支气管位于胸腔内，为下呼吸道。"
+        },
+        {
+          "text": "喉",
+          "isCorrect": true,
+          "rationale": "鼻、咽、喉位于胸腔之外，统称为上呼吸道；气管和各级支气管位于胸腔内，为下呼吸道。"
+        }
+      ],
+      "hint": "注意多选题选项之间的排他性与解剖学细节",
+      "rationale": "鼻、咽、喉位于胸腔之外，统称为上呼吸道；气管和各级支气管位于胸腔内，为下呼吸道。",
+      "blankAnswers": []
+    },
+    {
+      "id": 31,
+      "type": "multiple_select",
+      "question": "下列呼吸道结构中，属于解剖无效腔组成部分的是（ ）。",
+      "options": [
+        {
+          "text": "右主支气管",
+          "isCorrect": true,
+          "rationale": "从鼻腔到终末细支气管的气道均属于导气部（解剖无效腔），壁内无肺泡，不进行气体交换。肺泡管壁上有肺泡开口，属于呼吸部。"
+        },
+        {
+          "text": "肺泡管",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "终末细支气管",
+          "isCorrect": true,
+          "rationale": "从鼻腔到终末细支气管的气道均属于导气部（解剖无效腔），壁内无肺泡，不进行气体交换。肺泡管壁上有肺泡开口，属于呼吸部。"
+        },
+        {
+          "text": "气管",
+          "isCorrect": true,
+          "rationale": "从鼻腔到终末细支气管的气道均属于导气部（解剖无效腔），壁内无肺泡，不进行气体交换。肺泡管壁上有肺泡开口，属于呼吸部。"
+        },
+        {
+          "text": "细支气管",
+          "isCorrect": true,
+          "rationale": "从鼻腔到终末细支气管的气道均属于导气部（解剖无效腔），壁内无肺泡，不进行气体交换。肺泡管壁上有肺泡开口，属于呼吸部。"
+        }
+      ],
+      "hint": "注意多选题选项之间的排他性与解剖学细节",
+      "rationale": "从鼻腔到终末细支气管的气道均属于导气部（解剖无效腔），壁内无肺泡，不进行气体交换。肺泡管壁上有肺泡开口，属于呼吸部。",
+      "blankAnswers": []
+    },
+    {
+      "id": 32,
+      "type": "multiple_select",
+      "question": "关于气管与主支气管的解剖特点，叙述正确的有（ ）。",
+      "options": [
+        {
+          "text": "左主支气管粗、短、走向较陡直",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "右主支气管粗短陡直，气管异物更易坠入右肺",
+          "isCorrect": true,
+          "rationale": "气管位于食管前方，后壁为膜壁；右主支气管粗短直，异物易落入；气管软骨为C形。左主支气管细长斜。"
+        },
+        {
+          "text": "气管上端平第6颈椎下缘接环状软骨",
+          "isCorrect": true,
+          "rationale": "气管位于食管前方，后壁为膜壁；右主支气管粗短直，异物易落入；气管软骨为C形。左主支气管细长斜。"
+        },
+        {
+          "text": "气管位于食管的前方",
+          "isCorrect": true,
+          "rationale": "气管位于食管前方，后壁为膜壁；右主支气管粗短直，异物易落入；气管软骨为C形。左主支气管细长斜。"
+        },
+        {
+          "text": "气管由后壁缺如的C形透明软骨环维持通畅",
+          "isCorrect": true,
+          "rationale": "气管位于食管前方，后壁为膜壁；右主支气管粗短直，异物易落入；气管软骨为C形。左主支气管细长斜。"
+        }
+      ],
+      "hint": "注意多选题选项之间的排他性与解剖学细节",
+      "rationale": "气管位于食管前方，后壁为膜壁；右主支气管粗短直，异物易落入；气管软骨为C形。左主支气管细长斜。",
+      "blankAnswers": []
+    },
+    {
+      "id": 33,
+      "type": "multiple_select",
+      "question": "关于肺泡表面活性物质的生理特征，叙述正确的有（ ）。",
+      "options": [
+        {
+          "text": "由肺泡壁Ⅱ型分泌细胞合成并分泌",
+          "isCorrect": true,
+          "rationale": "肺泡表面活性物质由Ⅱ型细胞分泌，核心功能是降低表面张力、防止肺泡萎缩、维持大小肺泡压差稳定并预防肺水肿。"
+        },
+        {
+          "text": "由肺泡壁Ⅰ型扁平细胞分泌",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "能减少肺毛细血管液体向肺泡渗出，防止肺水肿",
+          "isCorrect": true,
+          "rationale": "肺泡表面活性物质由Ⅱ型细胞分泌，核心功能是降低表面张力、防止肺泡萎缩、维持大小肺泡压差稳定并预防肺水肿。"
+        },
+        {
+          "text": "能降低肺泡内壁表面张力，防止小肺泡萎缩",
+          "isCorrect": true,
+          "rationale": "肺泡表面活性物质由Ⅱ型细胞分泌，核心功能是降低表面张力、防止肺泡萎缩、维持大小肺泡压差稳定并预防肺水肿。"
+        },
+        {
+          "text": "能稳定大小肺泡的内压平衡",
+          "isCorrect": true,
+          "rationale": "肺泡表面活性物质由Ⅱ型细胞分泌，核心功能是降低表面张力、防止肺泡萎缩、维持大小肺泡压差稳定并预防肺水肿。"
+        }
+      ],
+      "hint": "注意多选题选项之间的排他性与解剖学细节",
+      "rationale": "肺泡表面活性物质由Ⅱ型细胞分泌，核心功能是降低表面张力、防止肺泡萎缩、维持大小肺泡压差稳定并预防肺水肿。",
+      "blankAnswers": []
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "question": "【判断题】二氧化碳主要依靠物理溶解在血液中进行远距离运输。",
+      "options": [
+        {
+          "text": "正确 (True)",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误 (False)",
+          "isCorrect": true,
+          "rationale": "错误。CO2 在血液中 88% 以化学结合（碳酸氢盐）形式运输，物理溶解仅占约 5% 左右。"
+        }
+      ],
+      "hint": "根据呼吸系统解剖事实与生理机制作出判断",
+      "rationale": "错误。CO2 在血液中 88% 以化学结合（碳酸氢盐）形式运输，物理溶解仅占约 5% 左右。",
+      "blankAnswers": []
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "question": "【判断题】由于右主支气管粗、短且走行动向陡直，气道吸入异物更容易落入右肺。",
+      "options": [
+        {
+          "text": "正确 (True)",
+          "isCorrect": true,
+          "rationale": "正确。解剖学上右主支气管较粗短陡直，气管隆嵴偏左，异物易滑入右侧。"
+        },
+        {
+          "text": "错误 (False)",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "根据呼吸系统解剖事实与生理机制作出判断",
+      "rationale": "正确。解剖学上右主支气管较粗短陡直，气管隆嵴偏左，异物易滑入右侧。",
+      "blankAnswers": []
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "question": "【判断题】血红蛋白与一氧化碳（CO）的亲和力远高于其与氧气的结合能力。",
+      "options": [
+        {
+          "text": "正确 (True)",
+          "isCorrect": true,
+          "rationale": "正确。Hb 与 CO 的亲和力约为其与 O2 结合能力的 210~250 倍，故极易引起一氧化碳中毒窒息。"
+        },
+        {
+          "text": "错误 (False)",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "根据呼吸系统解剖事实与生理机制作出判断",
+      "rationale": "正确。Hb 与 CO 的亲和力约为其与 O2 结合能力的 210~250 倍，故极易引起一氧化碳中毒窒息。",
+      "blankAnswers": []
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "question": "【判断题】平静呼吸过程中，吸气和呼气均是依靠肌肉主动收缩完成的主动过程。",
+      "options": [
+        {
+          "text": "正确 (True)",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误 (False)",
+          "isCorrect": true,
+          "rationale": "错误。平静吸气是主要吸气肌收缩的主动过程，而平静呼气是吸气肌舒张胸廓被动回缩的被动过程。"
+        }
+      ],
+      "hint": "根据呼吸系统解剖事实与生理机制作出判断",
+      "rationale": "错误。平静吸气是主要吸气肌收缩的主动过程，而平静呼气是吸气肌舒张胸廓被动回缩的被动过程。",
+      "blankAnswers": []
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "question": "【判断题】气管壁中的透明软骨形成完整的闭合圆环支架，对气道起支撑作用。",
+      "options": [
+        {
+          "text": "正确 (True)",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误 (False)",
+          "isCorrect": true,
+          "rationale": "错误。气管软骨呈后方开口的'C'形环，后壁缺口由平滑肌和结缔组织构成的膜壁封闭，便于食管食物团块通过。"
+        }
+      ],
+      "hint": "根据呼吸系统解剖事实与生理机制作出判断",
+      "rationale": "错误。气管软骨呈后方开口的'C'形环，后壁缺口由平滑肌和结缔组织构成的膜壁封闭，便于食管食物团块通过。",
+      "blankAnswers": []
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "question": "【判断题】健康成人尽最大力量用力呼气时，可将肺内的全部气体排出体外。",
+      "options": [
+        {
+          "text": "正确 (True)",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误 (False)",
+          "isCorrect": true,
+          "rationale": "错误。即使尽力最大呼气，肺内仍有约 1000~1500 ml 的残气量无法呼出。"
+        }
+      ],
+      "hint": "根据呼吸系统解剖事实与生理机制作出判断",
+      "rationale": "错误。即使尽力最大呼气，肺内仍有约 1000~1500 ml 的残气量无法呼出。",
+      "blankAnswers": []
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "question": "【判断题】呼气时随着肺泡容积缩小，肺泡表面活性物质的分子密度增大，导致表面张力缩小防止肺泡塌陷。",
+      "options": [
+        {
+          "text": "正确 (True)",
+          "isCorrect": true,
+          "rationale": "正确。肺泡缩小使表面活性物质分子间距缩短密度增大，显著降低表面张力，使小肺泡不致陷闭。"
+        },
+        {
+          "text": "错误 (False)",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "hint": "根据呼吸系统解剖事实与生理机制作出判断",
+      "rationale": "正确。肺泡缩小使表面活性物质分子间距缩短密度增大，显著降低表面张力，使小肺泡不致陷闭。",
+      "blankAnswers": []
+    }
+  ]
+}

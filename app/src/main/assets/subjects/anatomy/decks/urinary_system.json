@@ -1,0 +1,776 @@
+{
+  "unit": "urinary_system",
+  "title": "Unit 11 泌尿系统 核心解剖与生理闪卡",
+  "flashcards": [
+    {
+      "c": "1",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "泌尿系统的组成及各器官基本功能"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾脏（生成尿液，排泄代谢产物与维持内环境稳态）；输尿管（输送尿液至膀胱）；膀胱（暂时储存尿液）；尿道（将尿液排出体外）。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "2",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾脏的大体位置与脊柱投影关系"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "位于腹膜后间隙、脊柱两侧。左肾平T11下缘至L2下缘；右肾受肝压迫略低半个椎体（平T12上缘至L3上缘）。第12肋斜跨左肾中部、右肾上部。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "3",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾门与肾蒂的组成及出入排列顺序"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾内侧缘凹陷称肾门，出入管道合称肾蒂。由前向后依次为：肾静脉、肾动脉、肾盂（静-动-盂）；自上而下依次为：肾动脉、肾静脉、肾盂（动-静-盂）。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "4",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾脏表面的三层被膜及其功能"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由内向外：①纤维膜（致密坚韧，保护肾实质，病理下剥离易出血）；②脂肪囊（包绕肾与肾上腺，起防震保温固定）；③肾筋膜（分前后两层，下端相互开放通骨盆）。"
+          }
+        ]
+      },
+      "pointType": "组织学特征",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "5",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾实质的肉眼切面分区：皮质与髓质"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾皮质位于浅层及髓质锥体之间（称肾柱），富含肾小球，呈红褐色；肾髓质由10~15个肾锥体构成，呈苍白条纹状，锥体尖端为肾乳头，伸入肾小盏。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "6",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾单位（Nephron）的基本结构组成"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾脏结构和功能的基本单位（每肾约100万个）。包括肾小体（血管球与肾小囊）和肾小管（近端小管、髓袢细段、远端小管）。集合管不属于肾单位。"
+          }
+        ]
+      },
+      "pointType": "核心概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "7",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "皮质肾单位与髓旁肾单位的比较"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "皮质肾单位（占85%~90%，肾小体位于外皮质，髓袢短，主要司滤过与重吸收）；髓旁肾单位（占10%~15%，肾小体位于近髓皮质，髓袢极长深入乳头，具直小血管，主司尿液浓缩与稀释）。"
+          }
+        ]
+      },
+      "pointType": "组织学特征",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "8",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾小球毛细血管球的特殊双阻力血管血供"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血液由入球小动脉进入毛细血管网，汇集为出球小动脉，再分支形成第二级球后毛细血管网。入球管径粗于出球管径，使球内毛细血管保持高达50~60mmHg的高滤过血压。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "9",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "滤过膜（机械与电荷双重屏障）的三层微细构造"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①有孔毛细血管内皮细胞（窗孔70~90nm，阻挡血细胞）；②基膜（致密层，网孔2~8nm，含带负电荷硫酸类肝素，主要机械与静电屏障）；③足细胞足突裂孔膜（孔径4~11nm，带负电荷唾液糖蛋白）。"
+          }
+        ]
+      },
+      "pointType": "组织学特征",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "10",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾小球滤过率（GFR）的概念与正常参考值"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单位时间内（每分钟）两肾生成的超滤液（原尿）量。正常健康成年人体表面积按1.73m²计约为 125 ml/min，全天生成原尿约 180 升，终尿仅约 1.5 升（99%被重吸收）。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "11",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾小球有效滤过压（EFP）的计算公式与物理意义"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "EFP = 肾小球毛细血管血压（P_GC，促滤过，约50mmHg） - [血浆胶体渗透压（π_GC，抗滤过，约25~30mmHg） + 肾小囊囊内压（P_BS，抗滤过，约10mmHg）]。EFP > 0时持续生成原尿。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "12",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "滤过平衡的概念及肾血浆流量对滤过的影响"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "随血浆沿毛细血管流动超滤失水，π_GC逐渐升高；当 EFP 降至 0 时达到滤过平衡，滤过停止。肾血浆流量增加时，滤过平衡点向出球端后移，有效滤过面积增大，GFR升高。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "13",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾血流量自身调节的肌源性机制与管-球反馈"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肌源机制：灌注压在80~180mmHg内升高时牵张入球小动脉平滑肌导致血管收缩，维持流量恒定；管-球反馈：致密斑感知流经小管液NaCl增加时，释放腺苷等介质收缩入球动脉降低GFR。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "14",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "球旁复合体（JGA）的三大细胞组成及功能"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①球旁细胞（颗粒细胞）：入球动脉肌层特化上皮样细胞，合成并释放肾素；②致密斑：远端小管上皮特化化学感受器，感知NaCl浓度；③球外系膜细胞：传递信号参与血流调节。"
+          }
+        ]
+      },
+      "pointType": "组织学特征",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "15",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾素-血管紧张素-醛固酮系统（RAAS）的级联反应流程"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "循环血量或血压下降刺激肾素分泌 → 酶解血浆血管紧张素原为AngⅠ → 肺毛细血管ACE转化生成AngⅡ → 刺激全身动脉强烈收缩并刺激肾上腺皮质释放醛固酮 → 远端保钠排钾保水回升血压。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "16",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "近曲小管上皮细胞的超微结构特征与重吸收优势"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "刷状缘（密集的微绒毛扩增30~40倍表面积）；质膜基底面皱褶与丰富的侧突；大量线粒体提供充足ATP动力；顶端密布转运体蛋白，承担65%以上溶质重吸收。"
+          }
+        ]
+      },
+      "pointType": "组织学特征",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "17",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "葡萄糖在近端小管的重吸收机制及肾糖阈"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通过管腔顶端膜Na+-葡萄糖同向转运体（SGLT2/1）进行继发性主动转运，经基底侧GLUT2扩散入血。当血糖浓度超过 160~180 mg/dl（8.9~10.0 mmol/L，肾糖阈）时，超出小管最大转运能力，出现糖尿。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "18",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "碳酸氢盐（HCO3-）在近端小管的重吸收机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "以CO2形式被动跨膜重吸收。管腔中H+（经Na+-H+交换排入）与HCO3-在碳酸酐酶（CA）催化下分解为CO2和H2O，CO2迅速自由扩散入细胞，胞内CA重新催化水解生成H+与HCO3-转运入血。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "19",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "水在近端小管的等渗重吸收特性"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由于近端小管上皮细胞紧密连接通透性高且胞膜富含水通道蛋白AQP1，水伴随Na+、葡萄糖的主动重吸收通过跨细胞和旁细胞途径被动渗透，小管液始终与血浆保持等渗。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "20",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "髓袢各段的理化转运特性与逆流倍增机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "降支细段：高通透水，不通透NaCl，小管液顺高渗髓质渗透失水而逐渐高渗；升支细段与粗段：对水高度不通透，粗段通过Na+-K+-2Cl-同向转运体主动泵出NaCl，建立并维持肾髓质由浅至深的高渗梯度。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "21",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "尿液浓缩与稀释的解剖生理基础"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①髓袢逆流倍增系统主动泵盐建立髓质渗透压梯度；②直小血管（髓旁直小血管）逆流交换系统维持已建立的髓质高渗而不被血流冲刷带走；③集合管在ADH调控下对水通透性的调节。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "22",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗利尿激素（ADH，血管升压素）的作用受体与分子机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "结合集合管主细胞基底外侧膜V2受体 → 激活Gs蛋白-腺苷酸环化酶（AC）使cAMP升高 → 激活PKA促使细胞内囊泡上的水通道蛋白-2（AQP2）易位镶嵌至管腔顶端膜，使水通透性暴增千倍。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "23",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "渗透性利尿与水利尿的机制对比"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "渗透性利尿：小管液中溶质浓度增高（如甘露醇、糖尿病未重吸收葡萄糖），提高管内渗透压阻碍水分重吸收，尿量暴增；水利尿：大量饮水稀释血浆晶体渗透压，抑制ADH分泌使集合管水重吸收减少，排出低渗清尿。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "24",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "醛固酮对电解质排泄的调控机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "进入远曲小管和集合管主细胞与胞浆盐皮质激素受体结合 → 诱导mRNA转录表达顶端膜上皮钠通道（ENaC）和基底侧Na+-K+泵，促进Na+主动重吸收、同时驱动K+与H+排入小管液，保Na+排K+保水。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "25",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心房钠尿肽（ANP/ANH）的利尿降压机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心房扩张时分泌。作用：①舒张入球小动脉增加GFR；②抑制近端小管和集合管Na+重吸收；③抑制肾素、醛固酮和ADH分泌；发挥强力的排钠利尿、降低血容量与血压作用。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "26",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "输尿管的三个生理性狭窄部位与临床意义"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①起始处（肾盂输尿管连接处）；②越过骨盆入缘髂血管处；③穿膀胱壁内段（壁内部，具防反流单向瓣膜作用）。结石在此极易嵌顿，引起急性肾绞痛与肾积水。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "27",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "膀胱三角（Lieutaud三角）的解剖界限与重要临床意义"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "位于膀胱底部内面，由左、右输尿管口与尿道内口三者围成的三角形区域。黏膜平滑无黏膜下层，无论膀胱充盈或空虚均不形成皱襞，是膀胱结核、炎症和肿瘤的好发部位。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "28",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "女性尿道的解剖特点及其临床意义"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "女性尿道短（约3~5cm）、宽、直，开口于阴道前庭。由于比男性尿道显著短直且紧邻阴道和肛门，极易发生逆行性尿路感染（如急性膀胱炎）。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "29",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "男性尿道的分部与弯曲狭窄特点"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "长约16~22cm，分前列腺部、膜部（最窄最短）和海绵体部。有三个狭窄（尿道内口、膜部、尿道外口，外口最窄）和两个弯曲（耻骨下弯固定、耻骨前弯可上提消失），临床导尿需格外注意。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "30",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "排尿反射的神经传导与正反馈中枢机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "膀胱充盈量达300~400ml时牵张感受器兴奋 → 盆神经传入冲动至骶髓初级中枢并上传脑桥排尿中枢与大脑皮层 → 副交感兴奋逼尿肌强烈收缩、尿道内括约肌松弛，尿液冲入后尿道进一步刺激牵张感受器形成正反馈直至尿尽。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "31",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾脏排泄功能之外的四大内分泌功能"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①分泌肾素（调节血压与水盐平衡）；②分泌促红细胞生成素（EPO，促红细胞成熟）；③将25-(OH)-D3经1α-羟化酶转化为活性1,25-(OH)2-D3（维持钙磷代谢）；④合成前列腺素（PGE2/PGI2舒张血管）。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "32",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾功能衰竭出现肾性高血压的双重发病机理"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①容量依赖型高血压：肾小球滤过严重受损导致水钠潴留，血容量显著增加；②肾素依赖型高血压：肾缺血刺激球旁细胞大量释放肾素，引发RAAS系统恶性亢进收缩全身外周小动脉。"
+          }
+        ]
+      },
+      "pointType": "病理生理联系",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "33",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾脏维持机体酸碱平衡的三大主要机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①近端小管Na+-H+交换分泌H+并100%回收滤过的HCO3-；②远端小管和集合管闰细胞H+-ATP酶主动泌H+排酸；③小管上皮细胞谷氨酰胺脱氨产生NH3，扩散至管腔结合H+形成NH4+排出，净生成新HCO3-。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "34",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "清除率（Clearance）的定义与生理应用"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾脏在单位时间（1分钟）内能将多少毫升血浆中所含的某物质完全清除出去。若物质仅滤过不重吸收也不分泌（如菊粉、内生肌酐），其清除率即等于肾小球滤过率（GFR）。"
+          }
+        ]
+      },
+      "pointType": "核心概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "35",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "对氨基马尿酸（PAH）清除率用于测定肾有效血浆流量的原理"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "PAH在低浓度流经肾脏一次即通过滤过与近端小管强力分泌被完全清除（清除率达90%以上），因此PAH清除率可代表肾有效血浆流量（RPF，约600~660 ml/min）。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★☆",
+      "importance": 2
+    }
+  ]
+}

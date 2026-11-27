@@ -1,0 +1,1736 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感受器生理特性 · ★★☆】\n什么是感受器（sensory receptor）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "生物体内专门感受体内、外环境变化（刺激）的结构或装置。"
+          }
+        ]
+      },
+      "c": 1,
+      "pointType": "感受器生理特性",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感受器生理特性 · ★★☆】\n感受器的“适宜刺激”是如何定义的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指感受器最敏感、最容易接受的特定刺激形式。"
+          }
+        ]
+      },
+      "c": 2,
+      "pointType": "感受器生理特性",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感受器生理特性 · ★★☆】\n什么是感觉阈值？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指引起某种感觉所需的最小刺激强度。"
+          }
+        ]
+      },
+      "c": 3,
+      "pointType": "感受器生理特性",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感受器生理特性 · ★★☆】\n感受器的“换能作用”是指什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "将刺激能量转换为电反应，并最终触发传入神经纤维产生动作电位的过程。"
+          }
+        ]
+      },
+      "c": 4,
+      "pointType": "感受器生理特性",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感受器生理特性 · ★★☆】\n感受器的“编码作用”是指什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "把刺激所包含的环境信息转移并表达在动作电位的序列之中。"
+          }
+        ]
+      },
+      "c": 5,
+      "pointType": "感受器生理特性",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感受器生理特性 · ★★☆】\n感受器的“适应现象”表现为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "当刺激持续作用于感受器时，其传入神经纤维产生神经冲动的频率逐渐下降。"
+          }
+        ]
+      },
+      "c": 6,
+      "pointType": "感受器生理特性",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感受器生理特性 · ★★☆】\n什么是感觉器官（sense organ）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "特化的感受细胞连同其附属结构共同构成的专门传递特定感觉类型的器官。"
+          }
+        ]
+      },
+      "c": 7,
+      "pointType": "感受器生理特性",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【一般与特殊感觉 · ★★☆】\n浅感觉与深感觉（本体感觉）分别包括哪些主要感觉类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "浅感觉包括触-压觉、温度觉和痛觉；深感觉包括位置觉、运动觉和震动觉。"
+          }
+        ]
+      },
+      "c": 8,
+      "pointType": "一般与特殊感觉",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【一般与特殊感觉 · ★★☆】\n一般感觉与特殊感觉在感受器结构上有何根本区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "一般感觉的感受器多为感觉神经末梢；特殊感觉（视、听、嗅、味）依靠特定的特化感觉细胞。"
+          }
+        ]
+      },
+      "c": 9,
+      "pointType": "一般与特殊感觉",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【特殊感觉 · ★★☆】\n视觉与听觉的特化感受细胞分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "视觉为视杆细胞和视锥细胞；听觉为耳蜗内的毛细胞。"
+          }
+        ]
+      },
+      "c": 10,
+      "pointType": "特殊感觉",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【外耳结构了解 · ★☆☆】\n外耳由哪三个主要结构组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "耳廓、外耳道和鼓膜。"
+          }
+        ]
+      },
+      "c": 11,
+      "pointType": "外耳结构了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【外耳结构了解 · ★☆☆】\n外耳道在声波传导中起何作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "传导声波，并通过共振对声波起到放大作用。"
+          }
+        ]
+      },
+      "c": 12,
+      "pointType": "外耳结构了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【中耳结构特点 · ★★★】\n中耳包括哪三个主要腔隙/结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "鼓室、咽鼓管和乳突小房。"
+          }
+        ]
+      },
+      "c": 13,
+      "pointType": "中耳结构特点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【中耳传音功能 · ★★★】\n听骨链由哪三块听小骨按顺序连接而成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "锤骨、砧骨和镫骨。"
+          }
+        ]
+      },
+      "c": 14,
+      "pointType": "中耳传音功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【中耳传音功能 · ★★★】\n听骨链与鼓膜是如何实现声压放大（增压效应）的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通过听骨链杠杆的长短臂比例（约 1.3:1）以及鼓膜与卵圆窗膜的面积比（约 18.6:1）共同产生约 24 倍的增压效果。"
+          }
+        ]
+      },
+      "c": 15,
+      "pointType": "中耳传音功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【中耳传音功能 · ★★★】\n遇到强音刺激时，中耳的听小肌如何发挥保护作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "鼓膜张肌收缩拉紧鼓膜，镫骨肌收缩固定镫骨，共同降低鼓膜和听骨链的振幅，保护内耳感音装置。"
+          }
+        ]
+      },
+      "c": 16,
+      "pointType": "中耳传音功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【中耳结构特点 · ★★★】\n咽鼓管平时的主要功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "平衡鼓膜两侧的气压以维持鼓膜正常位置和振动，并通过黏膜纤毛运动排泄中耳分泌物。"
+          }
+        ]
+      },
+      "c": 17,
+      "pointType": "中耳结构特点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【中耳结构特点 · ★★★】\n在什么生理动作下咽鼓管口会开放？由哪块肌肉收缩引起？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在吞咽、打哈欠或打喷嚏时开放，由腭帆张肌等收缩引起。"
+          }
+        ]
+      },
+      "c": 18,
+      "pointType": "中耳结构特点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【内耳结构特点 · ★★★】\n内耳迷路（labyrinth）解剖上分为哪两大部分？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "骨迷路（bony labyrinth）和膜迷路（membranous labyrinth）。"
+          }
+        ]
+      },
+      "c": 19,
+      "pointType": "内耳结构特点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【内耳结构特点 · ★★★】\n内耳中负责听觉与位置觉感受的器官分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "耳蜗负责听觉感受；前庭器（含前庭与半规管）负责位置觉感受。"
+          }
+        ]
+      },
+      "c": 20,
+      "pointType": "内耳结构特点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【内耳结构特点 · ★★★】\n耳蜗横断面包含哪三个腔阶？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "前庭阶、蜗管和鼓阶。"
+          }
+        ]
+      },
+      "c": 21,
+      "pointType": "内耳结构特点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【内耳结构特点 · ★★★】\n耳蜗中前庭阶、鼓阶与蜗管内的液体有何不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "前庭阶和鼓阶内填充外淋巴液；蜗管内填充内淋巴液。"
+          }
+        ]
+      },
+      "c": 22,
+      "pointType": "内耳结构特点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【听觉感受器 · ★★★】\n听觉感受器螺旋器（Corti 器）位于耳蜗的哪层膜上？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "位于基底膜（螺旋膜）上。"
+          }
+        ]
+      },
+      "c": 23,
+      "pointType": "听觉感受器",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【听觉感受器 · ★★★】\n螺旋器（Organ of Corti）的主要细胞和结构组成有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "内毛细胞、外毛细胞、支持细胞、盖膜和基底膜。"
+          }
+        ]
+      },
+      "c": 24,
+      "pointType": "听觉感受器",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【声波传导途径 · ★★★】\n声波气传导的主要途径是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外耳道 → 鼓膜 → 听骨链 → 卵圆窗膜 → 耳蜗。"
+          }
+        ]
+      },
+      "c": 25,
+      "pointType": "声波传导途径",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【声波传导途径 · ★★★】\n声波骨传导的路径是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "声波 → 颅骨振动（颞骨骨质） → 耳蜗内淋巴振动。"
+          }
+        ]
+      },
+      "c": 26,
+      "pointType": "声波传导途径",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【听觉产生机制 · ★★★】\n耳蜗毛细胞机械电换能的起始机械驱动力是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "基底膜振动引起内淋巴压力改变，导致盖膜与毛细胞之间产生剪切力使纤毛弯曲。"
+          }
+        ]
+      },
+      "c": 27,
+      "pointType": "听觉产生机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【听觉产生机制 · ★★★】\n当耳蜗毛细胞纤毛向长毛侧弯曲时，会引发怎样的电位变化及离子跨膜流动？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "顶部机械门控 $K^+$ 通道开放，内淋巴液中 $K^+$ 内流使毛细胞发生去极化。"
+          }
+        ]
+      },
+      "c": 28,
+      "pointType": "听觉产生机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【听觉产生机制 · ★★★】\n耳蜗毛细胞去极化后，引发递质释放的关键步骤是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "侧膜电压门控 $Ca^{2+}$ 通道开放，$Ca^{2+}$ 内流促使底膜囊泡释放神经递质。"
+          }
+        ]
+      },
+      "c": 29,
+      "pointType": "听觉产生机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【听觉产生机制 · ★★★】\n耳蜗毛细胞去极化后，膜电位恢复（复极化）依靠哪种离子流动？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "依靠侧膜 $Ca^{2+}$ 依赖性 $K^+$ 通道开放，导致 $K^+$ 外流。"
+          }
+        ]
+      },
+      "c": 30,
+      "pointType": "听觉产生机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【听觉产生机制 · ★★★】\n当耳蜗毛细胞纤毛向短毛侧弯曲时，毛细胞电位如何变化？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "毛细胞发生超极化，抑制递质释放。"
+          }
+        ]
+      },
+      "c": 31,
+      "pointType": "听觉产生机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【前庭器官功能 · ★★★】\n前庭器主要由哪两大部分构成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "前庭（椭圆囊与球囊）和三个半规管。"
+          }
+        ]
+      },
+      "c": 32,
+      "pointType": "前庭器官功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【前庭器官功能 · ★★★】\n椭圆囊斑和球囊斑（位觉斑）的主要生理功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "感受直线变速运动刺激以及头部在空间的位置。"
+          }
+        ]
+      },
+      "c": 33,
+      "pointType": "前庭器官功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【前庭器官功能 · ★★★】\n半规管中的壶腹嵴主要负责感受什么运动？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "感受旋转变速运动。"
+          }
+        ]
+      },
+      "c": 34,
+      "pointType": "前庭器官功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【前庭器官功能 · ★★★】\n前庭器官的三大主要生理作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①感受头位置及运动速度变化；②调节肌紧张维持姿势平衡；③调整眼运动以维持注视。"
+          }
+        ]
+      },
+      "c": 35,
+      "pointType": "前庭器官功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【前庭器官功能 · ★★☆】\n前庭毛细胞在纤毛偏向动纤毛侧和静纤毛侧时分别产生什么电效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "偏向动纤毛侧产生去极化；偏向静纤毛侧产生超极化。"
+          }
+        ]
+      },
+      "c": 36,
+      "pointType": "前庭器官功能",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【前庭器官功能 · ★★☆】\n当半规管壶腹帽斜向内庭侧和斜向半规管侧时，毛细胞反应有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "斜向内庭侧引起毛细胞去极化并产生神经冲动；斜向半规管侧引起超极化并产生抑制效应。"
+          }
+        ]
+      },
+      "c": 37,
+      "pointType": "前庭器官功能",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【前庭功能了解 · ★☆☆】\n什么是前庭自主神经反应？其常见表现有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "前庭器受过强刺激或机能过敏引起的植物神经反应，表现为心率减慢、血压下降、恶心、呕吐、眩晕和出汗等。"
+          }
+        ]
+      },
+      "c": 38,
+      "pointType": "前庭功能了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【眼球壁结构 · ★★★】\n眼球壁由外向内分为哪三层？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "纤维膜、血管膜和视网膜。"
+          }
+        ]
+      },
+      "c": 39,
+      "pointType": "眼球壁结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【眼球壁结构 · ★★★】\n眼纤维膜由前向后分为哪两部分？各自的主要生理特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "角膜（无色透明、无血管、感觉敏锐、曲度大）和巩膜（乳白色不透明、起支持保护作用）。"
+          }
+        ]
+      },
+      "c": 40,
+      "pointType": "眼球壁结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【眼球壁结构 · ★★★】\n眼血管膜由前向后分为哪三个部分？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "虹膜、睫状体和脉络膜。"
+          }
+        ]
+      },
+      "c": 41,
+      "pointType": "眼球壁结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【眼球壁结构 · ★★★】\n虹膜内控制瞳孔大小的平滑肌有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "瞳孔括约肌和瞳孔开大肌。"
+          }
+        ]
+      },
+      "c": 42,
+      "pointType": "眼球壁结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【眼球壁结构 · ★★★】\n睫状体的主要生理功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "分泌房水以及通过睫状肌收缩调节晶状体曲度（视力调节）。"
+          }
+        ]
+      },
+      "c": 43,
+      "pointType": "眼球壁结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【眼球壁结构 · ★★☆】\n脉络膜的主要生理功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "丰富血管网，营养视网膜、晶状体和玻璃体，并吸收散射光。"
+          }
+        ]
+      },
+      "c": 44,
+      "pointType": "眼球壁结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【视网膜结构 · ★★★】\n视网膜上的“视神经盘”（盲点）有何解剖特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为节细胞轴突穿出眼球形成视神经的部位，缺乏感光细胞，无感光能力。"
+          }
+        ]
+      },
+      "c": 45,
+      "pointType": "视网膜结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【视网膜结构 · ★★★】\n黄斑中央凹（fovea centralis）为什么是视觉最敏锐的区域？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "该处只有视锥细胞，且视锥细胞与双极细胞、节细胞呈单线式神经联系（1:1:1）。"
+          }
+        ]
+      },
+      "c": 46,
+      "pointType": "视网膜结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【视网膜结构 · ★★☆】\n视网膜从外向内（近脉络膜侧向玻璃体侧）包含哪四层主要神经细胞结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "色素上皮细胞层 → 感光细胞层 → 双极细胞层 → 节细胞层。"
+          }
+        ]
+      },
+      "c": 47,
+      "pointType": "视网膜结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感光系统 · ★★★】\n视锥细胞与视杆细胞在视网膜上的分布有何差异？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "视锥细胞集中在黄斑部（特别是中央凹）；视杆细胞分布于视网膜周边部。"
+          }
+        ]
+      },
+      "c": 48,
+      "pointType": "感光系统",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感光系统 · ★★★】\n视杆细胞与视锥细胞在与双极细胞/节细胞的神经联系方式上有何不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "视锥细胞呈单线式联系（1:1:1，分辨力强）；视杆细胞呈聚合式联系（多:少:1，分辨力弱）。"
+          }
+        ]
+      },
+      "c": 49,
+      "pointType": "感光系统",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感光系统 · ★★★】\n视锥细胞与视杆细胞分别包含哪些感光色素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "视锥细胞感受红、绿、蓝光 3 种色素；视杆细胞只有 1 种视紫红质。"
+          }
+        ]
+      },
+      "c": 50,
+      "pointType": "感光系统",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感光系统 · ★★★】\n视锥系统与视杆系统分别专司什么视觉？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "视锥系统专司明视觉和色觉；视杆系统专司暗视觉和黑白觉。"
+          }
+        ]
+      },
+      "c": 51,
+      "pointType": "感光系统",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感光系统机制 · ★★★】\n视杆细胞中的视紫红质由哪两部分结合而成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "视蛋白和 11-顺视黄醛。"
+          }
+        ]
+      },
+      "c": 52,
+      "pointType": "感光系统机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感光系统机制 · ★★★】\n光线照射时，视紫红质发生怎样的光化学反应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "视紫红质分解为视蛋白和全反型视黄醛。"
+          }
+        ]
+      },
+      "c": 53,
+      "pointType": "感光系统机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床病理了解 · ★☆☆】\n夜盲症（Night blindness）与哪种维生素缺乏有关？其机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "与维生素 A 缺乏有关；维生素 A 是合成视黄醛的前体，缺乏会导致视紫红质合成不足。"
+          }
+        ]
+      },
+      "c": 54,
+      "pointType": "临床病理了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感光系统机制 · ★★★】\n光照引发感光细胞去极化还是超极化？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "光照引发感光细胞膜发生超极化。"
+          }
+        ]
+      },
+      "c": 55,
+      "pointType": "感光系统机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【感光系统机制 · ★★★】\n在视网膜感光换能过程中，视紫红质吸收光子后如何导致 $Na^+$ 通道关闭？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "视蛋白变构激活磷酸二酯酶（PDE），水解分解 cGMP，使 cGMP 依赖性 $Na^+$ 通道大量关闭。"
+          }
+        ]
+      },
+      "c": 56,
+      "pointType": "感光系统机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【物理常识了解 · ★☆☆】\n人眼能感受的可见光波长范围是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "波长 370~740 nm。"
+          }
+        ]
+      },
+      "c": 57,
+      "pointType": "物理常识了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【眼内容物 · ★★★】\n眼球的内容物包括哪三部分？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "房水、晶状体和玻璃体。"
+          }
+        ]
+      },
+      "c": 58,
+      "pointType": "眼内容物",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【房水产生及循环 · ★★★】\n房水是由眼球的哪个结构产生的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由睫状体分泌产生。"
+          }
+        ]
+      },
+      "c": 59,
+      "pointType": "房水产生及循环",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【房水产生及循环 · ★★★】\n请详述房水的完整循环途径。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "睫状体产生房水 → 后房 → 瞳孔 → 前房 → 前房角小梁网 → Schlemm 管（巩膜静脉窦） → 睫状前静脉。"
+          }
+        ]
+      },
+      "c": 60,
+      "pointType": "房水产生及循环",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床了解 · ★☆☆】\n青光眼（Glaucoma）的直接病理机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "房水循环障碍导致眼内压升高，进而压迫视神经。"
+          }
+        ]
+      },
+      "c": 61,
+      "pointType": "临床了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床了解 · ★☆☆】\n白内障（Cataract）是指眼球哪一结构的病变？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "晶状体浑浊或功能障碍。"
+          }
+        ]
+      },
+      "c": 62,
+      "pointType": "临床了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【眼折光系统 · ★★★】\n眼的折光系统由哪四个介质组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "角膜、房水、晶状体和玻璃体。"
+          }
+        ]
+      },
+      "c": 63,
+      "pointType": "眼折光系统",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【眼折光系统 · ★★★】\n眼球总屈光力约为多少？其中角膜贡献了多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "眼球总屈光力约为 58.64 D，角膜屈光力约为 43.05 D。"
+          }
+        ]
+      },
+      "c": 64,
+      "pointType": "眼折光系统",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【眼折光系统调节 · ★★★】\n人眼看近物时，眼折光系统如何进行调节？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "睫状肌收缩 → 睫状小带松弛 → 晶状体凭借弹性变凸 → 折光能力增强。"
+          }
+        ]
+      },
+      "c": 65,
+      "pointType": "眼折光系统调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【眼折光系统调节 · ★★★】\n人眼看远物时，睫状肌与晶状体处于什么状态？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "睫状肌舒张 → 睫状小带拉紧 → 晶状体变薄 → 折光能力减弱。"
+          }
+        ]
+      },
+      "c": 66,
+      "pointType": "眼折光系统调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【视觉传导通路 · ★★★】\n视觉传导通路的前三级神经元分别是什么细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "第 1 级：感光细胞；第 2 级：双极细胞；第 3 级：节细胞。"
+          }
+        ]
+      },
+      "c": 67,
+      "pointType": "视觉传导通路",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【视觉传导通路 · ★★★】\n节细胞轴突经视神经投射时，在视交叉处有怎样的交叉规律？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "来自两侧视网膜鼻侧的纤维交叉到对侧；来自颞侧的纤维不交叉，保持同侧。"
+          }
+        ]
+      },
+      "c": 68,
+      "pointType": "视觉传导通路",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【视觉传导通路 · ★★★】\n视觉传导通路中，第三级节细胞轴突投射终止于大脑皮层前更换神经元的下丘脑/间脑结构是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外侧膝状体（Lateral geniculate body）。"
+          }
+        ]
+      },
+      "c": 69,
+      "pointType": "视觉传导通路",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【视觉传导通路 · ★★★】\n视觉中枢位于大脑皮层的哪一个叶？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "枕叶皮质（Occipital lobe）。"
+          }
+        ]
+      },
+      "c": 70,
+      "pointType": "视觉传导通路",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【视觉传导通路 · ★★★】\n若一侧视神经完全损伤，患者的视野表现为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "患眼视野全盲。"
+          }
+        ]
+      },
+      "c": 71,
+      "pointType": "视觉传导通路",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【视觉传导通路 · ★★★】\n若视交叉中央部损伤（如垂体瘤压迫），视野会出现什么典型缺损？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "双眼视野颞侧半偏盲（桶状视野/管状视野）。"
+          }
+        ]
+      },
+      "c": 72,
+      "pointType": "视觉传导通路",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【视觉传导通路 · ★★★】\n若一侧视交叉外侧部受损，视野表现为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "患侧视野鼻侧半偏盲。"
+          }
+        ]
+      },
+      "c": 73,
+      "pointType": "视觉传导通路",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【视觉传导通路 · ★★★】\n若一侧视束、视辐射或一侧视觉皮层受损，视野会出现什么表现？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "双眼病灶对侧视野同向性偏盲。"
+          }
+        ]
+      },
+      "c": 74,
+      "pointType": "视觉传导通路",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【眼外肌运动调节 · ★★☆】\n除下斜肌外，其余眼外肌均起自于什么结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "视神经孔周围的总腱环。"
+          }
+        ]
+      },
+      "c": 75,
+      "pointType": "眼外肌运动调节",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【眼外肌运动调节 · ★★☆】\n眼外肌中，上斜肌和下斜肌收缩时分别使瞳孔转方向何处？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "上斜肌收缩使瞳孔转向外下方；下斜肌收缩使瞳孔转向外上方。"
+          }
+        ]
+      },
+      "c": 76,
+      "pointType": "眼外肌运动调节",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【嗅味感受器了解 · ★☆☆】\n嗅觉感受器细胞（嗅细胞）位于何处？属于何种类型的神经元？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "位于鼻腔上部的嗅黏膜中；属于嗅神经元（ORN）。"
+          }
+        ]
+      },
+      "c": 77,
+      "pointType": "嗅味感受器了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【嗅味感受器了解 · ★☆☆】\n味觉感受器（味蕾 taste bud）主要由哪些细胞构成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "味细胞、基底细胞和支持细胞（顶端有味孔和味毛）。"
+          }
+        ]
+      },
+      "c": 78,
+      "pointType": "嗅味感受器了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    }
+  ],
+  "topics": {
+    "covered": [
+      "感觉器官基本概念",
+      "耳的结构与听觉产生机制",
+      "前庭器官与平衡感觉",
+      "眼球解剖与视网膜感光换能",
+      "眼折光系统与视觉传导通路损伤"
+    ],
+    "followUp": [
+      "人工耳蜗的工作原理与声音编码",
+      "散光与近视的眼折光系统异常及矫正",
+      "色盲的分子遗传机制与检测方法"
+    ]
+  },
+  "id": "sensory_system",
+  "title": "感觉器官 闪卡"
+}

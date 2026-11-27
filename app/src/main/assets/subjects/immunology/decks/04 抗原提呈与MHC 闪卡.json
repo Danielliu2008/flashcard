@@ -1,0 +1,588 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "除了抗原提呈外，MHC分子在T细胞发育中发挥什么关键作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "参与T细胞在胸腺内的分化、选择与发育（阳性选择与阴性选择）。"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "专职抗原提呈细胞（Professional APC）的核心特征是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "具有摄取和加工、提呈胞外抗原的能力，表达MHC II类分子、协同刺激分子和粘附分子。"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "树突状细胞（DC）起源于机体的哪些造血/免疫组织？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胎肝、脐血、骨髓和外周血。"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是抗原提呈（Antigen presentation）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指MHC分子与抗原肽结合，将其展示于细胞表面供T淋巴细胞识别的过程。"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "机体中最主要的某种三类专职抗原提呈细胞（APC）分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "树突状细胞（DC）、巨噬细胞和B淋巴细胞。"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "成熟树突状细胞（Mature DC）主要迁移并定居在何处？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "淋巴结等次级/外周免疫器官。"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "未成熟树突状细胞（Immature DC）在功能上有何特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "摄取、内吞和加工处理抗原的能力很强，但提呈抗原和激活初始T细胞的能力较弱。"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "成熟树突状细胞（Mature DC）的主要表面特异性标志分子有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "CD1a、CD11c 和 CD83。"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "交叉提呈现象的主要生理意义是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "打破了经典提呈的局限，能够更广泛地活化T细胞，有利于抗病毒及抗肿瘤等免疫应答的发生。"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是“锚着残基”（Anchor residue）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗原肽中两个或两个以上专司与MHC分子结合槽结合的氨基酸残基。"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "T细胞能否直接识别天然蛋白质抗原？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不能。T细胞只能识别被加工降解后与MHC分子结合形成的抗原肽-MHC复合物。"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "未成熟树突状细胞（Immature DC）表面表达哪些主要受体？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "表达MHC I/II类分子、IgG Fc受体（FcγRII）、C3b受体（C3bR）以及某些TLR（如TLR2、TLR4、TLR9）。"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是抗原加工（Antigen processing）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指蛋白质抗原在细胞内被降解成能与MHC分子结合的抗原肽的过程。"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是T细胞识别抗原中的“MHC限制性”（MHC restriction）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指T细胞的TCR在识别特异性抗原肽的同时，必须识别提呈抗原肽的自身MHC分子（即识别pMHC复合体）。"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是抗原提呈细胞（APC）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指所有能表达MHC，并在特异性免疫应答中能摄取、加工及处理抗原，将抗原信息提呈给T淋巴细胞的细胞。"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "成熟树突状细胞（Mature DC）表面高表达哪些关键分子？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "高表达MHC I/II类分子，以及共刺激分子和粘附分子（如CD80、CD86、CD40、CD54）。"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "非经典提呈中的“非经典Ⅱ类途径”具体指什么过程？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "内源性抗原通过MHC-Ⅱ类分子提呈给CD4+ T细胞的过程。"
+          }
+        ]
+      },
+      "c": 27
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "非经典提呈中的“非经典Ⅰ类途径”具体指什么过程？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外源性抗原被摄取后，通过MHC-Ⅰ类分子提呈给CD8+ T细胞的过程。"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在激活初始T细胞（Naive T cells）能力方面，最强的专职APC是哪种细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "树突状细胞（DC）。"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在经典抗原提呈途径中，内源性抗原通常通过哪种MHC分子提呈给哪种T细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通过 MHC I类分子 提呈给 CD8+ T细胞。"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是抗原肽中的“锚着位”（Anchor site）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗原肽中与HLA/MHC分子抗原结合槽相互作用的特定位点。"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "MHC I类分子主要将抗原肽提呈给哪一类T细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "CD8+ T细胞（如细胞毒性T细胞/杀伤性T细胞）。"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "MHC II类分子主要将抗原肽提呈给哪一类T细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "CD4+ T细胞（辅助性T细胞 Th）。"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "MHC分子在器官移植中最常诱发的免疫现象是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "诱导同种移植排斥反应（Allograft rejection）。"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "未成熟树突状细胞（Immature DC）主要分布在机体的什么位置？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "实体器官、非淋巴组织及外周免疫组织。"
+          }
+        ]
+      },
+      "c": 9
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "成熟树突状细胞能够分泌哪种关键细胞因子来诱导免疫应答？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IL-12。"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "根据MHC限制性，Th与APC或Tc与靶细胞之间能够发生有效相互作用的前提条件是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "双方的MHC表型必须相同。"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在经典抗原提呈途径中，外源性抗原通常通过哪种MHC分子提呈给哪种T细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通过 MHC II类分子 提呈给 CD4+ T细胞。"
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是“交叉提呈”（Cross-presentation）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指树突状细胞（DC）将外源性抗原通过MHC I类分子途径提呈给CD8+ T细胞，或内源性抗原通过MHC II类途径提呈给CD4+ T细胞的非经典提呈现象。"
+          }
+        ]
+      },
+      "c": 25
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "成熟树突状细胞（Mature DC）的功能特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "摄取和加工处理抗原能力变弱，但抗原提呈与激活初始T细胞的能力极强。"
+          }
+        ]
+      },
+      "c": 16
+    }
+  ],
+  "topics": {
+    "covered": [
+      "抗原加工与提呈基本概念",
+      "专职抗原提呈细胞（APC）特点",
+      "树突状细胞（DC）的分化成熟与功能",
+      "MHC限制性与T细胞识别",
+      "交叉提呈与非经典提呈途径"
+    ],
+    "followUp": [
+      "内源性抗原加工提呈途径（蛋白体/TAP/MHC I途径）",
+      "外源性抗原加工提呈途径（溶酶体/Ii链/MHC II途径）",
+      "胸腺内T细胞阳性选择与阴性选择中的MHC机制"
+    ]
+  }
+}

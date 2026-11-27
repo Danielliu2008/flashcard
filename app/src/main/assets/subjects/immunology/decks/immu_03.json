@@ -1,0 +1,874 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为什么单价半抗原不能与相应抗体发生可见的沉淀反应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单价半抗原只有一个结合位点，无法将多个抗体分子交联形成网状沉淀复合物。"
+          }
+        ]
+      },
+      "c": 43
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "自身成分在什么条件下会表现出免疫原性？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "解剖位置上处于免疫隔绝部位（如眼晶状体蛋白），或出生后发育过程中产生的某些自身成分。"
+          }
+        ]
+      },
+      "c": 25
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是自身抗原（Autoantigen）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在特定条件下能够诱导机体对自身组织或细胞产生免疫应答的自身成分。"
+          }
+        ]
+      },
+      "c": 34
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是抗原（Antigen, Ag）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指能激活和诱导特异性免疫应答，被T/B淋巴细胞受体（TCR/BCR）特异性识别结合，并能与效应产物特异性结合发挥免疫效应的物质。"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "鸡卵蛋白对鸭和对哺乳动物的免疫原性有何差异？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "对鸭是弱抗原，对哺乳动物是强抗原（因与哺乳动物亲缘关系远）。"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是构象决定簇（Conformational epitope）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由在一级结构上不连续排列，但空间上彼此接近形成特定三维构象的氨基酸残基构成的表位。"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "TCR 识别抗原表位时必须依赖哪种分子的参与？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "主要组织相容性复合物（MHC）分子。"
+          }
+        ]
+      },
+      "c": 39
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是完全抗原（Complete Antigen）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "既同时具有免疫原性又具有抗原性（免疫反应性）的物质。"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在半抗原-载体效应中，载体（Carrier）的主要作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "赋予半抗原免疫原性，提供被 Th 细胞识别的载体决定基。"
+          }
+        ]
+      },
+      "c": 9
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肺炎球菌荚膜多糖在免疫学上属于 _____ 抗原。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "TI-2（胸腺非依赖性 2 型）"
+          }
+        ]
+      },
+      "c": 42
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是线性表位（Linear epitope / 顺序表位）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由连续性排列的氨基酸残基构成的抗原表位。"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "表达在同一种属不同个体细胞表面的 HLA 抗原属于哪类抗原？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "同种异型抗原（Allogenic Ag）。"
+          }
+        ]
+      },
+      "c": 45
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "半抗原（Hapten）如何才能获得免疫原性？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "需要与蛋白质载体（Carrier）结合形成半抗原-载体复合物。"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗原具有哪两种基本特性？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "免疫原性（immunogenicity）和抗原性（antigenicity，又称免疫反应性）。"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "根据与人体的亲缘关系，抗原分为哪四种类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "异种抗原、同种异型抗原、自身抗原和异嗜性抗原。"
+          }
+        ]
+      },
+      "c": 31
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然抗原经酶降解或变性后，哪种表位最容易失去结合活性？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B 细胞构象决定簇（构象表位）。"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗原的异源性（异种性）与其免疫原性强弱有何关系？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "亲缘关系越远，异源性越大，免疫原性越强。"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在同种异体器官移植中，亲缘关系远近与排斥反应强弱有何关系？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "亲缘关系越近，同种异型抗原差异越小，排斥反应越轻。"
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "蛋白抗原的一个抗原表位通常由多少个氨基酸残基组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "5~17 个氨基酸残基。"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是胸腺依赖性抗原（TD-Ag）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "刺激 B 细胞产生抗体过程必须依赖 Th 细胞辅助的抗原（如绝大多数蛋白质抗原）。"
+          }
+        ]
+      },
+      "c": 27
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是隐藏性抗原决定基（Hidden epitope）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "存在于天然抗原内部，正常情况下不能与 BCR/抗体接触，降解后可暴露的表位。"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是异嗜性抗原（Heterophilic antigen）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "一类与种属无关、存在于人、动物及微生物之间的共同抗原。"
+          }
+        ]
+      },
+      "c": 35
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "完全抗原在抗原结合价上通常具备什么特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "一般均为多价，能够同时与多个抗体分子结合。"
+          }
+        ]
+      },
+      "c": 16
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是半抗原（Hapten）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "仅具备抗原性（免疫反应性）而缺乏免疫原性的物质。"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是异种抗原（Xenogenic Ag）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "来源于不同种属生物的抗原（如病原微生物、异种抗毒素血清等）。"
+          }
+        ]
+      },
+      "c": 32
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "TI-2 抗原（如肺炎球菌荚膜多糖、聚合鞭毛素）的结构特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "表面含有高度重复的 B 细胞表位，可使 BCR 发生交联。"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是抗原结合价（Antigenic valence）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指能与抗体分子发生特异性结合的抗原决定簇的数目。"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "决定抗原特异性的物质基础是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗原决定簇（表位）的性质、种类、数目以及空间构型。"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是抗原决定簇（Epitope / 表位）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗原分子中决定抗原特异性的特殊结构残基，是与 TCR/BCR 或抗体 Fab 片段结合的最小结构和功能单位。"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "TI-1 抗原（如细菌脂多糖 LPS）的作用特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "高浓度下可激活多克隆 B 细胞增殖分化。"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是抗原性（antigenicity）或免疫反应性？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指抗原能够与相应免疫应答产物（抗体或致敏淋巴细胞）发生特异性结合的特性。"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "T 细胞表位与 B 细胞表位在抗原构型要求上有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B 细胞可识别构象表位和线性表位；T 细胞仅识别由 APC 加工后的线性表位。"
+          }
+        ]
+      },
+      "c": 38
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在半抗原-载体复合物中，T 细胞和 B 细胞分别识别哪一部分？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "T 细胞识别载体决定基，B 细胞识别半抗原决定基。"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然大分子抗原能够诱导机体产生多克隆抗体的根本原因是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然大分子抗原分子量大，表面包含多种、多个不同的抗原表位。"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "青霉素引发过敏反应的免疫学机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "青霉素降解产物作为半抗原，与体内蛋白质（载体）共价结合形成完全抗原，刺激机体产生特异性免疫应答。"
+          }
+        ]
+      },
+      "c": 36
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "BCR 直接识别抗原时是否需要 APC 的加工提呈？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不需要，BCR 可直接识别天然抗原表位。"
+          }
+        ]
+      },
+      "c": 40
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌脂多糖（LPS）在免疫学上属于 _____ 抗原。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "TI-1（胸腺非依赖性 1 型）"
+          }
+        ]
+      },
+      "c": 41
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "根据刺激 B 细胞产生抗体是否需要 Th 细胞辅助，抗原分为哪两类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胸腺依赖性抗原（TD-Ag）和胸腺非依赖性抗原（TI-Ag）。"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是胸腺非依赖性抗原（TI-Ag）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "无需 Th 细胞辅助即可直接刺激 B 细胞产生抗体的抗原。"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是同种异型抗原（Allogenic Ag）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "同一种属不同个体之间存在的不同抗原（如 HLA、ABO 血型抗原）。"
+          }
+        ]
+      },
+      "c": 33
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是抗原的免疫原性（immunogenicity）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指抗原能够刺激机体产生特异性抗体或致敏淋巴细胞的特性。"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "一个半抗原分子通常相当于多少个抗原表位？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "相当于一个抗原表位。"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "超抗原（Superantigen, SAg）的刺激特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "无需 APC 加工处理，以极低浓度即可多克隆激活大量 T 细胞克隆。"
+          }
+        ]
+      },
+      "c": 44
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "绝大多数天然抗原的化学本质是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "蛋白质（此外多糖、糖肽、糖脂及核酸也可成为抗原）。"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "T 细胞表位与 B 细胞表位在分子位置上有何不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B 细胞表位主要分布于抗原分子表面；T 细胞表位可位于抗原分子的任意部位（包括内部）。"
+          }
+        ]
+      },
+      "c": 37
+    }
+  ],
+  "topics": {
+    "covered": [
+      "抗原的概念与基本特性",
+      "完全抗原与半抗原",
+      "抗原决定簇与表位类型",
+      "影响抗原免疫原性的因素",
+      "抗原的分类与举例"
+    ],
+    "followUp": [
+      "抗原提呈细胞（APC）及其功能",
+      "主要组织相容性复合物（MHC）与抗原提呈",
+      "抗原加工和提呈机制（内源性与外源性途径）",
+      "超抗原的作用机制与免疫应答"
+    ]
+  }
+}

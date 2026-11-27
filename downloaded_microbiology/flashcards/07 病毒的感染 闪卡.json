@@ -1,0 +1,1120 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脊髓灰质炎病毒、轮状病毒和甲肝病毒主要通过哪条途径感染机体？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "消化道途径（污染的水或食品）。"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "中性粒细胞吞噬病毒后可能带来什么潜在危害？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不能将某些病毒杀灭，病毒可在其中增殖并随其游走播散至全身。"
+          }
+        ]
+      },
+      "c": 51
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是病毒血症（viremia）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒进入血液循环并随血流播散至全身的现象。"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是细胞转化（cell transformation）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指宿主细胞由正常细胞向肿瘤细胞转化的过程，表现为增殖变快、失去接触抑制。"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是病毒的垂直传播（vertical transmission）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指病毒由亲代宿主传给子代的传播方式，人类主要通过胎盘或产道传播。"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "杀细胞效应的主要发生机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒阻断宿主细胞核酸与蛋白质合成，损伤细胞结构/细胞器，导致细胞代谢紊乱并裂解死亡。"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒侵入宿主的主要机体途径可分为哪两类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 皮肤与黏膜（眼、呼吸道、消化道、泌尿生殖道）\n2. 医源性/创伤/昆虫媒介（直接进入血液循环）"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "慢性病毒性肝炎患者出现关节炎症状的免疫病理机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Ⅲ 型超敏反应：病毒抗原-抗体复合物沉积于关节滑膜所致。"
+          }
+        ]
+      },
+      "c": 32
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒经垂直传播目前尚未证实存在哪种途径？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "尚未证实病毒经人生殖细胞传给后代。"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "垂直感染对子代可能造成的临床结局有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "死胎、流产、早产、先天畸形，或无症状感染及成为病毒携带者。"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "巨噬细胞（M$\\varphi$）在抗病毒固有免疫中的主要作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "吞噬清除病毒、限制感染扩散；若 M$\\varphi$ 受损，病毒易侵入血流引起病毒血症。"
+          }
+        ]
+      },
+      "c": 50
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是显性病毒感染（apparent viral infection）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指病毒感染机体后，对组织细胞造成严重损伤并出现明显临床症状和体征。"
+          }
+        ]
+      },
+      "c": 47
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "中和抗体（Neutralizing antibody）的主要保护作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "与游离病毒体结合，阻止病毒吸附宿主细胞，对防止病毒再次入侵和扩散有关键保护作用。"
+          }
+        ]
+      },
+      "c": 57
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "HIV 和麻疹病毒降低机体适应性免疫功能的机制有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "清除高亲和力 T 细胞、诱导部分免疫耐受、破坏抗原提呈细胞（APC）及抑制效应细胞。"
+          }
+        ]
+      },
+      "c": 39
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "狂犬病重要病理诊断指标——内氏小体（Negri body）属于什么性质的包涵体？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "狂犬病脑组织切片中神经细胞内的嗜酸性胞质包涵体。"
+          }
+        ]
+      },
+      "c": 27
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "列举三种常经垂直传播的病毒。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "风疹病毒、巨细胞病毒（HCMV）、HIV（或HBV、HCV）。"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "甲型流感病毒和乙肝病毒抑制机体固有免疫的常见机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "下调干扰素（IFN）诱生表达和/或干扰素受体水平，或编码微小 RNA。"
+          }
+        ]
+      },
+      "c": 38
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "HIV 和甲型流感病毒逃避免疫应答的主要机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "高频率的抗原变异（Antigenic variation）。"
+          }
+        ]
+      },
+      "c": 41
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "稳定状态感染中，子代病毒的主要释放方式是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "以出芽（budding）方式缓慢释放。"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是包涵体（inclusion body）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "受病毒感染的细胞内，用普通光镜可见的与正常细胞结构和着色不同的圆形或椭圆形斑块。"
+          }
+        ]
+      },
+      "c": 25
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗体介导的 Ⅱ 型超敏反应造成病毒感染细胞破坏的机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗体与结合于宿主细胞表面的病毒抗原特异性结合后，激活补体导致宿主细胞破坏。"
+          }
+        ]
+      },
+      "c": 31
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒感染机体主要通过哪两个方面引发致病作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 病毒对宿主细胞的直接致病作用\n2. 病毒感染引起的免疫病理作用"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "影响病毒感染结局的宿主因素主要包括哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "宿主的遗传背景、免疫状态、年龄以及个体的一般健康状况。"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "NK 细胞在抗病毒固有免疫中的主要杀伤和激活机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "直接杀伤病毒感染靶细胞；受 IFN-$\\gamma$ 增强活性，并通过释放 TNF-$\\alpha$ 或 IFN-$\\gamma$ 发挥抗病毒效应。"
+          }
+        ]
+      },
+      "c": 52
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为何严格细胞内寄生是所有病毒逃避体液免疫的通用机制？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "位于细胞内的病毒可避开体液中的抗体、补体以及抗病毒药物的直接作用。"
+          }
+        ]
+      },
+      "c": 40
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "某些病毒感染后引发脑炎（如麻疹/腮腺炎病毒感染后）的细胞免疫机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒蛋白与宿主蛋白存在共同抗原决定簇，诱发针对自身抗原的细胞免疫（分子模拟/交叉反应）。"
+          }
+        ]
+      },
+      "c": 36
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞融合在病毒传播和扩散中有什么重要生物学意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "使病毒可以在细胞间直接扩散，逃避体液中中和抗体及补体的清除作用。"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "影响病毒感染结局的病毒毒力相关因素主要有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒株、病毒感染量和感染途径。"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "围产期感染（perinatal infection）的时间范围是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "孕 28 周至产后 4 周。"
+          }
+        ]
+      },
+      "c": 9
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒感染抑制宿主细胞早期凋亡对病毒增殖有何意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "延长宿主细胞寿命，提高细胞产生子代病毒体的数量。"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒对宿主细胞的致病作用主要包括哪 5 种形式？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 杀细胞效应\n2. 稳定状态感染\n3. 包涵体形成\n4. 细胞凋亡\n5. 基因整合与细胞转化"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是干扰素（Interferon, IFN）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由病毒或其他诱导剂刺激细胞产生的一类具有高活性、多功能的糖蛋白。"
+          }
+        ]
+      },
+      "c": 53
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是隐性病毒感染（subclinical viral infection）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指病毒侵入机体后，不引起临床症状和体征的感染（又称亚临床感染）。"
+          }
+        ]
+      },
+      "c": 45
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "宿主清除胞内病毒的最关键适应性免疫途径是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "特异性细胞免疫（尤其是 CTL 杀伤靶细胞）。"
+          }
+        ]
+      },
+      "c": 58
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "腺病毒和巨细胞病毒通过哪种机制降低被 CTL 识别的能力？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抑制宿主细胞 MHC-Ⅰ 类分子的转录与表达。"
+          }
+        ]
+      },
+      "c": 43
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗体（体液免疫）清除病毒的主要方式是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "清除细胞外游离病毒，阻断病毒血症传播，并通过调理作用增强吞噬杀灭能力。"
+          }
+        ]
+      },
+      "c": 56
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "持续性感染主要包含哪三种类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 慢性感染（Chronic infection）\n2. 潜伏感染（Latent infection）\n3. 慢发病毒感染（Slow virus infection）"
+          }
+        ]
+      },
+      "c": 49
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "按感染过程、滞留时间及症状持续长短，病毒感染可分为哪两大类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 急性感染（Acute infection）\n2. 持续性感染（Persistent infection）"
+          }
+        ]
+      },
+      "c": 48
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "某些病毒导致宿主细胞融合后形成的特征性结构是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "多核巨细胞或合胞体（如麻疹病毒形成的华新 Warthin 多核巨细胞）。"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "逆转录 RNA 病毒将基因整合入细胞染色体前的关键转化步骤是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "以 RNA 为模板逆转录合成 cDNA，再合成双链 DNA（dsDNA）。"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "大量致炎性细胞因子（如 IFN-$\\gamma$、TNF-$\\alpha$、IL-1）释放可能导致哪些严重病理后果？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "代谢紊乱、活化血管活化因子、休克、弥散性血管内凝血（DIC）及恶病质。"
+          }
+        ]
+      },
+      "c": 37
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "流感病毒感染宿主细胞后，细胞表面出现能吸附红细胞的新抗原是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血凝素（Hemagglutinin, HA）。"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "痘病毒和疱疹病毒的包涵体分别主要位于细胞的什么部位？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "痘病毒包涵体位于细胞质；疱疹病毒包涵体位于细胞核。"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "杀细胞效应（cytocidal effect）主要见于哪种类型的病毒？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "主要见于无包膜、杀伤性强的病毒（如脊髓灰质炎病毒、腺病毒）。"
+          }
+        ]
+      },
+      "c": 16
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是稳定状态感染（steady state infection）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指病毒进入细胞并复制，但不引起细胞立即裂解死亡的感染形式，常见于有包膜病毒。"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "鼻病毒和柯萨奇病毒逃避机体免疫应答的主要特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗原结构复杂、血清型别众多，致使免疫应答不力。"
+          }
+        ]
+      },
+      "c": 42
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "干扰素根据抗原性及来源分为哪三种主要类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IFN-$\\alpha$（白细胞产生）、IFN-$\\beta$（成纤维细胞产生）、IFN-$\\gamma$（T细胞/NK细胞产生）。"
+          }
+        ]
+      },
+      "c": 54
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "表达病毒编码新抗抗原的宿主细胞通常会面临怎样的免疫结局？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "成为特异性细胞免疫（如 CTL）攻击的靶细胞，最终被免疫杀伤。 "
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是病毒的水平传播（horizontal transmission）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指病毒在人群不同个体间（包括人-人和动物-人之间，含媒介）的传播方式。"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "登革热病毒形成免疫复合物引发出血和休克的机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "复合物沉积于血管壁并激活补体，导致血管通透性显著增高。"
+          }
+        ]
+      },
+      "c": 34
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是病毒的局部感染（局部播散）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒仅在入侵部位的局部组织细胞内增殖和感染，不向全身扩散。"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "干扰素直接作用于病毒体本身吗？其抗病毒作用机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不直接灭活病毒。它通过与未感染细胞受体结合，诱导细胞合成抗病毒蛋白（AVP）发挥作用。"
+          }
+        ]
+      },
+      "c": 55
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "婴儿呼吸道合胞病毒感染引起细支气管炎和肺炎属于哪型超敏反应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Ⅲ 型超敏反应（抗原-抗体复合物沉积于肺部）。"
+          }
+        ]
+      },
+      "c": 33
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "乙型脑炎病毒和狂犬病病毒分别通过什么方式经破损皮肤侵入？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "乙型脑炎病毒经昆虫（蚊）叮咬；狂犬病病毒经狂犬咬伤。"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "特异性 CTL 细胞清除细胞内病毒的主要机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "CTL 识别靶细胞膜上的病毒抗原并杀伤靶细胞，终止细胞内病毒复制。"
+          }
+        ]
+      },
+      "c": 35
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "隐性感染者不能清除病毒时会转为什么状态？其流行病学意义是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "转为病毒携带者（viral carrier）；能长期向外播散病毒，是重要的传染源。"
+          }
+        ]
+      },
+      "c": 46
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在体外细胞培养中，杀细胞性病毒引起的细胞变圆、坏死、脱落等现象称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞病变效应（Cytopathic Effect, CPE）。"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是登革病毒再次感染引起的“抗体依赖性增强作用（ADE）”？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "机体预先存在的非中和/低亲和力抗体促进游离病毒进入单核/巨噬细胞内大量增殖，加重病情。"
+          }
+        ]
+      },
+      "c": 44
+    }
+  ],
+  "topics": {
+    "covered": [
+      "病毒感染的传播方式与途径",
+      "病毒对宿主细胞的致病机制",
+      "病毒感染的免疫病理作用",
+      "病毒的免疫逃逸机制",
+      "抗病毒固有免疫与适应性免疫"
+    ],
+    "followUp": [
+      "持续性病毒感染的分类与临床特征",
+      "干扰素诱导抗病毒蛋白（AVP）的具体作用途径",
+      "主要肿瘤病毒基因整合与致癌分子机制"
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "id": "micro_06",
+  "title": "06 病毒的基本性状 闪卡",
+  "description": "医学微生物学·病毒定义与纳米尺度、核衣壳（核心/衣壳对称型）、包膜与乙醚敏感性、复制周期六阶段、异常增殖与理化抵抗力核心考点",
+  "topics": {
+    "covered": [
+      "病毒定义、纳米级超微结构与单一核酸特征",
+      "病毒体（Virion）概念与典型形态",
+      "核衣壳结构：核心（DNA/RNA）与衣壳（三大对称型）功能",
+      "包膜（Envelope）来源、刺突功能与乙醚敏感试验鉴别",
+      "病毒复制周期六阶段（吸附、穿入、脱壳、生物合成、组装、释放）",
+      "隐蔽期概念、裂解释放与出芽释放对比",
+      "异常增殖现象：顿挫感染、缺陷病毒（丁肝依赖乙肝）与干扰现象",
+      "温度（56℃ 30min灭活/耐低温冷冻）与化学消毒剂对病毒的影响"
+    ],
+    "followUp": [
+      "病毒的感染类型（急性感染、慢性感染、潜伏感染、慢发病毒感染）",
+      "抗病毒固有免疫（干扰素机制）与中和抗体作用"
+    ]
+  },
+  "flashcards": [
+    {
+      "c": 1,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【核心定义】什么是病毒？其独特性状有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **定义**：体积微小、无细胞结构、单一核酸、严格活细胞内寄生的非细胞型微生物。\n• **独特性状**：纳米尺度；单一核酸（DNA或RNA）；分子水平自我复制；抗生素无效，**干扰素敏感**。"
+          }
+        ]
+      },
+      "pointType": "核心定义",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 2,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【度量与病毒体】测量病毒大小的单位是什么？什么是“病毒体”？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **度量单位**：**纳米（nm）**，通常在 20~300 nm 之间，电镜观察。\n• **病毒体（Virion）**：成熟的、结构完整的、在细胞外具备感染性的**单个病毒颗粒**。"
+          }
+        ]
+      },
+      "pointType": "形态概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 3,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基本结构】什么是病毒的“核衣壳”？核心与衣壳功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **核心**：病毒核酸（DNA 或 RNA），主导复制、遗传与变异。\n• **衣壳**：蛋白质外壳，功能：① 保护核酸；② 介导吸附宿主受体；③ 特异免疫原性。"
+          }
+        ]
+      },
+      "pointType": "基本结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 4,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【衣壳对称】根据壳粒空间排列，病毒衣壳分为哪三种对称型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **螺旋对称**：壳粒螺旋盘绕核酸，呈杆状/弹状（狂犬病毒、流感病毒）。\n• **20面体立体对称**：呈正 20 面体球形（脊灰病毒、腺病毒、HSV）。\n• **复合对称**：兼具两者或复杂结构（痘病毒、蝌蚪状噬菌体）。"
+          }
+        ]
+      },
+      "pointType": "对称类型",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 5,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【包膜与刺突】包膜有何功能？乙醚敏感试验有何鉴别意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **包膜与刺突**：宿主膜脂双层镶嵌病毒糖蛋白刺突，负责受体结合吸附。\n• **乙醚敏感试验**：\n  • **有包膜病毒**（流感、新冠、HBV）：对乙醚等脂溶剂**高度敏感**。\n  • **无包膜裸露病毒**（脊灰、HAV）：对乙醚**耐受**。"
+          }
+        ]
+      },
+      "pointType": "包膜特性",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 6,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【增殖机制】简述病毒在活细胞内自我复制增殖的六大连续阶段。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "① **吸附**：刺突/衣壳结合特异受体。\n② **穿入**：膜融合或吞饮入胞。\n③ **脱壳**：脱去衣壳释放核酸。\n④ **生物合成**：复制核酸并合成结构/非结构蛋白（隐蔽期）。\n⑤ **组装**：装配成子代核衣壳。\n⑥ **释放**：裂解释放或出芽释放。"
+          }
+        ]
+      },
+      "pointType": "复制周期",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 7,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【生化阶段】什么是病毒复制中的“隐蔽期”（Eclipse period）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **概念**：生物合成期母代病毒已脱壳，子代病毒尚未装配成熟。\n• **特征**：此时在细胞内**无法检测出具有感染性的完整病毒颗粒**。"
+          }
+        ]
+      },
+      "pointType": "生化阶段",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 8,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【释放方式】裂解释放与出芽释放有何本质区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **裂解释放**：多数**无包膜病毒**（如脊灰病毒），病毒大批积聚致细胞破裂死亡。\n• **出芽释放**：多数**有包膜病毒**（如流感、HIV），借由宿主细胞膜出芽包裹，细胞暂不破裂。"
+          }
+        ]
+      },
+      "pointType": "释放方式",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 9,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【异常增殖】什么是病毒的“顿挫感染”与非容许细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **非容许细胞**：不能提供病毒完整复制所需条件的宿主细胞。\n• **顿挫感染**：病毒侵入非容许细胞后，因缺乏必要因子**不能产生感染性子代病毒**的现象。"
+          }
+        ]
+      },
+      "pointType": "异常增殖",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 10,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【高频实例】什么是缺陷病毒？丁肝（HDV）如何依赖乙肝（HBV）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **缺陷病毒**：基因组不完整，必须在辅助病毒协助下才能增殖。\n• **HDV 实例**：丁型肝炎病毒缺乏包膜蛋白基因，必须在 **乙型肝炎病毒（HBV）** 提供 HBsAg 协助下才能组装成成熟病毒颗粒。"
+          }
+        ]
+      },
+      "pointType": "经典实例",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 11,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【相互作用】什么是病毒的“干扰现象”？其发生机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **定义**：前一种病毒感染显著抑制后一种病毒的复制增殖。\n• **机制**：\n  ① 刺激宿主细胞产生**干扰素（IFN）**；\n  ② 竞争受体结合位点；\n  ③ 抢占宿主核糖体与转录酶系。"
+          }
+        ]
+      },
+      "pointType": "干扰现象",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 12,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【理化耐受】温度对病毒活性有何影响？常规灭活标准是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **特性**：耐冷不耐热，-70℃ 或液氮可长年保存。\n• **常规灭活**：**56℃ 加热 30 min** 使绝大多数病毒衣壳/刺突变性灭活。*(注：HBV较耐热需煮沸10min以上)*"
+          }
+        ]
+      },
+      "pointType": "理化因素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 13,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【理化耐受】化学消毒剂与抗生素对病毒的灭活效果如何？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **消毒剂有效**：过氧乙酸、84次氯酸钠、碘伏、75%乙醇能高效破坏衣壳与核酸灭活病毒。\n• **抗生素无效**：常规抗生素靶向细胞壁与细菌核糖体，对病毒**完全无效**。"
+          }
+        ]
+      },
+      "pointType": "消毒用药",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 14,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【遗传变异】抗原漂移与抗原转变（流感病毒）有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **抗原漂移**：基因点突变引起轻度量变，引起每年**季节性小流行**。\n• **抗原转变**：基因片段重组引起剧烈质变，产生全新 HA/NA 亚型，易酿成**全球大流行**。"
+          }
+        ]
+      },
+      "pointType": "变异机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 15,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【概念辨析】什么是感染性核酸？哪些病毒具有此特性？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **概念**：脱去衣壳的纯化裸露病毒核酸，直接转染细胞仍能独立复制出完整子代病毒。\n• **代表**：主要是**单正链 RNA（+ssRNA）病毒**（如脊灰病毒、HAV、冠状病毒）。"
+          }
+        ]
+      },
+      "pointType": "深度考点",
+      "starRating": "★★☆",
+      "importance": 2
+    }
+  ]
+}

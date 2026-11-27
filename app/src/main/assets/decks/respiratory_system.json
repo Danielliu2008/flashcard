@@ -1,0 +1,1107 @@
+{
+  "id": "deck_respiratory_system",
+  "title": "呼吸系统 闪卡",
+  "description": "基于课件本章要点与官方题库，全面涵盖上下呼吸道、肺泡微细结构、胸膜腔负压动力学、肺容积、肺泡表面活性物质、波尔效应及呼吸神经化学调节。",
+  "flashcards": [
+    {
+      "c": 1,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统的组成结构及临床上下呼吸道的分界？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **组成**：由呼吸道（鼻、咽、喉、气管、各级支气管）和肺（进行气体交换的器官）两部分构成。\n- **分界线**：临床上通常以**喉的环状软骨下缘**为界：\n  - **上呼吸道**：鼻、咽、喉；\n  - **下呼吸道**：气管、支气管树直至终末细支气管。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 2,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肺活量（VC）、潮气量、补吸气量与残气量的概念及计算？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. **潮气量（TV）**：每次平静呼吸吸入或呼出的气量（正常约 500 mL）。\n2. **补吸气量（IRV）**：平静吸气末再尽力吸入的最大气量（约 1500~2000 mL）。\n3. **补呼气量（ERV）**：平静呼气末再尽力呼出的最大气量（约 900~1200 mL）。\n4. **残气量（RV）**：最大呼气末仍存留在肺内的气量（约 1000~1500 mL）。\n5. **肺活量（VC）**：尽力吸气后再尽力呼出的最大气量，**VC = TV + IRV + ERV**（男性约 3500 mL，女性约 2500 mL）。反映肺通气最大储备潜力。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 3,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "功能残气量（FRC）的定义及其重要生理缓冲意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **定义**：平静呼气末仍存留在肺内的气量，**FRC = 补呼气量（ERV）+ 残气量（RV）**（正常约 2500 mL）。\n- **生理意义**：在吸气与呼气交替间歇期，肺泡内始终保持相当容积的气体，**缓冲了呼吸过程中肺泡内 PO2 和 PCO2 的剧烈波动**，使得肺泡毛细血管血液能持续平稳地进行气体交换，防止呼气末发生缺氧和发绀。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 4,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "解剖无效腔与肺泡无效腔的区别及肺泡通气量计算？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **解剖无效腔**：从鼻至终末细支气管的导气部气道（约 150 mL），壁内无肺泡，不进行气体交换。\n- **肺泡无效腔**：进入肺泡未能与血液进行气体交换的气量（如肺泡缺血或通气过度）。\n- **生理无效腔 = 解剖无效腔 + 肺泡无效腔**。\n- **肺泡通气量（VA）**：每分钟实际进入肺泡进行气体交换的新鲜气量：**VA = (潮气量 - 无效腔量) × 呼吸频率**。**深慢呼吸比浅快呼吸的肺泡通气效率显著更高**！"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 5,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肺泡表面活性物质（DPPC）的产生细胞、成分及三大生理作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **产生细胞**：由**肺泡Ⅱ型上皮细胞**合成并分泌。\n- **主要成分**：二棕榈酰卵磷脂（DPPC）与表面活性物质结合蛋白。\n- **三大生理功能**：\n  1. **降低肺泡表面张力**：使肺顺应性增大，减少吸气阻力，省力吸气；\n  2. **维持不同大小肺泡容积的稳定性**：小肺泡表面活性物质分子密度大，表面张力小，防止小肺泡塌陷破裂入大肺泡；\n  3. **减少毛细血管液体滤出，防止发生肺水肿**。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 6,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胸膜腔负压的形成机制、数值变动及其生理意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **形成机制**：胸膜腔为密闭潜在腔隙。胸膜腔内压 = 肺内压 - 肺弹性回缩力。在吸气末和呼气末肺内压等于大气压（设为0），故**胸膜腔内压 = - 肺弹性回缩力**。\n- **正常数值**：平静吸气末约为 -5 ~ -10 mmHg；平静呼气末约为 -3 ~ -5 mmHg。\n- **生理意义**：维持肺泡扩张随胸廓运动而张缩；对抗肺回缩力防止肺萎缩；胸腔抽吸力降低中心静脉压，促进腔静脉血液与胸导管淋巴液回流心血管。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 7,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "平静呼吸与用力呼吸的呼吸肌收缩舒张力学机制？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. **平静吸气（主动过程）**：**主要吸气肌（膈肌和肋间外肌）收缩**，胸廓前后、左右及上下径增大，肺顺应扩张，肺内压<大气压，外界气体入肺。\n2. **平静呼气（被动过程）**：吸气肌舒张，胸廓和肺依靠**弹性回缩**自然恢复原位，肺内压>大气压，气体排出。\n3. **用力吸气（主动）**：辅助吸气肌（胸锁乳突肌、斜角肌、胸肌）协同强烈收缩扩大胸廓。\n4. **用力呼气（主动）**：**呼气肌（肋间内肌和腹壁肌群）主动收缩**，下压肋骨并推挤腹腔脏器上抬膈肌，强力缩小胸廓压出气体。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 8,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "气血屏障（呼吸膜）的六层微细组织结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "气体跨越肺泡扩散进入毛细血管必须依次经过六层结构：\n1. 含肺泡表面活性物质的液体层\n2. 肺泡Ⅰ型上皮细胞胞质层\n3. 上皮基底膜\n4. 肺泡上皮与毛细血管之间的间质层（组织间隙）\n5. 毛细血管基底膜\n6. 毛细血管内皮细胞层。\n总厚度仅约 0.2~0.5 μm，有利于气体极快完成扩散。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 9,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通气/血流比值（VA/Q）的正常值及其失衡引起的病理生理？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **正常值**：每分钟肺泡通气量（4.2 L）与每分钟肺血流量（5.0 L）的比值，**约为 0.84**。\n- **失衡效应**：\n  - **VA/Q 增大（>0.84，如肺动脉栓塞）**：通气良好但血流不足，肺泡内新鲜气体未充分交换，形成**肺泡无效腔**；\n  - **VA/Q 减小（<0.84，如哮喘、支气管炎）**：通气不足而血流充沛，静脉血未经充分氧合即流入肺静脉，形成**功能性动-静脉短路**。\n  两者均导致动脉血氧分压下降（低氧血症）。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 10,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "波尔效应（Bohr effect）的概念及其生理学重要意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **概念**：血液中酸度增加（pH下降）或 PCO2 升高时，血红蛋白（Hb）对 O2 的亲和力降低，氧解离曲线发生**向右移动**；反之 pH 升高或 PCO2 下降使曲线左移。\n- **生理意义**：高度适应机体代谢需要！当血液流经代谢旺盛、产酸产 CO2 增多的组织器官（如运动肌肉）时，波尔效应促使 HbO2 加速解离释放大量 O2 供组织利用；流经肺部时 CO2 排出促使曲线左移，有利于 Hb 高效结合 O2。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 11,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "CO2 对呼吸运动的调节途径及中枢与外周化学感受器的比较？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **CO2 是维持呼吸中枢兴奋性最重要的生理性化学刺激物**。\n- **中枢化学感受器（主途径，占 80%）**：位于延髓腹外侧浅表部。**有效刺激物是脑脊液中的 H+**。CO2 易溶于脂质迅速透过血脑屏障，水化生成 H2CO3 解离出 H+ 刺激中枢感受器，反射性引起呼吸强烈加深加快。\n- **外周化学感受器（次途径，占 20%）**：颈动脉体和主动脉体。直接感受动脉血中的高 PCO2、低 PO2 和高 H+，传入神经为舌咽神经和迷走神经。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 12,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "缺氧对呼吸运动的特殊调节机制及肺心病吸氧注意事项？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **特殊调节机制**：缺氧对中枢神经系统的直接作用是轻度抑制；其反射性兴奋呼吸作用**完全依赖外周化学感受器**（颈动脉体与主动脉体）介导。\n- **肺心病低浓度吸氧原则**：慢性阻塞性肺疾病（COPD）长期伴随 CO2 潴留，中枢化学感受器对高 PCO2 产生耐受适应，此时**外周化学感受器的低氧刺激成为驱动呼吸的最主要动力**。若给予高浓度纯氧吸入，骤然解除低氧驱动反射，可诱发呼吸骤停（二氧化碳麻醉昏迷），故临床必须坚持**持续低流量低浓度吸氧（1~2 L/min, 25%~29%）**。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 13,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肺牵张反射（Hering-Breuer 反射）的两大组成及意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. **肺扩张反射（吸气抑制反射）**：肺扩张牵拉气管到细支气管平滑肌中的牵张感受器，冲动经迷走神经传入延髓，抑制吸气中枢促使吸气及时转为呼气。**意义：防止吸气过深过长，平稳呼吸节律**。\n2. **肺萎陷反射（吸气兴奋反射）**：肺萎陷缩小促使吸气提前发生。**意义：防止呼气过深，阻止肺泡完全陷闭**。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 14,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "气管壁与左右主支气管的解剖学形态差异？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **气管壁**：由 16~20 个后方缺如的“C”字形透明软骨环维持通畅，后壁膜壁由平滑肌和结缔组织封闭邻贴食管。\n- **左、右主支气管解剖差异**：\n  - **右主支气管**：**粗、短、走向较陡直**（与气管垂直夹角约 20°~30°）；\n  - **左主支气管**：**细、长、走向较倾斜**（夹角约 40°~50°）。\n- **临床意义**：气道吸入异物或气管插管过深极易偏向落入**右主支气管（右肺）**。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 15,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "喉软骨支架的四大组成及声门裂定义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **四大喉软骨**：\n  1. **甲状软骨**：最大，呈前角突出形成喉结；\n  2. **环状软骨**：全环封闭，平对第 6 颈椎，下接气管，是喉与下呼吸道的重要解剖标志；\n  3. **会厌软骨**：吞咽时下掩喉口防止异物误吸；\n  4. **杓状软骨（成对）**：附着声韧带与环杓肌，旋转控制声门开大或缩小。\n- **声门裂**：左、右声襞及杓状软骨底内侧缘之间的裂隙，是**喉腔最狭窄的部位**。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 16,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 1：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 17,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 2：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 18,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 3：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 19,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 4：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 20,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 5：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 21,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 6：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 22,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 7：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 23,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 8：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 24,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 9：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 25,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 10：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 26,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 11：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 27,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 12：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 28,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 13：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 29,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 14：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 30,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 15：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 31,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 16：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 32,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 17：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 33,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 18：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 34,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 19：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 35,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 20：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 36,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 21：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 37,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 22：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 38,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 23：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 39,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 24：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 40,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 25：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 41,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 26：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 42,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 27：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 43,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 28：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 44,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 29：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 45,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 30：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 46,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 31：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 47,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 32：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 48,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 33：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 49,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 34：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 50,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸系统核心考点 35：气体在血液中的理化运输"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧气在血液中 98.5% 结合成氧合血红蛋白，1.5% 物理溶解。二氧化碳约 88% 以碳酸氢盐（HCO3-）化学结合运输（由红细胞内碳酸酐酶催化生成并与 Cl- 转移交换），7% 结合成氨基甲酰血红蛋白，5% 物理溶解于血浆中。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    }
+  ]
+}

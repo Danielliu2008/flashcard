@@ -1,0 +1,1426 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "哪种对称构型的病毒衣壳具有最为坚固且内部容量最大的特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "20面体立体对称型。"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是感染性核酸（Infectious RNA）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指除去衣壳的病毒单正链 RNA（$+ssRNA$）进入宿主细胞后，能直接作为 mRNA 编码蛋白质并在易感细胞中增殖形成子代病毒的核酸。"
+          }
+        ]
+      },
+      "c": 36
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是朊粒（Prion / PrP）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "朊粒是由宿主细胞基因编码的、构象异常的传染性蛋白质颗粒，不含核酸，具有自我复制能力和传染性。"
+          }
+        ]
+      },
+      "c": 72
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是单链 RNA 病毒的正链（+ssRNA）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指 RNA 序列与 mRNA 相同/近、能直接作为蛋白质翻译模板的编码链（有意义链）。"
+          }
+        ]
+      },
+      "c": 34
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是病毒体（Virion）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指完整成熟的、具有感染性的病毒颗粒，是病毒在细胞外的典型结构形式。"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒在宿主细胞内对抗生素和干扰素的敏感性有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒在细胞内对抗生素不敏感，但对干扰素敏感。"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "复合对称型（Complex symmetry）衣壳仅见于哪些病毒？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "痘病毒和噬菌体。"
+          }
+        ]
+      },
+      "c": 27
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "根据壳粒排列的对称性，病毒衣壳可分为哪三种对称类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "螺旋对称型、20面体立体对称型、复合对称型。"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "大多数人和动物病毒呈现什么形态？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "球形或近似球形。"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是辅助病毒（Helper virus）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指能够弥补缺陷病毒的功能缺陷，使其能够复制并产生完整子代病毒的同种或异种正常病毒。"
+          }
+        ]
+      },
+      "c": 69
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒核心（Core）的主要化学成分和生理功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "主要成分为核酸，构成病毒基因组，为病毒的复制、遗传和变异提供遗传信息。"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "腺病毒20面体顶角上的触须样纤维（Antennal fiber）主要发挥什么功能？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "作为病毒吸附蛋白（VAP）吸附宿主细胞；能凝集某些动物红细胞，并能损伤宿主细胞。"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "绝大多数 RNA 病毒的基因组复制和转录在细胞的什么部位完成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞质内（正黏病毒和个别副黏病毒除外，它们需在细胞核内完成）。"
+          }
+        ]
+      },
+      "c": 53
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "嗜肝 DNA 病毒（如 HBV）在复制过程中是否有逆转录阶段？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "有，HBV 复制过程中需转录出前基因组 RNA（pgRNA），再通过反转录生成负链 DNA。"
+          }
+        ]
+      },
+      "c": 64
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是病毒复制中的“隐蔽期”（Eclipse period）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指病毒脱壳后进入生物合成阶段，在细胞内暂时检测不到完整病毒颗粒、检测不到病毒抗原且无感染性的时期。"
+          }
+        ]
+      },
+      "c": 50
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒核心中除了核酸外，还可能含有哪些微量成分？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "少量的蛋白质，如病毒聚合酶或逆转录酶等。"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是缺陷病毒（Defective virus）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指由于基因组不完整或发生突变，不能在宿主细胞内独立进行正常复制的病毒。"
+          }
+        ]
+      },
+      "c": 68
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "逆转录病毒（Retrovirus）形成单链 DNA 后，依靠什么酶水解 RNA:DNA 杂交体中的 RNA 链？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "RNA酶H（RNase H，属于逆转录酶复合活性之一）。"
+          }
+        ]
+      },
+      "c": 60
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "丁型肝炎病毒（HDV）需要哪种辅助病毒才能获得外壳并正常复制释放？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "乙型肝炎病毒（HBV）。"
+          }
+        ]
+      },
+      "c": 70
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "正黏病毒、副黏病毒和弹状病毒属于哪种衣壳对称类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "螺旋对称型（Helical symmetry）。"
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单负链 RNA（-ssRNA）病毒体内是否必须携带依赖 RNA 的 RNA 聚合酶（RdRp）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "是，-ssRNA 不能直接作为 mRNA，必须自带 RdRp 才能转录出互补的正链 RNA。"
+          }
+        ]
+      },
+      "c": 59
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "冠状病毒的刺突蛋白（S蛋白）结合宿主细胞的什么受体？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血管紧张素转化酶2（ACE2）。"
+          }
+        ]
+      },
+      "c": 42
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是被膜（Tegument / Matrix）？其主要功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "被膜是某些包膜病毒在核衣壳外层和包膜内层之间的区域，含有基质蛋白，主要功能是将内部核衣壳蛋白与包膜联系起来。"
+          }
+        ]
+      },
+      "c": 31
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "噬菌体和烟草花叶病毒分别呈现什么典型的形态？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "噬菌体呈蝌蚪状，烟草花叶病毒呈杆状。"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在主要微生物中，哪一类仅含一种类型的核酸（DNA或RNA）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒（细菌、支原体、立克次体、衣原体及真菌均同时含有 DNA 和 RNA）。"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒复制周期（Replication cycle）包括哪五个顺序阶段？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "吸附（Adsorption）、穿入（Penetration）、脱壳（Uncoating）、生物合成（Biosynthesis）、装配与释放（Assembly and Release）。"
+          }
+        ]
+      },
+      "c": 45
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "双链 DNA（dsDNA）病毒生物合成中，“晚期蛋白”的主要成分是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "结构蛋白，主要为衣壳蛋白。"
+          }
+        ]
+      },
+      "c": 55
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "双链 DNA（dsDNA）病毒生物合成中，“早期蛋白”的主要功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "早期蛋白是功能性非结构蛋白，主要用于合成病毒子代 DNA 所需的酶（如 DNA 聚合酶）及调节蛋白。"
+          }
+        ]
+      },
+      "c": 54
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是病毒（Virus）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒是一类体积微小、无完整细胞结构、仅含有一种核酸（RNA或DNA）作为遗传物质、具有严格活细胞内寄生性、以自我复制方式增殖的非细胞型微生物。"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "+ssRNA 病毒复制过程中形成的复制中间体（RNA RI）包含什么链？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "包含正链 RNA 与互补负链 RNA 结合成的双链 RNA（$\\pm \\text{dsRNA}$）。"
+          }
+        ]
+      },
+      "c": 58
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "痘病毒和弹状病毒分别呈现什么典型的形态？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "痘病毒呈砖块状，弹状病毒呈子弹状（弹状）。"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是病毒非结构蛋白（Non-structural protein）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指由病毒基因组编码，但不作为结构成分参与成熟病毒体构成的蛋白质（如各类复制酶、蛋白水解酶等）。"
+          }
+        ]
+      },
+      "c": 40
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "朊粒可导致人和动物患有什么共同特征的疾病？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "传染性海绵状脑病（如人类库鲁病、克-雅病；动物羊瘙痒病、牛海绵状脑病/疯牛病）。"
+          }
+        ]
+      },
+      "c": 73
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在微生物引起的各类传染病中，病毒性疾病大约占多少比例？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "约占 75%。"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是病毒包膜（Envelope）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "包膜是包绕在某些病毒核衣壳外围的双层膜结构，由病毒穿过宿主细胞膜以出芽方式释放时获得。"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "乙型肝炎病毒（HBV）基因组的核酸结构特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为不完全闭合的双链 DNA（负链长而完整，正链较短）。"
+          }
+        ]
+      },
+      "c": 62
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "卫星病毒（Satellite virus）与缺陷病毒有何显著不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "卫星病毒与辅助病毒的基因组无同源性，且在复制时常干扰辅助病毒的增殖。"
+          }
+        ]
+      },
+      "c": 71
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是医学病毒学（Medical Virology）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "医学病毒学是研究病毒与人类疾病关系的一门学科，主要研究人类病毒的生物学特征、致病性、宿主相互关系（含免疫性）以及诊断和防治方法。"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒包膜中脂质的主要生理功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "维护病毒体结构的完整性（通过磷脂、胆固醇和脂肪酸等加固结构），并促进病毒入侵宿主细胞。"
+          }
+        ]
+      },
+      "c": 44
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "绝大多数 DNA 病毒的 DNA 复制和 RNA 转录在细胞的什么部位进行？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞核内（蛋白质合成在细胞质内）。"
+          }
+        ]
+      },
+      "c": 51
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在病毒与其他微生物的比较中，除了病毒，还有哪些微生物能通过 $0.45\\:\\mu\\text{m}$ 滤器？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "支原体和衣原体。"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "正黏病毒、副黏病毒及冠状病毒等有包膜病毒穿入细胞的主要方式是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "膜融合（Fusion）。"
+          }
+        ]
+      },
+      "c": 48
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒衣壳（Capsid）的定义及其三大主要作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "衣壳是包绕在核酸外面的蛋白质外壳。三大作用：①保护病毒核酸免受破坏；②介导病毒吸附与穿入宿主细胞；③具有良好的抗原性。"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在20面体立体对称衣壳中，顶角处和三角形平面上的壳粒分别称作什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "顶角处周围有5个壳粒包围的称为五邻体（Penton）；三角形面上周围有6个壳粒包围的称为六邻体（Hexon）。"
+          }
+        ]
+      },
+      "c": 25
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "无包膜（裸露）病毒穿入宿主细胞的主要方式是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "吞饮（Endocytosis）。"
+          }
+        ]
+      },
+      "c": 47
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1796年英国医生爱德华·詹纳（Edward Jenner）发明了什么疫苗用于预防天花？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "牛痘苗。"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "无包膜（裸露）病毒与有包膜病毒释放子代颗粒的方式有何差别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "裸露病毒主要通过宿主细胞破裂（裂解）释放；包膜病毒主要通过出芽（Budding）方式释放。"
+          }
+        ]
+      },
+      "c": 65
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "已知的最大和最小病毒体尺寸大约各是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "最大的病毒约 $300\\:\\text{nm}$（如痘病毒）；最小的约 $20\\:\\text{nm}$（如微小病毒）。"
+          }
+        ]
+      },
+      "c": 9
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "A型流感病毒（正黏病毒科）的基因组核酸有何分节段特征？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为分节段的负单链 RNA（$-ssRNA$），共有 8 个核酸节段。"
+          }
+        ]
+      },
+      "c": 35
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为什么逆转录病毒的基因组（虽为 $+ssRNA$）不属于感染性核酸？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "因为其不能直接作为 mRNA 翻译蛋白质，且不携带逆转录酶时无法在易感细胞内完成基因组复制。"
+          }
+        ]
+      },
+      "c": 37
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "哪种 DNA 病毒例外，其 DNA 复制和蛋白质合成均在细胞质内完成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "痘病毒（因为自身携带 DNA 聚合酶）。"
+          }
+        ]
+      },
+      "c": 52
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒体的基本结构是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "核衣壳（Nucleocapsid），由核心和衣壳组成。"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "大多数 DNA 病毒与 RNA 病毒的核酸链型有何规律？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "DNA 病毒大多为双链（dsDNA）；RNA 病毒大多为单链（ssRNA）。"
+          }
+        ]
+      },
+      "c": 32
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒能否在人工无细胞培养基上生长？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不能（病毒具有严格活细胞内寄生性）。"
+          }
+        ]
+      },
+      "c": 16
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "狂犬病病毒的 gpG 蛋白特异性结合横纹肌细胞的什么受体？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "乙酰胆碱受体。"
+          }
+        ]
+      },
+      "c": 43
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单正链 RNA（+ssRNA）病毒侵入细胞后，首先翻译出的早期蛋白是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "依赖 RNA 的 RNA 聚合酶（RdRp）。"
+          }
+        ]
+      },
+      "c": 57
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "噬菌体进入宿主菌的方式属于哪种穿入类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "直接进入（由细胞表面的酶协助脱壳，使病毒核酸直接注入细胞）。"
+          }
+        ]
+      },
+      "c": 49
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是容纳细胞（Permissive cell）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指能够为特定病毒的复制和增殖提供全部必需条件（酶、能量和底物）的细胞。"
+          }
+        ]
+      },
+      "c": 66
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "感染性核酸在感染宿主细胞时有哪些优势与局限性？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "优势：不受衣壳蛋白和宿主受体限制，易感细胞范围广；局限：易被体液中的核酸酶破坏，感染效率低于完整病毒体。"
+          }
+        ]
+      },
+      "c": 38
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是顿挫感染（Abortive infection）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指病毒进入非容纳细胞后，因细胞不能提供必需条件，导致病毒不能合成其成分，或合成的成分无法装配释放出有感染性病毒颗粒的现象。"
+          }
+        ]
+      },
+      "c": 67
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是刺突（Spike，或包膜子粒 peplomere）？其化学本质是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "刺突是突出于包膜表面的突起，化学本质是糖蛋白（刺突糖蛋白）。"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单链 DNA（ssDNA）病毒复制时，形成的中间构象称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "复制中间型（Replicative intermediate, RI），即由亲代单链与互补链结合形成的 $\\pm \\text{dsDNA}$。"
+          }
+        ]
+      },
+      "c": 56
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "测量病毒体大小最可靠的方法是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "电子显微镜技术。"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是“前病毒”（Provirus）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指逆转录病毒合成的双链 DNA 在整合酶作用下整合到宿主细胞染色体 DNA 上的形态。"
+          }
+        ]
+      },
+      "c": 61
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒能够通过什么孔径的除菌滤器？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "可穿过孔径为 $0.22\\:\\mu\\text{m}$ 或 $0.45\\:\\mu\\text{m}$ 的除菌滤器。"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "构成病毒衣壳的形态结构亚单位称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "壳粒（Capsomeres）。"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "乙型肝炎病毒（HBV）基因组包含哪 4 个开放阅读框（ORF）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "S区、C区、P区、X区。"
+          }
+        ]
+      },
+      "c": 63
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒与细菌在增殖方式上有何本质不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒以复制方式在分子水平增殖，而细菌以二分裂方式增殖。"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是病毒吸附蛋白（Viral Attachment Proteins, VAP）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "存在于病毒表面（包膜病毒的包膜或裸露病毒的衣壳），能特异性结合易感细胞表面受体的蛋白。"
+          }
+        ]
+      },
+      "c": 41
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在 DNA 病毒和 RNA 病毒中，哪些类群打破了“DNA多双链、RNA多单链”的规律？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细小DNA病毒（单链DNA）和呼肠病毒（双链RNA）。"
+          }
+        ]
+      },
+      "c": 33
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒在细胞结构上与细菌、真菌有何本质区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒为非细胞结构；细菌为原核细胞；真菌为真核细胞。"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒蛋白质约占病毒体总重量的多少？可分为哪两大类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "约占 70%。可分为结构蛋白和非结构蛋白。"
+          }
+        ]
+      },
+      "c": 39
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "决定病毒感染组织亲嗜性（Tissue tropism）的主要因素是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒吸附蛋白（VAP）与宿主细胞表面受体的特异性结合。"
+          }
+        ]
+      },
+      "c": 46
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "当两种病毒同时感染同一细胞时，一种病毒抑制另一种病毒增殖的现象称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒的干扰现象（Viral interference）。"
+          }
+        ]
+      },
+      "c": 74
+    }
+  ],
+  "topics": {
+    "covered": [
+      "病毒的定义与独特性状",
+      "病毒的大小与形态特征",
+      "病毒与其他微生物的比较",
+      "病毒的结构与化学组成",
+      "病毒核酸与感染性核酸",
+      "病毒复制周期与生物合成",
+      "病毒的异常增殖与亚病毒"
+    ],
+    "followUp": [
+      "理化因素对病毒的影响及灭活方法",
+      "病毒的遗传变异与基因重配机制",
+      "病毒致病机制与宿主抗病毒免疫"
+    ]
+  }
+}

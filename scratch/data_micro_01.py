@@ -1,0 +1,150 @@
+# -*- coding: utf-8 -*-
+"""
+Microbiology Chapter 1: 绪论 (精简高频版)
+严格按掌握要求提炼，字数精炼短小，单屏即读
+"""
+
+DECK_01 = {
+    "id": "micro_01",
+    "title": "01 绪论 闪卡",
+    "description": "医学微生物学绪论·微生物概念、三大类型划分、病原与条件致病微生物及奠基里程碑核心考点",
+    "topics": {
+        "covered": [
+            "微生物概念与三大特征",
+            "三大类微生物结构与核酸划分",
+            "原核细胞型六大类群",
+            "病原与条件致病菌及致病诱因",
+            "医学微生物学“三性两法”",
+            "奠基人物（巴斯德、郭霍法则、琴纳、弗莱明）"
+        ],
+        "followUp": [
+            "细菌基本形态与细胞壁肽聚糖结构",
+            "正常菌群转化为条件致病菌的诱发机制"
+        ]
+    },
+    "flashcards": [
+        {
+            "c": 1,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【核心概念】什么是微生物？其具备哪三大基本特征？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "• **定义**：个体微小、结构简单、肉眼不可见的微小生物。\n• **三大特征**：\n  ① **形微构简**：多为单细胞或非细胞型；\n  ② **种类多、分布广**：土壤、水及体表腔道；\n  ③ **繁殖快、易变异**：环境适应力极强。"}]},
+            "pointType": "核心定义",
+            "starRating": "★★★",
+            "importance": 3
+        },
+        {
+            "c": 2,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【大纲重点】按分化程度和结构，微生物分为哪三大类型？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "• **非细胞型**：最小，无细胞结构，仅一种核酸（DNA或RNA），如**病毒**。\n• **原核细胞型**：仅原始拟核（无核膜核仁），细胞器仅**核糖体**，如**细菌**、支原体。\n• **真核细胞型**：核分化程度高（有核膜核仁），细胞器完备，如**真菌**。"}]},
+            "pointType": "大纲掌握",
+            "starRating": "★★★",
+            "importance": 3
+        },
+        {
+            "c": 3,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【核心性状】非细胞型微生物（病毒）具备哪些关键特异性状？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "• 纳米级超微结构，能通过除菌滤器。\n• **单一核酸**：每种病毒仅含 DNA 或 RNA 之一。\n• **严格活细胞内寄生**：以分子自我复制方式增殖。\n• **药敏特性**：对抗生素无效，对**干扰素**敏感。"}]},
+            "pointType": "特异性状",
+            "starRating": "★★★",
+            "importance": 3
+        },
+        {
+            "c": 4,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【必背口诀】原核细胞型微生物包含哪六大类群？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "**口诀：支衣立螺放，外加真细菌**\n• **细菌**（狭义细菌）\n• **支原体**（无细胞壁，高度多形）\n• **衣原体**（具独特发育周期）\n• **立克次体**（节肢动物传播）\n• **螺旋体**、**放线菌**"}]},
+            "pointType": "经典分类",
+            "starRating": "★★★",
+            "importance": 3
+        },
+        {
+            "c": 5,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【名词解释】什么是病原微生物与机会性致病微生物？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "• **病原微生物**：能侵犯人体并引起疾病的极少数微生物（如结核杆菌）。\n• **机会致病菌（条件致病菌）**：正常菌群在机体免疫低下、寄居部位改变或菌群失调等特定条件下引发的感染。"}]},
+            "pointType": "概念理解",
+            "starRating": "★★★",
+            "importance": 3
+        },
+        {
+            "c": 6,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【高频考点】条件致病菌致病的三大核心诱因是什么？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "① **机体免疫力低下**：放化疗、激素、艾滋病、器官移植。\n② **寄居部位改变（异位寄生）**：肠道大肠杆菌入尿道致尿感。\n③ **菌群失调**：长期滥用广谱抗生素诱发假膜性肠炎等二重感染。"}]},
+            "pointType": "机制原理",
+            "starRating": "★★★",
+            "importance": 3
+        },
+        {
+            "c": 7,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【大纲概念】医学微生物学研究的核心范畴“三性两法”指什么？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "• **三性**：生物学特性、致病性、免疫性。\n• **两法**：病原学检查诊断方法、特异性防治方法。"}]},
+            "pointType": "学科概括",
+            "starRating": "★★★",
+            "importance": 3
+        },
+        {
+            "c": 8,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【生态认知】微生物与人类的关系主要表现在哪些方面？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "• **绝大多数有益且必需**：参与自然界物质循环；发酵制药；维持人体微生态屏障并合成维生素 K 和 B 族。\n• **极少数有害**：致病微生物引起人类各类感染性疾病。"}]},
+            "pointType": "基础认知",
+            "starRating": "★★☆",
+            "importance": 2
+        },
+        {
+            "c": 9,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【人物贡献】列文虎克与巴斯德在微生物学史上有何里程碑贡献？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "• **列文虎克**：自制显微镜首次观察到活微生物形态。\n• **巴斯德（奠基人）**：\n  ① 著名的曲颈瓶实验彻底**否定自然发生说**；\n  ② 发明**巴氏消毒法**；\n  ③ 研制炭疽、**狂犬病减毒活疫苗**。"}]},
+            "pointType": "历史人物",
+            "starRating": "★★★",
+            "importance": 3
+        },
+        {
+            "c": 10,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【高频考点】郭霍的主要贡献与“郭霍法则”的四条准则是什么？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "• **主要贡献**：创用琼脂固体培养基纯培养，确立细菌学奠基。\n• **郭霍法则四原则**：\n  ① 病人体内常在；\n  ② 体外分离出纯培养；\n  ③ 动物接种复制出相同疾病；\n  ④ 患病动物能再次重分离出该纯培养。"}]},
+            "pointType": "奠基伟人",
+            "starRating": "★★★",
+            "importance": 3
+        },
+        {
+            "c": 11,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【医学贡献】琴纳、李斯特与弗莱明分别有哪些划时代贡献？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "• **琴纳**：发明**牛痘接种法**预防天花（人工主动免疫先河）。\n• **李斯特**：首创**石炭酸无菌手术**（外科防腐消毒灭菌先驱）。\n• **弗莱明**：发现**青霉素**（开启抗生素治疗感染时代）。"}]},
+            "pointType": "关键学者",
+            "starRating": "★★☆",
+            "importance": 2
+        },
+        {
+            "c": 12,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【历史人物】伊凡诺夫斯基在病毒学发展史上的关键贡献是什么？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "• 发现烟草花叶病汁液经**细菌滤器过滤后仍具传染性**。\n• 首次证实存在比细菌更微小、滤过性病原体，发现**烟草花叶病毒**，开创病毒学。"}]},
+            "pointType": "病毒先驱",
+            "starRating": "★★☆",
+            "importance": 2
+        },
+        {
+            "c": 13,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【横向对比】原核细胞与真核细胞在“细胞核”和“细胞器”上有何本质区别？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "• **细胞核**：原核生物仅有**原始拟核**（无核膜、无核仁）；真核生物具有**完整双层核膜与核仁**。\n• **细胞器**：原核生物仅有**核糖体（70S）**；真核生物含完备的线粒体、内质网、高尔基体等。"}]},
+            "pointType": "考点对比",
+            "starRating": "★★★",
+            "importance": 3
+        },
+        {
+            "c": 14,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【生态屏障】正常菌群对人体宿主具有哪四大不可或缺的生理作用？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "① **生物拮抗**：竞争受体与营养，排斥外来致病菌。\n② **营养代谢**：肠道菌合成**维生素 K 及 B 族**。\n③ **免疫促进**：刺激宿主黏膜免疫系统发育成熟。\n④ **抗衰抗肿瘤**：清除过氧化物与降解前致癌物。"}]},
+            "pointType": "生理作用",
+            "starRating": "★★★",
+            "importance": 3
+        },
+        {
+            "c": 15,
+            "f": {"flashcardContentBlock": [{"type": "text", "content": "【药敏对比】细菌与病毒在抗生素和干扰素敏感性上有何截然不同的规律？"}]},
+            "b": {"flashcardContentBlock": [{"type": "text", "content": "• **细菌**：对抗生素敏感；对干扰素**不敏感**。\n• **病毒**：对抗生素**天然无效**；对**干扰素敏感**。"}]},
+            "pointType": "考点对比",
+            "starRating": "★★★",
+            "importance": 3
+        }
+    ]
+}
+
+# QUIZ_01 保持完全不变（高品质题目与完整考纲解析）
+from data_micro_01_quiz import QUIZ_01

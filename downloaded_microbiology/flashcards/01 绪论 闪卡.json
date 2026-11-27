@@ -1,0 +1,1425 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "医学微生物学研究的核心内容可归纳为哪“三性两法”？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "三性：基本生物学特性、致病性、免疫性；\n两法：检查方法、防治方法。"
+          }
+        ]
+      },
+      "c": 25
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是医学微生物学（Medical Microbiology）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "研究与医学有关的微生物的生物学特性、致病机制、机体抗感染免疫、特异性检测方法以及相关感染性疾病的防治措施的学科。"
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "属于非细胞型微生物的代表生物是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒（Virus）。"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "原核细胞型微生物内部包含哪些细胞器？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞器很不完善，仅含有核糖体。"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是正常菌群（Normal Flora）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人和动物机体内正常情况下存在且对宿主无害的微生物群。"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "典型的细菌（狭义）大小范围通常在多少微米（$\\mu\\text{m}$）之间？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$0.5 \\sim 1.0\\ \\mu\\text{m}$。"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "郭霍法则（Koch's Postulates）的第四条标准是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "从人工感染的实验动物体内能够重新分离得到该病原菌的纯培养。"
+          }
+        ]
+      },
+      "c": 41
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1929年亚历山大·弗莱明（Alexander Fleming）发现了哪种抗生素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "青霉素（Penicillin）。"
+          }
+        ]
+      },
+      "c": 48
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "广义的细菌包括哪些原核细胞型微生物？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌（狭义）、支原体、衣原体、立克次体、螺旋体、放线菌以及蓝细菌等。"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "丙型肝炎病毒（HCV）与戊型肝炎病毒（HEV）分别主要通过什么途径传播？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "HCV：肠道外传播（血液传播）；\nHEV：消化道传播。"
+          }
+        ]
+      },
+      "c": 66
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "郭霍因发现哪种传染病的病原体而获得1905年诺贝尔生理学或医学奖？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "结核分枝杆菌（以及炭疽芽胞杆菌、霍乱弧菌等的研究）。"
+          }
+        ]
+      },
+      "c": 42
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "丁型肝炎病毒（HDV）的复制依赖于哪种病毒的辅助？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "乙型肝炎病毒（HBV）。"
+          }
+        ]
+      },
+      "c": 67
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "世界上第一种发现的动物病毒是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "口蹄疫病毒（1897年由 Loeffler 和 Frosch 发现）。"
+          }
+        ]
+      },
+      "c": 45
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "微生物具有哪三大核心特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 体积微小、结构简单；\n2. 种类繁多、分布广泛；\n3. 繁殖迅速、容易变异。"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "哪类微生物形态近似细菌，但完全没有细胞壁，呈高度多形性？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "支原体（Mycoplasma）。"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌属于哪一类微生物？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真核细胞型微生物。"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "巴氏消毒法（Pasteurization）常用的两种温度与时间组合是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. $61.1 \\sim 62.8^\\circ\\text{C}$，加热 $30\\text{min}$；\n2. $71.7^\\circ\\text{C}$，加热 $15 \\sim 30\\text{s}$。"
+          }
+        ]
+      },
+      "c": 34
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "朱既明在病毒学研究中的代表性贡献是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "首次将流感病毒裂解为亚单位，提出了流感病毒的结构图像，为亚单位疫苗开发奠定基础。"
+          }
+        ]
+      },
+      "c": 62
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "未来医学微生物学研究和展望的核心方向包含哪五个方面？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 新现和再现病原微生物研究；\n2. 致病物质及致病机制研究；\n3. 抗感染免疫基础理论及应用；\n4. 规范化诊断方法及技术；\n5. 人体微生物群与健康研究。"
+          }
+        ]
+      },
+      "c": 74
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "大肠埃希菌在何种情况下会体现机会致病性？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "当其离开正常寄居的肠道，进入泌尿道或腹腔时，可引起泌尿道感染或腹腔感染。"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是朊粒（Prion）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "一种比病毒更小、不含核酸、仅由蛋白质构成的传染性蛋白因子。"
+          }
+        ]
+      },
+      "c": 54
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "引起幽门螺杆菌病（胃炎、胃溃疡）的病原体幽门螺杆菌（H. pylori）是在哪一年被发现的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1983年。"
+          }
+        ]
+      },
+      "c": 52
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "英国医生李斯特（Joseph Lister）对医学微生物学的突出贡献是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "创用苯酚喷洒手术室和煮沸手术器具，创立了外科无菌手术。"
+          }
+        ]
+      },
+      "c": 43
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "北宋末年刘真人对传染病病因提出了何种观点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "提出了“肺痨由虫引起”的观点。"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "衣原体（Chlamydia）的主要生活特性是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "具有类似细胞壁结构，专性在活细胞内生长繁殖。"
+          }
+        ]
+      },
+      "c": 69
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "自然界中微生物分布最密集的场所是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "土壤（1g肥沃土壤可含有几亿到几十亿个微生物）。"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "医学微生物学发展的三个历史时期分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 经验时期（公元1676年以前）\n2. 实验微生物学时期（1676—1953年）\n3. 现代微生物学时期（1953年至今）"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "现代细菌分类与鉴定的重点已从传统表型分析转向了什么方法？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "基因型分析方法（如16S rRNA序列分析、PCR、DNA杂交、质粒指纹图分析等）。"
+          }
+        ]
+      },
+      "c": 58
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "定植于人体肠道的大肠埃希菌能为人体合成哪些营养物质？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "维生素B1、B2、B12、K、烟酸以及多种氨基酸。"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "郭霍法则（Koch's Postulates）的第二条标准是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "该特殊病原菌能被分离培养得到纯种。"
+          }
+        ]
+      },
+      "c": 39
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "介于细菌与原虫之间，呈细长螺旋状且具有轴丝的原核细胞型微生物是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "螺旋体（Spirochete）。"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "古生菌（Archaea）的细胞壁成分与传统细菌有何显著不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "古生菌不合成细菌细胞壁中存在的肽聚糖。"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "第一个完成全基因组DNA测序的细菌是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "流感嗜血杆菌（Haemophilus influenzae，1995年完成）。"
+          }
+        ]
+      },
+      "c": 57
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "朊粒可导致哪些中枢神经系统海绵样脑病？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人类库鲁病、克-雅病（CJD）、疯牛病（BSE）及羊瘙痒病等。"
+          }
+        ]
+      },
+      "c": 56
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "侯云德院士在医学微生物学领域获得了哪项国家最高荣誉？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "2018年获得国家最高科学技术奖（中国分子病毒学先驱与基因工程药物开创者）。"
+          }
+        ]
+      },
+      "c": 64
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "原核细胞型微生物的遗传物质形态与核结构有何特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "原始核呈环状裸露DNA团块，无核膜和核仁。"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "中国科学家黄祯祥首创了什么技术，被誉为医学病毒学发展史上的第二次技术革命？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "首创体外细胞培养病毒的技术。"
+          }
+        ]
+      },
+      "c": 61
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "郭霍在细菌培养技术上的重大创用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "创用琼脂固体培养基，使细菌的分离和纯培养成为可能。"
+          }
+        ]
+      },
+      "c": 37
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真核细胞型微生物的主要细胞结构特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞核分化程度高，有明确的核膜和核仁，细胞器完整。"
+          }
+        ]
+      },
+      "c": 9
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "被称为“衣原体之父”的中国科学家是谁？其核心贡献是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "汤飞凡（1897～1958）；1955年在国际上首次成功分离出沙眼病原体（沙眼衣原体）。"
+          }
+        ]
+      },
+      "c": 60
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是微生物（Microorganism）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "自然界中一大群个体微小、结构简单、肉眼直接看不见，必须借助光学显微镜或电子显微镜放大数百倍至数万倍才能观察到的微小生物的总称。"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "被称为“细菌学奠基人”的德国科学家是谁？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "罗伯特·郭霍（Robert Koch）。"
+          }
+        ]
+      },
+      "c": 36
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "伍连德（1879～1960）在中国东北领导鼠疫防控时的重大科学发现是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "提出“肺鼠疫”理论，并发现旱獭是鼠疫的主要传染源之一。"
+          }
+        ]
+      },
+      "c": 59
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "根据哪种分子序列特征将原核细胞型微生物划分为古生菌和细菌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "16S rRNA 序列。"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1892年，俄国学者伊凡诺夫斯基通过研究哪种疾病发现了“滤过性病毒”？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "烟草花叶病（发现了烟草花叶病毒）。"
+          }
+        ]
+      },
+      "c": 44
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "被称为“中国脊髓灰质炎疫苗之父”的科学家是谁？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "顾方舟（1926～2019）。"
+          }
+        ]
+      },
+      "c": 63
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在肝炎病毒的研究历程中，1970年发现的“Dane颗粒”是指哪种病毒的完整颗粒？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "乙型肝炎病毒（HBV）。"
+          }
+        ]
+      },
+      "c": 65
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "目前是否发现了具有致病性的古生菌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "目前尚未发现致病性的古生菌。"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "瓦克斯曼（Waksman）在1949年基于对土壤微生物的研究发现了哪种重要抗生素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "链霉素（Streptomycin）。"
+          }
+        ]
+      },
+      "c": 50
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "根据细胞结构和化学组成，微生物可分为哪三大类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "非细胞型微生物、原核细胞型微生物、真核细胞型微生物。"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是机会致病性微生物（Opportunistic Microorganism）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在正常情况下不致病，但在特定条件（如寄居部位改变、免疫力下降等）下导致疾病的微生物。"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "非细胞型微生物的主要结构特征是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "无典型细胞结构，无产生能量的酶系统，核酸类型仅为DNA或RNA（二者不并存），只能在活细胞内增殖。"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "朊粒的正常构象蛋白（$PrP^c$）与致病构象蛋白（$PrP^{sc}$）在二级结构上有何主要区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "正常构象 $PrP^c$ 以 $\\alpha$-螺旋 为主；致病构象 $PrP^{sc}$ 含有大量的 $\\beta$-折叠。"
+          }
+        ]
+      },
+      "c": 55
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人类历史上第一个利用显微镜观察到微生物形态的科学家是谁？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "荷兰人列文虎克（Antoni van Leeuwenhoek，1676年）。"
+          }
+        ]
+      },
+      "c": 31
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在目前所有的疾病分类中，发病率和病死率仍居首位的是哪类疾病？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "感染性疾病（传染病）。"
+          }
+        ]
+      },
+      "c": 73
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "巴斯德成功研发了哪些传染病的疫苗？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "鸡霍乱、炭疽和狂犬病疫苗。"
+          }
+        ]
+      },
+      "c": 35
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "立克次体（Rickettsia）的主要生活特性与宿主关系是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "介于病毒与细菌之间，有细胞壁和细胞膜，只能在活细胞内生长繁殖。"
+          }
+        ]
+      },
+      "c": 68
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "引起艾滋病（AIDS）的病原体人类免疫缺陷病毒（HIV）是在哪一年被分离出来的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1983年。"
+          }
+        ]
+      },
+      "c": 51
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "郭霍法则（Koch's Postulates）的第一条标准是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "特殊的病原菌应在同一种疾病患者中查见，而在健康人中不存在。"
+          }
+        ]
+      },
+      "c": 38
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "巴斯德通过证实发酵和腐败由微生物引起，推翻了当时盛行的什么错误学说？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "“自然发生说”（Spontaneous generation）。"
+          }
+        ]
+      },
+      "c": 33
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "放线菌（Actinomyces）形态特征是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单细胞，呈分枝菌丝状，无典型的细胞核结构（属于原核细胞型）。"
+          }
+        ]
+      },
+      "c": 70
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "北魏贾思勰所著《齐民要术》中，制醋过程利用了哪种好氧性短杆细菌的发酵作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "醋酸杆菌。"
+          }
+        ]
+      },
+      "c": 27
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "被称为“微生物学奠基人”的法国科学家是谁？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "路易·巴斯德（Louis Pasteur）。"
+          }
+        ]
+      },
+      "c": 32
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在自然界的物质循环中，微生物主要充当何种生态角色？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "分解者（将有机碳和有机氮分解转化为无机碳和无机氮）。"
+          }
+        ]
+      },
+      "c": 72
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "将青霉素培养液进行提纯并使其成功应用于临床的科学家是谁？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "弗洛里（Howard Walter Florey）。"
+          }
+        ]
+      },
+      "c": 49
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病毒的大小通常在多少微米（$\\mu\\text{m}$）之间？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$0.02 \\sim 0.3\\ \\mu\\text{m}$。"
+          }
+        ]
+      },
+      "c": 16
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "郭霍法则（Koch's Postulates）的第三条标准是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "将该纯培养物接种至易感动物，能产生同样的病症。"
+          }
+        ]
+      },
+      "c": 40
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "我国明朝隆庆年间（1567—1572）广泛采用的哪种方法预示了最早的“免疫”概念？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "预防天花的人痘接种法。"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌（Fungi）的细胞形态与繁殖结构特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单细胞或多细胞，有细胞壁及分化的细胞核，常形成菌丝和孢子。"
+          }
+        ]
+      },
+      "c": 71
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "世界上第一种商品化的合成抗菌药和磺胺类药是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "百浪多息（Prontosil，1932年由 Domagk 发现其抗感染作用）。"
+          }
+        ]
+      },
+      "c": 47
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是病原微生物（Pathogenic Microbes）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "少数能引起人类、动物或植物产生病害的微生物。"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "2019新型冠状病毒（SARS-CoV-2）的核酸类型与包膜特征是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单正链RNA病毒，有包膜。"
+          }
+        ]
+      },
+      "c": 53
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "清朝师道南在《天愚集·鼠死行》中记录的是哪种烈性传染病的流行现象？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "鼠疫（记载了“鼠死”与“人疫”之间的关系）。"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "开创化学治疗时代并成功合成治疗梅毒的化合物“砷凡纳明”（606）的科学家是谁？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "保罗·埃利希（Paul Ehrlich）。"
+          }
+        ]
+      },
+      "c": 46
+    }
+  ],
+  "topics": {
+    "covered": [
+      "微生物与病原微生物定义及分类",
+      "古生菌与原核/真核/非细胞型微生物特征",
+      "微生物学与医学微生物学概念",
+      "医学微生物学发展简史及重要发现",
+      "中国科学家对医学微生物学的贡献"
+    ],
+    "followUp": [
+      "细菌的细胞结构与生理代谢",
+      "病毒的复制周期与致病机制",
+      "真菌与立克次体/衣原体感染诊断",
+      "人体肠道微生态与正常菌群失调"
+    ]
+  }
+}

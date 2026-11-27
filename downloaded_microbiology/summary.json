@@ -1,0 +1,181 @@
+{
+  "exportedAt": "2026-10-19T02:58:28.520Z",
+  "notebookTitle": "Medical Microbiology and Viral Pathogenesis - Gemini Notebook",
+  "totalArtifacts": 24,
+  "counts": {
+    "flashcards": 8,
+    "quizzes": 8,
+    "mindmaps": 8,
+    "others": 0
+  },
+  "files": [
+    {
+      "path": "mindmaps/08 真菌学总论 脑图.json",
+      "id": "0602a482-eb62-4275-9f20-39ab71779f36",
+      "title": "08 真菌学总论 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 12271
+    },
+    {
+      "path": "flashcards/08 真菌学总论 闪卡.json",
+      "id": "e7bdcf7b-4238-4391-9532-0155d2c03b8b",
+      "title": "08 真菌学总论 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 50794
+    },
+    {
+      "path": "quizzes/08 真菌学总论 测验.json",
+      "id": "877266f9-6d26-4bdd-a483-68806a76687e",
+      "title": "08 真菌学总论 测验",
+      "type": "quizzes",
+      "sizeBytes": 63910
+    },
+    {
+      "path": "mindmaps/06 病毒的基本性状 脑图.json",
+      "id": "ad938e77-aafe-4643-a990-cddb9c48cd0e",
+      "title": "06 病毒的基本性状 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 4809
+    },
+    {
+      "path": "flashcards/06 病毒的基本性状 闪卡.json",
+      "id": "4a2f73e1-3e69-41f5-9782-f4cbee797cc7",
+      "title": "06 病毒的基本性状 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 46448
+    },
+    {
+      "path": "quizzes/06 病毒的基本性状 测验.json",
+      "id": "d94eb0a1-9cc8-4e8d-9c64-adb27b2b7736",
+      "title": "06 病毒的基本性状 测验",
+      "type": "quizzes",
+      "sizeBytes": 59485
+    },
+    {
+      "path": "mindmaps/05 细菌的感染与免疫 脑图.json",
+      "id": "88517193-72b9-4f4b-ab8d-17247e91973b",
+      "title": "05 细菌的感染与免疫 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 7158
+    },
+    {
+      "path": "mindmaps/07 病毒的感染 脑图.json",
+      "id": "17c60451-9f09-4782-ab1b-06e51b9b4b54",
+      "title": "07 病毒的感染 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 7603
+    },
+    {
+      "path": "flashcards/07 病毒的感染 闪卡.json",
+      "id": "415c24e8-c812-4fb6-9333-8a9efff080f9",
+      "title": "07 病毒的感染 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 37092
+    },
+    {
+      "path": "quizzes/07 病毒的感染 测验.json",
+      "id": "06354d9e-c9bd-4423-b196-01a6f35dd054",
+      "title": "07 病毒的感染 测验",
+      "type": "quizzes",
+      "sizeBytes": 53707
+    },
+    {
+      "path": "quizzes/05 细菌的感染与免疫 测验.json",
+      "id": "b8ae780f-5887-42a2-8b67-0e5af31f3cd3",
+      "title": "05 细菌的感染与免疫 测验",
+      "type": "quizzes",
+      "sizeBytes": 59168
+    },
+    {
+      "path": "flashcards/05 细菌的感染与免疫 闪卡.json",
+      "id": "9042f2b7-abb4-45f0-ac74-0dcea6056a59",
+      "title": "05 细菌的感染与免疫 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 44154
+    },
+    {
+      "path": "quizzes/04 细菌的遗传与变异 测验.json",
+      "id": "04e9897c-4be5-4781-9ad3-4d9a57e2a8c6",
+      "title": "04 细菌的遗传与变异 测验",
+      "type": "quizzes",
+      "sizeBytes": 59108
+    },
+    {
+      "path": "flashcards/04 细菌的遗传与变异 闪卡.json",
+      "id": "adc4e90c-8344-4244-be7f-7d7245182cd0",
+      "title": "04 细菌的遗传与变异 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 43140
+    },
+    {
+      "path": "mindmaps/04 细菌的遗传与变异 脑图.json",
+      "id": "dec8fef3-d907-47ba-8df6-7cbb63695faa",
+      "title": "04 细菌的遗传与变异 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 10133
+    },
+    {
+      "path": "quizzes/03 细菌的生理 测验.json",
+      "id": "20230c3d-1481-43e7-859e-31b6f4314163",
+      "title": "03 细菌的生理 测验",
+      "type": "quizzes",
+      "sizeBytes": 62291
+    },
+    {
+      "path": "mindmaps/03 细菌的生理 脑图.json",
+      "id": "01917559-6d1e-4118-adca-046a00da9164",
+      "title": "03 细菌的生理 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 8254
+    },
+    {
+      "path": "flashcards/03 细菌的生理 闪卡.json",
+      "id": "a44a2c52-6405-468e-bb7f-51f149f4203c",
+      "title": "03 细菌的生理 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 42691
+    },
+    {
+      "path": "quizzes/02 细菌形态与结构 测验.json",
+      "id": "bec93909-52a4-4296-9dd2-c77486f85afc",
+      "title": "02 细菌形态与结构 测验",
+      "type": "quizzes",
+      "sizeBytes": 62403
+    },
+    {
+      "path": "flashcards/02 细菌形态与结构 闪卡.json",
+      "id": "da74ed2d-2aa9-47aa-b58e-29cdfc2938c9",
+      "title": "02 细菌形态与结构 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 41979
+    },
+    {
+      "path": "mindmaps/02 细菌形态与结构 脑图.json",
+      "id": "56f8102c-b723-4abb-9e36-5743bc60c08c",
+      "title": "02 细菌形态与结构 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 4466
+    },
+    {
+      "path": "mindmaps/01 绪论 脑图.json",
+      "id": "533c3548-0122-492d-9ea4-e58724b040ed",
+      "title": "01 绪论 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 7606
+    },
+    {
+      "path": "quizzes/01 绪论 测验.json",
+      "id": "fdf25a02-43c4-42ab-9c8f-460eec2fe954",
+      "title": "01 绪论 测验",
+      "type": "quizzes",
+      "sizeBytes": 59190
+    },
+    {
+      "path": "flashcards/01 绪论 闪卡.json",
+      "id": "79206815-3c93-4467-87f1-d78c4b7b82ab",
+      "title": "01 绪论 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 44539
+    }
+  ]
+}

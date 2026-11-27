@@ -1,0 +1,1255 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【肌肉组织分类 · ★★☆】\n人体按结构和功能划分的三种肌肉组织分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "骨骼肌、心肌和平滑肌。"
+          }
+        ]
+      },
+      "c": 1,
+      "pointType": "肌肉组织分类",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【肌肉组织分类 · ★★☆】\n在三类肌肉组织中，哪些属于横纹肌？哪些属于随意肌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "骨骼肌和心肌属于横纹肌；骨骼肌属于随意肌。"
+          }
+        ]
+      },
+      "c": 2,
+      "pointType": "肌肉组织分类",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【肌肉组织分类 · ★★☆】\n心肌和平滑肌在神经支配和意识控制上属于哪类肌肉？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不随意肌（不受意志直接控制）。"
+          }
+        ]
+      },
+      "c": 3,
+      "pointType": "肌肉组织分类",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨骼肌基本结构 · ★★★】\n一块完整的骨骼肌在解剖形态上由哪两部分构成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "中间的肌腹和两端的肌腱。"
+          }
+        ]
+      },
+      "c": 4,
+      "pointType": "骨骼肌基本结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨骼肌基本结构 · ★★★】\n骨骼肌的肌腹与肌腱中，哪一部分具有收缩能力？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肌腹（主要由肌纤维组成，色红柔软，具有收缩能力；肌腱由致密胶原纤维构成，无收缩能力）。"
+          }
+        ]
+      },
+      "c": 5,
+      "pointType": "骨骼肌基本结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨骼肌基本结构 · ★★☆】\n阔肌的腱性部分呈薄膜状，在解剖学上称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "腱膜（Aponeurosis）。"
+          }
+        ]
+      },
+      "c": 6,
+      "pointType": "骨骼肌基本结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【核心概念 · ★★★】\n骨骼肌收缩和舒张的基本功能与结构单位是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肌节（Sarcomere）。"
+          }
+        ]
+      },
+      "c": 7,
+      "pointType": "核心概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【肌节与微细结构 · ★★★】\n一个标准的肌节（Sarcomere）是由哪些带/线构成的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由暗带（A带）、相邻的明带（I带）以及位于两端明带中央的Z线构成（即相邻两条Z线之间的区域）。"
+          }
+        ]
+      },
+      "c": 8,
+      "pointType": "肌节与微细结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【肌纤维结构 · ★★☆】\n骨骼肌肌原纤维中的粗肌丝主要由哪种蛋白质构成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肌球蛋白（Myosin）。"
+          }
+        ]
+      },
+      "c": 9,
+      "pointType": "肌纤维结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【肌纤维结构 · ★★☆】\n骨骼肌肌原纤维中的细肌丝主要由哪三种蛋白质构成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肌动蛋白（Actin）、原肌球蛋白（Tropomyosin）和肌钙蛋白（Troponin）。"
+          }
+        ]
+      },
+      "c": 10,
+      "pointType": "肌纤维结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨骼肌辅助结构 · ★☆☆】\n包被在骨骼肌表面、由致密结缔组织构成的辅助装置叫什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "深筋膜（又称固有筋膜）。"
+          }
+        ]
+      },
+      "c": 11,
+      "pointType": "骨骼肌辅助结构",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨骼肌辅助结构 · ★☆☆】\n包围绕在活动度较大部位肌腱外面的双层圆筒形鞘管称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "腱鞘（或腱滑膜鞘）。"
+          }
+        ]
+      },
+      "c": 12,
+      "pointType": "骨骼肌辅助结构",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨骼肌辅助结构 · ★☆☆】\n发生于某些肌腱内部的扁圆形小骨称为什么？人体最大的此类骨骼是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "籽骨；髌骨是人体最大的籽骨。"
+          }
+        ]
+      },
+      "c": 13,
+      "pointType": "骨骼肌辅助结构",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【头颈肌群 · ★★☆】\n人体头部的咀嚼肌包括哪四块肌肉？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "咬肌、颞肌、翼内肌和翼外肌。"
+          }
+        ]
+      },
+      "c": 14,
+      "pointType": "头颈肌群",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【头颈肌群 · ★★☆】\n表情肌（面肌）的主要起点与止点有何特点？其主要功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "大多起自颅骨，止于面部皮肤；主要功能是牵动面部皮肤表达表情，以及开闭眼裂、口裂等孔裂。"
+          }
+        ]
+      },
+      "c": 15,
+      "pointType": "头颈肌群",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n胸锁乳突肌单侧收缩时对头部产生什么运动效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "使头向同侧倾斜，脸转向对侧。"
+          }
+        ]
+      },
+      "c": 16,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n斜方肌收缩对肩胛骨的主要作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "上抬肩胛骨（做“提肩”动作）。"
+          }
+        ]
+      },
+      "c": 17,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n前锯肌的主要生理功能是什么？若单侧前锯肌瘫痪会引发什么临床体征？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "拉肩胛骨向前并紧贴胸廓；前锯肌瘫痪会导致肩胛骨不能紧贴胸廓，出现“翼状肩”。"
+          }
+        ]
+      },
+      "c": 18,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【躯干肌群 · ★★☆】\n平静吸气时参与收缩的主要呼吸肌是哪两块？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肋间外肌 和 膈肌。"
+          }
+        ]
+      },
+      "c": 19,
+      "pointType": "躯干肌群",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【躯干肌群 · ★★☆】\n肋间外肌与肋间内肌收缩对肋骨及呼吸运动各有何作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肋间外肌收缩可提肋，助吸气；肋间内肌收缩可降肋，助呼气。"
+          }
+        ]
+      },
+      "c": 20,
+      "pointType": "躯干肌群",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【躯干肌群 · ★★★】\n膈肌上的三个主要裂孔及其分别平对的椎骨水平和通过结构是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 腔静脉孔（平第8胸椎）：通过下腔静脉；\n2. 食管裂孔（平第10胸椎）：通过食管及迷走神经；\n3. 主动脉裂孔（平第12胸椎）：通过主动脉及胸导管。"
+          }
+        ]
+      },
+      "c": 21,
+      "pointType": "躯干肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【腹部肌群 · ★★☆】\n腹前外侧群肌主要由哪四块肌肉组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "腹外斜肌、腹内斜肌、腹横肌和腹直肌。"
+          }
+        ]
+      },
+      "c": 22,
+      "pointType": "腹部肌群",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【腹部肌群 · ★★☆】\n腹前外侧群肌协同收缩的主要生理功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "增加腹压（协助排便、分娩、呕吐、咳嗽等），降肋助呼气，以及使脊柱前屈、侧屈与旋转。"
+          }
+        ]
+      },
+      "c": 23,
+      "pointType": "腹部肌群",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n三角肌收缩对肩关节产生的主要运动效应是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "主要运动效应是使肩关节外展（前部肌束可使上臂屈和旋内，后部肌束可使上臂伸和旋外）。"
+          }
+        ]
+      },
+      "c": 24,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n能使肩关节内收、旋内和前屈的胸部浅层大肌叫什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胸大肌。"
+          }
+        ]
+      },
+      "c": 25,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n背阔肌收缩对肩关节产生什么运动效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "使肩关节内收、旋内和后伸。"
+          }
+        ]
+      },
+      "c": 26,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n肱二头肌跨过哪些关节？其收缩时产生什么运动效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "跨过肩关节和肘关节；收缩时主要屈肘关节，并能协助屈肩关节。"
+          }
+        ]
+      },
+      "c": 27,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n肱三头肌的主要生理功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "主要功能是伸肘关节（长头还能协助使肩关节后伸和内收）。"
+          }
+        ]
+      },
+      "c": 28,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【上肢肌群 · ★★☆】\n位于臂前群深层、单纯执行屈肘关节功能的肌肉叫什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肱肌。"
+          }
+        ]
+      },
+      "c": 29,
+      "pointType": "上肢肌群",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【上肢肌群 · ★★☆】\n喙肱肌收缩对肩关节产生什么运动效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "协助屈肩关节和内收上臂。"
+          }
+        ]
+      },
+      "c": 30,
+      "pointType": "上肢肌群",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【下肢肌群 · ★★☆】\n髂腰肌由哪两块肌肉组合而成？其主要功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由腰大肌和髂肌组合而成；收缩时使髋关节前屈和旋外。"
+          }
+        ]
+      },
+      "c": 31,
+      "pointType": "下肢肌群",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【下肢肌群 · ★★☆】\n臀大肌收缩对髋关节产生什么运动效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "使髋关节伸和旋外（是维持人体直立和伸髋的重要肌肉）。"
+          }
+        ]
+      },
+      "c": 32,
+      "pointType": "下肢肌群",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n股四头肌由哪四个头构成？其肌腱止于何处？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由股直肌、股内侧肌、股外侧肌和股中间肌构成；向下包绕髌骨形成髌韧带，止于胫骨粗隆。"
+          }
+        ]
+      },
+      "c": 33,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n股四头肌收缩对髋关节和膝关节分别产生什么运动效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "屈髋关节（主要由股直肌执行）和伸膝关节。"
+          }
+        ]
+      },
+      "c": 34,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n在股四头肌的四个头中，哪一个头跨过髋关节？其起点在哪里？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "股直肌；起于髂前下棘。"
+          }
+        ]
+      },
+      "c": 35,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n股二头肌收缩对髋关节和膝关节分别产生什么运动效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "伸髋关节 和 屈膝关节。"
+          }
+        ]
+      },
+      "c": 36,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【下肢肌群 · ★★☆】\n缝匠肌收缩对髋关节和膝关节分别产生什么运动效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "屈髋关节 和 屈膝关节。"
+          }
+        ]
+      },
+      "c": 37,
+      "pointType": "下肢肌群",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n小腿三头肌由哪两块肌肉组成？其肌腱止于何处？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由腓肠肌和比目鱼肌组成；向上汇合成粗大的跟腱，止于跟骨。"
+          }
+        ]
+      },
+      "c": 38,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n腓肠肌与比目鱼肌在运动膝关节的功能上有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "腓肠肌起于股骨内、外侧髁（跨过膝关节），能屈膝关节；比目鱼肌起于胫腓骨上端（不跨过膝关节），不能运动膝关节。"
+          }
+        ]
+      },
+      "c": 39,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重点肌群 · ★★★】\n小腿三头肌收缩对踝关节的主要运动效应是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "跖屈踝关节（使足尖向下/提踵）。"
+          }
+        ]
+      },
+      "c": 40,
+      "pointType": "重点肌群",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【下肢肌群 · ★★☆】\n胫骨前肌收缩对踝关节及足部产生什么运动效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "伸踝关节（背屈踝关节）并使足内翻。"
+          }
+        ]
+      },
+      "c": 41,
+      "pointType": "下肢肌群",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【电生理机制 · ★★★】\n骨骼肌细胞在安静状态下的静息电位数值约为多少？主要由哪种离子的平衡电位维持？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "约为 $-90\\text{ mV}$；主要取决于 $K^+$ 的电化学平衡。"
+          }
+        ]
+      },
+      "c": 42,
+      "pointType": "电生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【电生理机制 · ★★★】\n骨骼肌细胞产生动作电位去极化相的主要离子机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "电压门控 $Na^+$ 通道开放，大量 $Na^+$ 顺浓度梯度和电位梯度快速内流。"
+          }
+        ]
+      },
+      "c": 43,
+      "pointType": "电生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经肌肉接头 · ★★★】\n躯体运动神经末梢在神经-肌肉接头处释放的化学递质是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "乙酰胆碱（Acetylcholine, ACh）。"
+          }
+        ]
+      },
+      "c": 44,
+      "pointType": "神经肌肉接头",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经肌肉接头 · ★★★】\n神经末梢释放的ACh与肌纤维膜上的ACh受体结合后，会引发什么局部电位变化？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "产生终板电位（EPP），当去极化达到阈电位时可触发肌膜产生动作电位。"
+          }
+        ]
+      },
+      "c": 45,
+      "pointType": "神经肌肉接头",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【兴奋收缩偶联 · ★★★】\n触发骨骼肌肌丝滑动的关键离子是什么？它在安静状态下主要储存在哪里？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$Ca^{2+}$ 离子；安静时主要储存在肌浆网（SR）的终池中。"
+          }
+        ]
+      },
+      "c": 46,
+      "pointType": "兴奋收缩偶联",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【兴奋收缩偶联 · ★★★】\n骨骼肌细胞中的“三联管”（Triad）是由哪些微细结构组成的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由一个横管（T管）和位于其两侧的肌浆网膨大部分（终池）共同构成。"
+          }
+        ]
+      },
+      "c": 47,
+      "pointType": "兴奋收缩偶联",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【兴奋收缩偶联 · ★★★】\n在兴奋-收缩偶联过程中，肌膜上的动作电位是如何迅速传向肌细胞深部的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "沿着横管系统（T管）向肌细胞深部传播。"
+          }
+        ]
+      },
+      "c": 48,
+      "pointType": "兴奋收缩偶联",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【肌丝滑动学说 · ★★★】\n根据肌丝滑动学说（Sliding Filament Theory），骨骼肌收缩时粗肌丝和细肌丝自身的长度是否改变？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不改变；肌肉缩短是由于细肌丝向暗带中央（M线）滑行的结果。"
+          }
+        ]
+      },
+      "c": 49,
+      "pointType": "肌丝滑动学说",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【肌丝滑动学说 · ★★★】\n骨骼肌收缩时，肌节中的暗带（A带）、明带（I带）及H区长度如何变化？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "暗带（A带）长度保持不变；明带（I带）和H区变短甚至消失。"
+          }
+        ]
+      },
+      "c": 50,
+      "pointType": "肌丝滑动学说",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【能量代谢 · ★★☆】\n骨骼肌收缩和舒张过程中能够直接被利用的能量物质是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "三磷酸腺苷（ATP）。"
+          }
+        ]
+      },
+      "c": 51,
+      "pointType": "能量代谢",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【能量代谢 · ★★☆】\n在高强度运动早期，骨骼肌中快速再生成ATP的高能磷酸化合物储备是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "磷酸肌酸（Creatine Phosphate, CP）。"
+          }
+        ]
+      },
+      "c": 52,
+      "pointType": "能量代谢",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【核心概念 · ★★★】\n什么是肌肉的等张收缩（Isotonic Contraction）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肌肉收缩时张力保持不变，而肌肉长度缩短并产生肢体或关节运动的收缩形式。"
+          }
+        ]
+      },
+      "c": 53,
+      "pointType": "核心概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【核心概念 · ★★★】\n什么是肌肉的等长收缩（Isometric Contraction）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肌肉收缩时长度保持不变，而张力增加且不产生位移/关节运动的收缩形式。"
+          }
+        ]
+      },
+      "c": 54,
+      "pointType": "核心概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【核心概念 · ★★★】\n生理学上的“运动单位”（Motor Unit）是如何定义的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由一个 $\\alpha$ 运动神经元及其所支配的所有骨骼肌纤维组成的结构与功能单位。"
+          }
+        ]
+      },
+      "c": 55,
+      "pointType": "核心概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【核心概念 · ★★★】\n什么是骨骼肌的强直收缩（Tetanic Contraction）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "当骨骼肌受到高频连续刺激时，后一次刺激落在前一次收缩的收缩期或舒张期内，各单收缩发生融合而产生的持续强力收缩。"
+          }
+        ]
+      },
+      "c": 56,
+      "pointType": "核心概念",
+      "starRating": "★★★",
+      "importance": 3
+    }
+  ],
+  "topics": {
+    "covered": [
+      "肌肉组织分类与基本结构",
+      "骨骼肌微细结构与肌节",
+      "头肌与躯干肌解剖与功能",
+      "上肢肌与下肢肌解剖与动作效应",
+      "神经-肌肉接头兴奋传递",
+      "兴奋-收缩偶联与肌丝滑动学说",
+      "肌肉收缩形式与能量代谢"
+    ],
+    "followUp": [
+      "骨骼肌单收缩与复合收缩的频率依赖性",
+      "肌丝滑动过程中肌球蛋白横桥动作循环",
+      "重症肌无力中ACh受体抗体的致病机制",
+      "平滑肌与心肌兴奋-收缩偶联异同分析"
+    ]
+  },
+  "id": "1fb801ff-44c0-4093-b92a-e4d9e116acf4",
+  "title": "肌肉闪卡"
+}

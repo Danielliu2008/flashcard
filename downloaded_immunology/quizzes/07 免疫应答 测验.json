@@ -1,0 +1,742 @@
+{
+  "quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "某病原体侵入人体后，首先被吞噬细胞识别并清除，此过程涉及补体旁路途径的激活。关于这一免疫应答过程的特点，下列说法正确的是？",
+      "answerOptions": [
+        {
+          "text": "依赖于TCR对抗原肽-MHC复合物的特异性识别",
+          "isCorrect": false,
+          "rationale": "吞噬细胞和补体旁路途径属于固有免疫，不需要通过TCR特异性识别抗原肽-MHC复合物。"
+        },
+        {
+          "text": "属于天然免疫，能够迅速产生效应但不具备免疫记忆功能",
+          "isCorrect": true,
+          "rationale": "固有免疫通过识别病原体共有的泛化成分迅速起效，不经历克隆扩增且不形成持久免疫记忆。"
+        },
+        {
+          "text": "需要B淋巴细胞克隆扩增并分化为浆细胞",
+          "isCorrect": false,
+          "rationale": "浆细胞分化属于特异性体液免疫应答的范畴，并非天然免疫清除病原体的必要前提。"
+        },
+        {
+          "text": "仅能针对某种特定的病原体产生高度特异的杀伤作用",
+          "isCorrect": false,
+          "rationale": "天然免疫针对广谱病原体发挥作用，缺乏特异性免疫应答的严格专一性。"
+        }
+      ],
+      "hint": "思考第一道防线对病原体常见结构成分（如细胞壁多糖）的应答机制。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在外周免疫器官中，抗原递呈细胞（APC）与未成熟T细胞初步接触时，首先通过粘附分子发生非特异性结合。在此阶段发挥作用的黏附分子对是？",
+      "answerOptions": [
+        {
+          "text": "T细胞表面的CD28与APC表面的CD80/B7",
+          "isCorrect": false,
+          "rationale": "CD28与CD80/B7结合提供的是T细胞活化的第二信号，而非非特异性结合阶段的黏附分子。"
+        },
+        {
+          "text": "T细胞表面的CD40L与APC表面的CD40",
+          "isCorrect": false,
+          "rationale": "CD40L与CD40的结合主要参与Th细胞对B细胞或APC的辅助激活，不介导初始的非特异性细胞黏附。"
+        },
+        {
+          "text": "T细胞表面的LFA-1与APC表面的ICAM-1",
+          "isCorrect": true,
+          "rationale": "T细胞表面的LFA-1和CD2通过与APC表面的ICAM-1和LFA-3可逆性结合，促进并增强后续特异性TCR识别。"
+        },
+        {
+          "text": "T细胞表面的TCR与APC表面的pMHC",
+          "isCorrect": false,
+          "rationale": "TCR与pMHC的相互作用属于特异性抗原识别阶段，并非初期的非特异性黏附结合。"
+        }
+      ],
+      "hint": "注意区分提供特异性识别、共刺激信号以及介导早期可逆性细胞结合的不同分子。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "下列关于T细胞受体（TCR）识别抗原肽-MHC复合物（pMHC）特异性的分子机制，描述正确的是？",
+      "answerOptions": [
+        {
+          "text": "TCR的CDR1和CDR2区域主要识别抗原肽，CDR3识别MHC分子的多态性位点",
+          "isCorrect": false,
+          "rationale": "CDR1和CDR2区域主要负责结合并识别MHC分子的结构，而真正接触抗原肽的是CDR3区域。"
+        },
+        {
+          "text": "TCR的CDR3区域主要识别抗原肽，而CDR1和CDR2区域识别MHC分子的多态性位点",
+          "isCorrect": true,
+          "rationale": "TCR分子中$\\alpha$和$\\beta$链的CDR3高变区直接接触抗原肽，而CDR1与CDR2则结合MHC分子的多态性结合槽。"
+        },
+        {
+          "text": "TCR的$\\alpha$链特异性识别MHC-I，$\\beta$链特异性识别MHC-II",
+          "isCorrect": false,
+          "rationale": "识别MHC分子的类别（MHC-I还是MHC-II）主要由辅助受体CD8和CD4决定，而非由TCR链单独决定。"
+        },
+        {
+          "text": "TCR通过其恒定区直接识别病原体相关的多糖分子",
+          "isCorrect": false,
+          "rationale": "TCR属于高度特异性受体，通过其可变区（V区）识别经过APC加工呈递的蛋白质抗原肽。"
+        }
+      ],
+      "hint": "回想TCR互补决定区（CDR）不同子区域在识别抗原肽与识别MHC分子上的分工。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "初始 $CD4^+$ T细胞在接受APC提呈的抗原时，获得“第一激活信号”的关键分子相互作用是？",
+      "answerOptions": [
+        {
+          "text": "T细胞的CD28与APC的B7/CD80结合",
+          "isCorrect": false,
+          "rationale": "CD28与B7结合转导的是T细胞完全活化所需的第二激活信号（共刺激信号）。"
+        },
+        {
+          "text": "T细胞的$\\alpha\\beta$TCR特异性识别APC提呈的pMHC复合物，并由CD3分子转导信号",
+          "isCorrect": true,
+          "rationale": "$\\alpha\\beta$TCR对pMHC特异性识别后，与其紧密结合的CD3分子将激活信号转导至细胞内部，形成第一激活信号。"
+        },
+        {
+          "text": "Th细胞分泌的IL-2作用于自身表面的IL-2受体",
+          "isCorrect": false,
+          "rationale": "细胞因子IL-2及其受体介导的自分泌作用发生在T细胞获得活化信号后的增殖与分化阶段。"
+        },
+        {
+          "text": "T细胞表面的CD40L与APC表面的CD40结合",
+          "isCorrect": false,
+          "rationale": "CD40-CD40L结合发生在细胞间相互作用过程中，主要起协同刺激和辅助作用，不构成第一信号。"
+        }
+      ],
+      "hint": "第一信号决定了免疫应答的抗原特异性，依赖于抗原识别受体及其信号转导复合物。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "针对胸腺依赖性抗原（TD抗原），B细胞活化所需的“第二信号”（共刺激信号）主要来自于？",
+      "answerOptions": [
+        {
+          "text": "BCR与抗原表位的直接高亲和力结合",
+          "isCorrect": false,
+          "rationale": "BCR直接结合抗原表位并由Ig$\\alpha$/Ig$\\beta$传递信号，这构成了B细胞活化的第一信号。"
+        },
+        {
+          "text": "B细胞表面的CD21与补体片段结合",
+          "isCorrect": false,
+          "rationale": "CD21/CD19/CD81作为B细胞辅助受体复合物，起增强第一信号的作用，并非第二信号本身。"
+        },
+        {
+          "text": "活化的 $CD4^+$ Th细胞表面的CD40L与B细胞表面的CD40结合",
+          "isCorrect": true,
+          "rationale": "活化的Th细胞通过表达CD40L并与B细胞上的CD40结合，为B细胞提供了活化所必需的共刺激第二信号。"
+        },
+        {
+          "text": "巨噬细胞分泌的干扰素刺激",
+          "isCorrect": false,
+          "rationale": "干扰素等细胞因子主要调节细胞免疫与炎症反应，不能替代CD40L/CD40所介导的B细胞共刺激信号。"
+        }
+      ],
+      "hint": "考虑Th细胞（辅助性T细胞）帮助B细胞活化时细胞间直接接触的关键分子对。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "B细胞在辅助受体复合物的协助下增强对抗原的识别与信号转导。该辅助受体复合物的组成是？",
+      "answerOptions": [
+        {
+          "text": "CD28 / CTLA-4 / B7",
+          "isCorrect": false,
+          "rationale": "CD28和CTLA-4是T细胞表面的调节受体，与APC表面的B7分子结合。"
+        },
+        {
+          "text": "CD21 / CD19 / CD81",
+          "isCorrect": true,
+          "rationale": "CD21/CD19/CD81复合物通过结合抗原上附着的补体成分，大幅降低了B细胞活化所需的抗原浓度阈值。"
+        },
+        {
+          "text": "CD3 / CD4 / CD8",
+          "isCorrect": false,
+          "rationale": "CD3、CD4和CD8是T细胞表面的主要受体和辅助受体成分。"
+        },
+        {
+          "text": "LFA-1 / ICAM-1 / LFA-3",
+          "isCorrect": false,
+          "rationale": "这些分子属于介导细胞间结合的黏附分子，并非B细胞上的特异性辅助受体复合物。"
+        }
+      ],
+      "hint": "回想能够结合补体成分并与BCR共同聚集传导激活信号的复合分子群。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "适应性免疫应答发生的主要场所是外周免疫器官。下列不属于适应性免疫应答发生场所的是？",
+      "answerOptions": [
+        {
+          "text": "淋巴结",
+          "isCorrect": false,
+          "rationale": "淋巴结属于外周免疫器官，是截获组织抗原并发生适应性免疫应答的主要场所。"
+        },
+        {
+          "text": "脾脏",
+          "isCorrect": false,
+          "rationale": "脾脏是滤过血液抗原并引发体液及细胞免疫应答的关键外周免疫器官。"
+        },
+        {
+          "text": "骨髓",
+          "isCorrect": true,
+          "rationale": "骨髓属于中枢免疫器官（发生与初级发育场所），主要负责免疫细胞的发育成熟，而非适应性应答发生的主要外周场所。"
+        },
+        {
+          "text": "粘膜免疫系统",
+          "isCorrect": false,
+          "rationale": "粘膜免疫系统（如肠道Peyer氏集合淋巴结）是防御粘膜表面侵入病原体并发生免疫应答的外周器官。"
+        }
+      ],
+      "hint": "区分中枢免疫器官（淋巴细胞发生和成熟场所）与外周免疫器官（抗原识别和应答场所）。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "当机体第二次接触同一种抗原时，再次免疫应答对比初次免疫应答的核心特征是？",
+      "answerOptions": [
+        {
+          "text": "潜伏期更长，产生的抗体亲和力更低",
+          "isCorrect": false,
+          "rationale": "再次应答具有更短的潜伏期，且由于经历了亲和力成熟，生成的抗体亲和力显著提高。"
+        },
+        {
+          "text": "依靠天然免疫细胞直接清除抗原，无需淋巴细胞参与",
+          "isCorrect": false,
+          "rationale": "再次应答的核心在于记忆T细胞与记忆B细胞的迅速活化与扩增，属于适应性免疫范畴。"
+        },
+        {
+          "text": "应答发生更加迅速、强烈，且生成的效应分子与抗体维持时间更长",
+          "isCorrect": true,
+          "rationale": "基于先前形成的特异性记忆细胞，再次应答能够快速启动克隆扩增并产生高浓度抗体。"
+        },
+        {
+          "text": "细胞间相互作用不再受MHC限制",
+          "isCorrect": false,
+          "rationale": "T细胞在再次应答中识别APC提呈的抗原时，依然严格遵循MHC限制性原则。"
+        }
+      ],
+      "hint": "考虑特异性免疫记忆细胞在二次遇到抗原时的反应速度与强度变化。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在T细胞与APC相互作用并形成特异性结合的阶段，T细胞与APC界面形成的特殊微域结构被称为？",
+      "answerOptions": [
+        {
+          "text": "生发中心",
+          "isCorrect": false,
+          "rationale": "生发中心是外周免疫器官内B细胞大量增殖分化的组织学结构，并非细胞结合界面微结构。"
+        },
+        {
+          "text": "免疫突触",
+          "isCorrect": true,
+          "rationale": "免疫突触是T细胞与APC相互接触时在细胞膜交界处形成的受体与信号分子聚集区，能稳定信号转导。"
+        },
+        {
+          "text": "吞噬溶酶体",
+          "isCorrect": false,
+          "rationale": "吞噬溶酶体是吞噬细胞内消化病原体的细胞器，不涉及细胞间膜界面的受体聚集。"
+        },
+        {
+          "text": "边缘区",
+          "isCorrect": false,
+          "rationale": "边缘区是脾脏中分隔红髓与白髓的组织区域，属于免疫器官的解剖结构。"
+        }
+      ],
+      "hint": "该结构由密集聚集的受体-配体对及黏附分子组成，有利于持续稳定地传递激活信号。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "$CD8^+$ T细胞在识别抗原时受MHC限制性（MHC restriction）的约束，这意味着 $CD8^+$ T细胞只能识别？",
+      "answerOptions": [
+        {
+          "text": "由自身APC表面的MHC-I类分子提呈的抗原肽",
+          "isCorrect": true,
+          "rationale": "CD8辅助受体特异性结合MHC-I分子的非多态区，使得 $CD8^+$ CTL只能识别MHC-I类分子提呈的抗原肽。"
+        },
+        {
+          "text": "由自身APC表面的MHC-II类分子提呈的抗原肽",
+          "isCorrect": false,
+          "rationale": "MHC-II类分子结合抗原肽主要被 $CD4^+$ T细胞识别，因为CD4辅助受体特异性结合MHC-II类分子。"
+        },
+        {
+          "text": "游离于体液中的天然蛋白质抗原",
+          "isCorrect": false,
+          "rationale": "T细胞受体不能直接识别游离的天然抗原，必须识别由MHC分子提呈的加工后的抗原肽。"
+        },
+        {
+          "text": "细菌细胞壁上的脂多糖分子",
+          "isCorrect": false,
+          "rationale": "脂多糖属于非蛋白质抗原，多由天然免疫受体识别，不依赖MHC-I分子的提呈。"
+        }
+      ],
+      "hint": "回顾T细胞亚群辅助受体（CD4/CD8）与特定MHC分子的结合选择性。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "抗体（Ab）在体液免疫效应阶段发挥着多种保护作用。下列哪项不属于抗体直接或间接介导的效应机制？",
+      "answerOptions": [
+        {
+          "text": "中和病毒或毒素，阻止其入侵宿主细胞",
+          "isCorrect": false,
+          "rationale": "抗体可以通过特异性结合毒素或病毒结合位点，阻止其结合宿主细胞受体，发挥中和作用。"
+        },
+        {
+          "text": "激活补体经典途径导致靶细胞溶解",
+          "isCorrect": false,
+          "rationale": "抗体与抗原结合形成复合物后，其Fc段可结合C1q并启动补体经典途径级联反应。"
+        },
+        {
+          "text": "直接通过释放穿孔素和颗粒酶杀伤靶细胞",
+          "isCorrect": true,
+          "rationale": "释放穿孔素和颗粒酶是细胞毒性T细胞（CTL）和NK细胞杀伤靶细胞的直接机制，抗体本身不具备此功能。"
+        },
+        {
+          "text": "调理巨噬细胞促进对病原体的吞噬",
+          "isCorrect": false,
+          "rationale": "结合在病原体表面的抗体Fc段能与巨噬细胞表面的Fc受体结合，显著增强吞噬效率（调理作用）。"
+        }
+      ],
+      "hint": "区分体液免疫产生的抗体效应与效应 $CD8^+$ CTL对靶细胞的直接杀伤机制。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在特异性免疫应答的活化和清除抗原之后，绝大多数效应淋巴细胞会发生以下哪种转归，从而使免疫应答回归稳态？",
+      "answerOptions": [
+        {
+          "text": "发生凋亡（Apoptosis）",
+          "isCorrect": true,
+          "rationale": "抗原被清除后，缺失刺激信号的绝大多数效应淋巴细胞会通过细胞凋亡而被清除，仅少数转化为记忆细胞。"
+        },
+        {
+          "text": "全部转化为高表达抗体的浆细胞",
+          "isCorrect": false,
+          "rationale": "浆细胞是B细胞分化的效应细胞，且在抗原清除后浆细胞寿命有限，大部分也会逐渐死亡。"
+        },
+        {
+          "text": "长期停留在外周组织中持续分泌细胞因子",
+          "isCorrect": false,
+          "rationale": "效应淋巴细胞持续分泌细胞因子会导致慢性炎症或组织损伤，应答必须在抗原消除后衰退。"
+        },
+        {
+          "text": "分化为吞噬细胞清除自身的细胞碎片",
+          "isCorrect": false,
+          "rationale": "淋巴细胞不会转变为吞噬细胞；凋亡的淋巴细胞会被现存的巨噬细胞吞噬清除。"
+        }
+      ],
+      "hint": "在免疫应答的衰退阶段，缺乏抗原刺激的多数效应细胞会启动程序性死亡。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在B细胞介导的体液免疫应答中，部分活化的B细胞在外周免疫器官的特定区域迁徙并增殖分化，形成高度有组织的结构。该结构称为？",
+      "answerOptions": [
+        {
+          "text": "副皮质区",
+          "isCorrect": false,
+          "rationale": "副皮质区属于淋巴结中的T细胞定居区，主要发生T细胞的活化与增殖。"
+        },
+        {
+          "text": "生发中心",
+          "isCorrect": true,
+          "rationale": "活化的B细胞在滤泡内大量增殖并形成生发中心，在此经历体细胞高频突变和选择，促进亲和力成熟。"
+        },
+        {
+          "text": "胸腺皮质",
+          "isCorrect": false,
+          "rationale": "胸腺皮质是未成熟T细胞（胸腺细胞）发育和选择的场所，不涉及外周B细胞应答。"
+        },
+        {
+          "text": "脾脏红髓",
+          "isCorrect": false,
+          "rationale": "脾脏红髓主要负责清除衰老的红细胞，并非B细胞增殖分化形成生发中心的白髓滤泡区域。"
+        }
+      ],
+      "hint": "这是B细胞发生体细胞高频突变、抗体亲和力成熟及记忆B细胞形成的重要结构。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "$CD4^+$ T细胞在特异性识别抗原肽时，其CD4辅助受体分子结合于MHC-II分子的相应部位，其主要生理作用是？",
+      "answerOptions": [
+        {
+          "text": "直接将抗原肽呈递给BCR",
+          "isCorrect": false,
+          "rationale": "CD4是T细胞上的辅助受体，不参与向B细胞BCR呈递抗原的过程。"
+        },
+        {
+          "text": "稳定TCR-pMHC复合物并增强信号传导亲和力",
+          "isCorrect": true,
+          "rationale": "CD4与MHC-II类分子的结合增强了T细胞与APC之间的亲和力，并协助CD3传导活化信号。"
+        },
+        {
+          "text": "诱导APC发生凋亡",
+          "isCorrect": false,
+          "rationale": "CD4分子结合MHC-II是细胞活化的辅助信号，并不直接诱导抗原递呈细胞凋亡。"
+        },
+        {
+          "text": "抑制T细胞的进一步活化",
+          "isCorrect": false,
+          "rationale": "CD4结合MHC-II起到正向共受体作用，促进而非抑制T细胞的活化。"
+        }
+      ],
+      "hint": "考虑共受体（Co-receptor）对TCR识别MHC分子及传递第一信号的辅助增强作用。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "天然免疫与特异性免疫系统相互依赖。下列免疫分子中，既参与天然免疫补体旁路途径激活，又在体液免疫效应阶段参与经典途径激活的是？",
+      "answerOptions": [
+        {
+          "text": "补体系统成分",
+          "isCorrect": true,
+          "rationale": "补体成分可通过旁路途径在天然免疫中被病原体表面直接激活，也可在特异性体液免疫中通过抗体-抗原复合物激活经典途径。"
+        },
+        {
+          "text": "干扰素（IFN）",
+          "isCorrect": false,
+          "rationale": "干扰素主要参与抗病毒及免疫调节，不构成补体激活途径的关键组分。"
+        },
+        {
+          "text": "肿瘤坏死因子（TNF）",
+          "isCorrect": false,
+          "rationale": "TNF是促炎细胞因子，不直接参与补体级联反应途径。"
+        },
+        {
+          "text": "免疫球蛋白IgE",
+          "isCorrect": false,
+          "rationale": "IgE主要参与I型超敏反应和寄生虫免疫，不直接激活补体旁路途径。"
+        }
+      ],
+      "hint": "这种体液中的蛋白质系统可以通过无抗体参与的旁路途径或抗体结合后的经典途径被激活。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于特异性免疫应答的三个基本阶段，下列排序完全正确的是？",
+      "answerOptions": [
+        {
+          "text": "抗原识别和递呈 $\\rightarrow$ 活化、增殖和分化 $\\rightarrow$ 效应阶段",
+          "isCorrect": true,
+          "rationale": "特异性免疫应答首先由APC识别递呈抗原，进而引发淋巴细胞活化增殖，最终产生效应分子和细胞清除抗原。"
+        },
+        {
+          "text": "活化、增殖和分化 $\\rightarrow$ 抗原识别和递呈 $\\rightarrow$ 效应阶段",
+          "isCorrect": false,
+          "rationale": "没有抗原的特异性识别与递呈作为前提，淋巴细胞无法被激活或进入增殖分化。"
+        },
+        {
+          "text": "效应阶段 $\\rightarrow$ 抗原识别和递呈 $\\rightarrow$ 活化、增殖和分化",
+          "isCorrect": false,
+          "rationale": "效应阶段是免疫应答的终末清除环节，不可能发生在抗原识别之前。"
+        },
+        {
+          "text": "抗原识别和递呈 $\\rightarrow$ 效应阶段 $\\rightarrow$ 活化、增殖和分化",
+          "isCorrect": false,
+          "rationale": "效应阶段依赖于淋巴细胞充分活化和克隆扩增分化后产生的效应分子或效应细胞。"
+        }
+      ],
+      "hint": "思考从淋巴细胞首次接触抗原呈递到生成效应细胞及抗体发挥清除作用的逻辑顺序。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "适应性免疫应答具有高度的特异性与严密的调控机制。下列各项中属于适应性免疫应答共同特点的有？",
+      "answerOptions": [
+        {
+          "text": "特异性识别与特异性记忆",
+          "isCorrect": true,
+          "rationale": "适应性免疫通过特异性受体精确识别抗原表位，并在应答后形成长期记忆细胞。"
+        },
+        {
+          "text": "细胞间相互作用受MHC限制",
+          "isCorrect": true,
+          "rationale": "T细胞在识别APC呈递的抗原以及与其他细胞相互作用时，均严格受到自身MHC分子的限制。"
+        },
+        {
+          "text": "遵循再次应答规律（二次应答更快更强）",
+          "isCorrect": true,
+          "rationale": "基于记忆细胞的存在，再次接触相同抗原时应答潜伏期缩短且效应显著增强。"
+        },
+        {
+          "text": "作用迅速，无需经历细胞克隆扩增与分化阶段",
+          "isCorrect": false,
+          "rationale": "适应性免疫需要数天时间进行抗原递呈、细胞活化和克隆扩增，快速且无扩增是天然免疫的特点。"
+        }
+      ],
+      "hint": "结合适应性免疫与固有免疫在识别方式、记忆力及反应周期上的核心差异进行选择。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "免疫系统由免疫器官、免疫细胞和免疫分子共同组成。下列属于外周免疫器官的有？",
+      "answerOptions": [
+        {
+          "text": "脾脏",
+          "isCorrect": true,
+          "rationale": "脾脏是重要的外周免疫器官，负责滤过血液中的抗原并启动免疫应答。"
+        },
+        {
+          "text": "淋巴结",
+          "isCorrect": true,
+          "rationale": "淋巴结分布于全身淋巴回路中，是淋巴细胞集聚和发生适应性免疫应答的主要场所。"
+        },
+        {
+          "text": "粘膜免疫系统",
+          "isCorrect": true,
+          "rationale": "包含扁桃体和小肠集合淋巴结等粘膜相关淋巴组织，属于外周免疫器官体系。"
+        },
+        {
+          "text": "骨髓",
+          "isCorrect": false,
+          "rationale": "骨髓属于中枢免疫器官，主要功能是作为各类免疫细胞分化发育和成熟的场所。"
+        }
+      ],
+      "hint": "区分发生特异性免疫应答的外周器官与免疫细胞分化发育的中枢器官。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "T细胞与APC相互作用的非特异性结合阶段中，参与细胞间粘附的关键黏附分子对包括？",
+      "answerOptions": [
+        {
+          "text": "T细胞表面的LFA-1与APC表面的ICAM-1",
+          "isCorrect": true,
+          "rationale": "LFA-1与ICAM-1相互结合，介导T细胞与APC初期的非特异性接触。"
+        },
+        {
+          "text": "T细胞表面的CD2与APC表面的LFA-3",
+          "isCorrect": true,
+          "rationale": "CD2与LFA-3结合促进细胞间相互靠近，为TCR特异性结合抗原肽提供空间条件。"
+        },
+        {
+          "text": "T细胞表面的CD28与APC表面的B7/CD80",
+          "isCorrect": false,
+          "rationale": "CD28与B7结合是专一转导第二共刺激信号的通路，不属于非特异性黏附分子范畴。"
+        },
+        {
+          "text": "T细胞表面的CD40L与APC表面的CD40",
+          "isCorrect": false,
+          "rationale": "CD40L与CD40主要发生在T细胞活化后对APC或B细胞的辅助阶段，非初期黏附分子。"
+        }
+      ],
+      "hint": "注意区分早期介导细胞间短暂、可逆粘附的分子与后期传递共刺激信号的分子。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "初始T细胞被完全活化并发生增殖分化，需要双信号以及细胞因子的作用。下列关于T细胞活化信号的说法正确的有？",
+      "answerOptions": [
+        {
+          "text": "第一信号由TCR识别pMHC复合物产生，并由CD3分子转导",
+          "isCorrect": true,
+          "rationale": "$\\alpha\\beta$TCR与pMHC特异性结合后，通过CD3复合分子将第一激活信号传至胞内。"
+        },
+        {
+          "text": "第二信号（共刺激信号）主要由T细胞表面的CD28与APC表面的CD80/B7结合产生",
+          "isCorrect": true,
+          "rationale": "CD28与B7分子相互作用提供关键的共刺激信号，防止T细胞进入失能（Anergy）状态。"
+        },
+        {
+          "text": "CD4或CD8辅助受体参与第一信号的识别与传递，决定MHC限制性",
+          "isCorrect": true,
+          "rationale": "CD4/CD8分别结合MHC-II/I类分子的非多态区，稳定结合并辅助第一信号传导。"
+        },
+        {
+          "text": "只要有足够的第二信号，即使没有第一信号，T细胞也能发生特异性活化",
+          "isCorrect": false,
+          "rationale": "缺乏TCR识别抗原产生的第一信号，单独的共刺激信号无法诱导T细胞发生特异性活化。"
+        }
+      ],
+      "hint": "第一信号决定特异性，第二信号决定是否活化，二者缺一不可。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "B淋巴细胞针对胸腺依赖性抗原（TD抗原）产生免疫应答的过程涉及多个步骤，其中包括？",
+      "answerOptions": [
+        {
+          "text": "BCR-Ig$\\alpha$/Ig$\\beta$复合物直接识别抗原表位并产生第一信号",
+          "isCorrect": true,
+          "rationale": "B细胞通过表面的BCR特异性结合抗原，结合Ig$\\alpha$/Ig$\\beta$传导激活的第一信号。"
+        },
+        {
+          "text": "CD21/CD19/CD81辅助受体复合物辅助识别抗原并转导增强信号",
+          "isCorrect": true,
+          "rationale": "该辅助受体复合物可结合抗原表面的补体成分，强化BCR的信号转导效率。"
+        },
+        {
+          "text": "B细胞表面的CD40与活化Th细胞表面的CD40L结合提供第二激活信号",
+          "isCorrect": true,
+          "rationale": "Th细胞表达的CD40L与B细胞CD40结合是TD抗原诱导B细胞活化不可或缺的共刺激信号。"
+        },
+        {
+          "text": "活化的B细胞部分分化为浆细胞产生抗体，部分形成生发中心",
+          "isCorrect": true,
+          "rationale": "活化后的B细胞可分化为分泌抗体的浆细胞，或在生发中心发生亲和力成熟与记忆细胞形成。"
+        }
+      ],
+      "hint": "考虑B细胞抗原识别、Th细胞辅助以及后续分化转归的全过程。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "体液免疫应答产生的特异性抗体（Ab）可以通过多种机制协助机体清除病原体，这些机制包括？",
+      "answerOptions": [
+        {
+          "text": "中和作用：结合毒素或病毒颗粒，阻断其入侵细胞",
+          "isCorrect": true,
+          "rationale": "抗体特异性结合病原体表面蛋白或毒素，阻止其结合宿主细胞受体。"
+        },
+        {
+          "text": "调理作用：结合病原体表面，促进吞噬细胞的吞噬杀灭",
+          "isCorrect": true,
+          "rationale": "抗体Fc段结合巨噬细胞或中性粒细胞表面的Fc受体，促进对病原体的吞噬与清除。"
+        },
+        {
+          "text": "激活补体：通过经典途径激活补体系统形成膜攻击复合物",
+          "isCorrect": true,
+          "rationale": "抗体与抗原形成复合物后暴露Fc段，激活C1q启动补体经典途径级联反应。"
+        },
+        {
+          "text": "ADCC作用：介导NK细胞等效应细胞杀伤结合了抗体的靶细胞",
+          "isCorrect": true,
+          "rationale": "抗体依赖性细胞介导的细胞毒作用（ADCC）利用Fc受体引导NK细胞精确杀伤靶细胞。"
+        }
+      ],
+      "hint": "思考抗体结合抗原后，如何结合补体、结合吞噬细胞及NK细胞受体发挥综合效应。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "关于固有免疫（天然免疫）与适应性免疫（特异性免疫）的作用特点对比，描述正确的有？",
+      "answerOptions": [
+        {
+          "text": "固有免疫能识别细菌细胞壁多糖等PAMP，而适应性免疫特异性识别抗原表位",
+          "isCorrect": true,
+          "rationale": "固有免疫依赖泛化的模式识别受体识别病原体共有成分，而适应性免疫依赖TCR/BCR识别专一抗原表位。"
+        },
+        {
+          "text": "固有免疫不经克隆扩增即可快速产生效应，但无免疫记忆",
+          "isCorrect": true,
+          "rationale": "固有免疫细胞无需经历扩增分化周期，能立刻做出反应，但无法保留抗原特异性记忆。"
+        },
+        {
+          "text": "适应性免疫需经过克隆扩增与分化，产生效应细胞和记忆细胞",
+          "isCorrect": true,
+          "rationale": "适应性免疫淋巴细胞接受抗原刺激后发生克隆扩增，分化为效应细胞与长寿记忆细胞。"
+        },
+        {
+          "text": "固有免疫维持时间较长，而适应性免疫维持时间极短",
+          "isCorrect": false,
+          "rationale": "固有免疫反应迅速但维持时间较短，而适应性免疫形成的效应和记忆可持续较长时间。"
+        }
+      ],
+      "hint": "从识别受体特征、是否需要克隆扩增、维持时间及记忆功能等维度对比两大系统。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "在T细胞与APC相互作用的特异性结合阶段，发生了一系列重要的分子变化，包括？",
+      "answerOptions": [
+        {
+          "text": "TCR特异性识别APC呈递的抗原肽与MHC分子复合物",
+          "isCorrect": true,
+          "rationale": "$\\alpha\\beta$TCR精确识别抗原肽-MHC复合物，奠定了特异性结合的基础。"
+        },
+        {
+          "text": "粘附分子结合亲和力增强，稳定并延长T细胞与APC的结合时间",
+          "isCorrect": true,
+          "rationale": "TCR识别抗原后触发构象变化，增强LFA-1等黏附分子的结合力，巩固细胞间结合。"
+        },
+        {
+          "text": "T细胞与APC接触界面形成免疫突触",
+          "isCorrect": true,
+          "rationale": "受体、辅助受体及黏附分子在接触面有序重排聚集，形成稳定的免疫突触结构。"
+        },
+        {
+          "text": "CD28与B7结合传递抑制性衰退信号",
+          "isCorrect": false,
+          "rationale": "CD28与B7结合传递的是正向共刺激活化信号，CTLA-4与B7结合才传递抑制性信号。"
+        }
+      ],
+      "hint": "特异性结合不仅包括受体-抗原结合，还包含微结构重组与结合力维持。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "辅助性T细胞（$CD4^+$ Th细胞）在辅助B细胞产生体液免疫应答的过程中，发挥的关键作用包括？",
+      "answerOptions": [
+        {
+          "text": "通过CD40L与B细胞表面的CD40结合，提供B细胞活化必需的第二信号",
+          "isCorrect": true,
+          "rationale": "Th细胞表面的CD40L与B细胞上的CD40相互作用，是B细胞活化不可缺少的膜结合共刺激信号。"
+        },
+        {
+          "text": "分泌多种细胞因子（如白细胞介素），促进B细胞的活化、增殖和分化",
+          "isCorrect": true,
+          "rationale": "活化的Th细胞分泌IL-4、IL-5、IL-6等细胞因子，全面调控B细胞增殖与增殖后分化。"
+        },
+        {
+          "text": "直接分泌特异性抗体分子中和体液中的游离抗原",
+          "isCorrect": false,
+          "rationale": "分泌抗体是浆细胞（由B细胞分化而来）的功能，T细胞不具备合成和分泌抗体的能力。"
+        },
+        {
+          "text": "协助B细胞在生发中心中发生抗体亲和力成熟与类别转换",
+          "isCorrect": true,
+          "rationale": "Th细胞在生发中心中为B细胞的体细胞高频突变、筛选及Ig类别转换提供关键协同信号。"
+        }
+      ],
+      "hint": "Th细胞是“辅助者”，通过直接接触与分泌信号刺激B细胞，其自身不直接合成抗体。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "适应性免疫应答完成后，免疫系统需要将淋巴细胞数量恢复到正常水平并保留特异性记忆。这一过程涉及？",
+      "answerOptions": [
+        {
+          "text": "绝大部分效应T细胞和效应B细胞通过凋亡（Apoptosis）被清除",
+          "isCorrect": true,
+          "rationale": "抗原被清除后，失去存活信号的大部分效应淋巴细胞会通过程序性死亡（凋亡）被清除。"
+        },
+        {
+          "text": "少部分淋巴细胞分化为长寿记忆细胞（Memory cells）存留下来",
+          "isCorrect": true,
+          "rationale": "一小部分活化淋巴细胞转化为静息的记忆细胞，长期存在于体内的免疫器官与血液中。"
+        },
+        {
+          "text": "记忆细胞在再次遇到相同抗原时能够快速活化",
+          "isCorrect": true,
+          "rationale": "记忆细胞具有更低的激活阈值，二次遭遇相同抗原时可迅速引发强烈的再次应答。"
+        },
+        {
+          "text": "所有参与应答的淋巴细胞无限增殖并永久循环于血液中",
+          "isCorrect": false,
+          "rationale": "效应细胞无限增殖会导致淋巴细胞增殖性疾病或自身免疫损伤，绝大多数细胞必须被清除。"
+        }
+      ],
+      "hint": "思考免疫应答衰退阶段（Apoptosis）与记忆阶段（Surviving memory cells）的细胞去向。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    }
+  ],
+  "topics": {
+    "covered": [
+      "免疫系统构成与外周免疫器官",
+      "固有免疫与适应性免疫的作用特点",
+      "T细胞对抗原的识别与特异性活化信号",
+      "B细胞对胸腺依赖性抗原（TD抗原）的应答与Th细胞辅助机制",
+      "体液免疫效应（抗体功能）与免疫应答的阶段性转归"
+    ],
+    "followUp": [
+      "免疫突触（Immune Synapse）的超微结构与信号转导网络",
+      "B细胞生发中心（Germinal Center）体细胞高频突变与亲和力成熟",
+      "T细胞耗竭与免疫检查点（CTLA-4 / PD-1）抑制机制",
+      "粘膜相关淋巴组织（MALT）的局部免疫防御机制",
+      "自身免疫病与超敏反应的发生机制"
+    ]
+  }
+}

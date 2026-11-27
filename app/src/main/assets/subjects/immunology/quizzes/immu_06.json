@@ -1,0 +1,757 @@
+{
+  "quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "Paul Ehrlich于1897年提出的“侧链学说”，对抗体生成机制的观点是？",
+      "answerOptions": [
+        {
+          "text": "进入体内的抗原直接充当立体模板，指导无固定构象的抗体前体折叠成相应形状。",
+          "isCorrect": false,
+          "rationale": "将抗原作为折叠构象模板是20世纪30年代模板学说的观点，而非侧链学说。"
+        },
+        {
+          "text": "抗原诱导未成熟淋巴细胞发生定向基因突变，从而产生特异性结合抗原的受体。",
+          "isCorrect": false,
+          "rationale": "基因重排与突变是现代免疫学概念，侧链学说假定受体在受刺激前已天然存在于细胞表面。"
+        },
+        {
+          "text": "天然抗体在血清中与抗原结合后，被巨噬细胞吞噬并诱导骨髓合成新的抗体。",
+          "isCorrect": false,
+          "rationale": "这一过程偏离了侧链学说关于细胞表面受体结合外毒素并脱落的基本假设。"
+        },
+        {
+          "text": "细胞表面预先存在特异性受体/抗毒素，与外毒素结合后刺激细胞过量合成并释放该受体进入血液。",
+          "isCorrect": true,
+          "rationale": "侧链学说首次提出细胞表面存在特异性抗毒素受体，外毒素结合后刺激细胞产生更多受体并脱落至血液中。"
+        }
+      ],
+      "hint": "思考早期理论中细胞表面“受体与毒素特异性结合并脱落”的假设。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "20世纪30年代提出的“模板学说”形象地被比喻为“先有钥匙后有锁”，其在解释抗体形成机制时的核心错误在于？",
+      "answerOptions": [
+        {
+          "text": "错误地主张一个B细胞克隆可以产生多种不同特异性的抗体分子。",
+          "isCorrect": false,
+          "rationale": "“一个克隆-一种抗体”是克隆选择学说的原则，并非模板学说的主要错误焦点。"
+        },
+        {
+          "text": "忽视了血清中天然抗体的存在对B细胞活化的促进作用。",
+          "isCorrect": false,
+          "rationale": "天然抗体的选择作用是Jerne理论的探讨重点，而非模板学说失效的原因。"
+        },
+        {
+          "text": "混淆了抗体功能性概念与免疫球蛋白结构性概念的界限。",
+          "isCorrect": false,
+          "rationale": "概念界定属于分类定义问题，与模板学说对抗体合成机制的逻辑错误无关。"
+        },
+        {
+          "text": "否认了预先存在的特异性受体库，错误地认为抗原直接作为模板指导抗体合成。",
+          "isCorrect": true,
+          "rationale": "模板学说否认了淋巴细胞表面预存特异性受体，错误地主张抗原作为构象指导模板。"
+        }
+      ],
+      "hint": "注意该学说将“抗原”比作指导抗体形状生成的构象模板。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "澳大利亚免疫学家Burnet系统提出的克隆选择学说颠覆了早期的“抗原指导”认知，该学说的核心原则是？",
+      "answerOptions": [
+        {
+          "text": "抗体分子是在抗原进入机体后，由浆细胞重新设计并合成的。",
+          "isCorrect": false,
+          "rationale": "重新设计的说法属于指令/模板学说的思想，与克隆选择学说的“预先存在”原则矛盾。"
+        },
+        {
+          "text": "“一个克隆-一种抗体”，即预先存在的B细胞克隆各自表达特异性受体。",
+          "isCorrect": true,
+          "rationale": "克隆选择学说的核心原则是一个B细胞克隆仅产生一种特异性抗体，免疫应答是对预存克隆的选择。"
+        },
+        {
+          "text": "所有未受刺激的B细胞均表达相同构象的非特异性BCR受体。",
+          "isCorrect": false,
+          "rationale": "克隆选择学说强调预存克隆库的多样性，而非受体的均一性。"
+        },
+        {
+          "text": "免疫记忆完全依赖于体内残留抗原对浆细胞的长期刺激。",
+          "isCorrect": false,
+          "rationale": "克隆选择学说将免疫记忆归因于特异性记忆细胞克隆的形成与留存，而非抗原残留。"
+        }
+      ],
+      "hint": "关联特异性B细胞克隆与所产抗体种类之间的一一对应关系。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "关于克隆选择学说的历史背景与提出者，下列哪些表述是正确的？",
+      "answerOptions": [
+        {
+          "text": "该学说证实了抗原进入机体后会直接诱导B细胞合成全新的抗体链。",
+          "isCorrect": false,
+          "rationale": "该学说彻底否定了抗原指导合成的观点，强调抗体多样性来源于预先存在的克隆库。"
+        },
+        {
+          "text": "Jerne于1955年提出的天然抗体选择学说为克隆选择理论提供了关键启发。",
+          "isCorrect": true,
+          "rationale": "天然抗体选择学说引入了“选择”而非“指导”的概念，为Burnet提出克隆选择学说奠定了基础。"
+        },
+        {
+          "text": "David与Joshua Lederberg在1958年进一步完善了该学说。",
+          "isCorrect": true,
+          "rationale": "Lederberg等人在1958年通过实验与分析进一步确立和完善了“一个克隆-一种抗体”的原则。"
+        },
+        {
+          "text": "Burnet于1957年系统提出了克隆选择学说。",
+          "isCorrect": true,
+          "rationale": "Burnet在1957年正式系统阐述了免疫克隆选择理论。"
+        }
+      ],
+      "hint": "回顾克隆选择学说从Jerne的选择观念到Burnet及Lederberg完善的演进历史。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在免疫学中，“抗体（Ab）”与“免疫球蛋白（Ig）”是两个经常关联的概念。二者最根本的区别在于？",
+      "answerOptions": [
+        {
+          "text": "免疫球蛋白是由浆细胞分泌的，而抗体是由未活化的B细胞表达的。",
+          "isCorrect": false,
+          "rationale": "浆细胞分泌的具有免疫功能的糖蛋白即为抗体，抗体也是免疫球蛋白的一种存在形式。"
+        },
+        {
+          "text": "抗体侧重于功能性概念，而免疫球蛋白侧重于结构性概念。",
+          "isCorrect": true,
+          "rationale": "抗体强调由抗原刺激产生并能特异性结合抗原的免疫功能；免疫球蛋白强调化学结构特征及球蛋白属性。"
+        },
+        {
+          "text": "抗体仅存在于血清中，而免疫球蛋白仅存在于粘膜分泌液中。",
+          "isCorrect": false,
+          "rationale": "两者均可广泛分布于血清及多种体液与分泌液中，分布范围并非二者的划分标准。"
+        },
+        {
+          "text": "抗体分子不含有轻链结构，而免疫球蛋白由重链与轻链共同构成。",
+          "isCorrect": false,
+          "rationale": "抗体具备免疫球蛋白的基本四肽链结构，同样包含重链和轻链。"
+        }
+      ],
+      "hint": "对比两者定义中分别强调的“功能/效应”与“化学结构/属性”。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "B细胞表面特异性表达的CD22分子是一种重要受体，其胞内段结构及信号传导特点是？",
+      "answerOptions": [
+        {
+          "text": "胞内段缺乏信号转导基序，仅通过空间位阻阻止BCR发生交叉聚拢。",
+          "isCorrect": false,
+          "rationale": "CD22通过其胞内ITIM基序主动招募磷酸酶传递抑制信号，并非仅靠物理阻碍。"
+        },
+        {
+          "text": "胞内段与CD40结合，专门转导来自于Th细胞的第二活化信号。",
+          "isCorrect": false,
+          "rationale": "CD40是独立的表面分子，与CD22的抑制性结构与功能不同。"
+        },
+        {
+          "text": "胞内段含有ITIM，可向胞内传递抑制信号，是B细胞的抑制性受体。",
+          "isCorrect": true,
+          "rationale": "CD22胞内段含有免疫受体酪氨酸抑制基序（ITIM），充当负调节受体。"
+        },
+        {
+          "text": "胞内段含有ITAM，可结合Syk激酶并传递第一活化信号。",
+          "isCorrect": false,
+          "rationale": "传递活化信号并含ITAM结构的是$Ig\\alpha/Ig\\beta$等分子，而非CD22。"
+        }
+      ],
+      "hint": "关注该受体胞内基序的名称（包含抑制/ITIM关键字）。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "CD22分子作为B细胞表面的负调节受体，主要对下列哪组共受体复合物介导的信号发挥抑制作用？",
+      "answerOptions": [
+        {
+          "text": "IL-2R复合受体",
+          "isCorrect": false,
+          "rationale": "CD22特异性负调节BCR辅助活化复合物（CD19/CD21/CD81），而非IL-2受体。"
+        },
+        {
+          "text": "TCR/CD3复合物",
+          "isCorrect": false,
+          "rationale": "TCR/CD3复合物表达于T细胞表面，非CD22在B细胞上的调控对象。"
+        },
+        {
+          "text": "CD19/CD21/CD81共受体复合物",
+          "isCorrect": true,
+          "rationale": "CD22能负调节由CD19/CD21/CD81组成的B细胞共受体复合物传导的活化信号。"
+        },
+        {
+          "text": "MHC II类分子与CD4复合体",
+          "isCorrect": false,
+          "rationale": "MHC II/CD4参与抗原提呈与识别，不是CD22主要抑制的B细胞活化共受体信号。"
+        }
+      ],
+      "hint": "回忆与BCR协同增强活化信号的三分子共受体复合物。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "CD32分子（$Fc\\gamma RIIB$）在B细胞活化及抗体分泌过程中发挥负反馈调节作用，其发挥作用的关键触发机制是？",
+      "answerOptions": [
+        {
+          "text": "降解B细胞表面的MHC II类分子，降低抗原提呈效率。",
+          "isCorrect": false,
+          "rationale": "CD32通过交联BCR传递抑制信号，并不直接降解MHC II类分子。"
+        },
+        {
+          "text": "直接结合游离的抗原单体，竞争性阻断抗原与BCR结合。",
+          "isCorrect": false,
+          "rationale": "CD32是Fc受体，识别的是抗体Fc段而非直接结合游离抗原表位。"
+        },
+        {
+          "text": "结合抗原-抗体复合物中的IgG Fc段，并与BCR发生交叉连接。",
+          "isCorrect": true,
+          "rationale": "CD32通过结合免疫复合物中的Fc段与BCR交联，向胞内转导负反馈抑制信号。"
+        },
+        {
+          "text": "结合Th细胞分泌的IL-4，阻止其诱导B细胞增殖。",
+          "isCorrect": false,
+          "rationale": "结合细胞因子的是细胞因子受体，与IgFc受体CD32机制无关。"
+        }
+      ],
+      "hint": "思考当体液中已存在大量“抗原-抗体复合物”时，受体如何与BCR形成交联。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "B细胞作为专职性抗原提呈细胞（APC），在加工和提呈抗原的过程中具备哪些特点？",
+      "answerOptions": [
+        {
+          "text": "只能通过胞饮作用非特异性地摄取大颗粒状病原体。",
+          "isCorrect": false,
+          "rationale": "B细胞提呈可溶性抗原主要依赖BCR的特异性受体介导内吞，而非仅靠非特异胞饮。"
+        },
+        {
+          "text": "可借助表面的BCR高效摄取低浓度的可溶性抗原。",
+          "isCorrect": true,
+          "rationale": "BCR的特异性高亲和力结合使得B细胞能够非常高效地摄取微量可溶性抗原。"
+        },
+        {
+          "text": "B细胞活化后，其表面MHC II类分子的表达水平会增加。",
+          "isCorrect": true,
+          "rationale": "活化信号能上调MHC II类分子的表达，从而进一步增强抗原提呈能力。"
+        },
+        {
+          "text": "经外源性抗原提呈途径向Th细胞提呈抗原肽-MHC II类复合物。",
+          "isCorrect": true,
+          "rationale": "B细胞内化可溶性抗原后，通过外源性途径加工并结合MHC II类分子提呈给Th细胞。"
+        }
+      ],
+      "hint": "考虑BCR的摄取特异性、MHC分子的类型（II类）以及活化后的调控变化。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "辅助性T细胞（如Th2细胞）分泌的细胞因子能够增强B细胞的抗原提呈作用，其主要途径是？",
+      "answerOptions": [
+        {
+          "text": "促进B细胞表面MHC II类分子的表达。",
+          "isCorrect": true,
+          "rationale": "Th2细胞分泌的细胞因子（如IL-4）可促进B细胞MHC II类分子的表达，增强其提呈功能。"
+        },
+        {
+          "text": "直接封闭CD32受体的结合位点。",
+          "isCorrect": false,
+          "rationale": "细胞因子通过受体信号通路调控基因表达，并不充当CD32的竞争性阻断剂。"
+        },
+        {
+          "text": "诱导CD22分子的内化与降解。",
+          "isCorrect": false,
+          "rationale": "细胞因子主要调节MHC和活化受体表达，不直接破坏CD22抑制性受体。"
+        },
+        {
+          "text": "促使B细胞由MHC II类提呈转向MHC I类交叉提呈。",
+          "isCorrect": false,
+          "rationale": "Th细胞辅助主要强化B细胞的外源性MHC II类提呈途径。"
+        }
+      ],
+      "hint": "联想抗原提呈过程中B细胞表面最重要的提呈载体分子（MHC II）。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "根据资料，下列哪些CD分子构成了免疫球蛋白Fc段受体（IgFc-R）家族？",
+      "answerOptions": [
+        {
+          "text": "CD32",
+          "isCorrect": true,
+          "rationale": "CD32即$Fc\\gamma RII$，属于IgFc-R家族成员。"
+        },
+        {
+          "text": "CD89",
+          "isCorrect": true,
+          "rationale": "CD89即$Fc\\alpha R$，能够结合IgA的Fc段，属于IgFc-R家族。"
+        },
+        {
+          "text": "CD16",
+          "isCorrect": true,
+          "rationale": "CD16即$Fc\\gamma RIII$，属于IgFc-R家族成员。"
+        },
+        {
+          "text": "CD64",
+          "isCorrect": true,
+          "rationale": "CD64即$Fc\\gamma RI$，属于IgFc-R家族成员。"
+        }
+      ],
+      "hint": "选择列出的特异性结合IgG或IgA等Fc段的CD标记分子。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在结合IgE抗体Fc段的受体中，被标记为CD23的分子的特异性名称是？",
+      "answerOptions": [
+        {
+          "text": "$Fc\\epsilon RII$",
+          "isCorrect": true,
+          "rationale": "CD23对应低亲和力IgE受体，即$Fc\\epsilon RII$。"
+        },
+        {
+          "text": "$Fc\\epsilon RI$",
+          "isCorrect": true,
+          "rationale": "CD23是低亲和力IgE受体（$Fc\\epsilon RII$），高亲和力受体$Fc\\epsilon RI$不叫CD23。"
+        },
+        {
+          "text": "$Fc\\gamma RIII$",
+          "isCorrect": false,
+          "rationale": "$Fc\\gamma RIII$对应的是CD16分子，结合IgG的Fc段。"
+        },
+        {
+          "text": "$Fc\\alpha R$",
+          "isCorrect": false,
+          "rationale": "$Fc\\alpha R$对应的是CD89分子，结合IgA的Fc段。"
+        }
+      ],
+      "hint": "注意CD23是IgE受体中的低亲和力型（RII）。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "所有免疫球蛋白（Ig）单体的基本结构均由四条肽链对称构成，具体包括？",
+      "answerOptions": [
+        {
+          "text": "两条轻链与两条J链",
+          "isCorrect": false,
+          "rationale": "基本单体不含J链，J链仅参与多聚体（如IgA/IgM）的连接。"
+        },
+        {
+          "text": "三条重链和一条轻链",
+          "isCorrect": false,
+          "rationale": "基本结构为两重两轻对称组合，非不对称数量组合。"
+        },
+        {
+          "text": "两条不同的重链和两条相同的轻链",
+          "isCorrect": false,
+          "rationale": "同一个Ig单体分子的两条重链必须是完全相同的。"
+        },
+        {
+          "text": "两条相同的重链（H链）和两条相同的轻链（L链）",
+          "isCorrect": true,
+          "rationale": "Ig的基本单位是由两条相同的重链和两条相同的轻链组成的四肽链对称结构。"
+        }
+      ],
+      "hint": "回忆抗体经典的“Y”字形对称结构所包含的两组肽链。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "抗体分子中直接决定抗原结合特异性、与抗原表位发生立体互补结合的区域是？",
+      "answerOptions": [
+        {
+          "text": "重链和轻链可变区（V区）的高变区（CDR）",
+          "isCorrect": true,
+          "rationale": "V区中的互补决定区（CDR1、CDR2、CDR3）氨基酸组成高度可变，直接构成抗原结合位点。"
+        },
+        {
+          "text": "重链恒定区的$C_H2$结构域",
+          "isCorrect": false,
+          "rationale": "$C_H2$结构域参与结合补体或结合糖基，不直接结合抗原表位。"
+        },
+        {
+          "text": "抗体分子的铰链区（Hinge region）",
+          "isCorrect": false,
+          "rationale": "铰链区提供分子柔韧性，不参与抗原结合位点的形成。"
+        },
+        {
+          "text": "重链与轻链的骨架区（FR）",
+          "isCorrect": false,
+          "rationale": "FR区维持V区的立体框架，不直接决定抗原特异性结合。"
+        }
+      ],
+      "hint": "注意缩写为CDR的高变区域及其在立体互补结合中的作用。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "关于抗体分子可变区（V区）的结构组成及其功能，下列表述正确的有哪些？",
+      "answerOptions": [
+        {
+          "text": "FR区折叠形成相对稳定的框架，支撑CDR区处于适宜的结合构象。",
+          "isCorrect": true,
+          "rationale": "FR区序列相对保守，主要功能是提供稳定的空间支架结构。"
+        },
+        {
+          "text": "CDR区氨基酸残基的高度多样性决定了抗体结合抗原的特异性。",
+          "isCorrect": true,
+          "rationale": "CDR区的高变性使其能形成针对不同抗原表位的互补口袋结构。"
+        },
+        {
+          "text": "V区由互补决定区（CDR）和骨架区（FR）交替排列组成。",
+          "isCorrect": true,
+          "rationale": "在重链和轻链的V区中，CDR1-3与FR1-4呈交替间隔排列。"
+        },
+        {
+          "text": "FR区的氨基酸序列决定了免疫球蛋白的类别（如IgG、IgM）。",
+          "isCorrect": false,
+          "rationale": "决定Ig类别（Class）的是重链恒定区（C区）的氨基酸组成，而非V区的FR区。"
+        }
+      ],
+      "hint": "区分V区内部高变区（CDR）与骨架区（FR）各自的分工。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "B细胞识别抗原后，将第一活化信号（活化信号①）传导至B细胞胞内的关键辅助分子对是？",
+      "answerOptions": [
+        {
+          "text": "B7 / CD28",
+          "isCorrect": false,
+          "rationale": "B7与CD28相互作用主要向Th细胞传导第二活化信号。"
+        },
+        {
+          "text": "CD40 / CD40L",
+          "isCorrect": false,
+          "rationale": "CD40与CD40L结合介导的是Th细胞对B细胞提供的第二活化信号。"
+        },
+        {
+          "text": "$Ig\\alpha$ / $Ig\\beta$ (CD79a / CD79b)",
+          "isCorrect": true,
+          "rationale": "$Ig\\alpha$和$Ig\\beta$与BCR结合形成异二聚体，负责将BCR识别抗原的信号传导至细胞内。"
+        },
+        {
+          "text": "ICAM-1 / LFA-1",
+          "isCorrect": false,
+          "rationale": "ICAM-1/LFA-1属于粘附分子对，辅助细胞间紧密接触而非传导BCR第一信号。"
+        }
+      ],
+      "hint": "回忆与BCR结合并转导信号的胞内含ITAM基序的信号链（$Ig\\alpha/Ig\\beta$）。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在B细胞活化过程中，需要Th细胞提供第二活化信号（活化信号②），其中最关键的分子配对是？",
+      "answerOptions": [
+        {
+          "text": "B细胞表面的CD22与Th细胞表面的LFA-1结合",
+          "isCorrect": false,
+          "rationale": "CD22是B细胞胞内含ITIM的抑制性受体，不介导T-B协同活化信号。"
+        },
+        {
+          "text": "B细胞表面的BCR与Th细胞表面的TCR直接结合",
+          "isCorrect": false,
+          "rationale": "TCR识别的是MHC II类分子结合的抗原肽，BCR不直接与TCR相结合。"
+        },
+        {
+          "text": "B细胞表面的CD40与Th细胞表面的CD40L结合",
+          "isCorrect": true,
+          "rationale": "B细胞表面的CD40与Th细胞表达的CD40L相互作用，转导B细胞活化所需的第二信号。"
+        },
+        {
+          "text": "B细胞表面的MHC II类分子与Th细胞表面的CD28结合",
+          "isCorrect": false,
+          "rationale": "CD28结合的是B7分子，而非MHC II类分子。"
+        }
+      ],
+      "hint": "寻找表达在B细胞上的CD40与其在Th细胞上相应配体（CD40L）的结合。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "活化后的B细胞表面会表达多种细胞因子受体（CKR），结合辅助性T细胞分泌的细胞因子后可促进其增殖和分化。这些受体包括？",
+      "answerOptions": [
+        {
+          "text": "IL-6受体",
+          "isCorrect": true,
+          "rationale": "IL-6可作用于活化B细胞，促进其最终分化为浆细胞。"
+        },
+        {
+          "text": "IL-4受体",
+          "isCorrect": true,
+          "rationale": "IL-4能促使活化B细胞增殖与分化，活化B细胞表面表达其相应受体。"
+        },
+        {
+          "text": "促红细胞生成素（EPO）受体",
+          "isCorrect": false,
+          "rationale": "EPO主要作用于红系祖细胞，与B细胞活化分化信号网络无关。"
+        },
+        {
+          "text": "IL-5受体",
+          "isCorrect": true,
+          "rationale": "IL-5是促进B细胞增殖和抗体分泌的重要细胞因子，其受体表达于活化B细胞。"
+        }
+      ],
+      "hint": "选择资料中提到的促进B细胞活化、增殖和分化白介素受体（IL-4、IL-5、IL-6受体）。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "抗体分子结构中的铰链区（Hinge region）富含脯氨酸，这一结构赋予抗体分子的重要生理功能是？",
+      "answerOptions": [
+        {
+          "text": "防止抗体被体内的蛋白酶降解。",
+          "isCorrect": false,
+          "rationale": "铰链区实际上对蛋白酶（如木瓜蛋白酶、胃蛋白酶）敏感，易被切割。"
+        },
+        {
+          "text": "赋予抗体分子两个Fab段一定的伸缩和旋转角度，便于结合不同距离的抗原表位。",
+          "isCorrect": true,
+          "rationale": "铰链区的柔韧性使得抗体的两个结合臂（Fab段）可以自由改变夹角，从而灵活结合空间位置不同的抗原表位。"
+        },
+        {
+          "text": "提供结合补体C1q的特异性结合位点。",
+          "isCorrect": false,
+          "rationale": "补体C1q结合位点通常位于重链恒定区的$C_H2$结构域，而非铰链区本身。"
+        },
+        {
+          "text": "决定抗体是否能够穿过胎盘屏障。",
+          "isCorrect": false,
+          "rationale": "穿过胎盘屏障的功能主要由IgG的Fc段结构域介导，非铰链区主导。"
+        }
+      ],
+      "hint": "联想抗体结合双价抗原时两个Fab“手臂”的角度调整能力。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "根据Ig分子的结构示意图，在IgG重链恒定区中，共价附着糖基（CHO）的结构域通常位于？",
+      "answerOptions": [
+        {
+          "text": "$V_H$ 结构域",
+          "isCorrect": false,
+          "rationale": "$V_H$属于可变区，负责抗原结合，非主要恒定区糖基化位点。"
+        },
+        {
+          "text": "$C_H1$ 结构域",
+          "isCorrect": false,
+          "rationale": "$C_H1$结构域与轻链$C_L$结构域配对，通常不附着该主要糖链。"
+        },
+        {
+          "text": "$C_H2$ 结构域",
+          "isCorrect": true,
+          "rationale": "在经典免疫球蛋白结构中，糖基（CHO）附着在重链恒定区的 $C_H2$ 结构域上。"
+        },
+        {
+          "text": "$C_H3$ 结构域的C端极性区",
+          "isCorrect": false,
+          "rationale": "示意图明确展示糖基（CHO）修饰位于铰链区下方的$C_H2$结构域。"
+        }
+      ],
+      "hint": "查看免疫球蛋白结构图解中标记有(CHO)的重链恒定区段。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "回顾抗体生成理论的历史演变，下列关于早期探索学说的表述正确的有哪些？",
+      "answerOptions": [
+        {
+          "text": "Jerne的天然抗体选择学说为克隆选择理论提供了关键启发。",
+          "isCorrect": true,
+          "rationale": "Jerne于1955年提出天然抗体选择学说，将“选择”概念引入免疫学。"
+        },
+        {
+          "text": "侧链学说首次提出了细胞表面受体与毒素特异性结合的概念。",
+          "isCorrect": true,
+          "rationale": "Paul Ehrlich于1897年提出的侧链学说开创性地引入了特异性受体结合的观点。"
+        },
+        {
+          "text": "侧链学说完整阐明了抗体基因重排和B细胞高频突变等生物学机制。",
+          "isCorrect": false,
+          "rationale": "侧链学说受限于时代，未能阐明细胞合成受体及基因层面的生物学机制。"
+        },
+        {
+          "text": "模板学说错误地认为抗原直接指导抗体折叠与合成。",
+          "isCorrect": true,
+          "rationale": "20世纪30年代的模板学说否认预存受体，错误归因于抗原模板作用。"
+        }
+      ],
+      "hint": "区分各个历史阶段学说（侧链学说、模板学说、天然抗体选择学说）的贡献与局限。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "CD16分子是免疫细胞表面重要的IgFc受体之一，其对应的免疫球蛋白受体名称是？",
+      "answerOptions": [
+        {
+          "text": "$Fc\\gamma RII$",
+          "isCorrect": false,
+          "rationale": "$Fc\\gamma RII$对应的CD分子是CD32。"
+        },
+        {
+          "text": "$Fc\\gamma RIII$",
+          "isCorrect": true,
+          "rationale": "CD16分子即为 $Fc\\gamma RIII$（包括$Fc\\gamma RIIIA$和$Fc\\gamma RIIIB$）。"
+        },
+        {
+          "text": "$Fc\\gamma RI$",
+          "isCorrect": false,
+          "rationale": "$Fc\\gamma RI$对应的CD分子是CD64。"
+        },
+        {
+          "text": "$Fc\\alpha R$",
+          "isCorrect": false,
+          "rationale": "$Fc\\alpha R$对应的CD分子是CD89。"
+        }
+      ],
+      "hint": "对应识别IgG Fc段的三号低/中亲和力受体（RIII）。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "为了维持免疫应答的平衡，B细胞活化及抗体分泌受到多种负调节机制的控制。下列属于负调节机制的有？",
+      "answerOptions": [
+        {
+          "text": "$Ig\\alpha/Ig\\beta$ 结合抗原后直接内化BCR并阻断其翻译。",
+          "isCorrect": false,
+          "rationale": "$Ig\\alpha/Ig\\beta$ 包含ITAM，主要负责转导活化信号①而非负调节。"
+        },
+        {
+          "text": "缺乏Th细胞提供的CD40L第二信号时，B细胞无法有效完全活化。",
+          "isCorrect": true,
+          "rationale": "协同刺激信号缺乏也是防止B细胞非特异性或过度活化的重要关卡。"
+        },
+        {
+          "text": "CD22胞内段含ITIM，可向胞内传递抑制信号。",
+          "isCorrect": true,
+          "rationale": "CD22通过胞内ITIM招募磷酸酶，负调节共受体及BCR活化信号。"
+        },
+        {
+          "text": "CD32通过结合抗原-抗体复合物与BCR交联，负反馈调节B细胞活化。",
+          "isCorrect": true,
+          "rationale": "CD32（$Fc\\gamma RIIB$）结合免疫复合物后与BCR交联，传导负反馈抑制信号。"
+        }
+      ],
+      "hint": "寻找涉及ITIM基序、Fc受体交联抑制以及协同刺激信号缺失等调控途径。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在B细胞与Th细胞相互作用过程中，下列哪对粘附分子参与介导了细胞间的物理接触与粘附？",
+      "answerOptions": [
+        {
+          "text": "B细胞表面的CD22与Th细胞表面的CD32",
+          "isCorrect": false,
+          "rationale": "CD22和CD32均为B细胞自身的调节受体，不构成B-T细胞间粘附分子对。"
+        },
+        {
+          "text": "B细胞表面的ICAM-1与Th细胞表面的LFA-1",
+          "isCorrect": true,
+          "rationale": "ICAM-1与LFA-1相互结合，介导B细胞与Th细胞之间的细胞间粘附。"
+        },
+        {
+          "text": "B细胞表面的BCR与Th细胞表面的CD40L",
+          "isCorrect": false,
+          "rationale": "CD40L配对的是B细胞表面的CD40，而非BCR。"
+        },
+        {
+          "text": "B细胞表面的Ig$\\alpha$与Th细胞表面的TCR",
+          "isCorrect": false,
+          "rationale": "Ig$\\alpha$是BCR的信号转导组件，TCR识别的是MHC II/抗原肽复合物。"
+        }
+      ],
+      "hint": "注意涉及整合素LFA-1及其配体ICAM-1的相互作用。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "根据Burnet克隆选择学说的核心思想，下列哪些关于免疫应答的描述是正确的？",
+      "answerOptions": [
+        {
+          "text": "进入机体的抗原充当选择剂，选择能与其特异性结合的B细胞克隆。",
+          "isCorrect": true,
+          "rationale": "抗原的作用是“选择”对应克隆，并刺激其发生增殖和分化。"
+        },
+        {
+          "text": "被抗原选择并活化的淋巴细胞增殖产生大量相同特异性的子代细胞（克隆）。",
+          "isCorrect": true,
+          "rationale": "特异性克隆经扩增分化为浆细胞，大量分泌同种特异性的抗体。"
+        },
+        {
+          "text": "抗原刺激会随机改变机体内所有未成熟B细胞的受体基因序列。",
+          "isCorrect": false,
+          "rationale": "抗原仅选择已具备对应受体的特异性克隆，不进行随机基因重塑。"
+        },
+        {
+          "text": "机体内存在着对抗原具有多样性特异性受体的B细胞克隆库。",
+          "isCorrect": true,
+          "rationale": "克隆选择学说认为抗体多样性归因于未受刺激前已预先存在的B细胞克隆库。"
+        }
+      ],
+      "hint": "围绕“预先存在”、“抗原选择”、“特异性扩增”这三个克隆选择要素。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在B细胞提呈抗原给Th细胞的过程中，Th细胞表面的CD4分子所结合的位点位于B细胞的？",
+      "answerOptions": [
+        {
+          "text": "BCR的重链可变区",
+          "isCorrect": false,
+          "rationale": "CD4作为T细胞辅助受体结合MHC II分子，不直接结合BCR V区。"
+        },
+        {
+          "text": "MHC I类分子的$\\beta_2$微球蛋白",
+          "isCorrect": false,
+          "rationale": "识别MHC I类分子的是CD8阳性细胞（CTL），非CD4阳性Th细胞。"
+        },
+        {
+          "text": "MHC II类分子的非保守结构域",
+          "isCorrect": true,
+          "rationale": "辅助受体CD4识别并结合B细胞（APC）表面MHC II类分子的非多态/恒定区结构域。"
+        },
+        {
+          "text": "CD40分子的胞外端",
+          "isCorrect": false,
+          "rationale": "与CD40结合的是CD40L，而非辅助受体CD4。"
+        }
+      ],
+      "hint": "思考辅助受体CD4所对应的配体分子类型（MHC II类分子）。"
+    },
+    {
+      "type": "fill_in_blank",
+      "question": "B细胞表面的特征性抗原识别受体是（1）_______（BCR），本质是膜表面结合型的（2）_______分子（mIg）。",
+      "blankAnswers": [
+        "B细胞受体",
+        "免疫球蛋白"
+      ],
+      "rationale": "标准答案及考点解析：BCR复合体由膜结合型免疫球蛋白（mIgM或mIgD）与CD79a/CD79b（Igα/Igβ）异二聚体组成，负责识别抗原表位。",
+      "hint": "核心考点：BCR的分子构成与本质。"
+    },
+    {
+      "type": "fill_in_blank",
+      "question": "人类免疫球蛋白（抗体）的基本结构由两条完全相同的（1）_______链和两条完全相同的（2）_______链通过二硫键连接组成对称的“Y”字形四肽链结构。",
+      "blankAnswers": [
+        "重",
+        "轻"
+      ],
+      "rationale": "标准答案及考点解析：单体抗体分子由2条相同的重链（H链）和2条相同的轻链（L链）通过链间二硫键连接构成。",
+      "hint": "核心考点：抗体四肽链单体结构。"
+    }
+  ],
+  "topics": {
+    "covered": [
+      "抗体生成理论的历史演变（侧链学说、模板学说、克隆选择学说）",
+      "抗体（Ab）与免疫球蛋白（Ig）的概念及基本结构",
+      "B细胞表面分子（CD22, CD32, MHC II, 粘附分子与细胞因子受体）",
+      "B细胞活化信号与抗原提呈机制",
+      "免疫球蛋白Fc受体（IgFc-R）家族"
+    ],
+    "followUp": [
+      "抗体基因重排与多样性产生机制",
+      "B细胞在生发中心的体细胞高频突变与亲和力成熟",
+      "免疫球蛋白类别转换（Class Switching）的分子调控",
+      "B细胞记忆细胞的形成与长期体液免疫维持"
+    ]
+  }
+}

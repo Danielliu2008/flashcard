@@ -1,0 +1,739 @@
+{
+  "quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "病毒被归类为非细胞型微生物，其与具备完整细胞结构的微生物在生物学特性上有着根本区别。下列关于病毒独特性状的描述，正确的是？",
+      "answerOptions": [
+        {
+          "text": "严格在活细胞内寄生，在细胞外不能独立增殖",
+          "rationale": "病毒缺乏独立的代谢和能量产生系统，必须借助宿主细胞的生物合成机制才能完成复制与增殖。",
+          "isCorrect": true
+        },
+        {
+          "text": "同时含有 DNA 和 RNA 作为遗传物质以维持代谢",
+          "rationale": "病毒的核酸组成具有单一性，每个病毒颗粒仅含 DNA 或 RNA 中的一种作为遗传物质。",
+          "isCorrect": false
+        },
+        {
+          "text": "在宿主细胞内对常用广谱抗生素高度敏感",
+          "rationale": "抗生素主要作用于细菌的细胞壁或细胞代谢结构，对无细胞结构的病毒无效；病毒对干扰素敏感。",
+          "isCorrect": false
+        },
+        {
+          "text": "增殖方式与细菌相同，主要通过二分裂进行",
+          "rationale": "病毒不进行二分裂，而是在分子水平上利用宿主细胞原料以自我复制的方式增殖。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "思考病毒在宿主细胞外的生存状态及其遗传物质的单一性。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "将病毒与细菌、支原体、立克次体等其他微生物进行比较，下列哪些特性是病毒所特有的？",
+      "answerOptions": [
+        {
+          "text": "仅含有一类核酸（DNA 或 RNA）",
+          "rationale": "细胞型微生物均同时含有 DNA 和 RNA，而病毒只具备其中一种遗传物质。",
+          "isCorrect": true
+        },
+        {
+          "text": "对干扰素敏感，但对抗生素不敏感",
+          "rationale": "这反映了病毒独特的抗药与免疫应答特性，区别于对抗生素敏感的细菌和立克次体等。",
+          "isCorrect": true
+        },
+        {
+          "text": "可通过孔径为 $0.22\\mu m$ 的除菌滤器",
+          "rationale": "支原体等微小微生物也能通过除菌滤器，因此滤过性并非病毒独有的排他性特征。",
+          "isCorrect": false
+        },
+        {
+          "text": "无完整细胞结构，以自我复制的方式增殖",
+          "rationale": "病毒是非细胞型微生物，其增殖依赖于在宿主细胞内进行分子水平的基因组复制与组装。",
+          "isCorrect": true
+        }
+      ],
+      "hint": "对比表格中核酸类型、细胞结构以及对抗药物/干扰素的反应差异。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "测量病毒体大小最可靠的工具是电子显微镜。下列关于病毒大小和形态的叙述，正确的是？",
+      "answerOptions": [
+        {
+          "text": "最大的病毒（如痘病毒）约 300 nm，而最小的仅约 20 nm",
+          "rationale": "病毒体处于纳米级范围，不同种类间体积悬殊，痘病毒接近立克次体大小，而微小病毒极为纤细。",
+          "isCorrect": true
+        },
+        {
+          "text": "绝大多数人和动物病毒呈杆状或丝状，而噬菌体呈砖块状",
+          "rationale": "多数人和动物病毒呈球形或近似球形，而噬菌体多呈蝌蚪状，植物病毒多呈杆状或丝状。",
+          "isCorrect": false
+        },
+        {
+          "text": "病毒体（Virion）是指仅在细胞内处于复制阶段的病毒核酸片段",
+          "rationale": "病毒体特指细胞外成熟、完整且具有感染性的病毒颗粒，是病毒在细胞外的典型结构形式。",
+          "isCorrect": false
+        },
+        {
+          "text": "流感病毒的直径通常在 10 nm 左右，与普通蛋白分子相当",
+          "rationale": "普通蛋白质分子约为 10 nm，而流感病毒的直径约为 100 nm。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "注意区分细胞外的完整病毒颗粒（病毒体）定义及其纳米级测量范围。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "病毒核衣壳（Nucleocapsid）是病毒体的基本结构。关于核衣壳的组成及其功能，下列说法正确的是？",
+      "answerOptions": [
+        {
+          "text": "核衣壳由核心与包绕在其外围的蛋白质衣壳共同构成",
+          "rationale": "核衣壳是所有病毒都具备的基本结构，核酸构成核心，蛋白质构成衣壳。",
+          "isCorrect": true
+        },
+        {
+          "text": "核心的主要成分是糖蛋白，负责介导病毒吸附宿主细胞",
+          "rationale": "核心的主要成分是核酸，负责提供基因组遗传信息；糖蛋白通常位于包膜或刺突上。",
+          "isCorrect": false
+        },
+        {
+          "text": "所有病毒的核衣壳外侧都必须包裹一层来自宿主的膜性包膜",
+          "rationale": "无包膜病毒（裸露病毒）仅由核衣壳构成，不含包膜结构。",
+          "isCorrect": false
+        },
+        {
+          "text": "衣壳的主要作用是为病毒复制提供各种转录酶与能量",
+          "rationale": "衣壳的主要功能是保护核酸免受核酸酶破坏并介导吸附，病毒复制的能量与转录原料依赖宿主细胞。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "区分核衣壳中的“核心”与“衣壳”各自的化学成分与功能。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "病毒衣壳是由壳粒按一定对称方式排列而成的。下列关于衣壳对称型的叙述，错误的是？",
+      "answerOptions": [
+        {
+          "text": "螺旋对称型衣壳由于结构异常坚固，因此其外侧通常不需要包膜保护",
+          "rationale": "螺旋对称型衣壳相对不坚固，因此这类病毒衣壳外通常需要包膜保护。",
+          "isCorrect": true
+        },
+        {
+          "text": "20 面体立体对称型的衣壳在内部容量最大的同时，结构也最为坚固",
+          "rationale": "几何研究表明 20 面体结构能提供最大的内部容积和最稳定的物理力学坚固性。",
+          "isCorrect": false
+        },
+        {
+          "text": "螺旋对称型衣壳的壳粒沿螺旋盘旋的核酸链排列，如正黏病毒和弹状病毒",
+          "rationale": "正黏病毒、副黏病毒及弹状病毒等均属于典型的螺旋对称型结构。",
+          "isCorrect": false
+        },
+        {
+          "text": "复合对称型既有螺旋对称又有 20 面体对称，仅见于痘病毒和噬菌体",
+          "rationale": "噬菌体（如 T2 噬菌体具备头部 20 面体和尾部螺旋）和痘病毒属于复杂的复合对称结构。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "考虑不同对称型结构在力学稳定性上的差异以及是否依赖包膜。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "包膜（Envelope）是某些病毒在核衣壳外围包裹的双层膜结构。下列有关病毒包膜的结构与特性的叙述，正确的有？",
+      "answerOptions": [
+        {
+          "text": "包膜多在病毒以出芽方式释放时获得，含有宿主细胞膜或核膜成分",
+          "rationale": "病毒穿过细胞膜或核膜出芽时，将宿主膜的脂质和部分糖蛋白带出形成包膜。",
+          "isCorrect": true
+        },
+        {
+          "text": "包膜表面的刺突通常由糖蛋白构成，具有种、型特异性",
+          "rationale": "刺突是包膜上的糖蛋白突起，构成了重要的表面抗原，决定了病毒的特异性。",
+          "isCorrect": true
+        },
+        {
+          "text": "包膜具有保护作用，使得包膜病毒对乙醚等脂溶剂及热、酸更为耐受",
+          "rationale": "包膜含有脂质，使其对干、热、酸和乙醚等脂溶剂非常敏感，极易破坏。",
+          "isCorrect": false
+        },
+        {
+          "text": "乙醚等脂溶剂可破坏包膜导致病毒灭活，这一特性可用于鉴定病毒有无包膜",
+          "rationale": "由于包膜富含脂质，乙醚敏感试验是常规鉴定病毒是否存在包膜的化学方法。",
+          "isCorrect": true
+        }
+      ],
+      "hint": "注意包膜的来源（宿主脂质双层）及其对脂溶剂（如乙醚）的理化反应。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "某些病毒具有特殊的辅助结构，例如腺病毒 20 面体的顶角上带有触须样纤维（Antennal fiber）。该结构的主要功能是？",
+      "answerOptions": [
+        {
+          "text": "作为病毒表面吸附蛋白（VAP），吸附宿主细胞并可能凝集某些动物红细胞",
+          "rationale": "触须样纤维能特异性结合宿主细胞受体，并能损伤宿主细胞或凝集红细胞。",
+          "isCorrect": true
+        },
+        {
+          "text": "在脱壳阶段直接降解宿主细胞的溶酶体膜",
+          "rationale": "触须样纤维的作用发生在吸附阶段，而非溶酶体脱壳阶段。",
+          "isCorrect": false
+        },
+        {
+          "text": "与宿主细胞染色体整合，介导病毒发生基因重组",
+          "rationale": "触须样纤维是衣壳表面的蛋白质突起，不参与染色体整合或重组。",
+          "isCorrect": false
+        },
+        {
+          "text": "构成病毒的脂质双分子层并阻止宿主抗体结合",
+          "rationale": "触须样纤维属于蛋白质刺突结构，不属于脂质双分子层。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "联系该结构在病毒识别与进入细胞第一阶段的“吸附”功能。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于被膜（Tegument）这一病毒辅助结构，下列描述符合源材料的是？",
+      "answerOptions": [
+        {
+          "text": "位于某些包膜病毒的核衣壳外层与包膜内层之间，主要成分为基质蛋白",
+          "rationale": "被膜连接内部核衣壳蛋白与外部包膜，由基质蛋白构成。",
+          "isCorrect": true
+        },
+        {
+          "text": "是由宿主细胞内质网膜直接脱落形成的脂质单层结构",
+          "rationale": "被膜主要由病毒编码的基质蛋白构成，而非脂质单层。",
+          "isCorrect": false
+        },
+        {
+          "text": "仅存在于裸露病毒中，用于替代包膜的功能",
+          "rationale": "被膜位于核衣壳与包膜之间，因此仅存在于部分包膜病毒中。",
+          "isCorrect": false
+        },
+        {
+          "text": "所有病毒均含有厚度一致的被膜，不可作为鉴定的依据",
+          "rationale": "不同种病毒的被膜厚度不一致，这可作为病毒鉴定的参考依据之一。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "回想被膜在核衣壳与包膜之间的定位及其化学成分。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "病毒核酸是主导病毒感染、增殖和遗传变异的物质基础。关于病毒核酸的特点，下列说法正确的有？",
+      "answerOptions": [
+        {
+          "text": "病毒遗传物质仅能是 DNA 或 RNA 中的一种",
+          "rationale": "病毒基因组不重叠包含两类核酸，据此可将病毒严格划分为 DNA 病毒和 RNA 病毒。",
+          "isCorrect": true
+        },
+        {
+          "text": "绝大多数 DNA 病毒为双链（dsDNA），而绝大多数 RNA 病毒为单链（ssRNA）",
+          "rationale": "这是病毒核酸链构型的基本规律（细小 DNA 病毒和呼肠孤 RNA 病毒等例外）。",
+          "isCorrect": true
+        },
+        {
+          "text": "单链 RNA 具有正链与负链之分，其中正链 RNA 序列与 $mRNA$ 相同或相近",
+          "rationale": "正链 RNA（+ssRNA）可直接作为 mRNA 翻译合成蛋白质。",
+          "isCorrect": true
+        },
+        {
+          "text": "正黏病毒科的 A 型流感病毒基因组为分节段的单链正链 RNA",
+          "rationale": "A 型流感病毒属于负链 RNA（-ssRNA）病毒，包含 8 个核酸节段。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "思考病毒核酸的单一性、链型规律以及流感病毒基因组的链极性。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "病毒复制周期的第一个阶段是吸附（Adsorption）。下列关于吸附阶段的说法，正确的是？",
+      "answerOptions": [
+        {
+          "text": "吸附标志着病毒感染的开始，依赖于病毒表面结构与细胞特异性受体的结合",
+          "rationale": "吸附是病毒特异性识别宿主细胞受体的过程，决定了病毒的亲组织性与感染起始。",
+          "isCorrect": true
+        },
+        {
+          "text": "病毒吸附过程属于完全无特异性的物理结合，不需要宿主受体参与",
+          "rationale": "吸附必须通过病毒配体（VAP）与宿主细胞特异性受体进行结合。",
+          "isCorrect": false
+        },
+        {
+          "text": "吸附发生后，病毒颗粒会立即在细胞外失去感染性并进入隐蔽期",
+          "rationale": "病毒穿入并脱壳释放核酸后才标志着隐蔽期的开始，而非吸附瞬间。",
+          "isCorrect": false
+        },
+        {
+          "text": "裸露病毒与包膜病毒的吸附均通过包膜刺突与宿主受体结合",
+          "rationale": "裸露病毒没有包膜和包膜刺突，其吸附依赖于衣壳表面的特定结构或纤维蛋白。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "吸附需要病毒配体与宿主细胞受体的特异性结合。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "病毒穿入（Penetration）与脱壳（Uncoating）是复制周期的重要步骤。下列关于这两个阶段的描述，正确的是？",
+      "answerOptions": [
+        {
+          "text": "多数病毒穿入后在细胞溶酶体酶的作用下脱壳，释放出核酸",
+          "rationale": "细胞溶酶体内的水解酶可降解衣壳蛋白，使病毒核酸游离出来。",
+          "isCorrect": true
+        },
+        {
+          "text": "脱壳完成后，完整病毒颗粒的数量在细胞内会显著增加",
+          "rationale": "脱壳导致完整病毒结构解体，使得细胞内查不到完整病毒颗粒，进入隐蔽期。",
+          "isCorrect": false
+        },
+        {
+          "text": "包膜病毒穿入均通过受体介导的胞饮作用，裸露病毒均通过膜融合",
+          "rationale": "包膜病毒常通过膜融合或胞饮穿入，而裸露病毒通常通过胞饮或直接穿入。",
+          "isCorrect": false
+        },
+        {
+          "text": "所有病毒必须进入细胞核内才能发生脱壳释放核酸",
+          "rationale": "大部分病毒的脱壳过程在细胞质的溶酶体或细胞质基质中完成。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "思考溶酶体在剥离衣壳蛋白中的作用以及脱壳对完整病毒颗粒存在状态的影响。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "病毒复制周期中的“隐蔽期”（Eclipse period）是指哪一特定阶段？",
+      "answerOptions": [
+        {
+          "text": "从脱壳后进入生物合成，到细胞内重新装配出成熟病毒颗粒之前的阶段",
+          "rationale": "在此阶段，病毒脱去了衣壳结构，在细胞内检测不到完整的病毒颗粒与感染性。",
+          "isCorrect": true
+        },
+        {
+          "text": "病毒吸附在细胞表面但尚未穿入细胞膜的阶段",
+          "rationale": "吸附阶段病毒颗粒仍保持完整形态，尚未进入隐蔽期。",
+          "isCorrect": false
+        },
+        {
+          "text": "病毒装配成熟后积聚在细胞内等待释放的阶段",
+          "rationale": "装配完成后，细胞内已存在完整子代病毒颗粒，隐蔽期已经结束。",
+          "isCorrect": false
+        },
+        {
+          "text": "病毒感染非容纳细胞导致复制中断的阶段",
+          "rationale": "非容纳细胞中的复制中断属于顿挫感染，而非正常复制周期的隐蔽期。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "注意隐蔽期内“查不到完整病毒颗粒和抗原，没有感染性”的特征。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "生物合成（Biosynthesis）是病毒增殖的核心。下列关于不同类型病毒生物合成场所的叙述，正确的有？",
+      "answerOptions": [
+        {
+          "text": "除痘病毒外，绝大多数 DNA 病毒在细胞核内完成 DNA 复制和 RNA 转录",
+          "rationale": "DNA 病毒（如疱疹病毒、腺病毒）通常利用细胞核内的转录与复制系统。",
+          "isCorrect": true
+        },
+        {
+          "text": "DNA 病毒的蛋白质合成是在宿主细胞的细胞质内完成的",
+          "rationale": "mRNA 转录后需出核，利用细胞质中的核糖体合成衣壳及相关蛋白。",
+          "isCorrect": true
+        },
+        {
+          "text": "RNA 病毒的核酸复制与蛋白质合成多在细胞质内完成",
+          "rationale": "绝大多数 RNA 病毒的整个生物合成阶段均局限在宿主细胞质中。",
+          "isCorrect": true
+        },
+        {
+          "text": "正黏病毒的基因组复制和 $mRNA$ 转录是在细胞核内完成的",
+          "rationale": "正黏病毒（如流感病毒）是 RNA 病毒中的特例，其基因组复制发生在核内。",
+          "isCorrect": true
+        }
+      ],
+      "hint": "对比 DNA 病毒与 RNA 病毒在细胞核和细胞质中的分工，注意痘病毒与正黏病毒等特例。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "下列关于裸露病毒与包膜病毒在装配与释放（Assembly and release）方式上的对比，正确的是？",
+      "answerOptions": [
+        {
+          "text": "裸露病毒多因宿主细胞破裂而释放；包膜病毒主要以出芽方式释放，细胞通常不立即死亡",
+          "rationale": "裸露病毒积聚导致细胞溶解破裂，包膜病毒则利用出芽穿过宿主膜并包裹膜成分。",
+          "isCorrect": true
+        },
+        {
+          "text": "裸露病毒通过出芽方式获取包膜；包膜病毒则导致细胞溶解破裂释放",
+          "rationale": "该描述颠倒了裸露病毒与包膜病毒的释放机制。",
+          "isCorrect": false
+        },
+        {
+          "text": "所有包膜病毒的包膜成分均仅来自宿主细胞的内质网膜",
+          "rationale": "包膜主要来自细胞膜，个别病毒（如疱疹病毒）来自细胞核膜。",
+          "isCorrect": false
+        },
+        {
+          "text": "包膜病毒在释放过程中必须杀死宿主细胞才能穿过细胞膜",
+          "rationale": "出芽释放是一个相对温和的过程，通常不会立刻导致宿主细胞死亡。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "回想细胞溶解（裂解）与出芽（Budding）各自对应的病毒类型。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "当病毒感染“非容纳细胞”（Non-permissive cell）时，通常会引发哪种增殖现象？",
+      "answerOptions": [
+        {
+          "text": "顿挫感染（Abortive infection）",
+          "rationale": "非容纳细胞无法提供病毒复制所需的全部必需条件，导致不能产生有感染性的子代病毒。",
+          "isCorrect": true
+        },
+        {
+          "text": "稳定持续感染（Persistent infection）",
+          "rationale": "持续感染需要病毒在容纳细胞内完成完整的复制周期。",
+          "isCorrect": false
+        },
+        {
+          "text": "缺陷病毒的互补增殖",
+          "rationale": "互补增殖需要辅助病毒提供缺陷基因的功能，与细胞是否为容纳细胞是不同维度的概念。",
+          "isCorrect": false
+        },
+        {
+          "text": "细胞迅速融合并大量释放成熟病毒体",
+          "rationale": "非容纳细胞中无法完成成熟病毒体的装配与大量释放。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "重点关注“宿主细胞不能提供必需条件”所导致的感染结局。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列关于“顿挫感染”（Abortive infection）的说法，正确的有？",
+      "answerOptions": [
+        {
+          "text": "发生的根本原因在于宿主细胞为非容纳细胞，无法提供复制所需的全部必需条件",
+          "rationale": "非容纳细胞缺乏病毒复制所需的酶、能量或特定成分，导致复制受阻。",
+          "isCorrect": true
+        },
+        {
+          "text": "顿挫感染中，可能合成了部分或全部病毒成分，但不能正常装配释放感染性颗粒",
+          "rationale": "顿挫感染的特征之一就是虽有成分合成，却无法形成成熟且具感染性的子代颗粒。",
+          "isCorrect": true
+        },
+        {
+          "text": "顿挫感染过程中产生的无感染性颗粒被称为卫星病毒",
+          "rationale": "卫星病毒是需要辅助病毒才能复制的亚病毒，并非顿挫感染产生的产物。",
+          "isCorrect": false
+        },
+        {
+          "text": "容纳细胞（Permissive cell）能为病毒增殖提供必要条件，造成正常复制感染",
+          "rationale": "容纳细胞具备病毒增殖所需的环境，可使病毒完成复制周期。",
+          "isCorrect": true
+        }
+      ],
+      "hint": "区分“容纳细胞”与“非容纳细胞”，以及顿挫感染中病毒成分的合成与装配状态。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "缺陷病毒（Defective virus）是指基因组不完整的病毒。下列关于缺陷病毒及其辅助病毒关系的叙述，正确的是？",
+      "answerOptions": [
+        {
+          "text": "缺陷病毒由于基因组缺失不能独立复制，必须在辅助病毒存在时才能增殖",
+          "rationale": "缺陷病毒缺乏复制必需的基因，需依赖辅助病毒（Helper virus）提供缺失的蛋白质或酶。",
+          "isCorrect": true
+        },
+        {
+          "text": "缺陷病毒能够自主编码完整的衣壳蛋白并独立完成细胞外释放",
+          "rationale": "缺陷基因组无法自主编码完成复制与组装所需的全部蛋白质。",
+          "isCorrect": false
+        },
+        {
+          "text": "缺陷性干扰颗粒（DIP）与野生型病毒混合感染时，会显著促进野生型病毒的增殖",
+          "rationale": "DIP 在争夺复制条件时会干扰同种野生型病毒的增殖。",
+          "isCorrect": false
+        },
+        {
+          "text": "缺陷病毒与辅助病毒必须属于完全不同科属的病毒",
+          "rationale": "许多缺陷颗粒（如 DIP）源自同种野生型病毒基因组突变或缺失。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "思考缺陷病毒对辅助病毒（Helper virus）在基因功能补充上的依赖关系。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "亚病毒（Subviruses）是比病毒更简单的传染性因子。下列关于卫星病毒与朊粒（Prion）的描述，正确的有？",
+      "answerOptions": [
+        {
+          "text": "卫星病毒 RNA 与辅助病毒基因组无同源性，复制时常干扰辅助病毒增殖",
+          "rationale": "这是卫星病毒的区别于一般缺陷病毒的典型特征。",
+          "isCorrect": true
+        },
+        {
+          "text": "朊粒是一种不含核酸、由宿主细胞基因编码的构象异常蛋白质",
+          "rationale": "朊粒（PrP）的化学本质是构象异常的蛋白质，不含任何核酸成分。",
+          "isCorrect": true
+        },
+        {
+          "text": "朊粒具有自我复制能力和传染性，是人和动物传染性海绵状脑病的病原体",
+          "rationale": "朊粒可导致克-雅病、牛海绵状脑病（疯牛病）等致死性中枢神经系统疾病。",
+          "isCorrect": true
+        },
+        {
+          "text": "丁型肝炎病毒（HDV）被认为是一种兼具卫星病毒和类病毒特点的特殊嵌合 RNA 分子",
+          "rationale": "HDV 需要乙型肝炎病毒（HBV）提供 HBsAg 包膜，具备特殊的嵌合分子结构。",
+          "isCorrect": true
+        }
+      ],
+      "hint": "回想亚病毒各类分类（卫星病毒、朊粒、HDV）的独特结构与致病特点。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "流感病毒表面的血凝素等刺突具有重要生物学功能。关于流感病毒刺突的化学本质与结构，下列说法正确的是？",
+      "answerOptions": [
+        {
+          "text": "由天门冬酰胺连接碳水化合物形成的糖蛋白组成",
+          "rationale": "源材料明确指出流感病毒刺突是由天门冬酰胺连接碳水化合物形成的糖蛋白组成。",
+          "isCorrect": true
+        },
+        {
+          "text": "由游离的脂质双分子层与基质蛋白直接结合而成",
+          "rationale": "刺突是镶嵌在包膜上的糖蛋白突起，并非脂质双分子层本身。",
+          "isCorrect": false
+        },
+        {
+          "text": "主要成分是纯蛋白质，不含任何糖基化修饰",
+          "rationale": "刺突属于糖蛋白（Glycoprotein），含有碳水化合物修饰。",
+          "isCorrect": false
+        },
+        {
+          "text": "属于病毒的核衣壳核心蛋白质，位于核酸链内部",
+          "rationale": "刺突位于包膜最外层，暴露于病毒颗粒表面。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "注意刺突（Spike）属于糖蛋白以及天门冬酰胺连接的糖基化特点。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "当两种不同的病毒同时感染同一个宿主细胞时，可能发生“干扰现象”（Interference）。下列关于病毒干扰现象的说法，正确的有？",
+      "answerOptions": [
+        {
+          "text": "一种病毒可以抑制另一种病毒在同一细胞内的增殖",
+          "rationale": "这是病毒干扰现象的基本定义。",
+          "isCorrect": true
+        },
+        {
+          "text": "缺陷性干扰颗粒（DIP）可以干扰同种野生型病毒的复制",
+          "rationale": "DIP 能够争夺病毒复制所需的酶与原料，从而抑制亲本野生型病毒。",
+          "isCorrect": true
+        },
+        {
+          "text": "卫星病毒在利用辅助病毒复制时，往往会干扰辅助病毒的增殖",
+          "rationale": "卫星病毒的增殖常对辅助病毒的复制产生竞争性抑制。",
+          "isCorrect": true
+        },
+        {
+          "text": "干扰现象仅发生在不同科属的病毒之间，同种病毒间绝不会发生",
+          "rationale": "同种病毒的缺陷颗粒（DIP）对野生型病毒同样会产生干扰。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "思考干扰现象的定义以及缺陷颗粒（DIP）和卫星病毒对正常病毒复制的影响。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在比较微生物对理化因素的敏感性时，病毒展现出与其他微生物不同的特性。下列说法符合源材料的是？",
+      "answerOptions": [
+        {
+          "text": "病毒在细胞内对抗生素不敏感，但对干扰素敏感",
+          "rationale": "病毒缺乏抗生素作用的靶点（如细胞壁、70S核糖体），但干扰素能抑制其在细胞内增殖。",
+          "isCorrect": true
+        },
+        {
+          "text": "病毒与细菌一样，均可以在无活细胞的人工培养基上良好生长",
+          "rationale": "病毒具有严格的活细胞内寄生性，不能在无活细胞的人工培养基上增殖。",
+          "isCorrect": false
+        },
+        {
+          "text": "包膜病毒对乙醚等脂溶剂不敏感，因而比裸露病毒更耐受环境变化",
+          "rationale": "包膜含有脂质，乙醚可破坏包膜使其灭活；裸露病毒往往对干、热及脂溶剂更耐受。",
+          "isCorrect": false
+        },
+        {
+          "text": "干扰素能直接灭活细胞外成熟的完整病毒颗粒（病毒体）",
+          "rationale": "干扰素不直接作用于细胞外病毒体，而是通过诱导宿主细胞产生抗病毒蛋白来抑制复制。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "比较病毒与细菌在培养基生长条件、抗生素/干扰素敏感性上的根本差异。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "噬菌体（Bacteriophage）作为感染细菌的病毒，其典型形态特征和衣壳对称类型通常为？",
+      "answerOptions": [
+        {
+          "text": "形态呈蝌蚪状，结构属于复合对称型",
+          "rationale": "噬菌体大多具有头部（20面体）和尾部（螺旋），外观呈蝌蚪状，属于复合对称。",
+          "isCorrect": true
+        },
+        {
+          "text": "形态呈球形，结构属于 20 面体立体对称型",
+          "rationale": "大多数人和动物病毒呈球形，而典型噬菌体为蝌蚪状复合对称。",
+          "isCorrect": false
+        },
+        {
+          "text": "形态呈砖块状，结构属于螺旋对称型",
+          "rationale": "痘病毒形态呈砖块状，噬菌体则为蝌蚪状。",
+          "isCorrect": false
+        },
+        {
+          "text": "形态呈杆状，结构属于无对称型",
+          "rationale": "烟草花叶病毒等植物病毒多呈杆状，噬菌体属于复合对称结构。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "回想 T2 噬菌体的结构示意图及其头部与尾部的组合特征。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "病毒蛋白质由病毒基因编码，具有特异性。关于病毒蛋白质的功能，下列描述正确的有？",
+      "answerOptions": [
+        {
+          "text": "衣壳蛋白具有保护核酸免受环境中核酸酶破坏的作用",
+          "rationale": "衣壳外壳能物理性阻隔外源核酸酶对病毒核心基因组的降解。",
+          "isCorrect": true
+        },
+        {
+          "text": "蛋白质是病毒主要的抗原成分，可刺激机体产生免疫应答",
+          "rationale": "衣壳蛋白及包膜刺突蛋白是诱导机体产生中和抗体等免疫反应的主要抗原。",
+          "isCorrect": true
+        },
+        {
+          "text": "包膜上的刺突糖蛋白可介导病毒与宿主细胞受体结合",
+          "rationale": "刺突充发特异性配体作用，介导病毒吸附并辅助穿入感染。",
+          "isCorrect": true
+        },
+        {
+          "text": "病毒核心内部仅包含核酸，绝不含有任何蛋白质成分",
+          "rationale": "核心中除了核酸外，往往还含有少量的蛋白质，如逆转录酶或聚合酶等。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "注意蛋白质在保护、抗原性、吸附中的作用，以及核心内可能存在的酶类成分。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "腺病毒（Adenovirus）属于 20 面体立体对称的裸露病毒。关于腺病毒的结构与辅助特征，下列说法正确的是？",
+      "answerOptions": [
+        {
+          "text": "其 20 面体的顶角上带有触须样纤维，作为 VAP 吸附宿主细胞",
+          "rationale": "腺病毒顶角上的触须样纤维（Antennal fiber）是其特有的辅助吸附与致病结构。",
+          "isCorrect": true
+        },
+        {
+          "text": "含有厚重的脂质包膜，因而对乙醚等脂溶剂极度敏感",
+          "rationale": "腺病毒是裸露病毒，不含脂质包膜。",
+          "isCorrect": false
+        },
+        {
+          "text": "基因组复制和蛋白质合成完全在宿主细胞质内完成",
+          "rationale": "腺病毒属于 DNA 病毒，其 DNA 复制发生在宿主细胞核内。",
+          "isCorrect": false
+        },
+        {
+          "text": "衣壳呈螺旋对称，由壳粒盘旋包裹 DNA 链而成",
+          "rationale": "腺病毒衣壳属于 20 面体立体对称型，而非螺旋对称。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "思考腺病毒的对称类型以及顶角上的特异性纤维突起。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "人和动物的 DNA 病毒多数为双链 DNA（dsDNA）病毒，如疱疹病毒和腺病毒。关于 dsDNA 病毒生物合成的规律，下列说法正确的是？",
+      "answerOptions": [
+        {
+          "text": "除痘病毒外，绝大多数 DNA 病毒在细胞核内完成 DNA 复制及 RNA 转录",
+          "rationale": "痘病毒是特例（在细胞质内复制），其余 dsDNA 病毒的基因组转录与复制均在细胞核内发生。",
+          "isCorrect": true
+        },
+        {
+          "text": "dsDNA 病毒的基因组复制和转录完全在胞质溶酶体中进行",
+          "rationale": "溶酶体是降解衣壳的场所，DNA 复制与转录是在细胞核中利用宿主系统完成的。",
+          "isCorrect": false
+        },
+        {
+          "text": "dsDNA 病毒的蛋白质合成也是在细胞核内直接完成的",
+          "rationale": "蛋白质翻译必须在细胞质内的核糖体上完成。",
+          "isCorrect": false
+        },
+        {
+          "text": "dsDNA 病毒只能通过二分裂方式产生双链子代 DNA",
+          "rationale": "病毒通过核酸模板自我复制方式产生子代，不进行细胞二分裂。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "注意 DNA 病毒复制场所的普遍规律（细胞核）以及痘病毒这一特例。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列关于 PrP（朊粒/朊蛋白）与普通病毒异同点的比较，正确的有？",
+      "answerOptions": [
+        {
+          "text": "朊粒不含核酸，而普通病毒必须含有 DNA 或 RNA 中的一种",
+          "rationale": "朊粒打破了“传染性病原体必含核酸”的传统概念，属于异常构象蛋白。",
+          "isCorrect": true
+        },
+        {
+          "text": "朊粒是由宿主细胞基因编码的构象异常蛋白质",
+          "rationale": "朊粒蛋白（PrP）的基因来自于宿主基因组，因折叠构象异常而致病。",
+          "isCorrect": true
+        },
+        {
+          "text": "朊粒具有自我复制能力和传染性",
+          "rationale": "朊粒能诱导正常构象蛋白发生构象改变，实现自我增殖并传播。",
+          "isCorrect": true
+        },
+        {
+          "text": "国际病毒分类委员会已将朊粒完全移出亚病毒范畴，不再归为微生物",
+          "rationale": "虽然有争议，但目前国际病毒分类委员会仍将朊粒列入亚病毒范畴。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "关注朊粒在核酸构成、基因来源及国际病毒分类中的归类状态。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    }
+  ],
+  "topics": {
+    "covered": [
+      "病毒的定义与独特性状",
+      "病毒的大小与形态结构",
+      "病毒的化学组成与核酸特点",
+      "病毒的复制周期",
+      "病毒的异常增殖与亚病毒"
+    ],
+    "followUp": [
+      "病毒与宿主细胞的相互作用机制",
+      "病毒感染的致病机制与实验室诊断",
+      "干扰素的抗病毒作用机制",
+      "朊粒及相关传染性海绵状脑病的防治"
+    ]
+  }
+}

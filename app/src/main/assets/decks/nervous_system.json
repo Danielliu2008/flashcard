@@ -1,0 +1,1741 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经系统构成 · ★★★】\n神经系统按分布部位不同可以分为哪两个主要部分？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "中枢神经系统（包括脑和脊髓）与周围神经系统（包括脑神经和脊神经）。"
+          }
+        ]
+      },
+      "c": 1,
+      "pointType": "神经系统构成",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经系统构成 · ★★★】\n在周围神经系统中，根据支配对象和功能的不同，神经可分为哪两类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "躯体神经（分布于体表、骨、关节和骨骼肌）与内脏神经（分布于内脏、心血管、平滑肌和腺体）。"
+          }
+        ]
+      },
+      "c": 2,
+      "pointType": "神经系统构成",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基本概念 · ★★★】\n神经系统的结构和功能基本单位是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "神经元（神经细胞）。"
+          }
+        ]
+      },
+      "c": 3,
+      "pointType": "基本概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经元结构 · ★★★】\n神经元的基本构造包含哪两大部分？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胞体（代谢中心）和突起（包括树突和轴突）。"
+          }
+        ]
+      },
+      "c": 4,
+      "pointType": "神经元结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经元结构 · ★★★】\n神经元胞体内在光镜下呈现嗜碱性的特有结构是什么？其主要成分是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "尼氏体（Nissl body），主要由粗面内质网和游离核糖体组成，负责合成蛋白质。"
+          }
+        ]
+      },
+      "c": 5,
+      "pointType": "神经元结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经元结构 · ★★☆】\n神经元胞体中起支撑和协助胞内大分子运输作用的特有结构是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "神经原纤维（由神经丝和微管聚集成束形成）。"
+          }
+        ]
+      },
+      "c": 6,
+      "pointType": "神经元结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经元结构 · ★★★】\n神经元中主要负责接受和整合刺激，并将冲动传向胞体的突起是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "树突。"
+          }
+        ]
+      },
+      "c": 7,
+      "pointType": "神经元结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经元结构 · ★★★】\n神经元中主要负责传导神经冲动（动作电位）离开胞体的突起是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "轴突。"
+          }
+        ]
+      },
+      "c": 8,
+      "pointType": "神经元结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经元结构 · ★★☆】\n神经元轴突起始处缺乏尼氏体的锥形区域称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "轴丘（轴突始段是产生动作电位的主要部位）。"
+          }
+        ]
+      },
+      "c": 9,
+      "pointType": "神经元结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经元分类 · ★★☆】\n假单极神经元主要分布在人体的什么部位？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脑神经节和脊神经节内的感觉神经元。"
+          }
+        ]
+      },
+      "c": 10,
+      "pointType": "神经元分类",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经元分类 · ★★★】\n按功能和神经冲动传导方向，神经元可分为哪三类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "感觉神经元（传入神经元）、运动神经元（传出神经元）和联络神经元（中间神经元）。"
+          }
+        ]
+      },
+      "c": 11,
+      "pointType": "神经元分类",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经元分类 · ★★☆】\n人体神经系统中数量最多（占99%以上）的神经元功能类型是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "联络神经元（中间神经元）。"
+          }
+        ]
+      },
+      "c": 12,
+      "pointType": "神经元分类",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【胶质细胞功能 · ★★★】\n中枢神经系统（CNS）中的神经胶质细胞包含哪四种类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "星形胶质细胞、少突胶质细胞、小胶质细胞和室管膜细胞。"
+          }
+        ]
+      },
+      "c": 13,
+      "pointType": "胶质细胞功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【胶质细胞功能 · ★★★】\n周围神经系统（PNS）中的神经胶质细胞主要包括哪两种？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "施万细胞（雪旺细胞）和卫星细胞（被囊细胞）。"
+          }
+        ]
+      },
+      "c": 14,
+      "pointType": "胶质细胞功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【胶质细胞功能 · ★★★】\n在周围神经系统（PNS）中形成有髓神经纤维髓鞘的细胞是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "施万细胞（雪旺细胞）。"
+          }
+        ]
+      },
+      "c": 15,
+      "pointType": "胶质细胞功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【胶质细胞功能 · ★★★】\n在中枢神经系统（CNS）中形成髓鞘的神经胶质细胞是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "少突胶质细胞。"
+          }
+        ]
+      },
+      "c": 16,
+      "pointType": "胶质细胞功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【胶质细胞功能 · ★★☆】\n中枢神经系统中具有吞噬细菌和变性组织碎片功能的胶质细胞是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "小胶质细胞。"
+          }
+        ]
+      },
+      "c": 17,
+      "pointType": "胶质细胞功能",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血脑屏障 · ★★★】\n参与构成“血-脑屏障”（Blood-Brain Barrier）的主要胶质细胞是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "星形胶质细胞（其脚板覆盖毛细血管表面）。"
+          }
+        ]
+      },
+      "c": 18,
+      "pointType": "血脑屏障",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【胶质细胞功能 · ★★☆】\n位于周围神经节内，包裹神经元胞体并起营养与保护作用的胶质细胞是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "卫星细胞（被囊细胞）。"
+          }
+        ]
+      },
+      "c": 19,
+      "pointType": "胶质细胞功能",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【化学突触传递 · ★★★】\n神经系统中最主要、最普遍的突触传递形式是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "化学突触（以化学递质作为媒介进行单向传递）。"
+          }
+        ]
+      },
+      "c": 20,
+      "pointType": "化学突触传递",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【化学突触传递 · ★★★】\n化学突触的基本结构包含哪三个部分？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "突触前成分、突触间隙和突触后成分。"
+          }
+        ]
+      },
+      "c": 21,
+      "pointType": "化学突触传递",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基本概念 · ★★★】\n在中枢神经系统内，神经元胞体及其树突聚集、新鲜标本上色泽灰暗的部位称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "灰质（在脑和皮质表层又称为皮质）。"
+          }
+        ]
+      },
+      "c": 22,
+      "pointType": "基本概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基本概念 · ★★★】\n在中枢神经系统内，神经纤维聚集、因含富脂质的髓鞘而色泽白亮的部位称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "白质（在大脑和小脑皮质深部又称为髓质）。"
+          }
+        ]
+      },
+      "c": 23,
+      "pointType": "基本概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基本概念 · ★★★】\n在中枢神经系统内，形态和功能相似的神经元胞体聚集成团或柱状的结构称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "神经核。"
+          }
+        ]
+      },
+      "c": 24,
+      "pointType": "基本概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基本概念 · ★★★】\n在周围神经系统内，神经元胞体聚集形成的膨大结构称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "神经节。"
+          }
+        ]
+      },
+      "c": 25,
+      "pointType": "基本概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基本概念 · ★★★】\n在中枢神经系统白质中，起止、行程和功能基本相同的神经纤维集合称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "纤维束（传导束）。"
+          }
+        ]
+      },
+      "c": 26,
+      "pointType": "基本概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基本概念 · ★★★】\n神经系统活动的基本方式是什么？其结构基础是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "基本活动方式是反射；结构基础是反射弧。"
+          }
+        ]
+      },
+      "c": 27,
+      "pointType": "基本概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【核心概念 · ★★★】\n反射弧的五个基本组成部分按兴奋传导顺序依次是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "感受器 $\\rightarrow$ 传入神经 $\\rightarrow$ 神经中枢 $\\rightarrow$ 传出神经 $\\rightarrow$ 效应器。"
+          }
+        ]
+      },
+      "c": 28,
+      "pointType": "核心概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊髓解剖 · ★★★】\n成人脊髓下端平对哪一椎骨水平？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "第1腰椎（L1）下缘。"
+          }
+        ]
+      },
+      "c": 29,
+      "pointType": "脊髓解剖",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊髓解剖 · ★★★】\n人体脊髓共分为多少个节段？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "31个节段（颈节8个、胸节12个、腰节5个、骶节5个、尾节1个）。"
+          }
+        ]
+      },
+      "c": 30,
+      "pointType": "脊髓解剖",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊神经解剖 · ★★★】\n脊髓表面连有脊神经根，其中前根和后根的生理性质分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "前根为运动性（起自脊髓前角/侧角），后根为感觉性（有脊神经节）。"
+          }
+        ]
+      },
+      "c": 31,
+      "pointType": "脊神经解剖",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊神经解剖 · ★★☆】\n脊神经前根与后根在何处汇合成为混合性的脊神经干？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "椎间孔。"
+          }
+        ]
+      },
+      "c": 32,
+      "pointType": "脊神经解剖",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊神经解剖 · ★★★】\n人体脊神经共有多少对？其中颈神经共有多少对？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脊神经共31对；其中颈神经有8对（C1–C8）。"
+          }
+        ]
+      },
+      "c": 33,
+      "pointType": "脊神经解剖",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊髓结构 · ★★★】\n在脊髓横切面上，灰质和白质的位置分布关系是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "灰质位于内部（呈“H”形），白质包绕在灰质外周。"
+          }
+        ]
+      },
+      "c": 34,
+      "pointType": "脊髓结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊髓结构 · ★★★】\n脊髓灰质前角内的神经元属于什么性质？支配什么器官？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "躯体运动神经元，支配骨骼肌的随意运动。"
+          }
+        ]
+      },
+      "c": 35,
+      "pointType": "脊髓结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊髓结构 · ★★★】\n脊髓胸腰部（T1–L3）中间外侧核包含什么神经的低级中枢？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "交感神经节前神经元胞体（交感神经低级中枢）。"
+          }
+        ]
+      },
+      "c": 36,
+      "pointType": "脊髓结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊髓结构 · ★★★】\n脊髓骶副交感核（S2–S4）包含什么神经的低级中枢？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "副交感神经低级中枢。"
+          }
+        ]
+      },
+      "c": 37,
+      "pointType": "脊髓结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脑干解剖 · ★★★】\n脑干自下而上由哪三部分共同组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "延髓、脑桥和中脑。"
+          }
+        ]
+      },
+      "c": 38,
+      "pointType": "脑干解剖",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【生命中枢 · ★★★】\n人体维持基本呼吸节律、心跳和血压等生命活动的中枢位于脑干的哪一部分？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "延髓。"
+          }
+        ]
+      },
+      "c": 39,
+      "pointType": "生命中枢",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脑干与小脑 · ★★☆】\n脑干背侧通过什么结构与小脑相连？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "小脑脚（上脚、中脚、下脚）。"
+          }
+        ]
+      },
+      "c": 40,
+      "pointType": "脑干与小脑",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【小脑功能 · ★★★】\n小脑的主要生理功能包括哪三个方面？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "维持身体平衡、调节肌张力以及协调随意运动。"
+          }
+        ]
+      },
+      "c": 41,
+      "pointType": "小脑功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【小脑功能 · ★★★】\n一侧小脑损伤后，患者出现的运动协调障碍和肌张力减退发生在身体的哪一侧？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "同侧（同侧肢体共济失调）。"
+          }
+        ]
+      },
+      "c": 42,
+      "pointType": "小脑功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【间脑解剖 · ★★★】\n间脑位于中脑和端脑之间，主要包含哪两个最核心的结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "背侧丘脑（丘脑）和下丘脑。"
+          }
+        ]
+      },
+      "c": 43,
+      "pointType": "间脑解剖",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【间脑解剖 · ★★★】\n背侧丘脑在躯体感觉传导通路中扮演什么功能角色？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "各种感觉（除嗅觉外）传导至大脑皮质前最后的中继站。"
+          }
+        ]
+      },
+      "c": 44,
+      "pointType": "间脑解剖",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【下丘脑中枢 · ★★★】\n体温调节中枢、摄食中枢及水平衡调节中枢等内脏活动的高级中枢位于何处？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "下丘脑。"
+          }
+        ]
+      },
+      "c": 45,
+      "pointType": "下丘脑中枢",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【大脑皮质 · ★★★】\n大脑半球表面分为哪五个叶？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "额叶、顶叶、颞叶、枕叶和岛叶。"
+          }
+        ]
+      },
+      "c": 46,
+      "pointType": "大脑皮质",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【大脑机能定位 · ★★★】\n大脑皮质的躯体运动中枢主要位于何处？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "中央前回和中央旁小叶前部。"
+          }
+        ]
+      },
+      "c": 47,
+      "pointType": "大脑机能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【大脑机能定位 · ★★★】\n大脑皮质躯体运动中枢对躯体骨骼肌运动的支配有何特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "交叉（对侧）支配、倒置分布（但头面部本身投影是正立的）。"
+          }
+        ]
+      },
+      "c": 48,
+      "pointType": "大脑机能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【大脑机能定位 · ★★★】\n大脑皮质的躯体感觉中枢主要位于何处？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "中央后回和中央旁小叶后部。"
+          }
+        ]
+      },
+      "c": 49,
+      "pointType": "大脑机能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【大脑机能定位 · ★★★】\n一侧大脑半球躯体感觉中枢受损后，会导致身体哪一侧发生感觉障碍？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "对侧（对侧肢体感觉障碍）。"
+          }
+        ]
+      },
+      "c": 50,
+      "pointType": "大脑机能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【大脑机能定位 · ★★★】\n运动性语言中枢（说话中枢 / Broca区）位于大脑皮质的哪个部位？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "优势半球额下回后部（受损后表现为能听懂他人说话，但自己无法发音或说话）。"
+          }
+        ]
+      },
+      "c": 51,
+      "pointType": "大脑机能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【大脑机能定位 · ★★★】\n听觉性语言中枢（Wernicke区）位于大脑皮质的哪个部位？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "优势半球颞上回后部（受损后能听到声音，但听不懂语言的含义）。"
+          }
+        ]
+      },
+      "c": 52,
+      "pointType": "大脑机能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基底核 · ★★☆】\n大脑半球基底核中，纹状体（Striatum）由哪两部分组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "尾状核和豆状核（豆状核又可分为壳核和苍白球）。"
+          }
+        ]
+      },
+      "c": 53,
+      "pointType": "基底核",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【大脑白质 · ★★☆】\n连接两侧大脑半球最大的连合纤维结构是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胼胝体。"
+          }
+        ]
+      },
+      "c": 54,
+      "pointType": "大脑白质",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【内囊解剖 · ★★★】\n位于尾状核、背侧丘脑与豆状核之间的“V”形投射纤维板称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "内囊（Internal capsule）。"
+          }
+        ]
+      },
+      "c": 55,
+      "pointType": "内囊解剖",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【内囊损伤 · ★★★】\n一侧内囊损伤时，临床上常出现的“三偏”症状包括哪三项？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "对侧偏瘫、对侧偏身感觉障碍、对侧同向偏盲。"
+          }
+        ]
+      },
+      "c": 56,
+      "pointType": "内囊损伤",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脑脊膜 · ★★★】\n包绕脑和脊髓表面的三层被膜由外向内依次是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "硬膜（硬脑膜/硬脊膜）、蛛网膜、软膜（软脑膜/软脊膜）。"
+          }
+        ]
+      },
+      "c": 57,
+      "pointType": "脑脊膜",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脑脊膜与脑脊液 · ★★★】\n蛛网膜下腔位于脑和脊髓被膜的哪两层之间？腔内充盈什么液体？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "位于蛛网膜与软膜之间；腔内充盈脑脊液（CSF）。"
+          }
+        ]
+      },
+      "c": 58,
+      "pointType": "脑脊膜与脑脊液",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脑脊液循环 · ★★★】\n脑脊液主要是由脑室内的什么结构产生的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脉络丛。"
+          }
+        ]
+      },
+      "c": 59,
+      "pointType": "脑脊液循环",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脑脊液循环 · ★★★】\n脑脊液循环流经蛛网膜下腔后，最终通过什么结构渗入硬脑膜静脉窦回归血液？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "蛛网膜粒。"
+          }
+        ]
+      },
+      "c": 60,
+      "pointType": "脑脊液循环",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床应用 · ★★☆】\n临床上进行腰椎穿刺抽取脑脊液时，常选择哪个椎间隙进针？为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "常选择第3–4腰椎间隙（L3–L4）或第4–5腰椎间隙（L4–L5）；因为成人脊髓下端终于第1腰椎，该处蛛网膜下腔内只有马尾，进针不会损伤脊髓。"
+          }
+        ]
+      },
+      "c": 61,
+      "pointType": "临床应用",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脑血管 · ★★☆】\n供应脑部血液的两大动脉来源是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "颈内动脉（供应大脑半球前2/3和间脑前部）和椎动脉（供应大脑半球后1/3、脑干和小脑）。"
+          }
+        ]
+      },
+      "c": 62,
+      "pointType": "脑血管",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脑血管 · ★★☆】\n位于颅底的“大脑动脉环”（Willis环）有何重要生理意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "沟通两侧颈内动脉系与椎-基底动脉系，当某干线血管狭窄或阻塞时，可发挥侧支循环代偿作用。"
+          }
+        ]
+      },
+      "c": 63,
+      "pointType": "脑血管",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【自主神经系统 · ★★★】\n周围神经系统中的内脏运动神经（自主神经）包含哪两个互相拮抗的系统？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "交感神经系统和副交感神经系统。"
+          }
+        ]
+      },
+      "c": 64,
+      "pointType": "自主神经系统",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【自主神经系统 · ★★★】\n内脏运动神经与躯体运动神经在传导通路组成上有何根本区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "躯体运动神经从中枢到效应器只需1个神经元；内脏运动神经需要2个神经元（节前神经元与节后神经元，在自主神经节换元）。"
+          }
+        ]
+      },
+      "c": 65,
+      "pointType": "自主神经系统",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【自主神经系统 · ★★★】\n在安静或休息状态下，支配心脏的自主神经中哪一方占优势？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "副交感神经（迷走神经）占优势，使心跳减慢。"
+          }
+        ]
+      },
+      "c": 66,
+      "pointType": "自主神经系统",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【迷走神经 · ★★★】\n人体分布最广、支配绝大部分胸腹腔脏器的副交感脑神经是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "迷走神经（第X对脑神经）。"
+          }
+        ]
+      },
+      "c": 67,
+      "pointType": "迷走神经",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脑神经 · ★★★】\n人体脑神经共有多少对？其中支配眼球外肌运动的脑神经有哪三对？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脑神经共12对；支配眼外肌的有动眼神经（Ⅲ）、滑车神经（Ⅳ）和展神经（Ⅵ）。"
+          }
+        ]
+      },
+      "c": 68,
+      "pointType": "脑神经",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脑神经 · ★★☆】\n负责传导头面部皮肤一般感觉，并支配咀嚼肌运动的脑神经是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "三叉神经（第V对脑神经）。"
+          }
+        ]
+      },
+      "c": 69,
+      "pointType": "脑神经",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脑神经 · ★★☆】\n支配面部表情肌运动，并传导舌前2/3味觉的脑神经是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "面神经（第VII对脑神经）。"
+          }
+        ]
+      },
+      "c": 70,
+      "pointType": "脑神经",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脑室解剖 · ★★☆】\n第四脑室位于脑的哪些结构之间？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "位于延髓、脑桥与小脑之间（内含脑脊液）。"
+          }
+        ]
+      },
+      "c": 71,
+      "pointType": "脑室解剖",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经纤维 · ★★☆】\n在有髓神经纤维上，动作电位沿着节点跳跃式传导的结构基础是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "朗飞结（Ranvier结，无髓鞘包裹的轴突区域）。"
+          }
+        ]
+      },
+      "c": 72,
+      "pointType": "神经纤维",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经递质与受体 · ★★★】\n交感和副交感神经节前纤维释放的神经递质是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "乙酰胆碱（ACh），作用于节后神经元上的 $N_1$ 型胆碱受体。"
+          }
+        ]
+      },
+      "c": 73,
+      "pointType": "神经递质与受体",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经递质与受体 · ★★★】\n绝大多数交感神经节后纤维释放的神经递质是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "去甲肾上腺素（NE）。"
+          }
+        ]
+      },
+      "c": 74,
+      "pointType": "神经递质与受体",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经递质与受体 · ★★★】\n所有副交感神经节后纤维释放的神经递质是什么？其作用于效应器的受体是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "乙酰胆碱（ACh）；作用于效应器上的 M 型胆碱受体。"
+          }
+        ]
+      },
+      "c": 75,
+      "pointType": "神经递质与受体",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【内脏感觉特点 · ★★☆】\n内脏痛最显著的临床特点之一是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "定位不精确，常伴有牵涉痛（Referred pain），即内脏病变引起特定体表区域发生疼痛。"
+          }
+        ]
+      },
+      "c": 76,
+      "pointType": "内脏感觉特点",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【中枢功能了解 · ★☆☆】\n边缘系统（Limbic system）在功能上主要参与哪些生理活动？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "调控内脏活动、情绪反应、性行为以及学习与记忆。"
+          }
+        ]
+      },
+      "c": 77,
+      "pointType": "中枢功能了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【变性再生了解 · ★☆☆】\n当周围神经受损切断后，发生瓦勒变性（Wallerian degeneration）的区段发生在神经纤维的哪一端？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "与胞体断离的远侧段神经纤维。"
+          }
+        ]
+      },
+      "c": 78,
+      "pointType": "变性再生了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    }
+  ],
+  "topics": {
+    "covered": [
+      "神经系统概述与基本术语",
+      "神经元结构与分类",
+      "神经胶质细胞分类及功能",
+      "突触结构与神经冲动传导",
+      "脊髓解剖与脊神经",
+      "脑干、小脑与间脑",
+      "大脑皮质功能定位与基底核",
+      "脑脊膜、脑脊液循环与脑血管",
+      "自主神经系统与递质受体"
+    ],
+    "followUp": [
+      "动作电位产生与离子跨膜流动机制",
+      "常见脑神经损伤与临床定位诊断",
+      "锥体系与锥体外系运动传导通路",
+      "脑脊液循环障碍与脑积水病理机制"
+    ]
+  },
+  "id": "f6547ce8-694a-434e-a60e-b5f4fd98baca",
+  "title": "神经系统 闪卡"
+}

@@ -1,0 +1,666 @@
+{
+  "unit": "reproductive_system",
+  "title": "Unit 12 生殖系统 核心解剖与生理闪卡",
+  "flashcards": [
+    {
+      "c": "1",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "男性生殖系统的器官组成"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "内生殖器：生殖腺（睾丸）、输精管道（附睾、输精管、射精管、尿道）、附属腺体（精囊、前列腺、尿道球腺）；外生殖器：阴囊、阴茎。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "2",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "睾丸的微细结构与双重功能"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "表面被覆致密白膜，实质由曲细精管（生精小管，生成精子）和间质结缔组织（含Leydig间质细胞，合成睾酮）构成。兼具产生精子与雄激素功能。"
+          }
+        ]
+      },
+      "pointType": "组织学特征",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "3",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "精子发生（Spermatogenesis）的发育序列与染色体变化"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "精原细胞（46,XY有丝分裂） → 初级精母细胞（46,XY，完成第1次减数分裂） → 2个次级精母细胞（23,X / 23,Y，完成第2次减数分裂） → 4个精子细胞（23,单倍体） → 经变态变形成为成熟精子。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "4",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血-睾屏障（Blood-Testis Barrier）的微细构造与生理意义"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由毛细血管内皮及基膜、结缔组织界膜、生精小管基膜、支持细胞胞体及基部紧密连接构成。隔离生精上皮与体循环免疫细胞，防止单倍体自身抗原引发自身免疫性睾丸炎。"
+          }
+        ]
+      },
+      "pointType": "组织学特征",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "5",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "睾丸支持细胞（Sertoli细胞）的四大生理功能"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①支持与营养各级生精细胞；②参与构成血睾屏障；③吞噬精子细胞胞浆残滴；④合成雄激素结合蛋白（ABP，浓缩局部睾酮）与抑制素（反馈抑制垂体FSH）。"
+          }
+        ]
+      },
+      "pointType": "组织学特征",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "6",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "睾丸间质细胞（Leydig细胞）与睾酮的合成调控"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "位于生精小管之间疏松结缔组织中，胞浆富含滑面内质网与线粒体，受腺垂体LH（间质细胞刺激素ICSH）刺激利用胆固醇大量合成睾酮。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "7",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "雄激素（睾酮）的主要生理效应"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①诱导男性内外生殖器官分化与发育；②促进精子发生与成熟；③维持男性副性征与性欲；④强力促进蛋白质合成（同化激素）、增加骨骼肌量与红细胞生成。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "8",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "输精管的分部与精索的解剖概念"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "输精管长约50cm，分睾丸部、精索部（皮下部，结扎常选部位）、腹股沟管部和盆部。精索是从腹股沟管深环至睾丸上端的圆索状结构，包绕输精管、睾丸动静脉及神经鞘膜。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "9",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "前列腺的解剖位置、毗邻与临床意义"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "形如栗子，底向上贴膀胱颈，尖向下抵尿生殖膈，后邻直肠壶腹（直肠指检可触及中央沟）。前列腺肥大或增生压迫穿行其中的前列腺部尿道，导致进行性排尿困难。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "10",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "精液的液体成分构成与精子密度参考"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "精液由精子（占5%）和精浆组成。精浆来自精囊腺（60%~70%，富含果糖）、前列腺（25%~30%，弱酸偏碱、富含蛋白水解酶）和尿道球腺。正常精子浓度 ≥15×10⁶/ml。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": "11",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "女性生殖系统的器官组成"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "内生殖器：生殖腺（卵巢）、输卵管道（输卵管）、胎儿孕育器官（子宫）、性交排血管道（阴道）；外生殖器：阴阜、大阴唇、小阴唇、阴蒂、阴道前庭。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "12",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "卵巢的解剖形态与微细组织分区"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "扁卵圆形实质性器官，分皮质（浅层，含处于各发育阶段的卵泡、黄体、白体）和髓质（深层中央，含丰富血管、神经和淋巴管）。表面覆以单层生发上皮。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "13",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "卵泡发育的四个连续演变阶段"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①原始卵泡（中央初级卵母细胞+单层扁平卵泡细胞）；②初级卵泡（卵泡细胞增生为立方/复层，出现透明带）；③次级卵泡（出现卵泡腔、卵泡液与放射冠）；④成熟卵泡（格拉夫卵泡，体积巨大突出卵巢表面）。"
+          }
+        ]
+      },
+      "pointType": "组织学特征",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "14",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "初级卵母细胞与次级卵母细胞的核分裂进程"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "初级卵母细胞在胚胎期即停留在第1次减数分裂前期；排卵前夕LH峰促使完成第1次减数分裂，释放第1极体，形成次级卵母细胞（停于第2次减数分裂中期）；受精时才完成第2次减数分裂形成卵细胞与第2极体。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "15",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "排卵（Ovulation）的机制与排出的成分"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在LH峰诱导下成熟卵泡破裂，次级卵母细胞连同透明带、放射冠和卵泡液一同排入腹膜腔，被输卵管伞捕获。残留卵泡壁形成黄体。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "16",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "黄体（Corpus Luteum）的形成、分化与转归"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "排卵后卵泡壁塌陷，颗粒细胞分化为颗粒黄体细胞（泌孕酮和雌激素），卵泡膜细胞分化为膜黄体细胞（协同泌雌激素）。未受精则10~12天退化为纤维白体；受精后在hCG维持下转为妊娠黄体。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "17",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "输卵管的四个解剖分部与各自功能"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①漏斗部（游离端有输卵管伞，起“拾卵”作用）；②壶腹部（管径粗长，受精正常发生部位）；③峡部（短而狭窄，输卵管结扎常用部位）；④子宫部（贯穿子宫壁内，开口于子宫腔）。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "18",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "子宫的大体形态分部与腔隙"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "倒置梨形肌性器官，分底、体、颈三部。体内腔隙呈倒三角形称子宫腔；颈内管道呈梭形称子宫颈管，下口开口于阴道称子宫口。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "19",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "子宫壁的三层组织结构特点"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由内向外：①黏膜层（子宫内膜，分表浅功能层和深部基底层）；②肌层（极厚，平滑肌纵横交错，分娩时强力收缩止血）；③浆膜层（脏腹膜）。"
+          }
+        ]
+      },
+      "pointType": "组织学特征",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "20",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固定子宫的四大主要韧带及其作用"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①子宫圆韧带：维持子宫前倾；②子宫阔韧带：限制子宫向两侧移动；③子宫主韧带（颈横韧带）：防止子宫向下脱垂脱出；④骶子宫韧带：牵引宫颈向后上方，维持前屈。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "21",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "阴道后穹隆的解剖毗邻与临床穿刺意义"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "阴道上端包绕宫颈形成的阴道穹隆，以后穹隆最深，其后上方紧邻女性腹膜腔最低点——直肠子宫陷凹（道格拉斯陷凹）。腹膜腔积血或积脓时，经后穹穿刺是关键确诊手段。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "22",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "月经周期中子宫内膜功能层的三期组织学变化"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "以28天为例：①增生期（第5~14天，雌激素主导，内膜修复增厚至2~3mm）；②分泌期（第15~28天，孕激素+雌激素主导，内膜增厚至5~7mm，腺体弯曲分泌糖原富含营养）；③月经期（第1~4天，激素骤降内膜坏死脱落出血）。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "23",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "雌激素的靶器官生理作用汇总"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "促进卵巢卵泡发育；增加输卵管蠕动；促子宫肌层肥大及内膜增生期改变；宫颈黏液分泌增多变稀薄（拉丝度高）；阴道上皮角化糖原增加；维持女性乳腺导管发育及脂肪臀部分布。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "24",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "孕激素（孕酮）的靶器官生理作用汇总"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "促子宫内膜分泌期转变以利着床；降低子宫平滑肌兴奋性及对催产素敏感性（安胎）；宫颈黏液变稠形成黏液栓阻挡精子；促进乳腺腺泡发育；兴奋下丘脑体温调节中枢使基础体温升高0.3~0.5℃。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "25",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "下丘脑-腺垂体-卵巢轴（HPO轴）的双向反馈调节"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "平时中等浓度雌激素和孕激素负反馈抑制GnRH、FSH和LH；卵泡成熟排卵前持续高浓度雌激素产生独特“正反馈”，诱发LH峰导致排卵；排卵后黄体分泌孕酮重塑负反馈抑制。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "26",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "精子获能（Capacitation）的概念与生化机理"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "精子在穿过宫颈黏液、子宫和输卵管过程中，精浆去能蛋白脱落、质膜固醇外排、Ca2+内流增多，获得过度运动活性及顶体反应能力的过程，耗时约5~7小时。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "27",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "顶体反应（Acrosome Reaction）与透明带反应（多精受精阻断）"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "精子结合卵母细胞透明带ZP3受体诱发顶体外膜融合破裂，释放酶解开通路；精子入卵后卵细胞皮质颗粒脱颗粒释放水解酶交联修饰透明带（透明带反应），永久阻断其他精子进入。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "28",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "受精卵的早期卵裂与胚泡植入（着床）条件"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "受精卵边卵裂边向子宫移行，第4天发育成桑椹胚进入子宫腔，第5~6天形成胚泡；植入窗约受精后第6~7天，需要胚泡与分泌期内膜同步发育、孕酮支持以及透明带溶解。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "29",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人绒毛膜促性腺激素（hCG）的来源与生理功能"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由着床胚泡合体滋养层细胞分泌（受精后8~10天即可在母血检出）。功能类似LH，维持卵巢黄体不退化转变为妊娠黄体，持续供应足量孕激素直至妊娠8~10周胎盘接管内分泌。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "30",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胎盘的解剖结构与母胎物质转运屏障"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由胎儿叶状绒毛膜与母体子宫底蜕膜共同构成。绒毛间隙充满母体动脉血，胎盘屏障阻止母胎红细胞直接混合，允许O2、营养物质、母体IgG抗体通过，并排出胎儿CO2与代谢物。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    }
+  ]
+}

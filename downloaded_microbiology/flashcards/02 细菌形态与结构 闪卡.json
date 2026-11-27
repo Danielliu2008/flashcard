@@ -1,0 +1,1446 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "乙型溶血性链球菌表面的 M 蛋白与脂磷壁酸（LTA）结合形成的微纤维有何致病功能？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "介导细菌与宿主细胞黏附，并具有抗吞噬作用"
+          }
+        ]
+      },
+      "c": 72
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阴性菌外膜对溶菌酶和青霉素不敏感的主要物理屏障原因是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外膜阻碍了这些大分子或药物进入周质间隙和作用于肽聚糖层"
+          }
+        ]
+      },
+      "c": 74
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗酸染色阳性的细菌最终被染成什么颜色？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "红色"
+          }
+        ]
+      },
+      "c": 69
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌核质结构与真核细胞核的主要区别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "无核膜、无核仁、无有丝分裂器"
+          }
+        ]
+      },
+      "c": 53
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰染色法将细菌分为哪两大类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阳性菌（$\n\\text{G}^+$）和革兰阴性菌（$\n\\text{G}^-$）"
+          }
+        ]
+      },
+      "c": 65
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "原核生物中，古生菌与真细菌在细胞壁结构上的主要差别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "古生菌的细胞壁中不存在肽聚糖"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "八叠球菌（sarcina）是在几个相互垂直的平面上进行分裂的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "三个相互垂直的平面"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌细胞内唯一拥有的细胞器是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "核糖体"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阴性菌的周质间隙（Periplasmic space）位于哪两个结构之间？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞膜（内膜）与外膜之间"
+          }
+        ]
+      },
+      "c": 48
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "青霉素（Penicillin）发挥杀菌作用的分子靶点和机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抑制转肽酶（Transpeptidase）的转肽作用，阻止纵向交叉连接形成"
+          }
+        ]
+      },
+      "c": 38
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在革兰阴性菌中，对青霉素表现出特例敏感性的代表性球菌有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "淋病奈瑟菌和脑膜炎奈瑟菌"
+          }
+        ]
+      },
+      "c": 75
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "万古霉素在细胞膜上抑制肽聚糖合成的作用位点是阻断哪一步骤？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "阻断肽聚糖单体（双糖肽亚单位）插入至膜外细胞壁生长点（第 ④ 步）"
+          }
+        ]
+      },
+      "c": 35
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "幽门螺杆菌（Helicobacter pylori）在形态分类上属于什么属？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "螺杆菌属（Helicobacter）"
+          }
+        ]
+      },
+      "c": 16
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "末端常呈分叉状生长的代表杆菌是哪种细菌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "双歧杆菌"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "大肠埃希菌（革兰阴性菌）的肽聚糖四肽侧链第 3 位氨基酸通常是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "二氨基庚二酸（DAP 或 mDAP）"
+          }
+        ]
+      },
+      "c": 27
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌细胞壁维持菌体正常形态的主要物理功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "保护细菌抵抗内部高渗透压（高达 5~25 个大气压）防止菌体膨胀裂解"
+          }
+        ]
+      },
+      "c": 49
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阳性菌产生的致病毒素主要是什么类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外毒素（Exotoxin）"
+          }
+        ]
+      },
+      "c": 73
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脂多糖（LPS）中决定细菌致病性（引发发热、休克等内毒素毒性）的核心毒性成分是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脂质 A（Lipid A）"
+          }
+        ]
+      },
+      "c": 45
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "青霉素化学结构与肽聚糖前体中的哪一部分结构高度相似，从而竞争性结合转肽酶？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "D-丙氨酰-D-丙氨酸"
+          }
+        ]
+      },
+      "c": 39
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "葡萄球菌（staphylococcus）呈无规则葡萄状排列，这是由于其细胞分裂发生在多个平面还是单一平面？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "多个平面"
+          }
+        ]
+      },
+      "c": 9
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗酸染色法（Acid-fast staining）主要用于鉴定哪一属细菌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "分枝杆菌属（如结核分枝杆菌、麻风分枝杆菌）"
+          }
+        ]
+      },
+      "c": 66
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "以金黄色葡萄球菌（革兰阳性菌）为例，其四肽侧链由第 1 至第 4 位依次由哪些氨基酸组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "L-丙氨酸、D-谷氨酸、L-赖氨酸、D-丙氨酸"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "空肠弯曲菌的典型形态是什么形状？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呈 U 形或 S 形"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "电子显微镜的分辨率可达多少，能够观察细菌的内部超微结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$1\\text{ nm}$"
+          }
+        ]
+      },
+      "c": 63
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "环丝氨酸（唑霉素）抑制细菌细胞壁合成的具体机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抑制 L-丙氨酸消旋酶和 D-丙氨酰-D-丙氨酸合成酶，阻断 D-丙氨酰-D-丙氨酸的合成"
+          }
+        ]
+      },
+      "c": 33
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "包绕在细菌细胞壁外、边界明显且厚度 $\\ge 0.2\\mu\\text{m}$ 的黏液样结构称为何种结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "荚膜（Capsule / 大荚膜）"
+          }
+        ]
+      },
+      "c": 54
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脂多糖（LPS）即革兰阴性菌的什么毒素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "内毒素（Endotoxin）"
+          }
+        ]
+      },
+      "c": 43
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "普通光学显微镜的最大分辨率大约是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$0.25\\mu\\text{m}$"
+          }
+        ]
+      },
+      "c": 62
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞膜外肽聚糖合成过程中，形成横向 $\\beta-1,4$ 糖苷键的作用催化酶是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "转糖基酶（Transglycosylase）"
+          }
+        ]
+      },
+      "c": 37
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "普通大肠杆菌典型的长与宽尺寸大约是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "长约 $2\\mu\\text{m}$，宽约 $0.5\\mu\\text{m}$"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌最主要的无性繁殖方式是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "二分裂（Binary fission）"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "广义上，细菌在细胞结构分类上属于哪一类生物？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "原核单细胞生物"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "当荚膜多糖与同型抗血清结合时，会导致荚膜变大膨胀，这种现象称为什么反应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "荚膜肿胀反应（Quellung reaction）"
+          }
+        ]
+      },
+      "c": 61
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌细胞壁中最核心、最主要的化学成分是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肽聚糖（Peptidoglycan，又称粘肽/胞壁质）"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在肽聚糖骨架中，NAM 与 NAG 之间通过什么化学键连接？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$\\beta-1,4$ 糖苷键"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脑膜炎奈瑟菌在分裂后常呈成对排列，这种球菌排列形式称为_____。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "双球菌（diplococcus）"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脂多糖（LPS）分子由哪三个部分组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脂质 A（Lipid A）、核心多糖（Core polysaccharide）、特异多糖（O-特异侧链）"
+          }
+        ]
+      },
+      "c": 44
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "溶菌酶（Lysozyme）破坏细菌细胞壁作用的特异位点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "聚糖骨架中的 $\\beta-1,4$ 糖苷键"
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "链球菌（streptococcus）在细胞分裂时是在几个平面上进行分裂的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "同一平面（单平面分裂）"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "分枝杆菌具有抗酸染色特性的主要细胞壁原因是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞壁中含有大量脂质（如分枝菌酸）"
+          }
+        ]
+      },
+      "c": 67
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌大小的常用测量单位是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "微米（$\\mu\\text{m}$）"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阴性菌的外膜由哪三部分构成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脂蛋白（Lipoprotein）、脂质双层（Lipid bilayer）和脂多糖（LPS）"
+          }
+        ]
+      },
+      "c": 42
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肽聚糖生物合成的第一阶段是在细胞的什么位置进行的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞质中"
+          }
+        ]
+      },
+      "c": 31
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "“Park”核苷酸的化学名称是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "UDP-$N$-乙酰胞壁酸五肽"
+          }
+        ]
+      },
+      "c": 32
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脂寡糖（LOS）与脂多糖（LPS）相比缺失了什么成分，从而协助细菌逃避免疫识别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "缺失 O-特异多糖长链（只有核心寡糖与脂质 A）"
+          }
+        ]
+      },
+      "c": 47
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "球菌（coccus）的平均直径一般在多少左右？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "约 $1\\mu\\text{m}$"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肽聚糖的聚糖骨架是由哪两种单糖交替排列构成的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$N$-乙酰胞壁酸（NAM）与 $N$-乙酰葡糖胺（NAG）"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "炭疽芽胞杆菌在形态上两端呈什么特征？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "两端平齐"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌核质（拟核）的化学本质主要由什么分子构成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单一的闭合环状双股 DNA 分子"
+          }
+        ]
+      },
+      "c": 52
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "实验室常用于清晰显示肺炎链球菌荚膜形态的负染色方法是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "墨汁负染法"
+          }
+        ]
+      },
+      "c": 60
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "典型的巨大杆菌代表菌种（长 $3\\sim 10\\mu\\text{m}$）是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "炭疽芽胞杆菌"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "普通染色时荚膜不易着色，光学显微镜下常呈现什么形态？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "菌体周围的透明圈"
+          }
+        ]
+      },
+      "c": 59
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗酸染色中使用的初染剂和脱色剂分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "初染剂：苯酚复红；脱色剂：3% 盐酸乙醇"
+          }
+        ]
+      },
+      "c": 68
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌的四种特殊结构包含哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "荚膜、鞭毛、菌毛、芽胞"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "伤寒沙门菌的 Vi 抗原和大肠埃希菌的 K 抗原在结构分类上属于什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "微荚膜（Microcapsule，厚度 $< 0.2\\mu\\text{m}$）"
+          }
+        ]
+      },
+      "c": 55
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌的四种基本结构包含哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞壁、细胞膜、细胞质、核质"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "荚膜作为细菌重要的毒力因子，其最主要的致病机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗吞噬作用（阻止宿主吞噬细胞的识别与吞噬）"
+          }
+        ]
+      },
+      "c": 58
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阳性菌特有的细胞壁成分是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "磷壁酸（Teichoic acid）"
+          }
+        ]
+      },
+      "c": 40
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "霍乱弧菌属于哪种基本形态的细菌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "弧菌（属于螺形菌）"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "炭疽芽胞杆菌与鼠疫耶氏菌的荚膜化学成分有何特殊之处？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "其荚膜成分为多肽（而非多糖）"
+          }
+        ]
+      },
+      "c": 57
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在静电性方面，革兰阳性菌的等电点（pH 2~3）比革兰阴性菌（pH 4~5）更低，主要原因是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$\\text{G}^+$ 菌细胞壁中含有大量带负电荷的磷壁酸"
+          }
+        ]
+      },
+      "c": 51
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阴性（$\n\\text{G}^-$）菌肽聚糖侧链之间的连接方式与 $\\text{G}^+$ 菌有何不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "无五肽交联桥，由相邻四肽侧链的第 3 位与第 4 位氨基酸直接相连（二维平面结构）"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脂多糖（LPS）中决定细菌血清学特异性的抗原成分是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "特异多糖（O-特异多糖 / O 抗原）"
+          }
+        ]
+      },
+      "c": 46
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌细胞壁缺失但在高渗环境下仍能存活的细胞壁缺陷型细菌称为_____。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌 L 型（Bacterial L-form）"
+          }
+        ]
+      },
+      "c": 50
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阳性菌与革兰阴性菌在肽聚糖层数和厚度上的主要区别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$\\text{G}^+$ 菌肽聚糖层数多（15~50层，厚）；$\\text{G}^-$ 菌仅 1~2 层（薄）"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "杆菌肽（Bacitracin）对细菌细胞壁合成的抑制机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抑制焦磷酸类脂载体去磷酸化脱磷（第 ⑤ 步），使其不能再生循环使用"
+          }
+        ]
+      },
+      "c": 36
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "弧菌属（Vibrio）菌体的弯曲特征是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "只有一个弯曲，呈弧形或逗点状"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阴性菌特有的细胞壁外层结构统称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外膜（Outer membrane）"
+          }
+        ]
+      },
+      "c": 41
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰染色法（Gram staining）是由哪国科学家于哪一年创建的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "丹麦细菌学家革兰（Hans Christian Gram），于 1884 年创建"
+          }
+        ]
+      },
+      "c": 64
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阳性（$\n\\text{G}^+$）菌肽聚糖侧链之间的交叉连接方式是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通过五肽交联桥（如甘氨酸五肽）间接连接，形成三维网状立体结构"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗酸染色中的复染剂亚甲蓝会将非抗酸菌染成什么颜色？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "蓝色"
+          }
+        ]
+      },
+      "c": 70
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "金黄色葡萄球菌表面具备对抗免疫细胞吞噬功能的特异性蛋白是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "A 蛋白（GPA）"
+          }
+        ]
+      },
+      "c": 71
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肽聚糖生物合成第二阶段运送亲水性中间产物跨越疏水细胞膜的类脂载体叫什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌萜醇（Bactoprenol，一种 $C_{55}$ 类异戊二烯醇）"
+          }
+        ]
+      },
+      "c": 34
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "大多数细菌荚膜的化学成分是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "多糖（又称糖萼 glycocalyx）"
+          }
+        ]
+      },
+      "c": 56
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肽聚糖四肽侧链通常连接在聚糖骨架的哪一个成分上？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$N$-乙酰胞壁酸（NAM）的第 3 位侧链上"
+          }
+        ]
+      },
+      "c": 25
+    }
+  ],
+  "topics": {
+    "covered": [
+      "细菌的大小与基本形态分类",
+      "细菌基本结构与细胞壁化学组成",
+      "肽聚糖结构与生物合成过程",
+      "革兰阳性菌与革兰阴性菌细胞壁异同",
+      "脂多糖（LPS）结构与内毒素功能",
+      "细菌特殊结构（荚膜）与致病性",
+      "细菌观察法与革兰/抗酸染色原理"
+    ],
+    "followUp": [
+      "细菌鞭毛、菌毛与芽胞的超微结构与功能",
+      "细菌 L 型形态转化与临床耐药复发机制",
+      "作用于细菌细胞壁与细胞膜的抗菌药物作用机制",
+      "细菌血清学分型与表面抗原鉴定"
+    ]
+  }
+}

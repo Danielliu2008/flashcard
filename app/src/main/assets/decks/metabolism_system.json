@@ -1,0 +1,666 @@
+{
+  "unit": "metabolism_system",
+  "title": "Unit 13 体温调节和能量代谢 核心解剖与生理闪卡",
+  "flashcards": [
+    {
+      "c": "1",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "体温的概念：体核温度与体表温度"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "体核温度指机体深部（心、脑、肝、肾等脏器）的平均温度，相对恒定（约37℃）；体表温度指皮肤和皮下浅层温度，受环境温湿度及血流影响波动大。"
+          }
+        ]
+      },
+      "pointType": "核心概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "2",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "临床常用的体温测量部位及正常参考值范围"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①直肠温：36.9~37.9℃（最接近体核深部温）；②口腔温：36.7~37.7℃；③腋窝温：36.0~37.4℃（操作安全最常用）。"
+          }
+        ]
+      },
+      "pointType": "核心概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "3",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体正常体温的昼夜生理节律波动"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呈现昼夜周期性变化：清晨2~6时最低，午后1~6时最高，波动幅度一般不超过1℃。源于下丘脑视交叉上核生物钟控制的自主节律。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "4",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "性别、年龄及女性月经周期对体温的影响"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "青年人体温略高于老年人；女性平均体温略高于男性；排卵日体温略降，排卵后受黄体分泌孕酮刺激体温升高0.3~0.5℃并维持至月经前。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "5",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "机体主要的产热器官（安静状态 vs 运动状态）"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①安静状态：内脏器官代谢最为活跃，产热占56%（其中肝脏产热最高）；②运动或劳动状态：骨骼肌剧烈收缩，产热激增可达总产热量的75%~90%。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "6",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "骨骼肌战栗产热（寒战）的生理机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "机体受冷刺激由下丘脑后部发出的传出冲动经下行通路传至脊髓α运动神经元，引起骨骼肌不协调、无外功输出的节律性收缩，使肌产热成倍暴增。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "7",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "非战栗产热（代谢产热）与棕色脂肪组织（BAT）"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在交感神经去甲肾上腺素刺激下，棕色脂肪细胞线粒体内膜解偶联蛋白-1（UCP-1）开启，使氧化磷酸化与ATP合成解偶联，化学能全部转化为热能释放。对新生儿保温至关重要。"
+          }
+        ]
+      },
+      "pointType": "组织学特征",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "8",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "甲状腺激素对机体产热的调节机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "机体调节产热的最关键内分泌激素。促进全身多数组织细胞Na+-K+泵活性及有氧氧化酶活性，显著提高耗氧量与基础代谢率，产热增加。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "9",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "机体的四大主要散热物理途径及原理"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①辐射散热（红外线向低温物体辐射，占60%）；②传导散热（通过直接接触将热传给较冷物体，占3%）；③对流散热（借助贴近皮肤的流动空气移走热量，占12%）；④蒸发散热（水分汽化带走热量，占25%）。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "10",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "辐射散热的发生条件与决定因素"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "当环境温度低于皮肤温度时发生。散热量取决于皮肤与环境之间的温度差、皮肤的有效暴露表面积以及皮肤血流量。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "11",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "蒸发散热的两种基本形式：不感蒸发与发汗"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①不感蒸发（隐汗）：水分子直接从皮肤角质层和呼吸道黏膜渗出汽化，全天约1000ml，不受自主神经体温调控；②发汗（可感蒸发）：汗腺在体温中枢调控下主动分泌汗液。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "12",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "发汗的神经支配机制与神经递质特点"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "温热性发汗由下丘脑体温调节中枢控制，经交感节后胆碱能纤维支配小汗腺，其释放的神经递质是乙酰胆碱（Ach），作用于汗腺M型受体，阿托品可抑制排汗。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "13",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "精神性发汗与温热性发汗的鉴别"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "温热性发汗全身分布、主司体温调节；精神性发汗主要局限于掌心、足跖、前额等处，由大脑皮层控制，受情绪紧张、疼痛等激发，与散热体温调节无关。"
+          }
+        ]
+      },
+      "pointType": "核心概念",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": "14",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外界环境气温高于或等于皮肤温度时的唯一散热途径"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "蒸发散热（发汗）。此时辐射、对流不仅无法散热反而从外界吸热，汗液蒸发是机体散发内部多余热量的唯一物理机制。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "15",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "影响汗液蒸发效率的关键环境气象因素"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "空气相对湿度和风速。空气湿度越高，水汽压梯度越小，汗液无法蒸发而顺流滴落（无效发汗），极易发生蓄热中暑；气流速度快可加速蒸发。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "16",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "自主神经对皮肤血流量的调节与散热关系"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "热刺激抑制交感缩血管紧张，皮肤小动脉及动静脉吻合支极度开放舒张，血流激增将体核热量迅速带至皮肤散发；冷刺激交感兴奋收缩血管保热。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "17",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外周温度感受器的类型与解剖分布"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "游离神经末梢，分为热感受器（C纤维传入）和冷感受器（Aδ纤维传入）。广泛分布于皮肤、黏膜及腹腔内脏，以冷感受器数量居多。"
+          }
+        ]
+      },
+      "pointType": "组织学特征",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "18",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "中枢温度感受器的核心解剖分布：PO/AH"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "位于视前区-下丘脑前部（PO/AH），包含热敏神经元（局部温升高时放电增加）和冷敏神经元（局部温降低时放电增加）。此外在脑干网状结构及脊髓亦有分布。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "19",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "体温调定点（Set Point）学说的核心机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "PO/AH热敏神经元与冷敏神经元的放电参考基准决定了体温调定点（正常恒定在37.0℃左右）。下丘脑将传入温度信号与调定点对比，输出调控产热与散热的神经体液效应。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "20",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "发热（Fever）与过热（Hyperthermia）的病理生理本质区别"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "发热是由于致热原作用导致下丘脑体温调定点主动上移引发的调节性高体温；过热是由于体温调节中枢受损或极度高温高湿环境导致机体散热障碍引发的被动性体温失控升高。"
+          }
+        ]
+      },
+      "pointType": "病理生理联系",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "21",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "典型发热过程的三大临床时相及机理"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①体温上升期（寒战期）：调定点上移，深部温低于调定点，冷感、寒战产热、血管收缩；②高温持续期（高峰期）：产热与散热在新高水平动态平衡；③退热期（出汗期）：调定点回落，血管舒张、大量出汗降温。"
+          }
+        ]
+      },
+      "pointType": "病理生理联系",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "22",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "三大营养物质的热价（Energy equivalent of food）"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1g某种营养物质在体内完全氧化分解所释放的热量。糖类为 17.15 kJ/g (4.1 kcal)；蛋白质体内为 17.15 kJ/g (4.1 kcal)；脂肪为 38.91 kJ/g (9.3 kcal，产热最高)。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "23",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氧热价（Thermal equivalent of oxygen）的概念与数值"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "某种食物氧化消耗1升氧气所释放出来的热量。糖类氧热价为 20.92 kJ/L；脂肪为 19.62 kJ/L；蛋白质为 18.83 kJ/L。糖类氧热价最高（最经济能源）。"
+          }
+        ]
+      },
+      "pointType": "核心概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "24",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸商（Respiratory Quotient, RQ）的概念及三大营养素RQ"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单位时间内机体氧化某营养物质所产生的CO2摩尔数与消耗的O2摩尔数的比值（RQ = CO2/O2）。糖类RQ = 1.00；蛋白质RQ = 0.80；脂肪RQ = 0.71；混合食物RQ约 0.85。"
+          }
+        ]
+      },
+      "pointType": "核心概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "25",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "食物的特殊动力效应（Specific Dynamic Action, SDA）"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人在摄食后的一段时间内，尽管处于安静状态，但机体产热量超出该食物热价并额外增加的现象。进食蛋白质产热增加最显著（增加30%），糖类增加6%，脂肪增加4%。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "26",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "基础代谢率（Basal Metabolic Rate, BMR）的严格测定条件"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①完全清醒且静卧放松；②无精神紧张与情绪激动；③禁食12~14小时；④室温保持在20~25℃（适温区，机体无需产热或散热调节）。测得单位体表面积单位时间能量代谢值。"
+          }
+        ]
+      },
+      "pointType": "核心概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "27",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "基础代谢率的临床计算公式（简易Read公式）"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Read公式：BMR(%) = (脉压 + 脉率) - 111。临床用于辅助快速筛查甲状腺功能亢进或减退。"
+          }
+        ]
+      },
+      "pointType": "临床技能应用",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": "28",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "影响能量代谢的最主要生理因素"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "①肌肉活动（最显著，剧烈运动时总代谢率可暴增10~20倍）；②精神活动（紧张脑力活动使代谢增加）；③食物的特殊动力作用；④环境温度（低于10℃或高于30℃代谢均增加）。"
+          }
+        ]
+      },
+      "pointType": "生理功能定位",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "29",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "ATP高能磷酸键在细胞能量代谢中的核心枢纽地位"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞无法直接利用营养素的化学能做功，必须将营养素彻底氧化释放的能量耦联合成ATP。ATP水解断裂高能磷酸键释放约30.5 kJ/mol自由能，驱动物质转运、机械做功与生物合成。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": "30",
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "磷酸肌酸（CP）的高能磷酸键缓冲储备功能"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肌细胞内CP浓度约为ATP的4~5倍。剧烈运动初期ATP迅速分解时，肌酸激酶立即催化CP的高能磷酸键转移至ADP瞬间再生ATP，维持短时间内胞内ATP浓度恒定。"
+          }
+        ]
+      },
+      "pointType": "机制综合",
+      "starRating": "★★★",
+      "importance": 3
+    }
+  ]
+}

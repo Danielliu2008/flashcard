@@ -1,0 +1,1445 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "兼性厌氧菌在有氧和无氧条件下的生存情况有何不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "无论有氧或无氧均能生长，但在有氧条件下生长更好。"
+          }
+        ]
+      },
+      "c": 44
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "请列举两种常见的专性厌氧病原菌。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "破伤风梭菌、脆弱类杆菌。"
+          }
+        ]
+      },
+      "c": 47
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脑膜炎奈瑟菌和布鲁菌初次分离培养时，必须在气体环境中额外供给什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "5%～10% 的 $CO_2$。"
+          }
+        ]
+      },
+      "c": 48
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "冷冻保存细菌菌种时，常添加哪些保护剂以减少损伤？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "甘油或二甲基亚砜（DMSO）。"
+          }
+        ]
+      },
+      "c": 38
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是自养菌（Autotroph）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "能以简单无机物（如 $CO_2$、无机氮）为原料合成菌体成分并获取能量的细菌。"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌群体生长繁殖的曲线可划分为哪四个时期？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "迟缓期、对数期、稳定期、衰亡期。"
+          }
+        ]
+      },
+      "c": 52
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病原菌利用的最主要碳源是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "糖类。"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌人工培养在医学病原学诊断中的作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "从患者标本中分离培养和鉴定病原菌，并进行药敏试验指导临床用药。"
+          }
+        ]
+      },
+      "c": 72
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "光滑型菌落（S型菌落）的主要特征是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "表面光滑、湿润、边缘整齐，多见于新分离的细菌。"
+          }
+        ]
+      },
+      "c": 66
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌所需量仅次于碳元素的营养元素是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氮元素（氮源）。"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "微需氧菌生长最适宜的氧分压浓度是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "5%～6% $O_2$（氧浓度大于 10% 会抑制其生长）。"
+          }
+        ]
+      },
+      "c": 42
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是选择培养基（Selective medium）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "加入特定化学物质抑制某些杂菌生长，以利于目标细菌分离的培养基。"
+          }
+        ]
+      },
+      "c": 64
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "多数病原菌人工培养的常用培养时间是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "18～24 小时。"
+          }
+        ]
+      },
+      "c": 58
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "多数细菌分裂一代（代时）通常需要多长时间？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "20～30 分钟。"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "克雷伯菌在利用氮源方面有何特殊之处？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "少数病原菌如克雷伯菌可利用无机氮源（硝酸盐和氮气），但利用率较低。"
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "多数病原菌生长最适宜的 pH 范围是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "pH 7.2～7.6。"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "大多数病原菌对分子氧的需求类型属于哪一种？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "兼性厌氧菌。"
+          }
+        ]
+      },
+      "c": 45
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是细菌的菌落（Colony）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在固体培养基表面由单个细菌分裂繁殖成的一堆肉眼可见的细菌集团。"
+          }
+        ]
+      },
+      "c": 59
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌个体繁殖的最主要方式是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "无性二分裂（裂殖）。"
+          }
+        ]
+      },
+      "c": 49
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "进行细菌形态结构观察、临床鉴别和药敏试验，应首选哪一期的细菌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "对数期细菌。"
+          }
+        ]
+      },
+      "c": 55
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为什么 L 型细菌（细胞壁缺陷型）必须在高渗环境中培养？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "因失去细胞壁防护，在普通或低渗环境下会吸水破裂崩解。"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "最常用的基础液体培养基叫什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "牛肉膏蛋白胨培养基（又称营养肉汤）。"
+          }
+        ]
+      },
+      "c": 62
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "用于鉴别肠道杆菌的 IMViC 试验具体包括哪四种试验？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "吲哚试验（I）、甲基红试验（M）、VP 试验（V）、枸橼酸盐利用试验（C）。"
+          }
+        ]
+      },
+      "c": 70
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在细菌所需的营养元素中，需要量居于首位的是哪种元素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "碳元素（碳源）。"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌主要依靠细胞膜上的什么机制来调节并保持菌体内 pH 的稳定？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "质子转运系统（如 ATP 驱使的质子泵、$\\text{Na}^+/\\text{H}^+$ 和 $\\text{K}^+/\\text{H}^+$ 交换系统）。"
+          }
+        ]
+      },
+      "c": 33
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "专性需氧菌在能量代谢上的主要特征是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "具有完善的呼吸酶系统，需要以分子氧（$O_2$）为受氢体完成需氧呼吸。"
+          }
+        ]
+      },
+      "c": 40
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "霍乱弧菌生长最适宜的 pH 范围是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "pH 8.4～9.2（偏碱性）。"
+          }
+        ]
+      },
+      "c": 31
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为什么细菌具有极高效率的营养吸收与物质交换能力？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "因为细菌体积微小，具有极大的相对表面积。"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "专性厌氧菌产能的唯一代谢途径是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "EMP 途径（糖酵解途径 / 己糖二磷酸途径）。"
+          }
+        ]
+      },
+      "c": 51
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "请列举 3 种细菌细胞特有的化学成分。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肽聚糖、胞壁酸、磷壁酸（或 D 型氨基酸、二氨基庚二酸、吡啶二羧酸）。"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌悬液呈现浑浊状态并通过测定光密度（OD）来估计菌数的物理学依据是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌菌体半透明，光线照射时部分被吸收、部分被折射。"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "擦洗或喷洒运载工具表面常用过氧乙酸的质量分数是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "0.5% 过氧乙酸。"
+          }
+        ]
+      },
+      "c": 75
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌在生长曲线迟缓期（Lag phase）有何生理特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "菌体体积增大，代谢活跃，但细胞数量暂不增加。"
+          }
+        ]
+      },
+      "c": 53
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "大肠埃希菌从 37℃ 突然冷却到 5℃ 会引发什么现象？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "冷休克，约 90% 的菌体被杀伤。"
+          }
+        ]
+      },
+      "c": 37
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "用于厕所和阴沟消毒的生石灰，其杀菌有效成分是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氢氧化钙 $\\text{Ca(OH)}_2$。"
+          }
+        ]
+      },
+      "c": 74
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌群体生长曲线中，哪一期细菌形态典型、生理活性最强？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "对数期（Logarithmic phase）。"
+          }
+        ]
+      },
+      "c": 54
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "流感嗜血杆菌生长所需的 X 因子和 V 因子本质上分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "X 因子为高铁血红素，V 因子为辅酶Ⅰ或辅酶Ⅱ。"
+          }
+        ]
+      },
+      "c": 27
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "硝化细菌、硫化细菌和铁细菌属于哪种营养类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "化能无机营养型（化能自养型）。"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "嗜盐菌生长所需的高盐环境，其 $NaCl$ 浓度一般是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "约 $30\\text{ g/L}$（即 3% $NaCl$）。"
+          }
+        ]
+      },
+      "c": 39
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "X 因子和 V 因子在流感嗜血杆菌代谢中扮演什么角色？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "作为该菌的呼吸辅酶。"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "根据获得能量的来源不同，自养菌可分为哪两类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "化能自养菌与光能自养菌。"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是异养菌（Heterotroph）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "必须利用有机物（如糖类、氨基酸）作为原料来合成菌体成分并获得能量的细菌。"
+          }
+        ]
+      },
+      "c": 16
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是细菌的热原质（Pyrogen）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌合成的注入人体或动物体内可引起发热反应的物质，本质主要是革兰阴性菌的脂多糖（内毒素）。"
+          }
+        ]
+      },
+      "c": 71
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "请列举两种新分离即呈现粗糙型（R型）菌落的毒力株细菌。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "炭疽芽孢杆菌、结核分枝杆菌。"
+          }
+        ]
+      },
+      "c": 68
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是细菌的生长因子（Growth factor）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌生长必需但自身不能合成，必须由外界补充的微量有机营养成分。"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阳性菌和革兰阴性菌蛋白质的等电点 pH 分别是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阳性菌为 pH 2～3；革兰阴性菌为 pH 4～5。"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "嗜温菌可以生长的温度范围及最适生长温度分别是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "生长范围为 10～45℃，最适生长温度为 20～40℃。"
+          }
+        ]
+      },
+      "c": 34
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "用于分离肠道致病菌的 SS 琼脂培养基主要抑制哪些细菌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抑制革兰阳性菌和大肠埃希菌。"
+          }
+        ]
+      },
+      "c": 65
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "黏液型菌落（M型菌落）的形态特征及典型代表菌是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "菌落黏稠、有光泽、似水珠样；多见于肺炎克雷伯菌（含厚荚膜）。"
+          }
+        ]
+      },
+      "c": 69
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体病原菌的最适生长温度是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "37℃（适应人体内环境）。"
+          }
+        ]
+      },
+      "c": 35
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "导致细菌群体生长进入衰亡期（Decline phase）的主要原因是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "营养物质耗尽、有毒代谢产物大量积累及环境 pH 改变等。"
+          }
+        ]
+      },
+      "c": 57
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "绝大多数细菌和全部真核微生物属于哪种营养类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "化能有机营养型（化能异养型）。"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "高糖或高盐的高渗环境抑菌的机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "高渗环境使细菌水分逸出，胞质浓缩脱水，导致细菌不能生长繁殖。"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "结核分枝杆菌分裂一代约需要多长时间？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "18～24 小时。"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "配制半固体和固体培养基时，琼脂的加入浓度通常分别为多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "半固体培养基为 0.3%～0.5%；固体培养基为 1%～2%。"
+          }
+        ]
+      },
+      "c": 63
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "请列举两种典型的微需氧细菌。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "空肠弯曲菌、幽门螺杆菌。"
+          }
+        ]
+      },
+      "c": 43
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌细胞内水分的质量分数大约是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "75%～90%"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是基础培养基（Basic medium）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "含有多数细菌生长繁殖所需基本营养成分、可供大多数细菌生长的培养基。"
+          }
+        ]
+      },
+      "c": 61
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "寄生于细菌细胞内、依靠“复分裂”方式繁殖的小型弧状细菌叫什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "蛭弧菌。"
+          }
+        ]
+      },
+      "c": 50
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在相对中性 pH 环境下，细菌表面蛋白质带何种电荷？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "带负电荷（因羧基趋于电离，氨基趋于非电离）。"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "请列举两种常见的专性需氧病原菌。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "结核分枝杆菌、铜绿假单胞菌（或霍乱弧菌）。"
+          }
+        ]
+      },
+      "c": 41
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "自来水和少量饮用水常用的化学消毒剂分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "自来水用氯气（$\\text{Cl}_2$）；少量饮用水可用漂白粉。"
+          }
+        ]
+      },
+      "c": 73
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌生理活动的主要特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "代谢活跃、类型多样化且繁殖极为迅速。"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌在相对低渗环境下为什么不会吸水崩解？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "依赖于细胞壁坚韧的保护与支持作用。"
+          }
+        ]
+      },
+      "c": 9
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "粗糙型菌落（R型菌落）的形成原因及毒力改变是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "多由 S 型菌变异失去表面多糖或蛋白质抗原所致，其毒力和抗吞噬能力变弱。"
+          }
+        ]
+      },
+      "c": 67
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "游离氧存在时为什么会导致专性厌氧菌死亡？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "缺乏完善的呼吸酶系统，在游离氧下会产生超氧阴离子和过氧化氢等毒害物质。"
+          }
+        ]
+      },
+      "c": 46
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阳性菌与革兰阴性菌菌体内的渗透压分别约有多少个大气压？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰阳性菌为 20～25 个大气压；革兰阴性菌为 5～6 个大气压。"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌暴露于高于最适温度的环境时，会通过什么机制暂时保护热敏感蛋白质？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "发生热休克，暂时合成热休克蛋白（HSP）。"
+          }
+        ]
+      },
+      "c": 36
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "培养基中铁离子浓度对白喉杆菌产生毒素有何关键影响？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "铁浓度为 $0.14\\text{ mg/L}$ 时产毒最高；达 $0.6\\text{ mg/L}$ 时则不产生毒素。"
+          }
+        ]
+      },
+      "c": 25
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "蓝细菌和紫硫细菌属于哪种营养类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "光能无机营养型（光能自养型）。"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "嗜中性细菌能够生长的适宜 pH 范围是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "pH 6.0～8.0。"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌的芽胞、外毒素和抗生素等代谢产物大量形成于生长曲线的哪一期？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "稳定期（Stationary phase）。"
+          }
+        ]
+      },
+      "c": 56
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "腐生菌与寄生菌获取营养的主要区别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "腐生菌以无生命的动植物尸体或腐败物为营养；寄生菌寄生于活体内获取宿主的有机物。"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "结核分枝杆菌生长最适宜的 pH 范围是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "pH 6.5～6.8（微酸性）。"
+          }
+        ]
+      },
+      "c": 32
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是纯培养（Pure culture）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "挑取单个菌落移种到新培养基后生长出来的纯种细菌培养物。"
+          }
+        ]
+      },
+      "c": 60
+    }
+  ],
+  "topics": {
+    "covered": [
+      "细菌的物理与化学性状",
+      "细菌的营养类型与营养物质需求",
+      "影响细菌生长繁殖的环境因素",
+      "细菌的生长繁殖方式与群体生长规律",
+      "细菌的人工培养与培养基分类",
+      "细菌的代谢产物与实际应用"
+    ],
+    "followUp": [
+      "IMViC 试验的生化反应机制",
+      "细菌内毒素与外毒素的致病特点对比",
+      "常用物理与化学消毒灭菌法的原理",
+      "细菌抗生素耐药性的检测方法"
+    ]
+  }
+}

@@ -1,0 +1,2736 @@
+{
+  "id": "quiz_blood_system",
+  "systemType": "BLOOD",
+  "title": "血液系统 单元测验",
+  "description": "基于官方复习题与答案，涵盖血浆渗透压形成、红白细胞血小板生理功能、凝血与抗凝机制、纤溶系统及淋巴回流",
+  "coveredTopics": [
+    "血浆成分与胶体/晶体渗透压的生理作用",
+    "血细胞发育、分类及免疫吞噬功能",
+    "生理性止血与血小板血栓形成",
+    "内外源性凝血途径与维生素K依赖性因子",
+    "抗凝系统（抗凝血酶、肝素）与纤溶机制",
+    "淋巴器官功能与淋巴循环回流意义"
+  ],
+  "questions": [
+    {
+      "c": "1",
+      "type": "single_choice",
+      "question": "血液完全凝固后析出的浅黄色透明液体称为血清。血清与血浆相比，最根本的区别是（ ）。",
+      "prompt": "血液完全凝固后析出的浅黄色透明液体称为血清。血清与血浆相比，最根本的区别是（ ）。",
+      "answerOptions": [
+        {
+          "text": "血清中不含有球蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血清中不含有白蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血清中电解质浓度显著高于血浆",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血清中完全缺乏纤维蛋白原及部分消耗性凝血因子（如Ⅱ、Ⅴ、Ⅷ）",
+          "isCorrect": true,
+          "rationale": "血液凝固时纤维蛋白原转变为纤维蛋白凝块，故血清 = 血浆 - 纤维蛋白原和已消耗的凝血因子。"
+        }
+      ],
+      "options": [
+        {
+          "text": "血清中不含有球蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血清中不含有白蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血清中电解质浓度显著高于血浆",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血清中完全缺乏纤维蛋白原及部分消耗性凝血因子（如Ⅱ、Ⅴ、Ⅷ）",
+          "isCorrect": true,
+          "rationale": "血液凝固时纤维蛋白原转变为纤维蛋白凝块，故血清 = 血浆 - 纤维蛋白原和已消耗的凝血因子。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "血液凝固时纤维蛋白原转变为纤维蛋白凝块，故血清 = 血浆 - 纤维蛋白原和已消耗的凝血因子。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 1
+    },
+    {
+      "c": "2",
+      "type": "single_choice",
+      "question": "关于血浆渗透压的叙述，下列正确的是（ ）。",
+      "prompt": "关于血浆渗透压的叙述，下列正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "血浆胶体渗透压主要由 γ-球蛋白分子形成",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆胶体渗透压降低水分向血细胞内转移引起红细胞破裂",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆总渗透压主要由晶体渗透压贡献（占 99% 以上）",
+          "isCorrect": true,
+          "rationale": "血浆总渗透压约 300 mOsm/L，其中晶体渗透压占绝大部分；胶体渗透压仅占约 1.5 mOsm/L（25 mmHg），由白蛋白主导维持血容量。"
+        },
+        {
+          "text": "血浆胶体渗透压增大有利于水分向组织间隙转移发生水肿",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "血浆胶体渗透压主要由 γ-球蛋白分子形成",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆胶体渗透压降低水分向血细胞内转移引起红细胞破裂",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆总渗透压主要由晶体渗透压贡献（占 99% 以上）",
+          "isCorrect": true,
+          "rationale": "血浆总渗透压约 300 mOsm/L，其中晶体渗透压占绝大部分；胶体渗透压仅占约 1.5 mOsm/L（25 mmHg），由白蛋白主导维持血容量。"
+        },
+        {
+          "text": "血浆胶体渗透压增大有利于水分向组织间隙转移发生水肿",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "血浆总渗透压约 300 mOsm/L，其中晶体渗透压占绝大部分；胶体渗透压仅占约 1.5 mOsm/L（25 mmHg），由白蛋白主导维持血容量。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 2
+    },
+    {
+      "c": "3",
+      "type": "single_choice",
+      "question": "在凝血级联反应中，作为内外源凝血因子激活的共同关键輔因子，发挥不可或缺催化作用的二价金属离子是（ ）。",
+      "prompt": "在凝血级联反应中，作为内外源凝血因子激活的共同关键輔因子，发挥不可或缺催化作用的二价金属离子是（ ）。",
+      "answerOptions": [
+        {
+          "text": "Na+",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Fe2+",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Ca2+（凝血因子Ⅳ）",
+          "isCorrect": true,
+          "rationale": "凝血因子Ⅳ即为 Ca2+，参与凝血酶原激活物形成及凝血酶激活几乎所有核心环节。"
+        },
+        {
+          "text": "K+",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "Na+",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Fe2+",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Ca2+（凝血因子Ⅳ）",
+          "isCorrect": true,
+          "rationale": "凝血因子Ⅳ即为 Ca2+，参与凝血酶原激活物形成及凝血酶激活几乎所有核心环节。"
+        },
+        {
+          "text": "K+",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "凝血因子Ⅳ即为 Ca2+，参与凝血酶原激活物形成及凝血酶激活几乎所有核心环节。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 3
+    },
+    {
+      "c": "4",
+      "type": "single_choice",
+      "question": "下列血浆蛋白成分中，主要不是在肝脏实质细胞内合成，而是由浆细胞分泌产生的是（ ）。",
+      "prompt": "下列血浆蛋白成分中，主要不是在肝脏实质细胞内合成，而是由浆细胞分泌产生的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "纤维蛋白原",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "γ-球蛋白（免疫球蛋白）",
+          "isCorrect": true,
+          "rationale": "肝脏是合成白蛋白、纤维蛋白原及大部分凝血因子的化工厂；γ-球蛋白属于抗体，由效应 B 细胞（浆细胞）分泌。"
+        },
+        {
+          "text": "血浆白蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "α-球蛋白与凝血酶原",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "纤维蛋白原",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "γ-球蛋白（免疫球蛋白）",
+          "isCorrect": true,
+          "rationale": "肝脏是合成白蛋白、纤维蛋白原及大部分凝血因子的化工厂；γ-球蛋白属于抗体，由效应 B 细胞（浆细胞）分泌。"
+        },
+        {
+          "text": "血浆白蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "α-球蛋白与凝血酶原",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肝脏是合成白蛋白、纤维蛋白原及大部分凝血因子的化工厂；γ-球蛋白属于抗体，由效应 B 细胞（浆细胞）分泌。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 4
+    },
+    {
+      "c": "5",
+      "type": "single_choice",
+      "question": "机体红细胞生成减少出现“小细胞低色素性贫血”的最常见营养素缺乏原因是（ ）。",
+      "prompt": "机体红细胞生成减少出现“小细胞低色素性贫血”的最常见营养素缺乏原因是（ ）。",
+      "answerOptions": [
+        {
+          "text": "缺乏叶酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "缺乏铁离子（Fe2+）",
+          "isCorrect": true,
+          "rationale": "铁是血红蛋白合成的核心原料，缺铁导致血红蛋白合成不足，红细胞体积变小、中央苍白区扩大。"
+        },
+        {
+          "text": "缺乏维生素 C",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "缺乏维生素 B12",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "缺乏叶酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "缺乏铁离子（Fe2+）",
+          "isCorrect": true,
+          "rationale": "铁是血红蛋白合成的核心原料，缺铁导致血红蛋白合成不足，红细胞体积变小、中央苍白区扩大。"
+        },
+        {
+          "text": "缺乏维生素 C",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "缺乏维生素 B12",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "铁是血红蛋白合成的核心原料，缺铁导致血红蛋白合成不足，红细胞体积变小、中央苍白区扩大。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 5
+    },
+    {
+      "c": "6",
+      "type": "single_choice",
+      "question": "缺乏维生素 B12 或叶酸会导致细胞核 DNA 合成障碍，引起哪种类型的贫血？（ ）",
+      "prompt": "缺乏维生素 B12 或叶酸会导致细胞核 DNA 合成障碍，引起哪种类型的贫血？（ ）",
+      "answerOptions": [
+        {
+          "text": "巨幼红细胞性贫血",
+          "isCorrect": true,
+          "rationale": "Vit B12 与叶酸是合成胸腺嘧啶脱氧核苷酸的辅酶，缺乏使 DNA 合成受阻细胞核分裂延迟，胞体异常增大。"
+        },
+        {
+          "text": "阵发性溶血性贫血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "再生障碍性贫血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小细胞低色素性贫血",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "巨幼红细胞性贫血",
+          "isCorrect": true,
+          "rationale": "Vit B12 与叶酸是合成胸腺嘧啶脱氧核苷酸的辅酶，缺乏使 DNA 合成受阻细胞核分裂延迟，胞体异常增大。"
+        },
+        {
+          "text": "阵发性溶血性贫血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "再生障碍性贫血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小细胞低色素性贫血",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "Vit B12 与叶酸是合成胸腺嘧啶脱氧核苷酸的辅酶，缺乏使 DNA 合成受阻细胞核分裂延迟，胞体异常增大。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 6
+    },
+    {
+      "c": "7",
+      "type": "single_choice",
+      "question": "肝素（Heparin）在体内发挥强效抗凝血作用的核心生物学机制是（ ）。",
+      "prompt": "肝素（Heparin）在体内发挥强效抗凝血作用的核心生物学机制是（ ）。",
+      "answerOptions": [
+        {
+          "text": "鳌合血液中的游离 Ca2+",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "与抗凝血酶（AT-Ⅲ）结合，使其空间变构，抗凝活性暴增数百上千倍",
+          "isCorrect": true,
+          "rationale": "肝素本身无直接水解作用，通过结合抗凝血酶显著加速其灭活凝血酶及凝血因子Ⅹa、Ⅸa。"
+        },
+        {
+          "text": "直接水解纤维蛋白网",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "竞争性阻断维生素 K 依赖性凝血因子的羧化修饰",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "鳌合血液中的游离 Ca2+",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "与抗凝血酶（AT-Ⅲ）结合，使其空间变构，抗凝活性暴增数百上千倍",
+          "isCorrect": true,
+          "rationale": "肝素本身无直接水解作用，通过结合抗凝血酶显著加速其灭活凝血酶及凝血因子Ⅹa、Ⅸa。"
+        },
+        {
+          "text": "直接水解纤维蛋白网",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "竞争性阻断维生素 K 依赖性凝血因子的羧化修饰",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肝素本身无直接水解作用，通过结合抗凝血酶显著加速其灭活凝血酶及凝血因子Ⅹa、Ⅸa。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 7
+    },
+    {
+      "c": "8",
+      "type": "single_choice",
+      "question": "由于凝血因子Ⅷ（FⅧ）基因缺陷导致的遗传性出血性疾病被称为（ ）。",
+      "prompt": "由于凝血因子Ⅷ（FⅧ）基因缺陷导致的遗传性出血性疾病被称为（ ）。",
+      "answerOptions": [
+        {
+          "text": "乙型血友病（血友病 B）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血栓性血小板减少症",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "甲型血友病（血友病 A）",
+          "isCorrect": true,
+          "rationale": "缺乏 FⅧ 引起内源性凝血障碍，称为甲型血友病（伴 X 染色体隐性遗传）；缺乏 FⅨ 为乙型血友病。"
+        },
+        {
+          "text": "原发性血小板减少性紫癜",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "乙型血友病（血友病 B）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血栓性血小板减少症",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "甲型血友病（血友病 A）",
+          "isCorrect": true,
+          "rationale": "缺乏 FⅧ 引起内源性凝血障碍，称为甲型血友病（伴 X 染色体隐性遗传）；缺乏 FⅨ 为乙型血友病。"
+        },
+        {
+          "text": "原发性血小板减少性紫癜",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "缺乏 FⅧ 引起内源性凝血障碍，称为甲型血友病（伴 X 染色体隐性遗传）；缺乏 FⅨ 为乙型血友病。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 8
+    },
+    {
+      "c": "9",
+      "type": "single_choice",
+      "question": "肝脏严重广泛病变时，患者常出现明显的出血倾向，其主要原因是（ ）。",
+      "prompt": "肝脏严重广泛病变时，患者常出现明显的出血倾向，其主要原因是（ ）。",
+      "answerOptions": [
+        {
+          "text": "骨髓造血干细胞发生继发性衰竭",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "毛细血管通透性异常下降",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏合成的凝血因子（如凝血酶原、纤维蛋白原、Ⅶ、Ⅸ、Ⅹ等）显著减少",
+          "isCorrect": true,
+          "rationale": "多数凝血因子在肝脏合成，严重肝硬化或肝坏死使凝血因子合成量骤减引发广泛出血。"
+        },
+        {
+          "text": "抗凝血酶与纤溶酶原过度消耗",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "骨髓造血干细胞发生继发性衰竭",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "毛细血管通透性异常下降",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏合成的凝血因子（如凝血酶原、纤维蛋白原、Ⅶ、Ⅸ、Ⅹ等）显著减少",
+          "isCorrect": true,
+          "rationale": "多数凝血因子在肝脏合成，严重肝硬化或肝坏死使凝血因子合成量骤减引发广泛出血。"
+        },
+        {
+          "text": "抗凝血酶与纤溶酶原过度消耗",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "多数凝血因子在肝脏合成，严重肝硬化或肝坏死使凝血因子合成量骤减引发广泛出血。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 9
+    },
+    {
+      "c": "10",
+      "type": "single_choice",
+      "question": "纤溶系统被激活后，直接降解纤维蛋白和纤维蛋白原并水解血凝块的活性酶是（ ）。",
+      "prompt": "纤溶系统被激活后，直接降解纤维蛋白和纤维蛋白原并水解血凝块的活性酶是（ ）。",
+      "answerOptions": [
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "组织因子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "凝血酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "纤溶酶（Fibrinolyin）",
+          "isCorrect": true,
+          "rationale": "纤溶酶原被激活为纤溶酶后，特异性水解纤维蛋白（原），降解为纤维蛋白降解产物（FDP）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "组织因子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "凝血酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "纤溶酶（Fibrinolyin）",
+          "isCorrect": true,
+          "rationale": "纤溶酶原被激活为纤溶酶后，特异性水解纤维蛋白（原），降解为纤维蛋白降解产物（FDP）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "纤溶酶原被激活为纤溶酶后，特异性水解纤维蛋白（原），降解为纤维蛋白降解产物（FDP）。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 10
+    },
+    {
+      "c": "11",
+      "type": "multiple_select",
+      "question": "下列哪些营养物质或造血因子的缺乏会导致机体发生不同类型的贫血？（ ）",
+      "prompt": "下列哪些营养物质或造血因子的缺乏会导致机体发生不同类型的贫血？（ ）",
+      "answerOptions": [
+        {
+          "text": "叶酸（导致巨幼红细胞贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "促红细胞生成素（EPO，导致肾性贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "维生素 B12（导致巨幼红细胞贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "胃黏膜壁细胞分泌的内因子（导致恶性贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "铁离子（Fe2+，导致缺铁性贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        }
+      ],
+      "options": [
+        {
+          "text": "叶酸（导致巨幼红细胞贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "促红细胞生成素（EPO，导致肾性贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "维生素 B12（导致巨幼红细胞贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "胃黏膜壁细胞分泌的内因子（导致恶性贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "铁离子（Fe2+，导致缺铁性贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。",
+      "hint": "注意多选选项的生理学全面性",
+      "id": 11
+    },
+    {
+      "c": "12",
+      "type": "multiple_select",
+      "question": "在生理条件下，健康人血液在血管内流动不发生凝固的原因包括（ ）。",
+      "prompt": "在生理条件下，健康人血液在血管内流动不发生凝固的原因包括（ ）。",
+      "answerOptions": [
+        {
+          "text": "血管内皮完整光滑，防止血小板黏附和接触激活因子Ⅻ",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        },
+        {
+          "text": "血液流动保持一定速度，不断冲淡并被肝脏单核巨噬细胞清除活化凝血因子",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        },
+        {
+          "text": "体内存在活跃的纤维蛋白溶解系统（纤溶系统）",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        },
+        {
+          "text": "血液中完全不含有凝血因子和钙离子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血液中持续存在生理性抗凝物质（抗凝血酶、肝素、蛋白C系统、TFPI）",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        }
+      ],
+      "options": [
+        {
+          "text": "血管内皮完整光滑，防止血小板黏附和接触激活因子Ⅻ",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        },
+        {
+          "text": "血液流动保持一定速度，不断冲淡并被肝脏单核巨噬细胞清除活化凝血因子",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        },
+        {
+          "text": "体内存在活跃的纤维蛋白溶解系统（纤溶系统）",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        },
+        {
+          "text": "血液中完全不含有凝血因子和钙离子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血液中持续存在生理性抗凝物质（抗凝血酶、肝素、蛋白C系统、TFPI）",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。",
+      "hint": "注意多选选项的生理学全面性",
+      "id": 12
+    },
+    {
+      "c": "13",
+      "type": "multiple_select",
+      "question": "下列由肝脏合成且合成过程依赖维生素 K（Vit K 依赖性凝血因子）的有（ ）。",
+      "prompt": "下列由肝脏合成且合成过程依赖维生素 K（Vit K 依赖性凝血因子）的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "凝血因子Ⅶ",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        },
+        {
+          "text": "纤维蛋白原（凝血因子Ⅰ）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "凝血因子Ⅸ",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        },
+        {
+          "text": "凝血因子Ⅹ",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        },
+        {
+          "text": "凝血因子Ⅱ（凝血酶原）",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        }
+      ],
+      "options": [
+        {
+          "text": "凝血因子Ⅶ",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        },
+        {
+          "text": "纤维蛋白原（凝血因子Ⅰ）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "凝血因子Ⅸ",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        },
+        {
+          "text": "凝血因子Ⅹ",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        },
+        {
+          "text": "凝血因子Ⅱ（凝血酶原）",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。",
+      "hint": "注意多选选项的生理学全面性",
+      "id": 13
+    },
+    {
+      "c": "14",
+      "type": "multiple_select",
+      "question": "关于血小板在生理止血过程中的多功能效应，叙述正确的有（ ）。",
+      "prompt": "关于血小板在生理止血过程中的多功能效应，叙述正确的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "收缩蛋白收缩使血凝块回缩，析出血清并加固止血",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "发生聚集反应，形成初级血小板止血栓堵塞创口",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "释放血栓素 A2（TXA2）和 5-羟色胺促进局部小血管收缩",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "黏附于受损暴露的血管内皮下胶原纤维",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "提供磷脂表面（血小板因子3，PF3）催化凝血酶原激活物组装",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        }
+      ],
+      "options": [
+        {
+          "text": "收缩蛋白收缩使血凝块回缩，析出血清并加固止血",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "发生聚集反应，形成初级血小板止血栓堵塞创口",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "释放血栓素 A2（TXA2）和 5-羟色胺促进局部小血管收缩",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "黏附于受损暴露的血管内皮下胶原纤维",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "提供磷脂表面（血小板因子3，PF3）催化凝血酶原激活物组装",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。",
+      "hint": "注意多选选项的生理学全面性",
+      "id": 14
+    },
+    {
+      "c": "15",
+      "type": "judge",
+      "question": "【判断题】血浆总渗透压中，晶体渗透压与胶体渗透压所占比例几乎各占 50%。",
+      "prompt": "【判断题】血浆总渗透压中，晶体渗透压与胶体渗透压所占比例几乎各占 50%。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。晶体渗透压占血浆总渗透压的 99% 以上，胶体渗透压仅占极小一部分（约 1.5 mOsm/L）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。晶体渗透压占血浆总渗透压的 99% 以上，胶体渗透压仅占极小一部分（约 1.5 mOsm/L）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。晶体渗透压占血浆总渗透压的 99% 以上，胶体渗透压仅占极小一部分（约 1.5 mOsm/L）。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 15
+    },
+    {
+      "c": "16",
+      "type": "judge",
+      "question": "【判断题】组织液生成障碍或肝病致白蛋白减少时，血浆胶体渗透压下降将引起严重组织水肿。",
+      "prompt": "【判断题】组织液生成障碍或肝病致白蛋白减少时，血浆胶体渗透压下降将引起严重组织水肿。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。白蛋白减少使血浆胶体渗透压降低，有效滤过压增大，水分在组织间隙大量潴留形成水肿。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。白蛋白减少使血浆胶体渗透压降低，有效滤过压增大，水分在组织间隙大量潴留形成水肿。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。白蛋白减少使血浆胶体渗透压降低，有效滤过压增大，水分在组织间隙大量潴留形成水肿。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 16
+    },
+    {
+      "c": "17",
+      "type": "judge",
+      "question": "【判断题】在生理性止血的启动机制中，内源性凝血途径比外源性凝血途径更为迅速敏锐。",
+      "prompt": "【判断题】在生理性止血的启动机制中，内源性凝血途径比外源性凝血途径更为迅速敏锐。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。外源性凝血由组织因子（TF）启动，过程极快（十几秒即可完成）；内源性凝血相对繁琐缓慢。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。外源性凝血由组织因子（TF）启动，过程极快（十几秒即可完成）；内源性凝血相对繁琐缓慢。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。外源性凝血由组织因子（TF）启动，过程极快（十几秒即可完成）；内源性凝血相对繁琐缓慢。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 17
+    },
+    {
+      "c": "18",
+      "type": "judge",
+      "question": "【判断题】抗凝血酶（AT-Ⅲ）是体内最主要的生理性抗凝物质之一，其抗凝靶点包括凝血酶和因子Ⅹa。",
+      "prompt": "【判断题】抗凝血酶（AT-Ⅲ）是体内最主要的生理性抗凝物质之一，其抗凝靶点包括凝血酶和因子Ⅹa。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。AT-Ⅲ 能灭活凝血酶、Ⅹa、Ⅸa、Ⅺa 等丝氨酸蛋白酶，肝素可将其活性放大上千倍。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。AT-Ⅲ 能灭活凝血酶、Ⅹa、Ⅸa、Ⅺa 等丝氨酸蛋白酶，肝素可将其活性放大上千倍。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。AT-Ⅲ 能灭活凝血酶、Ⅹa、Ⅸa、Ⅺa 等丝氨酸蛋白酶，肝素可将其活性放大上千倍。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 18
+    },
+    {
+      "c": "19",
+      "type": "judge",
+      "question": "【判断题】新鲜全血在试管中静置凝固后析出的澄清液体为血浆，加入抗凝剂离心后得到的是血清。",
+      "prompt": "【判断题】新鲜全血在试管中静置凝固后析出的澄清液体为血浆，加入抗凝剂离心后得到的是血清。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。刚好相反！凝血后析出的液体是**血清**（缺乏纤维蛋白原）；抗凝离心得到的上层液体是**血浆**。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。刚好相反！凝血后析出的液体是**血清**（缺乏纤维蛋白原）；抗凝离心得到的上层液体是**血浆**。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。刚好相反！凝血后析出的液体是**血清**（缺乏纤维蛋白原）；抗凝离心得到的上层液体是**血浆**。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 19
+    },
+    {
+      "c": "20",
+      "type": "judge",
+      "question": "【判断题】甲型血友病是由于机体基因缺陷导致凝血因子Ⅷ缺乏引起的伴性遗传性凝血障碍。",
+      "prompt": "【判断题】甲型血友病是由于机体基因缺陷导致凝血因子Ⅷ缺乏引起的伴性遗传性凝血障碍。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。FⅧ 缺陷导致内源性凝血严重受损，轻微创伤即可引起关节肌肉深部大出血。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。FⅧ 缺陷导致内源性凝血严重受损，轻微创伤即可引起关节肌肉深部大出血。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。FⅧ 缺陷导致内源性凝血严重受损，轻微创伤即可引起关节肌肉深部大出血。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 20
+    },
+    {
+      "c": "21",
+      "type": "judge",
+      "question": "【判断题】淋巴系统的淋巴管最终分别汇入左侧胸导管与右淋巴导管，然后注入锁骨下静脉回流血循环。",
+      "prompt": "【判断题】淋巴系统的淋巴管最终分别汇入左侧胸导管与右淋巴导管，然后注入锁骨下静脉回流血循环。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。全身 3/4 的淋巴液经胸导管注入左静脉角，右上半身 1/4 经右淋巴导管注入右静脉角。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。全身 3/4 的淋巴液经胸导管注入左静脉角，右上半身 1/4 经右淋巴导管注入右静脉角。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。全身 3/4 的淋巴液经胸导管注入左静脉角，右上半身 1/4 经右淋巴导管注入右静脉角。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 21
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】血浆晶体渗透压主要由血浆中的白蛋白分子决定，直接维持血管内外水分的动态平衡。",
+      "prompt": "【判断题】血浆晶体渗透压主要由血浆中的白蛋白分子决定，直接维持血管内外水分的动态平衡。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "血浆晶体渗透压主要由无机盐（NaCl）决定，维持细胞内外渗透平衡；维持血管内外水分平衡的是白蛋白决定的胶体渗透压。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "血浆晶体渗透压主要由无机盐（NaCl）决定，维持细胞内外渗透平衡；维持血管内外水分平衡的是白蛋白决定的胶体渗透压。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "血浆晶体渗透压主要由无机盐（NaCl）决定，维持细胞内外渗透平衡；维持血管内外水分平衡的是白蛋白决定的胶体渗透压。",
+      "hint": "",
+      "c": "22",
+      "id": 22
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】机体血管内皮损伤引发血液凝固的启动环节中，外源性凝血途径由组织因子（TF）入血迅速启动。",
+      "prompt": "【判断题】机体血管内皮损伤引发血液凝固的启动环节中，外源性凝血途径由组织因子（TF）入血迅速启动。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "组织因子（TF/因子Ⅲ）接触血液中的因子Ⅶ形成TF-Ⅶa复合物，是外源性凝血的起始关键步骤。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "组织因子（TF/因子Ⅲ）接触血液中的因子Ⅶ形成TF-Ⅶa复合物，是外源性凝血的起始关键步骤。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "组织因子（TF/因子Ⅲ）接触血液中的因子Ⅶ形成TF-Ⅶa复合物，是外源性凝血的起始关键步骤。",
+      "hint": "",
+      "c": "23",
+      "id": 23
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】健康人体红细胞的平均寿命约为120天，衰老红细胞主要在脾脏和肝脏被单核-巨噬细胞吞噬清除。",
+      "prompt": "【判断题】健康人体红细胞的平均寿命约为120天，衰老红细胞主要在脾脏和肝脏被单核-巨噬细胞吞噬清除。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "红细胞因老化变形能力下降，通过脾血窦网孔时被挤压破坏滞留并被巨噬细胞吞噬。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "红细胞因老化变形能力下降，通过脾血窦网孔时被挤压破坏滞留并被巨噬细胞吞噬。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "红细胞因老化变形能力下降，通过脾血窦网孔时被挤压破坏滞留并被巨噬细胞吞噬。",
+      "hint": "",
+      "c": "24",
+      "id": 24
+    },
+    {
+      "c": "25",
+      "type": "fill_blank",
+      "question": "血细胞包括____、____和____。其中数量最多的是____，在生理性止血中发挥核心黏附聚集作用的是____。",
+      "prompt": "血细胞包括____、____和____。其中数量最多的是____，在生理性止血中发挥核心黏附聚集作用的是____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "红细胞",
+        "白细胞",
+        "血小板",
+        "红细胞",
+        "血小板"
+      ],
+      "blanks": [
+        "红细胞",
+        "白细胞",
+        "血小板",
+        "红细胞",
+        "血小板"
+      ],
+      "rationale": "血细胞三大类：红细胞主司运氧，白细胞防御免疫，血小板止血。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 25
+    },
+    {
+      "c": "26",
+      "type": "fill_blank",
+      "question": "血浆蛋白包括____、____和____。血浆胶体渗透压主要由____决定，胶体渗透压影响水分在____和____之间的转运。血浆胶体渗透压过低将引起____。",
+      "prompt": "血浆蛋白包括____、____和____。血浆胶体渗透压主要由____决定，胶体渗透压影响水分在____和____之间的转运。血浆胶体渗透压过低将引起____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "白蛋白",
+        "球蛋白",
+        "纤维蛋白原",
+        "白蛋白",
+        "血管",
+        "组织间隙",
+        "水肿"
+      ],
+      "blanks": [
+        "白蛋白",
+        "球蛋白",
+        "纤维蛋白原",
+        "白蛋白",
+        "血管",
+        "组织间隙",
+        "水肿"
+      ],
+      "rationale": "白蛋白分子量小但分子数多，贡献 75%~80% 胶体渗透压；低蛋白血症导致组织水肿。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 26
+    },
+    {
+      "c": "27",
+      "type": "fill_blank",
+      "question": "血浆晶体渗透压主要由____决定，晶体渗透压维持水分在____和____的动态平衡。红细胞置于低渗溶液中将引起红细胞____。",
+      "prompt": "血浆晶体渗透压主要由____决定，晶体渗透压维持水分在____和____的动态平衡。红细胞置于低渗溶液中将引起红细胞____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "Na+",
+        "细胞内",
+        "细胞外",
+        "肿胀（甚至破裂溶血）"
+      ],
+      "blanks": [
+        "Na+",
+        "细胞内",
+        "细胞外",
+        "肿胀（甚至破裂溶血）"
+      ],
+      "rationale": "晶体渗透压由电解质（主要是 NaCl）决定，维持细胞内外渗透平衡和细胞正常体积。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 27
+    },
+    {
+      "c": "28",
+      "type": "fill_blank",
+      "question": "凝血酶原激活物可将____激活为____，随后将可溶性____转化为不溶性交联的____网。",
+      "prompt": "凝血酶原激活物可将____激活为____，随后将可溶性____转化为不溶性交联的____网。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "凝血酶原",
+        "凝血酶",
+        "纤维蛋白原",
+        "纤维蛋白"
+      ],
+      "blanks": [
+        "凝血酶原",
+        "凝血酶",
+        "纤维蛋白原",
+        "纤维蛋白"
+      ],
+      "rationale": "凝血三阶段：凝血酶原激活物形成 → 凝血酶生成 → 纤维蛋白形成。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 28
+    },
+    {
+      "c": "29",
+      "type": "fill_blank",
+      "question": "生理性止血全过程主要由____、____和____三个相互重叠的时相组成。",
+      "prompt": "生理性止血全过程主要由____、____和____三个相互重叠的时相组成。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "血管收缩",
+        "血小板血栓形成",
+        "血液凝固"
+      ],
+      "blanks": [
+        "血管收缩",
+        "血小板血栓形成",
+        "血液凝固"
+      ],
+      "rationale": "止血三步骤：神经反射性血管收缩、初级血小板止血栓、二级纤维蛋白凝血块形成。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 29
+    },
+    {
+      "c": "30",
+      "type": "fill_blank",
+      "question": "体内重要的生理性抗凝血成分包括____、____和____。",
+      "prompt": "体内重要的生理性抗凝血成分包括____、____和____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "抗凝血酶",
+        "肝素",
+        "组织因子途径抑制物（TFPI）"
+      ],
+      "blanks": [
+        "抗凝血酶",
+        "肝素",
+        "组织因子途径抑制物（TFPI）"
+      ],
+      "rationale": "内源性抗凝系统抑制活化凝血因子，维持血管内血液流动状态。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 30
+    },
+    {
+      "c": "31",
+      "type": "fill_blank",
+      "question": "体内的____和____能够酶解激活纤溶酶原生成纤溶酶，启动体内的纤维蛋白溶解过程。",
+      "prompt": "体内的____和____能够酶解激活纤溶酶原生成纤溶酶，启动体内的纤维蛋白溶解过程。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "组织型纤溶酶原激活物（t-PA）",
+        "尿激酶型纤溶酶原激活物（u-PA）"
+      ],
+      "blanks": [
+        "组织型纤溶酶原激活物（t-PA）",
+        "尿激酶型纤溶酶原激活物（u-PA）"
+      ],
+      "rationale": "t-PA 与 u-PA 激活纤溶系统，防止血栓过度蔓延并清除陈旧血栓。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 31
+    },
+    {
+      "c": "32",
+      "type": "fill_blank",
+      "question": "在血液凝固的启动阶段发挥主导作用的是外源性凝血途径，血管破损导致____入血是启动凝血级联的最关键触发因素。",
+      "prompt": "在血液凝固的启动阶段发挥主导作用的是外源性凝血途径，血管破损导致____入血是启动凝血级联的最关键触发因素。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "组织因子（TF/组织凝血活素）"
+      ],
+      "blanks": [
+        "组织因子（TF/组织凝血活素）"
+      ],
+      "rationale": "组织因子（TF）与因子Ⅶ结合形成 TF-Ⅶa 复合物，激活因子Ⅹ启动外源性凝血。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 32
+    },
+    {
+      "c": "33",
+      "type": "fill_blank",
+      "question": "白细胞中吞噬杀菌能力最强的粒细胞是____，能够穿出血管壁进入结缔组织分化为巨噬细胞的是____，属于特异性适应性免疫核心细胞的是____。",
+      "prompt": "白细胞中吞噬杀菌能力最强的粒细胞是____，能够穿出血管壁进入结缔组织分化为巨噬细胞的是____，属于特异性适应性免疫核心细胞的是____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "中性粒细胞",
+        "单核细胞",
+        "淋巴细胞"
+      ],
+      "blanks": [
+        "中性粒细胞",
+        "单核细胞",
+        "淋巴细胞"
+      ],
+      "rationale": "白细胞分类及功能定位：中性粒细胞化脓吞噬，单核细胞发育为巨噬细胞，淋巴细胞特异免疫。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 33
+    }
+  ],
+  "quiz": [
+    {
+      "c": "1",
+      "type": "single_choice",
+      "question": "血液完全凝固后析出的浅黄色透明液体称为血清。血清与血浆相比，最根本的区别是（ ）。",
+      "prompt": "血液完全凝固后析出的浅黄色透明液体称为血清。血清与血浆相比，最根本的区别是（ ）。",
+      "answerOptions": [
+        {
+          "text": "血清中不含有球蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血清中不含有白蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血清中电解质浓度显著高于血浆",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血清中完全缺乏纤维蛋白原及部分消耗性凝血因子（如Ⅱ、Ⅴ、Ⅷ）",
+          "isCorrect": true,
+          "rationale": "血液凝固时纤维蛋白原转变为纤维蛋白凝块，故血清 = 血浆 - 纤维蛋白原和已消耗的凝血因子。"
+        }
+      ],
+      "options": [
+        {
+          "text": "血清中不含有球蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血清中不含有白蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血清中电解质浓度显著高于血浆",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血清中完全缺乏纤维蛋白原及部分消耗性凝血因子（如Ⅱ、Ⅴ、Ⅷ）",
+          "isCorrect": true,
+          "rationale": "血液凝固时纤维蛋白原转变为纤维蛋白凝块，故血清 = 血浆 - 纤维蛋白原和已消耗的凝血因子。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "血液凝固时纤维蛋白原转变为纤维蛋白凝块，故血清 = 血浆 - 纤维蛋白原和已消耗的凝血因子。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 1
+    },
+    {
+      "c": "2",
+      "type": "single_choice",
+      "question": "关于血浆渗透压的叙述，下列正确的是（ ）。",
+      "prompt": "关于血浆渗透压的叙述，下列正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "血浆胶体渗透压主要由 γ-球蛋白分子形成",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆胶体渗透压降低水分向血细胞内转移引起红细胞破裂",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆总渗透压主要由晶体渗透压贡献（占 99% 以上）",
+          "isCorrect": true,
+          "rationale": "血浆总渗透压约 300 mOsm/L，其中晶体渗透压占绝大部分；胶体渗透压仅占约 1.5 mOsm/L（25 mmHg），由白蛋白主导维持血容量。"
+        },
+        {
+          "text": "血浆胶体渗透压增大有利于水分向组织间隙转移发生水肿",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "血浆胶体渗透压主要由 γ-球蛋白分子形成",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆胶体渗透压降低水分向血细胞内转移引起红细胞破裂",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆总渗透压主要由晶体渗透压贡献（占 99% 以上）",
+          "isCorrect": true,
+          "rationale": "血浆总渗透压约 300 mOsm/L，其中晶体渗透压占绝大部分；胶体渗透压仅占约 1.5 mOsm/L（25 mmHg），由白蛋白主导维持血容量。"
+        },
+        {
+          "text": "血浆胶体渗透压增大有利于水分向组织间隙转移发生水肿",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "血浆总渗透压约 300 mOsm/L，其中晶体渗透压占绝大部分；胶体渗透压仅占约 1.5 mOsm/L（25 mmHg），由白蛋白主导维持血容量。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 2
+    },
+    {
+      "c": "3",
+      "type": "single_choice",
+      "question": "在凝血级联反应中，作为内外源凝血因子激活的共同关键輔因子，发挥不可或缺催化作用的二价金属离子是（ ）。",
+      "prompt": "在凝血级联反应中，作为内外源凝血因子激活的共同关键輔因子，发挥不可或缺催化作用的二价金属离子是（ ）。",
+      "answerOptions": [
+        {
+          "text": "Na+",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Fe2+",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Ca2+（凝血因子Ⅳ）",
+          "isCorrect": true,
+          "rationale": "凝血因子Ⅳ即为 Ca2+，参与凝血酶原激活物形成及凝血酶激活几乎所有核心环节。"
+        },
+        {
+          "text": "K+",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "Na+",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Fe2+",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Ca2+（凝血因子Ⅳ）",
+          "isCorrect": true,
+          "rationale": "凝血因子Ⅳ即为 Ca2+，参与凝血酶原激活物形成及凝血酶激活几乎所有核心环节。"
+        },
+        {
+          "text": "K+",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "凝血因子Ⅳ即为 Ca2+，参与凝血酶原激活物形成及凝血酶激活几乎所有核心环节。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 3
+    },
+    {
+      "c": "4",
+      "type": "single_choice",
+      "question": "下列血浆蛋白成分中，主要不是在肝脏实质细胞内合成，而是由浆细胞分泌产生的是（ ）。",
+      "prompt": "下列血浆蛋白成分中，主要不是在肝脏实质细胞内合成，而是由浆细胞分泌产生的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "纤维蛋白原",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "γ-球蛋白（免疫球蛋白）",
+          "isCorrect": true,
+          "rationale": "肝脏是合成白蛋白、纤维蛋白原及大部分凝血因子的化工厂；γ-球蛋白属于抗体，由效应 B 细胞（浆细胞）分泌。"
+        },
+        {
+          "text": "血浆白蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "α-球蛋白与凝血酶原",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "纤维蛋白原",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "γ-球蛋白（免疫球蛋白）",
+          "isCorrect": true,
+          "rationale": "肝脏是合成白蛋白、纤维蛋白原及大部分凝血因子的化工厂；γ-球蛋白属于抗体，由效应 B 细胞（浆细胞）分泌。"
+        },
+        {
+          "text": "血浆白蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "α-球蛋白与凝血酶原",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肝脏是合成白蛋白、纤维蛋白原及大部分凝血因子的化工厂；γ-球蛋白属于抗体，由效应 B 细胞（浆细胞）分泌。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 4
+    },
+    {
+      "c": "5",
+      "type": "single_choice",
+      "question": "机体红细胞生成减少出现“小细胞低色素性贫血”的最常见营养素缺乏原因是（ ）。",
+      "prompt": "机体红细胞生成减少出现“小细胞低色素性贫血”的最常见营养素缺乏原因是（ ）。",
+      "answerOptions": [
+        {
+          "text": "缺乏叶酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "缺乏铁离子（Fe2+）",
+          "isCorrect": true,
+          "rationale": "铁是血红蛋白合成的核心原料，缺铁导致血红蛋白合成不足，红细胞体积变小、中央苍白区扩大。"
+        },
+        {
+          "text": "缺乏维生素 C",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "缺乏维生素 B12",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "缺乏叶酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "缺乏铁离子（Fe2+）",
+          "isCorrect": true,
+          "rationale": "铁是血红蛋白合成的核心原料，缺铁导致血红蛋白合成不足，红细胞体积变小、中央苍白区扩大。"
+        },
+        {
+          "text": "缺乏维生素 C",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "缺乏维生素 B12",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "铁是血红蛋白合成的核心原料，缺铁导致血红蛋白合成不足，红细胞体积变小、中央苍白区扩大。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 5
+    },
+    {
+      "c": "6",
+      "type": "single_choice",
+      "question": "缺乏维生素 B12 或叶酸会导致细胞核 DNA 合成障碍，引起哪种类型的贫血？（ ）",
+      "prompt": "缺乏维生素 B12 或叶酸会导致细胞核 DNA 合成障碍，引起哪种类型的贫血？（ ）",
+      "answerOptions": [
+        {
+          "text": "巨幼红细胞性贫血",
+          "isCorrect": true,
+          "rationale": "Vit B12 与叶酸是合成胸腺嘧啶脱氧核苷酸的辅酶，缺乏使 DNA 合成受阻细胞核分裂延迟，胞体异常增大。"
+        },
+        {
+          "text": "阵发性溶血性贫血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "再生障碍性贫血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小细胞低色素性贫血",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "巨幼红细胞性贫血",
+          "isCorrect": true,
+          "rationale": "Vit B12 与叶酸是合成胸腺嘧啶脱氧核苷酸的辅酶，缺乏使 DNA 合成受阻细胞核分裂延迟，胞体异常增大。"
+        },
+        {
+          "text": "阵发性溶血性贫血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "再生障碍性贫血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "小细胞低色素性贫血",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "Vit B12 与叶酸是合成胸腺嘧啶脱氧核苷酸的辅酶，缺乏使 DNA 合成受阻细胞核分裂延迟，胞体异常增大。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 6
+    },
+    {
+      "c": "7",
+      "type": "single_choice",
+      "question": "肝素（Heparin）在体内发挥强效抗凝血作用的核心生物学机制是（ ）。",
+      "prompt": "肝素（Heparin）在体内发挥强效抗凝血作用的核心生物学机制是（ ）。",
+      "answerOptions": [
+        {
+          "text": "鳌合血液中的游离 Ca2+",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "与抗凝血酶（AT-Ⅲ）结合，使其空间变构，抗凝活性暴增数百上千倍",
+          "isCorrect": true,
+          "rationale": "肝素本身无直接水解作用，通过结合抗凝血酶显著加速其灭活凝血酶及凝血因子Ⅹa、Ⅸa。"
+        },
+        {
+          "text": "直接水解纤维蛋白网",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "竞争性阻断维生素 K 依赖性凝血因子的羧化修饰",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "鳌合血液中的游离 Ca2+",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "与抗凝血酶（AT-Ⅲ）结合，使其空间变构，抗凝活性暴增数百上千倍",
+          "isCorrect": true,
+          "rationale": "肝素本身无直接水解作用，通过结合抗凝血酶显著加速其灭活凝血酶及凝血因子Ⅹa、Ⅸa。"
+        },
+        {
+          "text": "直接水解纤维蛋白网",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "竞争性阻断维生素 K 依赖性凝血因子的羧化修饰",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肝素本身无直接水解作用，通过结合抗凝血酶显著加速其灭活凝血酶及凝血因子Ⅹa、Ⅸa。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 7
+    },
+    {
+      "c": "8",
+      "type": "single_choice",
+      "question": "由于凝血因子Ⅷ（FⅧ）基因缺陷导致的遗传性出血性疾病被称为（ ）。",
+      "prompt": "由于凝血因子Ⅷ（FⅧ）基因缺陷导致的遗传性出血性疾病被称为（ ）。",
+      "answerOptions": [
+        {
+          "text": "乙型血友病（血友病 B）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血栓性血小板减少症",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "甲型血友病（血友病 A）",
+          "isCorrect": true,
+          "rationale": "缺乏 FⅧ 引起内源性凝血障碍，称为甲型血友病（伴 X 染色体隐性遗传）；缺乏 FⅨ 为乙型血友病。"
+        },
+        {
+          "text": "原发性血小板减少性紫癜",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "乙型血友病（血友病 B）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血栓性血小板减少症",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "甲型血友病（血友病 A）",
+          "isCorrect": true,
+          "rationale": "缺乏 FⅧ 引起内源性凝血障碍，称为甲型血友病（伴 X 染色体隐性遗传）；缺乏 FⅨ 为乙型血友病。"
+        },
+        {
+          "text": "原发性血小板减少性紫癜",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "缺乏 FⅧ 引起内源性凝血障碍，称为甲型血友病（伴 X 染色体隐性遗传）；缺乏 FⅨ 为乙型血友病。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 8
+    },
+    {
+      "c": "9",
+      "type": "single_choice",
+      "question": "肝脏严重广泛病变时，患者常出现明显的出血倾向，其主要原因是（ ）。",
+      "prompt": "肝脏严重广泛病变时，患者常出现明显的出血倾向，其主要原因是（ ）。",
+      "answerOptions": [
+        {
+          "text": "骨髓造血干细胞发生继发性衰竭",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "毛细血管通透性异常下降",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏合成的凝血因子（如凝血酶原、纤维蛋白原、Ⅶ、Ⅸ、Ⅹ等）显著减少",
+          "isCorrect": true,
+          "rationale": "多数凝血因子在肝脏合成，严重肝硬化或肝坏死使凝血因子合成量骤减引发广泛出血。"
+        },
+        {
+          "text": "抗凝血酶与纤溶酶原过度消耗",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "骨髓造血干细胞发生继发性衰竭",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "毛细血管通透性异常下降",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肝脏合成的凝血因子（如凝血酶原、纤维蛋白原、Ⅶ、Ⅸ、Ⅹ等）显著减少",
+          "isCorrect": true,
+          "rationale": "多数凝血因子在肝脏合成，严重肝硬化或肝坏死使凝血因子合成量骤减引发广泛出血。"
+        },
+        {
+          "text": "抗凝血酶与纤溶酶原过度消耗",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "多数凝血因子在肝脏合成，严重肝硬化或肝坏死使凝血因子合成量骤减引发广泛出血。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 9
+    },
+    {
+      "c": "10",
+      "type": "single_choice",
+      "question": "纤溶系统被激活后，直接降解纤维蛋白和纤维蛋白原并水解血凝块的活性酶是（ ）。",
+      "prompt": "纤溶系统被激活后，直接降解纤维蛋白和纤维蛋白原并水解血凝块的活性酶是（ ）。",
+      "answerOptions": [
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "组织因子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "凝血酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "纤溶酶（Fibrinolyin）",
+          "isCorrect": true,
+          "rationale": "纤溶酶原被激活为纤溶酶后，特异性水解纤维蛋白（原），降解为纤维蛋白降解产物（FDP）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胰蛋白酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "组织因子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "凝血酶",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "纤溶酶（Fibrinolyin）",
+          "isCorrect": true,
+          "rationale": "纤溶酶原被激活为纤溶酶后，特异性水解纤维蛋白（原），降解为纤维蛋白降解产物（FDP）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "纤溶酶原被激活为纤溶酶后，特异性水解纤维蛋白（原），降解为纤维蛋白降解产物（FDP）。",
+      "hint": "结合血液渗透平衡、血细胞功能及凝血纤溶机理",
+      "id": 10
+    },
+    {
+      "c": "11",
+      "type": "multiple_select",
+      "question": "下列哪些营养物质或造血因子的缺乏会导致机体发生不同类型的贫血？（ ）",
+      "prompt": "下列哪些营养物质或造血因子的缺乏会导致机体发生不同类型的贫血？（ ）",
+      "answerOptions": [
+        {
+          "text": "叶酸（导致巨幼红细胞贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "促红细胞生成素（EPO，导致肾性贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "维生素 B12（导致巨幼红细胞贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "胃黏膜壁细胞分泌的内因子（导致恶性贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "铁离子（Fe2+，导致缺铁性贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        }
+      ],
+      "options": [
+        {
+          "text": "叶酸（导致巨幼红细胞贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "促红细胞生成素（EPO，导致肾性贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "维生素 B12（导致巨幼红细胞贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "胃黏膜壁细胞分泌的内因子（导致恶性贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        },
+        {
+          "text": "铁离子（Fe2+，导致缺铁性贫血）",
+          "isCorrect": true,
+          "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "铁、蛋白质为红细胞原料；Vit B12、叶酸为成熟因子；内因子促进 B12 吸收；EPO 促进幼红细胞增殖分化。",
+      "hint": "注意多选选项的生理学全面性",
+      "id": 11
+    },
+    {
+      "c": "12",
+      "type": "multiple_select",
+      "question": "在生理条件下，健康人血液在血管内流动不发生凝固的原因包括（ ）。",
+      "prompt": "在生理条件下，健康人血液在血管内流动不发生凝固的原因包括（ ）。",
+      "answerOptions": [
+        {
+          "text": "血管内皮完整光滑，防止血小板黏附和接触激活因子Ⅻ",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        },
+        {
+          "text": "血液流动保持一定速度，不断冲淡并被肝脏单核巨噬细胞清除活化凝血因子",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        },
+        {
+          "text": "体内存在活跃的纤维蛋白溶解系统（纤溶系统）",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        },
+        {
+          "text": "血液中完全不含有凝血因子和钙离子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血液中持续存在生理性抗凝物质（抗凝血酶、肝素、蛋白C系统、TFPI）",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        }
+      ],
+      "options": [
+        {
+          "text": "血管内皮完整光滑，防止血小板黏附和接触激活因子Ⅻ",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        },
+        {
+          "text": "血液流动保持一定速度，不断冲淡并被肝脏单核巨噬细胞清除活化凝血因子",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        },
+        {
+          "text": "体内存在活跃的纤维蛋白溶解系统（纤溶系统）",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        },
+        {
+          "text": "血液中完全不含有凝血因子和钙离子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血液中持续存在生理性抗凝物质（抗凝血酶、肝素、蛋白C系统、TFPI）",
+          "isCorrect": true,
+          "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "内皮光滑屏障、血流稀释冲刷、生理性抗凝系统以及纤溶系统动态平衡，共同保证正常血液不凝固。",
+      "hint": "注意多选选项的生理学全面性",
+      "id": 12
+    },
+    {
+      "c": "13",
+      "type": "multiple_select",
+      "question": "下列由肝脏合成且合成过程依赖维生素 K（Vit K 依赖性凝血因子）的有（ ）。",
+      "prompt": "下列由肝脏合成且合成过程依赖维生素 K（Vit K 依赖性凝血因子）的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "凝血因子Ⅶ",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        },
+        {
+          "text": "纤维蛋白原（凝血因子Ⅰ）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "凝血因子Ⅸ",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        },
+        {
+          "text": "凝血因子Ⅹ",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        },
+        {
+          "text": "凝血因子Ⅱ（凝血酶原）",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        }
+      ],
+      "options": [
+        {
+          "text": "凝血因子Ⅶ",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        },
+        {
+          "text": "纤维蛋白原（凝血因子Ⅰ）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "凝血因子Ⅸ",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        },
+        {
+          "text": "凝血因子Ⅹ",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        },
+        {
+          "text": "凝血因子Ⅱ（凝血酶原）",
+          "isCorrect": true,
+          "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "Vit K 依赖性凝血因子是Ⅱ、Ⅶ、Ⅸ、Ⅹ。其谷氨酸残基需在 Vit K 参与下羧化才能与 Ca2+ 结合。",
+      "hint": "注意多选选项的生理学全面性",
+      "id": 13
+    },
+    {
+      "c": "14",
+      "type": "multiple_select",
+      "question": "关于血小板在生理止血过程中的多功能效应，叙述正确的有（ ）。",
+      "prompt": "关于血小板在生理止血过程中的多功能效应，叙述正确的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "收缩蛋白收缩使血凝块回缩，析出血清并加固止血",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "发生聚集反应，形成初级血小板止血栓堵塞创口",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "释放血栓素 A2（TXA2）和 5-羟色胺促进局部小血管收缩",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "黏附于受损暴露的血管内皮下胶原纤维",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "提供磷脂表面（血小板因子3，PF3）催化凝血酶原激活物组装",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        }
+      ],
+      "options": [
+        {
+          "text": "收缩蛋白收缩使血凝块回缩，析出血清并加固止血",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "发生聚集反应，形成初级血小板止血栓堵塞创口",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "释放血栓素 A2（TXA2）和 5-羟色胺促进局部小血管收缩",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "黏附于受损暴露的血管内皮下胶原纤维",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        },
+        {
+          "text": "提供磷脂表面（血小板因子3，PF3）催化凝血酶原激活物组装",
+          "isCorrect": true,
+          "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "五项叙述完整概括了血小板黏附、聚集、释放、促凝及血块回缩的全套止血机制。",
+      "hint": "注意多选选项的生理学全面性",
+      "id": 14
+    },
+    {
+      "c": "15",
+      "type": "judge",
+      "question": "【判断题】血浆总渗透压中，晶体渗透压与胶体渗透压所占比例几乎各占 50%。",
+      "prompt": "【判断题】血浆总渗透压中，晶体渗透压与胶体渗透压所占比例几乎各占 50%。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。晶体渗透压占血浆总渗透压的 99% 以上，胶体渗透压仅占极小一部分（约 1.5 mOsm/L）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。晶体渗透压占血浆总渗透压的 99% 以上，胶体渗透压仅占极小一部分（约 1.5 mOsm/L）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。晶体渗透压占血浆总渗透压的 99% 以上，胶体渗透压仅占极小一部分（约 1.5 mOsm/L）。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 15
+    },
+    {
+      "c": "16",
+      "type": "judge",
+      "question": "【判断题】组织液生成障碍或肝病致白蛋白减少时，血浆胶体渗透压下降将引起严重组织水肿。",
+      "prompt": "【判断题】组织液生成障碍或肝病致白蛋白减少时，血浆胶体渗透压下降将引起严重组织水肿。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。白蛋白减少使血浆胶体渗透压降低，有效滤过压增大，水分在组织间隙大量潴留形成水肿。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。白蛋白减少使血浆胶体渗透压降低，有效滤过压增大，水分在组织间隙大量潴留形成水肿。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。白蛋白减少使血浆胶体渗透压降低，有效滤过压增大，水分在组织间隙大量潴留形成水肿。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 16
+    },
+    {
+      "c": "17",
+      "type": "judge",
+      "question": "【判断题】在生理性止血的启动机制中，内源性凝血途径比外源性凝血途径更为迅速敏锐。",
+      "prompt": "【判断题】在生理性止血的启动机制中，内源性凝血途径比外源性凝血途径更为迅速敏锐。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。外源性凝血由组织因子（TF）启动，过程极快（十几秒即可完成）；内源性凝血相对繁琐缓慢。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。外源性凝血由组织因子（TF）启动，过程极快（十几秒即可完成）；内源性凝血相对繁琐缓慢。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。外源性凝血由组织因子（TF）启动，过程极快（十几秒即可完成）；内源性凝血相对繁琐缓慢。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 17
+    },
+    {
+      "c": "18",
+      "type": "judge",
+      "question": "【判断题】抗凝血酶（AT-Ⅲ）是体内最主要的生理性抗凝物质之一，其抗凝靶点包括凝血酶和因子Ⅹa。",
+      "prompt": "【判断题】抗凝血酶（AT-Ⅲ）是体内最主要的生理性抗凝物质之一，其抗凝靶点包括凝血酶和因子Ⅹa。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。AT-Ⅲ 能灭活凝血酶、Ⅹa、Ⅸa、Ⅺa 等丝氨酸蛋白酶，肝素可将其活性放大上千倍。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。AT-Ⅲ 能灭活凝血酶、Ⅹa、Ⅸa、Ⅺa 等丝氨酸蛋白酶，肝素可将其活性放大上千倍。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。AT-Ⅲ 能灭活凝血酶、Ⅹa、Ⅸa、Ⅺa 等丝氨酸蛋白酶，肝素可将其活性放大上千倍。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 18
+    },
+    {
+      "c": "19",
+      "type": "judge",
+      "question": "【判断题】新鲜全血在试管中静置凝固后析出的澄清液体为血浆，加入抗凝剂离心后得到的是血清。",
+      "prompt": "【判断题】新鲜全血在试管中静置凝固后析出的澄清液体为血浆，加入抗凝剂离心后得到的是血清。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。刚好相反！凝血后析出的液体是**血清**（缺乏纤维蛋白原）；抗凝离心得到的上层液体是**血浆**。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。刚好相反！凝血后析出的液体是**血清**（缺乏纤维蛋白原）；抗凝离心得到的上层液体是**血浆**。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。刚好相反！凝血后析出的液体是**血清**（缺乏纤维蛋白原）；抗凝离心得到的上层液体是**血浆**。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 19
+    },
+    {
+      "c": "20",
+      "type": "judge",
+      "question": "【判断题】甲型血友病是由于机体基因缺陷导致凝血因子Ⅷ缺乏引起的伴性遗传性凝血障碍。",
+      "prompt": "【判断题】甲型血友病是由于机体基因缺陷导致凝血因子Ⅷ缺乏引起的伴性遗传性凝血障碍。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。FⅧ 缺陷导致内源性凝血严重受损，轻微创伤即可引起关节肌肉深部大出血。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。FⅧ 缺陷导致内源性凝血严重受损，轻微创伤即可引起关节肌肉深部大出血。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。FⅧ 缺陷导致内源性凝血严重受损，轻微创伤即可引起关节肌肉深部大出血。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 20
+    },
+    {
+      "c": "21",
+      "type": "judge",
+      "question": "【判断题】淋巴系统的淋巴管最终分别汇入左侧胸导管与右淋巴导管，然后注入锁骨下静脉回流血循环。",
+      "prompt": "【判断题】淋巴系统的淋巴管最终分别汇入左侧胸导管与右淋巴导管，然后注入锁骨下静脉回流血循环。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。全身 3/4 的淋巴液经胸导管注入左静脉角，右上半身 1/4 经右淋巴导管注入右静脉角。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。全身 3/4 的淋巴液经胸导管注入左静脉角，右上半身 1/4 经右淋巴导管注入右静脉角。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。全身 3/4 的淋巴液经胸导管注入左静脉角，右上半身 1/4 经右淋巴导管注入右静脉角。",
+      "hint": "根据血液学与凝血生理事实做出判断",
+      "id": 21
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】血浆晶体渗透压主要由血浆中的白蛋白分子决定，直接维持血管内外水分的动态平衡。",
+      "prompt": "【判断题】血浆晶体渗透压主要由血浆中的白蛋白分子决定，直接维持血管内外水分的动态平衡。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "血浆晶体渗透压主要由无机盐（NaCl）决定，维持细胞内外渗透平衡；维持血管内外水分平衡的是白蛋白决定的胶体渗透压。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "血浆晶体渗透压主要由无机盐（NaCl）决定，维持细胞内外渗透平衡；维持血管内外水分平衡的是白蛋白决定的胶体渗透压。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "血浆晶体渗透压主要由无机盐（NaCl）决定，维持细胞内外渗透平衡；维持血管内外水分平衡的是白蛋白决定的胶体渗透压。",
+      "hint": "",
+      "c": "22",
+      "id": 22
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】机体血管内皮损伤引发血液凝固的启动环节中，外源性凝血途径由组织因子（TF）入血迅速启动。",
+      "prompt": "【判断题】机体血管内皮损伤引发血液凝固的启动环节中，外源性凝血途径由组织因子（TF）入血迅速启动。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "组织因子（TF/因子Ⅲ）接触血液中的因子Ⅶ形成TF-Ⅶa复合物，是外源性凝血的起始关键步骤。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "组织因子（TF/因子Ⅲ）接触血液中的因子Ⅶ形成TF-Ⅶa复合物，是外源性凝血的起始关键步骤。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "组织因子（TF/因子Ⅲ）接触血液中的因子Ⅶ形成TF-Ⅶa复合物，是外源性凝血的起始关键步骤。",
+      "hint": "",
+      "c": "23",
+      "id": 23
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】健康人体红细胞的平均寿命约为120天，衰老红细胞主要在脾脏和肝脏被单核-巨噬细胞吞噬清除。",
+      "prompt": "【判断题】健康人体红细胞的平均寿命约为120天，衰老红细胞主要在脾脏和肝脏被单核-巨噬细胞吞噬清除。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "红细胞因老化变形能力下降，通过脾血窦网孔时被挤压破坏滞留并被巨噬细胞吞噬。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "红细胞因老化变形能力下降，通过脾血窦网孔时被挤压破坏滞留并被巨噬细胞吞噬。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "红细胞因老化变形能力下降，通过脾血窦网孔时被挤压破坏滞留并被巨噬细胞吞噬。",
+      "hint": "",
+      "c": "24",
+      "id": 24
+    },
+    {
+      "c": "25",
+      "type": "fill_blank",
+      "question": "血细胞包括____、____和____。其中数量最多的是____，在生理性止血中发挥核心黏附聚集作用的是____。",
+      "prompt": "血细胞包括____、____和____。其中数量最多的是____，在生理性止血中发挥核心黏附聚集作用的是____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "红细胞",
+        "白细胞",
+        "血小板",
+        "红细胞",
+        "血小板"
+      ],
+      "blanks": [
+        "红细胞",
+        "白细胞",
+        "血小板",
+        "红细胞",
+        "血小板"
+      ],
+      "rationale": "血细胞三大类：红细胞主司运氧，白细胞防御免疫，血小板止血。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 25
+    },
+    {
+      "c": "26",
+      "type": "fill_blank",
+      "question": "血浆蛋白包括____、____和____。血浆胶体渗透压主要由____决定，胶体渗透压影响水分在____和____之间的转运。血浆胶体渗透压过低将引起____。",
+      "prompt": "血浆蛋白包括____、____和____。血浆胶体渗透压主要由____决定，胶体渗透压影响水分在____和____之间的转运。血浆胶体渗透压过低将引起____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "白蛋白",
+        "球蛋白",
+        "纤维蛋白原",
+        "白蛋白",
+        "血管",
+        "组织间隙",
+        "水肿"
+      ],
+      "blanks": [
+        "白蛋白",
+        "球蛋白",
+        "纤维蛋白原",
+        "白蛋白",
+        "血管",
+        "组织间隙",
+        "水肿"
+      ],
+      "rationale": "白蛋白分子量小但分子数多，贡献 75%~80% 胶体渗透压；低蛋白血症导致组织水肿。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 26
+    },
+    {
+      "c": "27",
+      "type": "fill_blank",
+      "question": "血浆晶体渗透压主要由____决定，晶体渗透压维持水分在____和____的动态平衡。红细胞置于低渗溶液中将引起红细胞____。",
+      "prompt": "血浆晶体渗透压主要由____决定，晶体渗透压维持水分在____和____的动态平衡。红细胞置于低渗溶液中将引起红细胞____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "Na+",
+        "细胞内",
+        "细胞外",
+        "肿胀（甚至破裂溶血）"
+      ],
+      "blanks": [
+        "Na+",
+        "细胞内",
+        "细胞外",
+        "肿胀（甚至破裂溶血）"
+      ],
+      "rationale": "晶体渗透压由电解质（主要是 NaCl）决定，维持细胞内外渗透平衡和细胞正常体积。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 27
+    },
+    {
+      "c": "28",
+      "type": "fill_blank",
+      "question": "凝血酶原激活物可将____激活为____，随后将可溶性____转化为不溶性交联的____网。",
+      "prompt": "凝血酶原激活物可将____激活为____，随后将可溶性____转化为不溶性交联的____网。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "凝血酶原",
+        "凝血酶",
+        "纤维蛋白原",
+        "纤维蛋白"
+      ],
+      "blanks": [
+        "凝血酶原",
+        "凝血酶",
+        "纤维蛋白原",
+        "纤维蛋白"
+      ],
+      "rationale": "凝血三阶段：凝血酶原激活物形成 → 凝血酶生成 → 纤维蛋白形成。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 28
+    },
+    {
+      "c": "29",
+      "type": "fill_blank",
+      "question": "生理性止血全过程主要由____、____和____三个相互重叠的时相组成。",
+      "prompt": "生理性止血全过程主要由____、____和____三个相互重叠的时相组成。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "血管收缩",
+        "血小板血栓形成",
+        "血液凝固"
+      ],
+      "blanks": [
+        "血管收缩",
+        "血小板血栓形成",
+        "血液凝固"
+      ],
+      "rationale": "止血三步骤：神经反射性血管收缩、初级血小板止血栓、二级纤维蛋白凝血块形成。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 29
+    },
+    {
+      "c": "30",
+      "type": "fill_blank",
+      "question": "体内重要的生理性抗凝血成分包括____、____和____。",
+      "prompt": "体内重要的生理性抗凝血成分包括____、____和____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "抗凝血酶",
+        "肝素",
+        "组织因子途径抑制物（TFPI）"
+      ],
+      "blanks": [
+        "抗凝血酶",
+        "肝素",
+        "组织因子途径抑制物（TFPI）"
+      ],
+      "rationale": "内源性抗凝系统抑制活化凝血因子，维持血管内血液流动状态。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 30
+    },
+    {
+      "c": "31",
+      "type": "fill_blank",
+      "question": "体内的____和____能够酶解激活纤溶酶原生成纤溶酶，启动体内的纤维蛋白溶解过程。",
+      "prompt": "体内的____和____能够酶解激活纤溶酶原生成纤溶酶，启动体内的纤维蛋白溶解过程。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "组织型纤溶酶原激活物（t-PA）",
+        "尿激酶型纤溶酶原激活物（u-PA）"
+      ],
+      "blanks": [
+        "组织型纤溶酶原激活物（t-PA）",
+        "尿激酶型纤溶酶原激活物（u-PA）"
+      ],
+      "rationale": "t-PA 与 u-PA 激活纤溶系统，防止血栓过度蔓延并清除陈旧血栓。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 31
+    },
+    {
+      "c": "32",
+      "type": "fill_blank",
+      "question": "在血液凝固的启动阶段发挥主导作用的是外源性凝血途径，血管破损导致____入血是启动凝血级联的最关键触发因素。",
+      "prompt": "在血液凝固的启动阶段发挥主导作用的是外源性凝血途径，血管破损导致____入血是启动凝血级联的最关键触发因素。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "组织因子（TF/组织凝血活素）"
+      ],
+      "blanks": [
+        "组织因子（TF/组织凝血活素）"
+      ],
+      "rationale": "组织因子（TF）与因子Ⅶ结合形成 TF-Ⅶa 复合物，激活因子Ⅹ启动外源性凝血。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 32
+    },
+    {
+      "c": "33",
+      "type": "fill_blank",
+      "question": "白细胞中吞噬杀菌能力最强的粒细胞是____，能够穿出血管壁进入结缔组织分化为巨噬细胞的是____，属于特异性适应性免疫核心细胞的是____。",
+      "prompt": "白细胞中吞噬杀菌能力最强的粒细胞是____，能够穿出血管壁进入结缔组织分化为巨噬细胞的是____，属于特异性适应性免疫核心细胞的是____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "中性粒细胞",
+        "单核细胞",
+        "淋巴细胞"
+      ],
+      "blanks": [
+        "中性粒细胞",
+        "单核细胞",
+        "淋巴细胞"
+      ],
+      "rationale": "白细胞分类及功能定位：中性粒细胞化脓吞噬，单核细胞发育为巨噬细胞，淋巴细胞特异免疫。",
+      "hint": "注意血液生化成分、渗透压机制与凝血纤溶途径",
+      "id": 33
+    }
+  ]
+}

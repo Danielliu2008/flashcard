@@ -1,0 +1,538 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "测量细菌大小最常用的物理单位是：",
+      "options": [
+        {
+          "text": "微米（μm）",
+          "isCorrect": true,
+          "rationale": "正确。细菌通常在普通光学显微镜下测量，单位为微米（μm）。"
+        },
+        {
+          "text": "纳米（nm）",
+          "isCorrect": false,
+          "rationale": "纳米（nm）是测量病毒大小的单位。"
+        },
+        {
+          "text": "毫米（mm）",
+          "isCorrect": false,
+          "rationale": "毫米用于描述宏观菌落或寄生虫。"
+        },
+        {
+          "text": "埃（Å）",
+          "isCorrect": false,
+          "rationale": "埃通常用于原子尺度分子结构描述。"
+        }
+      ],
+      "hint": "病毒用纳米（nm），细菌用什么？",
+      "rationale": "细菌微小，大小通常在0.5~5 μm之间，度量单位为微米（μm）。"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "细菌细胞壁的基本骨架成分是肽聚糖，其聚糖链的单糖骨架是由哪两种物质交替连接构成的？",
+      "options": [
+        {
+          "text": "N-乙酰葡糖胺（NAG）与N-乙酰胞壁酸（NAM）",
+          "isCorrect": true,
+          "rationale": "正确。二者通过β-1,4糖苷键交替连接构成聚糖骨架。"
+        },
+        {
+          "text": "葡萄糖与半乳糖",
+          "isCorrect": false,
+          "rationale": "属于常规双糖/多糖原料，非肽聚糖骨架。"
+        },
+        {
+          "text": "甘露糖与甘油磷酸",
+          "isCorrect": false,
+          "rationale": "甘露糖是真菌细胞壁成分，甘油磷酸是磷壁酸成分。"
+        },
+        {
+          "text": "几丁质与纤维素",
+          "isCorrect": false,
+          "rationale": "几丁质见于真菌，纤维素见于植物。"
+        }
+      ],
+      "hint": "NAG与NAM。",
+      "rationale": "肽聚糖骨架是由N-乙酰葡糖胺（NAG）和N-乙酰胞壁酸（NAM）通过β-1,4糖苷键交替聚合而成的多糖长链。"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "溶菌酶杀灭细菌的作用机制是特异性水解：",
+      "options": [
+        {
+          "text": "聚糖骨架中的β-1,4糖苷键",
+          "isCorrect": true,
+          "rationale": "正确。溶菌酶切断NAG与NAM之间的β-1,4糖苷键破坏细胞壁。"
+        },
+        {
+          "text": "四肽侧链末端的D-丙氨酸",
+          "isCorrect": false,
+          "rationale": "转肽酶在交联时切除D-丙氨酸，非溶菌酶靶点。"
+        },
+        {
+          "text": "细胞膜上的脂质双层",
+          "isCorrect": false,
+          "rationale": "属于多粘菌素等膜靶向药物机制。"
+        },
+        {
+          "text": "核糖体30S亚基上的rRNA",
+          "isCorrect": false,
+          "rationale": "属于氨基糖苷类抗生素机制。"
+        }
+      ],
+      "hint": "切断细胞壁多糖骨架的糖苷键。",
+      "rationale": "溶菌酶裂解β-1,4糖苷键，使细菌细胞壁不溶性聚糖骨架水解成可溶性寡糖，造成细胞壁缺损溶解。"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "下列哪种成分仅存在于革兰阳性（G+）菌细胞壁中，而不存在于革兰阴性（G-）菌细胞壁？",
+      "options": [
+        {
+          "text": "磷壁酸（Teichoic acid）",
+          "isCorrect": true,
+          "rationale": "正确。磷壁酸是革兰阳性菌细胞壁特有的多聚醇抗原成分。"
+        },
+        {
+          "text": "脂多糖（LPS）",
+          "isCorrect": false,
+          "rationale": "脂多糖是革兰阴性菌特有的外膜成分。"
+        },
+        {
+          "text": "肽聚糖",
+          "isCorrect": false,
+          "rationale": "G+与G-菌均含有肽聚糖骨架。"
+        },
+        {
+          "text": "外膜蛋白",
+          "isCorrect": false,
+          "rationale": "外膜为革兰阴性菌特有。"
+        }
+      ],
+      "hint": "注意区分磷壁酸与脂多糖分别属于哪一类菌。",
+      "rationale": "磷壁酸是革兰阳性菌特有成分，分为膜磷壁酸和壁磷壁酸；而革兰阴性菌细胞壁特有成分为外膜（含脂多糖LPS）。"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "革兰阴性菌外膜的脂多糖（LPS）即内毒素，其引起宿主发热、微循环休克和DIC的主要毒性活性中心是：",
+      "options": [
+        {
+          "text": "脂质A（Lipid A）",
+          "isCorrect": true,
+          "rationale": "正确。脂质A是内毒素主要毒性成分和生物学活性中心。"
+        },
+        {
+          "text": "核心多糖（Core polysaccharide）",
+          "isCorrect": false,
+          "rationale": "核心多糖具有属特异性，无直接内毒素活性。"
+        },
+        {
+          "text": "O特异性多糖（O抗原）",
+          "isCorrect": false,
+          "rationale": "O抗原决定菌体血清型特异性抗原性。"
+        },
+        {
+          "text": "外膜微孔蛋白（Porin）",
+          "isCorrect": false,
+          "rationale": "微孔蛋白负责跨膜通道运输，无毒性。"
+        }
+      ],
+      "hint": "脂质A（Lipid A）是所有内毒素毒性作用的共同结构物质基础。",
+      "rationale": "内毒素由脂质A、核心多糖和O特异多糖三部分组成，其中脂质A具有极其恒定的结构，是内毒素的毒性核心。"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "关于细菌L型（L-form）的生物学特性，下列说法错误的是：",
+      "options": [
+        {
+          "text": "在低渗培养基中生长良好且形态规整",
+          "isCorrect": true,
+          "rationale": "符合题意。细菌L型丧失了维持渗透压屏障的细胞壁，在低渗环境中极易吸水膨胀裂解，必须在高渗培养基中才能生存！"
+        },
+        {
+          "text": "细胞壁肽聚糖受到损伤或完全缺失",
+          "isCorrect": false,
+          "rationale": "叙述正确，L型即细胞壁缺陷型。"
+        },
+        {
+          "text": "对青霉素等作用于细胞壁的β-内酰胺类抗生素天然耐药",
+          "isCorrect": false,
+          "rationale": "叙述正确，因缺乏靶结构（肽聚糖），青霉素对其无效。"
+        },
+        {
+          "text": "去除诱导诱发因素后，部分菌株可重新合成细胞壁并恢复毒力",
+          "isCorrect": false,
+          "rationale": "叙述正确，这是临床感染复发的重要根源。"
+        }
+      ],
+      "hint": "细胞壁缺失的细菌在低渗环境中会发生什么？",
+      "rationale": "细胞壁主要功能之一是抵抗渗透压。缺乏细胞壁的L型细菌只有在高渗环境下才能稳定存活，在普通低渗环境下会裂解死亡。"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "肺炎链球菌能在宿主体内抵抗中性粒细胞和巨噬细胞吞噬消化，主要依赖于其表面哪种特殊结构？",
+      "options": [
+        {
+          "text": "荚膜（Capsule）",
+          "isCorrect": true,
+          "rationale": "正确。荚膜是强效抗吞噬和抗体液杀伤的重要毒力结构。"
+        },
+        {
+          "text": "鞭毛（Flagellum）",
+          "isCorrect": false,
+          "rationale": "鞭毛为运动器官。"
+        },
+        {
+          "text": "性菌毛（Sex pilus）",
+          "isCorrect": false,
+          "rationale": "性菌毛负责接合传递质粒。"
+        },
+        {
+          "text": "芽胞（Spore）",
+          "isCorrect": false,
+          "rationale": "肺炎链球菌不产生芽胞。"
+        }
+      ],
+      "hint": "光滑黏液层，抗吞噬作用的关键毒力物质。",
+      "rationale": "荚膜包裹在菌体外表，具有抗吞噬、抗溶菌酶和抵抗补体介导溶菌的保护功能，是肺炎链球菌等的主要毒力因子。"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "细菌耐热芽胞的核心含有一种特异性高浓度化学保护物质，能使蛋白质和核酸维持高度热稳定性，该物质是：",
+      "options": [
+        {
+          "text": "吡啶二羧酸钙（DPA-Ca）",
+          "isCorrect": true,
+          "rationale": "正确。DPA-Ca是芽胞特有的耐热物质，可占芽胞干重10%以上。"
+        },
+        {
+          "text": "磷壁酸钙",
+          "isCorrect": false,
+          "rationale": "磷壁酸为G+菌细胞壁成分。"
+        },
+        {
+          "text": "二磷酸腺苷（ADP）",
+          "isCorrect": false,
+          "rationale": "常规能量代谢分子。"
+        },
+        {
+          "text": "聚-β-羟基丁酸（PHB）",
+          "isCorrect": false,
+          "rationale": "PHB为碳源储藏颗粒。"
+        }
+      ],
+      "hint": "DPA与钙离子螯合形成的复合物。",
+      "rationale": "吡啶二羧酸（DPA）与钙离子结合形成DPA-Ca复合物，是细菌芽胞耐受高温、辐射和脱水破坏的决定性化学成分。"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "革兰染色法操作程序中，决定染色最终成败的“最关键步骤”是：",
+      "options": [
+        {
+          "text": "95%乙醇脱色时间与操作",
+          "isCorrect": true,
+          "rationale": "正确。脱色不足会导致G-被误判为G+（假阳性），脱色过度会导致G+被误判为G-（假阴性）。"
+        },
+        {
+          "text": "初染结晶紫滴加浓度",
+          "isCorrect": false,
+          "rationale": "初染后所有菌均呈紫色，非分水岭步骤。"
+        },
+        {
+          "text": "碘液媒染时间长短",
+          "isCorrect": false,
+          "rationale": "媒染固定染料，非最终颜色分化步骤。"
+        },
+        {
+          "text": "复染稀释复红的温度",
+          "isCorrect": false,
+          "rationale": "复染只是对脱色后的菌体上色。"
+        }
+      ],
+      "hint": "哪一步把两类细菌从相同的紫色中区分开来？",
+      "rationale": "乙醇脱色是革兰染色的核心分化步骤，严格掌握脱色时间（通常约30秒至洗脱液无紫色）是确保结果准确的关键。"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "革兰染色在临床指导抗感染用药方面具有重大意义，通常革兰阳性菌（G+）对下列哪类抗生素高度敏感？",
+      "options": [
+        {
+          "text": "青霉素G等作用于肽聚糖交联的β-内酰胺类",
+          "isCorrect": true,
+          "rationale": "正确。G+菌细胞壁以厚实肽聚糖为主，且无外膜屏障阻挡，对青霉素类高度敏感。"
+        },
+        {
+          "text": "多粘菌素B（Polymyxin B）",
+          "isCorrect": false,
+          "rationale": "多粘菌素专一作用于G-菌外膜脂多糖。"
+        },
+        {
+          "text": "两性霉素B（Amphotericin B）",
+          "isCorrect": false,
+          "rationale": "两性霉素B为抗真菌药物，对细菌无效。"
+        },
+        {
+          "text": "抗酸菌专用异烟肼",
+          "isCorrect": false,
+          "rationale": "异烟肼专一抑制分枝菌酸合成。"
+        }
+      ],
+      "hint": "G+菌缺乏外膜屏障，细胞壁富含暴露的厚肽聚糖。",
+      "rationale": "G+菌细胞壁肽聚糖层厚且缺乏外膜保护，青霉素能直接到达转肽酶靶点阻碍交联，故G+菌对青霉素类高度敏感。"
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "革兰阴性菌（G-）细胞壁肽聚糖层虽然较薄，但在肽聚糖外侧还覆盖着由脂质双层、脂蛋白和脂多糖（LPS）组成的外膜结构。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "判断正确。外膜是革兰阴性菌细胞壁特有的多层防御屏障。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": "G-菌特有外膜结构。"
+        }
+      ],
+      "hint": "G-菌细胞壁由薄肽聚糖层加复杂外膜构成。",
+      "rationale": "革兰阴性菌的典型特征是肽聚糖薄（1~2层），但其外覆盖复杂的外膜结构，包含极具致病活性的脂多糖（LPS）。"
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "细菌芽胞是细菌的一种繁殖结构，一个菌体在恶劣环境中可以分裂产生多个芽胞以迅速扩大菌群数量。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": "判断错误。芽胞是休眠体而非繁殖方式！"
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "判断正确。一个细菌只能形成一个芽胞，一个芽胞萌发也只能恢复成一个营养体，数量不增加，属于休眠抗逆形式。"
+        }
+      ],
+      "hint": "注意芽胞形成过程中细菌细胞数量是否发生乘积增加。",
+      "rationale": "芽胞是部分革兰阳性菌在环境恶劣时形成的休眠体，1个细菌产生1个芽胞，不属于繁殖方式。"
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "性菌毛比普通菌毛更加短小且数量庞大（每个菌体可达数百根），主要负责协助细菌黏附于宿主黏膜上皮细胞。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": "判断错误。这是普通菌毛的特征！性菌毛长而粗，数量极少（仅1~4根）。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "判断正确。数量多、协助黏附的是普通菌毛；性菌毛数量极少（1~4根），功能是传递质粒介导接合。"
+        }
+      ],
+      "hint": "区分普通菌毛（多、黏附）与性菌毛（少、接合传质粒）。",
+      "rationale": "普通菌毛数量多（可达数百根），功能为黏附；性菌毛数量仅1~4根，由F质粒编码，负责接合转移遗传物质。"
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "革兰染色最终结果中，革兰阳性菌显紫色，而革兰阴性菌显红色。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "判断正确。G+保留初染结晶紫显紫色，G-经脱色后被复染液（复红）染成红色。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": "阳紫阴红是微生物学最基础的金标准记忆口诀。"
+        }
+      ],
+      "hint": "阳紫阴红。",
+      "rationale": "革兰染色法中，革兰阳性菌（G+）呈现紫色，革兰阴性菌（G-）呈现红色。"
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "question": "临床微生物实验室和医院手术器械灭菌中，通常以杀灭细菌的‘繁殖体’作为评判物理灭菌是否彻底的标准。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": "判断错误。是以杀灭‘芽胞’作为灭菌合格的黄金标准！"
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "判断正确。繁殖体抵抗力弱，芽胞抵抗力最强，必须以彻底杀灭芽胞作为灭菌指标。"
+        }
+      ],
+      "hint": "一般消毒只需杀灭繁殖体，而彻底灭菌必须杀灭抵抗力最强的结构。",
+      "rationale": "芽胞是生物界抵抗力最强的结构，灭菌的定义是指杀灭物体上所有的微生物（包括抵抗力极强的芽胞）。"
+    },
+    {
+      "id": 16,
+      "type": "multiple_select",
+      "question": "属于所有细菌均具有的“基本结构”包括下列哪些？",
+      "options": [
+        {
+          "text": "细胞壁",
+          "isCorrect": true,
+          "rationale": "绝大多数细菌均有（支原体除外，常规细菌基本结构含细胞壁）。"
+        },
+        {
+          "text": "细胞膜",
+          "isCorrect": true,
+          "rationale": "所有活细胞必需的基本半透膜结构。"
+        },
+        {
+          "text": "细胞质（含核糖体）",
+          "isCorrect": true,
+          "rationale": "代谢进行的主要场所。"
+        },
+        {
+          "text": "核质（拟核）",
+          "isCorrect": true,
+          "rationale": "细菌遗传信息储存中心。"
+        },
+        {
+          "text": "荚膜与芽胞",
+          "isCorrect": false,
+          "rationale": "荚膜和芽胞属于特定细菌才有的特殊结构。"
+        }
+      ],
+      "hint": "区分四种基本结构与四种特殊结构。",
+      "rationale": "细菌的基本结构包括：细胞壁、细胞膜、细胞质和核质；特殊结构包括：荚膜、鞭毛、菌毛和芽胞。"
+    },
+    {
+      "id": 17,
+      "type": "multiple_select",
+      "question": "下列关于细菌特殊结构及其功能的配对中，正确的有：",
+      "options": [
+        {
+          "text": "荚膜 —— 抗中性粒细胞和巨噬细胞吞噬",
+          "isCorrect": true,
+          "rationale": "正确。荚膜是强效抗吞噬结构。"
+        },
+        {
+          "text": "鞭毛 —— 细菌运动器官，提供趋化动力",
+          "isCorrect": true,
+          "rationale": "正确。鞭毛摆动驱动细菌运动。"
+        },
+        {
+          "text": "普通菌毛 —— 特异性黏附于易感组织上皮细胞受体",
+          "isCorrect": true,
+          "rationale": "正确。普通菌毛是重要黏附定植致病因子。"
+        },
+        {
+          "text": "性菌毛 —— 介导细菌间接合与质粒DNA水平传递",
+          "isCorrect": true,
+          "rationale": "正确。F性菌毛构建通道传递质粒。"
+        },
+        {
+          "text": "芽胞 —— 细菌在适宜环境中迅速进行无丝分裂",
+          "isCorrect": false,
+          "rationale": "错误。芽胞是恶劣环境下的休眠体，非适宜环境下的繁殖。"
+        }
+      ],
+      "hint": "对照四大特殊结构的生物学功能。",
+      "rationale": "荚膜抗吞噬、鞭毛管运动、普通菌毛司黏附、性菌毛司接合；芽胞是恶劣条件下的休眠体。"
+    },
+    {
+      "id": 18,
+      "type": "multiple_select",
+      "question": "下列关于革兰染色法原理与步骤的描述，正确的有：",
+      "options": [
+        {
+          "text": "四步流程先后为：初染结晶紫、媒染碘液、脱色95%乙醇、复染稀释复红",
+          "isCorrect": true,
+          "rationale": "正确。经典革兰染色四步法。"
+        },
+        {
+          "text": "脱色试剂通常为95%乙醇，是区分两类细菌最关键的一步",
+          "isCorrect": true,
+          "rationale": "正确。脱色步骤决定阳性与阴性的分化。"
+        },
+        {
+          "text": "革兰阴性菌由于细胞壁外膜脂质丰富，易被乙醇溶出使孔径扩大",
+          "isCorrect": true,
+          "rationale": "正确。脂质溶解使结晶紫-碘复合物迅速渗漏洗脱。"
+        },
+        {
+          "text": "革兰阳性菌细胞壁肽聚糖致密，脱水后孔径收缩阻留紫色复合物",
+          "isCorrect": true,
+          "rationale": "正确。G+脱色后依然保持深紫色。"
+        }
+      ],
+      "hint": "考查革兰染色的试剂次序与物理化学脱色原理。",
+      "rationale": "四个选项均准确概括了革兰染色的核心程序与细胞壁结构响应原理。"
+    },
+    {
+      "id": 19,
+      "type": "multiple_select",
+      "question": "细菌L型在临床医学中的危害与重要特征包括：",
+      "options": [
+        {
+          "text": "常规缺乏高渗保护的肉汤中极易破裂死亡，易致检验漏检",
+          "isCorrect": true,
+          "rationale": "正确。需高渗特殊培养基才能检出。"
+        },
+        {
+          "text": "天然耐受青霉素、头孢菌素等作用于细胞壁的抗生素",
+          "isCorrect": true,
+          "rationale": "正确。失去药物作用的靶分子（肽聚糖）。"
+        },
+        {
+          "text": "在机体高渗区域（如肾髓质）容易形成并长期潜伏",
+          "isCorrect": true,
+          "rationale": "正确。肾髓质高渗利于L型细菌存活。"
+        },
+        {
+          "text": "停用抗生素等诱导物后，部分菌株可复原成原菌导致复发",
+          "isCorrect": true,
+          "rationale": "正确。重新合成细胞壁并恢复原毒力。"
+        }
+      ],
+      "hint": "L型细菌的耐药性、漏检率及复发隐患。",
+      "rationale": "细菌L型因缺少细胞壁而在低渗中易裂解导致常规培养漏诊，耐受β-内酰胺类抗生素，易在肾髓质等高渗区潜伏并诱发慢性反复感染。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "question": "革兰阳性菌细胞壁较厚，其特有的抗原成分是（1）____酸；而革兰阴性菌细胞壁外膜最外层则含有特有的（2）____，其脂质A部分具有强烈的内毒素活性。",
+      "blankAnswers": [
+        "磷壁",
+        "脂多糖"
+      ],
+      "hint": "分别填写G+特有成分与G-内毒素成分。",
+      "rationale": "磷壁酸（Teichoic acid）为G+菌特有；脂多糖（LPS）为G-菌特有并构成了内毒素。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "question": "革兰染色法镜检结果中，革兰阳性菌呈（1）____色，革兰阴性菌呈（2）____色；临床及实验室将杀灭细菌的（3）____作为衡量物理化学灭菌效果是否彻底的最可靠指标。",
+      "blankAnswers": [
+        "紫",
+        "红",
+        "芽胞"
+      ],
+      "hint": "颜色口诀为阳紫阴红；最耐热休眠体结构。",
+      "rationale": "革兰染色阳性为紫色，阴性为红色；杀灭抵抗力极强的芽胞是衡量灭菌是否彻底的黄金标准。"
+    }
+  ]
+}

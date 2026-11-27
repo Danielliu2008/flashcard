@@ -1,0 +1,354 @@
+{
+  "id": "micro_07",
+  "title": "07 病毒的感染 闪卡",
+  "description": "医学微生物学·病毒传播途径（水平与垂直传播）、致病机制（CPE/合胞体/内基小体/免疫病理）、持续性感染三大类型、干扰素机制与中和抗体核心考点",
+  "topics": {
+    "covered": [
+      "水平传播与垂直传播（TORCH综合征）概念与病原体",
+      "病毒直接损伤细胞机制：CPE、合胞体与包涵体（内基小体）",
+      "病毒引起的免疫病理损伤（免疫复合物病与CTL组织破坏）",
+      "急性感染与持续性感染三大分类标准",
+      "慢性感染（HBV）、潜伏感染（HSV/带状疱疹VZV）与慢发感染（SSPE/朊粒）",
+      "干扰素（IFN）分类（I型抗病毒 vs II型免疫调节）",
+      "干扰素抗病毒机制（AVP：2-5A合成酶与蛋白激酶PKR）",
+      "干扰素四大生物学特性（广谱/高活性/种属特异/间接抗病毒）",
+      "特异性体液免疫：中和抗体与局部黏膜sIgA阻断机制"
+    ],
+    "followUp": [
+      "真菌的真核结构、麦角固醇靶点与抗真菌药物机制",
+      "条件致病真菌的感染特点与二重感染表现"
+    ]
+  },
+  "flashcards": [
+    {
+      "c": 1,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【传播途径】什么是水平传播与垂直传播？垂直传播常见病毒有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **水平传播**：个体之间横向播散（呼吸道、消化道、血行、性接触、蚊虫）。\n• **垂直传播**：母体经胎盘、产道、哺乳传给子代（TORCH病原体：风疹、巨细胞、HSV，以及 HBV、HIV）。"
+          }
+        ]
+      },
+      "pointType": "传播途径",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 2,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【病变效应】什么是细胞病变效应（CPE）？有何实验价值？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **概念**：溶细胞型病毒在体外培养细胞内增殖引起的细胞退行性变性。\n• **特征**：细胞变圆、皱缩、脱落、溶解死亡（用于病毒定量测定与中和试验）。"
+          }
+        ]
+      },
+      "pointType": "细胞病变",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 3,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【融合巨细胞】麻疹病毒与 RSV 如何诱导多核巨细胞（合胞体）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **机制**：病毒编码融合蛋白（F蛋白）表达于细胞膜，介导受染细胞与邻近细胞发生**直接膜融合**形成多核巨细胞，利于病毒逃避游离中和抗体直接扩散。"
+          }
+        ]
+      },
+      "pointType": "合胞体",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 4,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【特征病理】什么是包涵体？狂犬病毒特异包涵体叫什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **概念**：病毒在受染细胞核内或胞质内聚集形成的特征性斑块结构。\n• **内基小体（Negri body）**：**狂犬病毒**在脑神经细胞胞质内形成的嗜酸性包涵体，为确诊狂犬病金标准。"
+          }
+        ]
+      },
+      "pointType": "经典病理",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 5,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【免疫损伤】病毒感染如何通过体液和细胞免疫引起机体损伤？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **体液损伤（III型）**：游离抗原与抗体形成循环免疫复合物沉积于血管和肾脏，引起血管炎与肾炎（如乙肝肾炎）。\n• **细胞损伤（IV型）**：特异性 **CD8+ CTL** 杀伤清除感染靶细胞的同时，造成组织大面积坏死（如乙肝重症肝坏死）。"
+          }
+        ]
+      },
+      "pointType": "免疫病理",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 6,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【大纲重点】病毒持续性感染分为哪三大主要类型？各举一例。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **慢性感染**：病毒长期存在且**持续低水平排毒**（HBV、HCV）。\n• **潜伏感染**：病毒潜伏在神经节，**间歇期不排毒**，免疫下降时激活复发（HSV、带状疱疹 VZV）。\n• **慢发病毒感染**：潜伏期数年，发病后进行性加重致死（麻疹 SSPE、朊粒）。"
+          }
+        ]
+      },
+      "pointType": "三大感染类型",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 7,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【潜伏复发】水痘-带状疱疹病毒初次感染与复发有何不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **初次感染（儿童）**：经呼吸道侵入血流引起全身水疱疹，即**水痘**。\n• **激活复发（成人）**：潜伏于**脊髓后根神经节**的病毒受刺激复发，沿单侧神经节段引起皮疹伴剧痛，即**带状疱疹**。"
+          }
+        ]
+      },
+      "pointType": "经典实例",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 8,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【核心分类】干扰素（IFN）主要分为哪两大类？各由什么细胞产生？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **I 型（抗病毒）**：**IFN-α**（白细胞产生）、**IFN-β**（成纤维细胞产生）。\n• **II 型（免疫调节）**：**IFN-γ**（活化 T 细胞和 NK 细胞产生，强效激活巨噬细胞）。"
+          }
+        ]
+      },
+      "pointType": "干扰素分型",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 9,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【黄金大题】干扰素抗病毒的生化分子机制（AVP）是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "干扰素不直接杀灭游离病毒，结合受体诱导**抗病毒蛋白（AVP）**：\n① **2-5A合成酶途径**：激活 RNase L **降解病毒 mRNA**。\n② **蛋白激酶 PKR 途径**：磷酸化失活 eIF-2，**阻断蛋白质翻译起始**。"
+          }
+        ]
+      },
+      "pointType": "分子机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 10,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【高频特性】简述干扰素（IFN）的四大生物学特性。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "① **广谱抗病毒**：对多种不同 DNA/RNA 病毒均有效。\n② **高活性**：极微量即可建立保护状态。\n③ **种属特异性**：人干扰素主要在人细胞上发挥最高活性。\n④ **间接抗病毒**：通过活细胞诱导 AVP 起效，体外直接接触不杀灭病毒。"
+          }
+        ]
+      },
+      "pointType": "四大特性",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 11,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【特异抗体】中和抗体在抗病毒免疫中起什么核心作用？局限是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **核心作用**：特异结合病毒表面刺突或衣壳，**阻断病毒吸附与穿入**，介导巨噬细胞吞噬清除。\n• **核心局限**：**仅能清除细胞外游离病毒**，对细胞内病毒无效。"
+          }
+        ]
+      },
+      "pointType": "中和抗体",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 12,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【局部防线】分泌型 IgA（sIgA）在黏膜抗病毒防御中有何地位？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **分布**：呼吸道、消化道黏膜表面外分泌液中。\n• **功能**：阻断病毒在黏膜表面上皮细胞的定植黏附，是黏膜抗感染的第一道特异防线。"
+          }
+        ]
+      },
+      "pointType": "黏膜免疫",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 13,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【免疫抑制】HIV 是如何导致机体免疫功能全面崩溃的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **靶细胞**：gp120 特异性结合人辅助性 T 细胞的 **CD4 受体**及辅助受体。\n• **后果**：直接破坏耗竭全身 **CD4+ T 淋巴细胞**，致使体液与细胞免疫调节中枢瘫痪（艾滋病）。"
+          }
+        ]
+      },
+      "pointType": "免疫抑制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 14,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【病毒致癌】举出三种常见致癌病毒及其诱发的恶性肿瘤。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **高危型 HPV（16, 18型）**：诱发**宫颈癌**。\n• **EB 病毒（EBV）**：诱发**鼻咽癌**和伯基特淋巴瘤。\n• **HBV / HCV**：诱发**原发性肝细胞癌（HCC）**。"
+          }
+        ]
+      },
+      "pointType": "病毒肿瘤",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 15,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【慢发感染】慢发病毒感染与潜伏感染有何根本区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **潜伏感染**：间歇期不排毒，反复发作并有完全缓解期（如单纯疱疹）。\n• **慢发病毒感染**：潜伏期数年，发病后呈持续不可逆单向恶化致死，无缓解期（如 SSPE）。"
+          }
+        ]
+      },
+      "pointType": "概念辨析",
+      "starRating": "★★★",
+      "importance": 3
+    }
+  ]
+}

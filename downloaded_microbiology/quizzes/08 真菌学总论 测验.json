@@ -1,0 +1,768 @@
+{
+  "quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "某患者诊断为深部真菌感染，病原菌鉴定为假丝酵母属（Candida spp.）。根据真菌界分类，该真菌属于以下哪一个门？",
+      "answerOptions": [
+        {
+          "text": "子囊菌门",
+          "isCorrect": true,
+          "rationale": "假丝酵母属、曲霉属及球孢子菌属等绝大多数人类病原真菌均属于子囊菌门。"
+        },
+        {
+          "text": "担子菌门",
+          "isCorrect": false,
+          "rationale": "担子菌门主要包括隐球菌属、马拉色菌属以及食用菌如蘑菇等，并非假丝酵母属所属的门。"
+        },
+        {
+          "text": "接合菌门",
+          "isCorrect": false,
+          "rationale": "接合菌门主要包括毛霉属、根霉属等，具有无隔多核菌丝，与假丝酵母属不同。"
+        },
+        {
+          "text": "壶菌门",
+          "isCorrect": false,
+          "rationale": "壶菌门主要包含水生或土壤腐生真菌，与绝大多数人类病原真菌无关。"
+        }
+      ],
+      "hint": "考虑绝大多数人类病原真菌（占已知人类病原真菌约85%）归属于真菌界的哪一个最大的门。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在显微镜下观察白假丝酵母的形态时，发现其产生的“假菌丝”与多细胞真菌的“真菌丝”在结构上有明显区别。关于假菌丝的形成与结构特点，下列说法正确的是：",
+      "answerOptions": [
+        {
+          "text": "由芽生孢子延伸成链且不脱离，细胞连接处呈狭小的藕节状",
+          "isCorrect": true,
+          "rationale": "假菌丝是类酵母型真菌出芽形成的芽体持续延长成串、不与母细胞脱离，且连接处面积狭小呈藕节状的细胞链。"
+        },
+        {
+          "text": "菌丝内部横隔面积与细胞直径完全一致，呈竹节状",
+          "isCorrect": false,
+          "rationale": "横隔面积与细胞直径一致且呈竹节状是真菌丝（真菌的营养或生殖菌丝）的典型结构特征。"
+        },
+        {
+          "text": "由孢子直接长出芽管并不断延长形成无隔膜的单细胞多核结构",
+          "isCorrect": false,
+          "rationale": "芽管延伸形成无隔多核结构属于接合菌门真菌的无隔菌丝特征，而非假菌丝。"
+        },
+        {
+          "text": "是生殖菌丝在培养基表面特化产生的孢子囊结构",
+          "isCorrect": false,
+          "rationale": "假菌丝属于类酵母菌在芽生繁殖过程中形成的细胞链结构，而非孢子囊。"
+        }
+      ],
+      "hint": "关注类酵母型真菌出芽繁殖时芽体延长且与母细胞相连的接触面形态。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "真菌与细菌在细胞结构上有显著差异。关于真菌细胞内部结构的核糖体沉降系数，下列描述正确的是：",
+      "answerOptions": [
+        {
+          "text": "整体沉降系数为 $80\\text{S}$，大亚基为 $60\\text{S}$，小亚基为 $40\\text{S}$",
+          "isCorrect": true,
+          "rationale": "真菌作为真核细胞型微生物，其核糖体整体为 $80\\text{S}$，由 $60\\text{S}$ 大亚基和 $40\\text{S}$ 小亚基构成。"
+        },
+        {
+          "text": "整体沉降系数为 $70\\text{S}$，大亚基为 $50\\text{S}$，小亚基为 $30\\text{S}$",
+          "isCorrect": false,
+          "rationale": "$70\\text{S}$（包含 $50\\text{S}$ 和 $30\\text{S}$ 亚基）是原核生物（如细菌）的核糖体特征。"
+        },
+        {
+          "text": "整体沉降系数为 $80\\text{S}$，大亚基为 $50\\text{S}$，小亚基为 $30\\text{S}$",
+          "isCorrect": false,
+          "rationale": "$50\\text{S}$ 与 $30\\text{S}$ 亚基组合形成的是原核细胞的 $70\\text{S}$ 核糖体，而非真核细胞。"
+        },
+        {
+          "text": "整体沉降系数为 $70\\text{S}$，大亚基为 $60\\text{S}$，小亚基为 $40\\text{S}$",
+          "isCorrect": false,
+          "rationale": "$60\\text{S}$ 和 $40\\text{S}$ 亚基组合形成的是 $80\\text{S}$ 真核核糖体，沉降系数数值相加并不直接等于亚基数值之和。"
+        }
+      ],
+      "hint": "真菌是真核细胞型微生物，其核糖体亚基组成与原核生物（细菌）有所不同。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "双相型真菌（dimorphic fungi）可因环境温度和培养条件的改变而发生形态互变。下列关于双相型真菌的描述，正确的有：",
+      "answerOptions": [
+        {
+          "text": "在宿主体内或 $37^\\circ\\text{C}$ 培养时呈现酵母型",
+          "isCorrect": true,
+          "rationale": "双相型真菌在人体内或接近体温（$37^\\circ\\text{C}$）的环境中主要以酵母型生长。"
+        },
+        {
+          "text": "在环境或 $25^\\circ\\text{C}$ 培养时呈现菌丝型",
+          "isCorrect": true,
+          "rationale": "双相型真菌在较低温度（$25\\sim 28^\\circ\\text{C}$）或自然环境中主要以菌丝/丝状型生长。"
+        },
+        {
+          "text": "粗球孢子菌、荚膜组织胞浆菌和马尔尼菲青霉均属于双相型真菌",
+          "isCorrect": true,
+          "rationale": "粗球孢子菌、组织胞浆菌、芽生菌、孢子丝菌及马尔尼菲青霉均为临床常见的双相型病原真菌。"
+        },
+        {
+          "text": "双相形态的互变仅发生在无性孢子向有性孢子的转化过程中",
+          "isCorrect": false,
+          "rationale": "双相互变主要是受温度和营养等环境条件调控的细胞形态（酵母相与菌丝相）互变，与有性/无性世代交替无关。"
+        }
+      ],
+      "hint": "回想双相型真菌在不同温度（如体温与室温）下的生长形态差异及常见菌种。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "实验室分离培养丝状真菌（如红色毛癣菌）时，选择沙保弱葡萄糖琼脂培养基（SDA），其最适宜的培养温度和 $\\text{pH}$ 环境为：",
+      "answerOptions": [
+        {
+          "text": "$25\\sim 28^\\circ\\text{C}$，酸性环境（$\\text{pH}\\ 4.0\\sim 6.0$）",
+          "isCorrect": true,
+          "rationale": "丝状真菌的最适生长温度通常为 $25\\sim 28^\\circ\\text{C}$，且真菌普遍喜好酸性培养环境（$\\text{pH}\\ 4.0\\sim 6.0$）。"
+        },
+        {
+          "text": "$37^\\circ\\text{C}$，碱性环境（$\\text{pH}\\ 7.2\\sim 7.6$）",
+          "isCorrect": false,
+          "rationale": "$37^\\circ\\text{C}$ 和弱碱性环境是绝大多数细菌及酵母型真菌在体内生长的条件，而非丝状真菌的最佳分离培养条件。"
+        },
+        {
+          "text": "$25\\sim 28^\\circ\\text{C}$，强碱性环境（$\\text{pH}\\ 8.5\\sim 9.5$）",
+          "isCorrect": false,
+          "rationale": "强碱性环境会抑制大多数真菌的正常生长，真菌适宜生长于弱酸性环境。"
+        },
+        {
+          "text": "$37^\\circ\\text{C}$，酸性环境（$\\text{pH}\\ 4.0\\sim 6.0$）",
+          "isCorrect": false,
+          "rationale": "虽然 $\\text{pH}$ 范围正确，但丝状真菌在室温（$25\\sim 28^\\circ\\text{C}$）下生长更佳，只有酵母型或深部感染真菌才常在 $37^\\circ\\text{C}$ 培养。"
+        }
+      ],
+      "hint": "考虑丝状真菌与酵母型真菌在培养温度上的不同要求，以及真菌对酸碱度（与细菌相比）的特殊偏好。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "在 SDA 培养基上，真菌可形成三种典型的菌落类型。下列关于真菌菌落形态特征与其对应菌种的叙述，正确的有：",
+      "answerOptions": [
+        {
+          "text": "新生隐球菌可形成柔软、致密、光滑湿润的酵母型菌落",
+          "isCorrect": true,
+          "rationale": "新生隐球菌为单细胞酵母型真菌，形成类似细菌的柔软光滑酵母型菌落。"
+        },
+        {
+          "text": "白假丝酵母形成的类酵母型菌落在显微镜下可见深入培养基中的假菌丝",
+          "isCorrect": true,
+          "rationale": "类酵母型菌落外观与酵母型相似，但其假菌丝向下伸入培养基中形成假菌丝体。"
+        },
+        {
+          "text": "烟曲霉和红色毛癣菌可形成呈絮状、绒毛状或粉末状的丝状型菌落",
+          "isCorrect": true,
+          "rationale": "绝大多数多细胞丝状真菌（霉菌）会产生发达的气生菌丝和孢子，形成丝状型菌落。"
+        },
+        {
+          "text": "所有酵母型菌落在 SDA 培养基上均能产生丰富的水溶性色素并使培养基变黑",
+          "isCorrect": false,
+          "rationale": "酵母型菌落通常呈无色或乳白色，菌落正面/背面颜色多样性主要见于丝状型菌落，而非所有酵母型菌落。"
+        }
+      ],
+      "hint": "区分单细胞酵母菌、类酵母菌（具假菌丝）与多细胞丝状真菌在生长时形成的菌落外观差异。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "新生隐球菌（Cryptococcus neoformans）侵入人体后可引起严重的脑膜炎。该菌在细胞壁外具有一层特殊的结构，与菌株的毒力和致病性密切相关。该结构是：",
+      "answerOptions": [
+        {
+          "text": "荚膜",
+          "isCorrect": true,
+          "rationale": "新生隐球菌细胞壁外具有一层低电子密度的黏液性荚膜，能抗吞噬，是其重要的毒力因子。"
+        },
+        {
+          "text": "芽管",
+          "isCorrect": false,
+          "rationale": "芽管是孢子萌发形成菌丝的初始结构，并非新生隐球菌壁外的包膜结构。"
+        },
+        {
+          "text": "孢子囊",
+          "isCorrect": false,
+          "rationale": "孢子囊是接合菌门等真菌末端特化包裹孢子的囊状结构，并非隐球菌的毒力外壳。"
+        },
+        {
+          "text": "鞭毛",
+          "isCorrect": false,
+          "rationale": "真菌不具有细菌式的鞭毛运动器官。"
+        }
+      ],
+      "hint": "这种结构属于细胞壁外成分，由黏液物质构成，具有显著的抗吞噬作用。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "无性孢子是由生殖菌丝产生或由菌丝细胞直接分化形成的生殖结构。下列属于由菌丝细胞直接分化形成的“叶状孢子（thallospore）”的有：",
+      "answerOptions": [
+        {
+          "text": "芽生孢子（blastospore）",
+          "isCorrect": true,
+          "rationale": "芽生孢子是母细胞或菌丝细胞以发芽方式产生的无性孢子，属于叶状孢子。"
+        },
+        {
+          "text": "关节孢子（arthrospore）",
+          "isCorrect": true,
+          "rationale": "关节孢子由菌丝细胞分化出现隔膜后断裂而成，属于叶状孢子。"
+        },
+        {
+          "text": "厚膜孢子（chlamydospore）",
+          "isCorrect": true,
+          "rationale": "厚膜孢子由菌丝顶端或中间细胞变圆、胞质浓缩、壁加厚形成，是休眠型的叶状孢子。"
+        },
+        {
+          "text": "孢子囊孢子（sporangiospore）",
+          "isCorrect": false,
+          "rationale": "孢子囊孢子是在特化的孢子囊结构内部形成的无性孢子，不属于叶状孢子。"
+        }
+      ],
+      "hint": "思考哪些孢子是由菌丝细胞不经过专门的孢子梗或囊状结构直接转变、发芽或断裂而来的。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "棘白菌素类抗真菌药（如卡泊芬净、米卡芬净）在治疗耐药真菌感染中发挥重要作用。这类药物的主要作用机制是：",
+      "answerOptions": [
+        {
+          "text": "非竞争性抑制 $\\beta\\text{-1,3-葡聚糖}$ 合成酶，阻止细胞壁合成",
+          "isCorrect": true,
+          "rationale": "棘白菌素类药物通过抑制 $\\beta\\text{-1,3-葡聚糖}$ 合成酶，导致真菌细胞壁缺乏葡聚糖而溶解。"
+        },
+        {
+          "text": "选择性结合细胞膜上的麦角固醇，形成跨膜微孔",
+          "isCorrect": false,
+          "rationale": "与麦角固醇结合形成膜微孔是多烯类抗真菌药（如两性霉素B）的作用机制。"
+        },
+        {
+          "text": "抑制 $14\\text{-\\alpha-}$ 去甲基酶，阻断麦角固醇生物合成",
+          "isCorrect": false,
+          "rationale": "抑制 $14\\text{-\\alpha-}$ 去甲基酶是唑类抗真菌药（如氟康唑）的作用机制。"
+        },
+        {
+          "text": "干扰真菌微管蛋白聚合成微管，抑制有丝分裂",
+          "isCorrect": false,
+          "rationale": "干扰微管蛋白聚合是灰黄霉素的作用机制。"
+        }
+      ],
+      "hint": "该类药物作用于真菌特有的细胞壁成分，使其因渗透压失常而溶解。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "两性霉素B（Amphotericin B）是深部真菌感染的重要治疗药物，但其毒副作用较大。它发挥抗真菌作用的核心机制是：",
+      "answerOptions": [
+        {
+          "text": "选择性地与真菌细胞膜上的麦角固醇结合，增加膜通透性导致电解质外渗",
+          "isCorrect": true,
+          "rationale": "两性霉素B通过与真菌细胞膜特有的麦角固醇结合形成微孔，使细胞内 $\\text{K}^+$ 等小分子及电解质外渗而致死。"
+        },
+        {
+          "text": "竞争性抑制角鲨烯环氧化酶，使细胞内角鲨烯蓄积",
+          "isCorrect": false,
+          "rationale": "抑制角鲨烯环氧化酶是丙烯胺类抗真菌药（如特比萘芬）的作用机制。"
+        },
+        {
+          "text": "被真菌摄入后转化为 $5\\text{-}$ 氟尿嘧啶，抑制 DNA 和 RNA 合成",
+          "isCorrect": false,
+          "rationale": "转化为 $5\\text{-}$ 氟尿嘧啶进而抑制核酸合成是氟胞嘧啶（5-FC）的作用机制。"
+        },
+        {
+          "text": "抑制细胞壁几丁质微纤维的交联，导致细胞壁缺损",
+          "isCorrect": false,
+          "rationale": "两性霉素B作用靶点在细胞膜的麦角固醇，而非细胞壁几丁质。"
+        }
+      ],
+      "hint": "该药作用于真菌细胞膜特有的固醇成分，破坏膜的屏障功能。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "咪康唑、氟康唑、伏立康唑等唑类抗真菌药物在临床上广泛应用。关于唑类药物的作用靶点与机制，下列说法正确的是：",
+      "answerOptions": [
+        {
+          "text": "选择性抑制真菌细胞膜依赖 CYP 的 $14\\text{-\\alpha-}$ 去甲基酶，阻断麦角固醇合成",
+          "isCorrect": true,
+          "rationale": "唑类药物通过抑制细胞色素 P450 依赖的 $14\\text{-\\alpha-}$ 去甲基酶，使麦角固醇合成受阻，膜通透性增加。"
+        },
+        {
+          "text": "直接结合细胞壁中的甘露聚糖蛋白复合物，破坏细胞壁坚硬度",
+          "isCorrect": false,
+          "rationale": "唑类药物作用靶点是细胞膜固醇合成酶，而非细胞壁的蛋白复合物。"
+        },
+        {
+          "text": "抑制真菌的 RNA 聚合酶，直接阻断转录过程",
+          "isCorrect": false,
+          "rationale": "唑类不直接抑制 RNA 聚合酶，其作用在于影响细胞膜结构。"
+        },
+        {
+          "text": "阻止有丝分裂纺锤体的形成，使真菌细胞停止于分裂中期",
+          "isCorrect": false,
+          "rationale": "阻止纺锤体/微管形成是灰黄霉素的机制。"
+        }
+      ],
+      "hint": "考虑此类药物如何影响细胞膜中麦角固醇生物合成的关键酶。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "细胞膜是抗真菌药物的核心靶点之一。下列抗真菌药物中，其机制涉及直接改变真菌细胞膜通透性或干扰细胞膜固醇合成的有：",
+      "answerOptions": [
+        {
+          "text": "制霉菌素（Nystatin）",
+          "isCorrect": true,
+          "rationale": "制霉菌素属于多烯类，能与膜上的麦角固醇结合形成微孔，增加通透性。"
+        },
+        {
+          "text": "特比萘芬（Terbinafine）",
+          "isCorrect": true,
+          "rationale": "特比萘芬属于丙烯胺类，通过抑制角鲨烯环氧化酶阻断麦角固醇的合成。"
+        },
+        {
+          "text": "伊曲康唑（Itraconazole）",
+          "isCorrect": true,
+          "rationale": "伊曲康唑属于唑类，通过抑制 $14\\text{-\\alpha-}$ 去甲基酶阻断麦角固醇合成。"
+        },
+        {
+          "text": "卡泊芬净（Caspofungin）",
+          "isCorrect": false,
+          "rationale": "卡泊芬净作用于细胞壁的 $\\beta\\text{-1,3-葡聚糖}$ 合成酶，而非细胞膜。"
+        }
+      ],
+      "hint": "区分作用于细胞膜（固醇结合或合成抑制）与作用于细胞壁或微管的药物。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "患者接受氟胞嘧啶（5-FC）抗真菌治疗。氟胞嘧啶进入真菌细胞后发挥抗代谢作用的分子途径是：",
+      "answerOptions": [
+        {
+          "text": "经胞嘧啶脱氨酶转化为 $5\\text{-}$ 氟尿嘧啶（5-FU），进而抑制胸腺嘧啶核苷合成酶而影响 DNA 合成",
+          "isCorrect": true,
+          "rationale": "氟胞嘧啶通过胞嘧啶透性酶进入细胞，被脱氨为 5-FU 后转变成脱氧核苷，抑制胸腺嘧啶核苷合成酶，影响 DNA 合成。"
+        },
+        {
+          "text": "直接结合真菌 DNA 拓扑异构酶，导致 DNA 双链断裂",
+          "isCorrect": false,
+          "rationale": "氟胞嘧啶不直接抑制拓扑异构酶，而是作为嘧啶抗代谢物干扰碱基合成。"
+        },
+        {
+          "text": "结合核糖体 $60\\text{S}$ 大亚基，阻止多肽链延伸",
+          "isCorrect": false,
+          "rationale": "氟胞嘧啶的作用靶点是核酸（DNA/RNA）合成过程，而非直接结合核糖体亚基。"
+        },
+        {
+          "text": "抑制微管蛋白聚合成纺锤体，阻断染色体分离",
+          "isCorrect": false,
+          "rationale": "阻断微管蛋白聚合是灰黄霉素的作用特征。"
+        }
+      ],
+      "hint": "氟胞嘧啶是一种嘧啶类似物前药，需在真菌胞内转化为抗代谢物才能抑制核酸合成。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在对比真菌孢子与细菌芽胞的抵抗力时，关于两者对热抵抗性的描述，正确的是：",
+      "answerOptions": [
+        {
+          "text": "真菌孢子对热抵抗力远低于细菌芽胞，一般 $60^\\circ\\text{C}$ 加热 1 小时即可被杀灭",
+          "isCorrect": true,
+          "rationale": "真菌孢子是繁殖或休眠结构，对热抵抗力不强（$60^\\circ\\text{C}$ 1小时被杀灭），而细菌芽胞对热高度耐受。"
+        },
+        {
+          "text": "真菌孢子对热抵抗力与细菌芽胞相当，需要 $121^\\circ\\text{C}$ 高压灭菌 30 分钟才能杀死",
+          "isCorrect": false,
+          "rationale": "细菌芽胞需要高压蒸汽灭菌（如 $121^\\circ\\text{C}$），而真菌孢子在 $60^\\circ\\text{C}$ 1小时即可死亡。"
+        },
+        {
+          "text": "真菌孢子属于休眠体，可在 $100^\\circ\\text{C}$ 沸水中存活数小时",
+          "isCorrect": false,
+          "rationale": "真菌厚膜孢子等虽为休眠细胞，但对热依然敏感，远达不到煮沸存活数小时的程度。"
+        },
+        {
+          "text": "真菌孢子对紫外线和干燥极为敏感，但对热具有极强的耐受性",
+          "isCorrect": false,
+          "rationale": "真菌对干燥、阳光、紫外线耐受性较强，但对热抵抗力较弱。"
+        }
+      ],
+      "hint": "真菌孢子主要是生殖或休眠结构，其耐热程度与细菌极具抵抗力的“芽胞”存在本质区别。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "真菌感染可分为原发性感染和继发性（机会性）感染。下列真菌中，主要引起原发性深部真菌感染的有：",
+      "answerOptions": [
+        {
+          "text": "粗球孢子菌（Coccidioides immitis）",
+          "isCorrect": true,
+          "rationale": "粗球孢子菌是典型的致病性真菌，可引起原发性深部感染。"
+        },
+        {
+          "text": "荚膜组织胞浆菌（Histoplasma capsulatum）",
+          "isCorrect": true,
+          "rationale": "组织胞浆菌可侵犯健康宿主引起原发性感染。"
+        },
+        {
+          "text": "马尔尼菲青霉（Penicillium marneffei）",
+          "isCorrect": true,
+          "rationale": "马尔尼菲青霉属于可引起原发感染的深部致病性真菌。"
+        },
+        {
+          "text": "白假丝酵母（Candida albicans）",
+          "isCorrect": false,
+          "rationale": "白假丝酵母属于机体正常菌群，主要在免疫力低下时引起继发性/机会性感染。"
+        }
+      ],
+      "hint": "区分哪些是能直接感染免疫功能正常宿主的原发致病菌，哪些是人体寄居的正常菌群或环境腐生菌。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "人体食入霉变甘蔗后可发生严重的真菌毒素中毒，出现头晕、抽搐、脑缺血坏死甚至死亡。导致该急性中毒的强烈嗜神经毒素及其产生菌是：",
+      "answerOptions": [
+        {
+          "text": "节菱孢霉菌产生的 3-硝基丙酸（3-NPA）",
+          "isCorrect": true,
+          "rationale": "霉变甘蔗中的节菱孢霉菌生长繁殖可产生强烈的嗜神经毒素 3-硝基丙酸（3-NPA）。"
+        },
+        {
+          "text": "黄曲霉产生的黄曲霉毒素 B1（Aflatoxin B1）",
+          "isCorrect": false,
+          "rationale": "黄曲霉毒素主要是强致癌物（主要诱发肝癌），并非导致甘蔗变质中毒的急剧嗜神经毒素。"
+        },
+        {
+          "text": "赭曲霉产生的赭曲霉毒素 A",
+          "isCorrect": false,
+          "rationale": "赭曲霉毒素主要具有肾脏和肝脏毒性，与霉变甘蔗的中毒无关。"
+        },
+        {
+          "text": "镰刀菌产生的 T-2 毒素",
+          "isCorrect": false,
+          "rationale": "T-2 毒素属于单端孢霉烯族毒素，与霉变甘蔗的嗜神经毒性症状不同。"
+        }
+      ],
+      "hint": "关注甘蔗变质时产生的特定化学物质，该毒素具有强烈的嗜神经性（3-NPA）。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "人体固有免疫在抵抗真菌侵入中起关键防护作用。下列机制中，属于机体抗真菌非特异性（固有）免疫防御的有：",
+      "answerOptions": [
+        {
+          "text": "皮脂腺分泌的不饱和脂肪酸对皮肤癣菌的抑制和杀灭作用",
+          "isCorrect": true,
+          "rationale": "皮脂腺分泌的不饱和脂肪酸具有天然杀真菌作用，是皮肤屏障的重要化学组成。"
+        },
+        {
+          "text": "口腔和肠道内正常菌群对白假丝酵母的拮抗作用",
+          "isCorrect": true,
+          "rationale": "正常菌群占据生态位并分泌抑菌物质，防止白假丝酵母过度繁殖。"
+        },
+        {
+          "text": "单核巨噬细胞和中性粒细胞对真菌孢子的吞噬作用",
+          "isCorrect": true,
+          "rationale": "吞噬细胞是机体对侵入真菌进行天然清除的主要细胞成分。"
+        },
+        {
+          "text": "特异性抗体通过结合真菌表面蛋白直接激活补体经典途径彻底溶解真菌细胞壁",
+          "isCorrect": false,
+          "rationale": "特异性抗体介导的免疫反应属于适应性（特异性）体液免疫，而非固有免疫。"
+        }
+      ],
+      "hint": "识别无需经过抗原辨识和克隆扩增即可发挥作用的天然物理、化学、生物及细胞屏障。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "机体在抵抗白假丝酵母和新生隐球菌等深部真菌感染时，特异性细胞免疫发挥核心作用。其中占优势并起关键除菌作用的免疫应答类型是：",
+      "answerOptions": [
+        {
+          "text": "$\\text{Th}1$ 细胞为主导的细胞免疫应答，通过分泌 $\\text{IFN-}\\gamma$ 激活巨噬细胞",
+          "isCorrect": true,
+          "rationale": "$\\text{Th}1$ 应答产生的 $\\text{IFN-}\\gamma$ 和 $\\text{IL-2}$ 能显著增强巨噬细胞的呼吸爆发和对深部真菌的杀伤力。"
+        },
+        {
+          "text": "$\\text{Th}2$ 细胞为主导的体液免疫应答，通过高浓度 IgE 介导肥大细胞脱颗粒",
+          "isCorrect": false,
+          "rationale": "$\\text{Th}2$ 介导的应答主要参与 IgE 产生和超敏反应，对深部真菌的清除并非关键阻断力量。"
+        },
+        {
+          "text": "抑制性 T 细胞（Treg）诱导的免疫耐受应答",
+          "isCorrect": false,
+          "rationale": "Treg 诱导耐受会抑制免疫杀伤，无法起到清除深部病原真菌的作用。"
+        },
+        {
+          "text": "浆细胞大量分泌 IgM 抗体介导的体液中和作用",
+          "isCorrect": false,
+          "rationale": "体液免疫仅起辅助和调理作用，细胞免疫（尤其 $\\text{Th}1$）才是杀灭深部真菌的核心。"
+        }
+      ],
+      "hint": "考虑哪种辅助性 T 细胞亚群能够分泌 $\\text{IFN-}\\gamma$ 并上调巨噬细胞的杀菌活性。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "某些农业劳动者在接触和吸入含有大量真菌孢子的霉草灰尘后，出现发热、咳嗽、呼吸困难及发绀等综合症状，临床上称为“农民肺（Farmer's lung）”。该病症的本质是：",
+      "answerOptions": [
+        {
+          "text": "吸入真菌孢子引发的呼吸道超敏反应",
+          "isCorrect": true,
+          "rationale": "农民肺是由于吸入含真菌孢子的霉草灰尘而引起的呼吸道过敏性/超敏反应综合症。"
+        },
+        {
+          "text": "真菌孢子在肺泡内大量发芽繁殖引起的急性原发性肺脓肿",
+          "isCorrect": false,
+          "rationale": "农民肺主要由真菌抗原诱发的过敏反应导致，而非真菌在肺部大量组织侵袭繁殖所致。"
+        },
+        {
+          "text": "节菱孢霉菌毒素经呼吸道吸收引发的神经毒性反应",
+          "isCorrect": false,
+          "rationale": "节菱孢霉菌毒素与变质甘蔗中毒有关，与吸入霉草灰尘引发的农民肺无关。"
+        },
+        {
+          "text": "真菌细胞壁几丁质直接堵塞细支气管导致的机械性窒息",
+          "isCorrect": false,
+          "rationale": "农民肺是免疫病理性的超敏反应，并非单纯物理堵塞。"
+        }
+      ],
+      "hint": "思考该病症是由真菌孢子作为变应原（抗原）吸入后引起的免疫病理学改变。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "真菌细胞壁不仅能维持细胞形态和抵御渗透压，还是真菌的重要抗原成分。关于真菌细胞壁的化学组成，下列叙述正确的有：",
+      "answerOptions": [
+        {
+          "text": "多糖是细胞壁的最主要成分，约占干重的 $80\\%\\sim 90\\%$",
+          "isCorrect": true,
+          "rationale": "细胞壁主要由多糖构成，包括几丁质和葡聚糖等。"
+        },
+        {
+          "text": "几丁质与芽管形成和菌丝生长密切相关，在丝状真菌中含量最高",
+          "isCorrect": true,
+          "rationale": "几丁质是丝状真菌细胞壁的重要多糖成分，参与菌丝形态建构。"
+        },
+        {
+          "text": "葡聚糖是真菌细胞外形坚硬的分子基础，在酵母菌中含量最高",
+          "isCorrect": true,
+          "rationale": "葡聚糖赋予细胞壁机械强度，在酵母型细胞壁中比例显著。"
+        },
+        {
+          "text": "细胞壁含有大量的肽聚糖，因此对青霉素类抗生素敏感",
+          "isCorrect": false,
+          "rationale": "真菌细胞壁不含肽聚糖（肽聚糖是细菌细胞壁成分），故真菌对青霉素等作用于肽聚糖的抗生素不敏感。"
+        }
+      ],
+      "hint": "注意真菌细胞壁的主要成分（几丁质、葡聚糖等）与细菌细胞壁（肽聚糖）的区别。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "病理切片观察到某组织中的真菌菌丝为“无隔菌丝”，菌丝内部不设横隔且含有多个细胞核。该真菌最可能属于真菌界中的哪一个门？",
+      "answerOptions": [
+        {
+          "text": "接合菌门（如毛霉、根霉）",
+          "isCorrect": true,
+          "rationale": "致病性接合菌门真菌（如毛霉属、根霉属）的菌丝大多为无隔、多核的单细胞菌丝体。"
+        },
+        {
+          "text": "子囊菌门（如曲霉、假丝酵母）",
+          "isCorrect": false,
+          "rationale": "子囊菌门绝大多数病原性丝状真菌（如皮肤癣菌、曲霉）具有明显的有隔菌丝。"
+        },
+        {
+          "text": "担子菌门（如隐球菌）",
+          "isCorrect": false,
+          "rationale": "担子菌门真菌具有特殊的隔膜结构（如桶状隔膜）或以酵母相存在，非典型的无隔多核菌丝。"
+        },
+        {
+          "text": "壶菌门",
+          "isCorrect": false,
+          "rationale": "壶菌门多为低等水生真菌，并非临床常见造成无隔菌丝组织侵袭的病原菌。"
+        }
+      ],
+      "hint": "回忆无隔多核菌丝是哪一类包含毛霉属和根霉属的接合真菌的特征。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "真菌的有性繁殖过程包含三个连续的阶段，使二倍体细胞重新恢复为单倍体。这三个阶段按顺序排列正确的是：",
+      "answerOptions": [
+        {
+          "text": "质配 $\\rightarrow$ 核配 $\\rightarrow$ 减数分裂",
+          "isCorrect": true,
+          "rationale": "有性繁殖按原生质融合（质配）、细胞核融合（核配）、减数分裂（形成单倍体孢子）三个阶段进行。"
+        },
+        {
+          "text": "核配 $\\rightarrow$ 质配 $\\rightarrow$ 减数分裂",
+          "isCorrect": false,
+          "rationale": "原生质融合（质配）必须先于细胞核融合（核配）发生。"
+        },
+        {
+          "text": "减数分裂 $\\rightarrow$ 质配 $\\rightarrow$ 核配",
+          "isCorrect": false,
+          "rationale": "减数分裂发生在核配形成二倍体核之后，用于恢复单倍体状态。"
+        },
+        {
+          "text": "质配 $\\rightarrow$ 减数分裂 $\\rightarrow$ 核配",
+          "isCorrect": false,
+          "rationale": "细胞核未融合成二倍体之前无法发生减数分裂。"
+        }
+      ],
+      "hint": "先发生两个细胞细胞质的融合，再发生细胞核的融合，最后通过分裂使染色体减半。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "大分生孢子（macroconidia）体积较大，呈多细胞性，其形态是真菌鉴定与分类的重要依据。下列关于大分生孢子形态与菌属对应的描述，正确的有：",
+      "answerOptions": [
+        {
+          "text": "纺锤形（梭形）大分生孢子——小孢子菌属（Microsporum）",
+          "isCorrect": true,
+          "rationale": "小孢子菌属的大分生孢子典型呈纺锤形/梭形。"
+        },
+        {
+          "text": "棍棒状大分生孢子——表皮癣菌属（Epidermophyton）",
+          "isCorrect": true,
+          "rationale": "表皮癣菌属的大分生孢子典型呈棍棒状。"
+        },
+        {
+          "text": "镰刀形大分生孢子——镰刀菌属（Fusarium）",
+          "isCorrect": true,
+          "rationale": "镰刀菌属的大分生孢子典型呈镰刀形。"
+        },
+        {
+          "text": "砖型大分生孢子——青霉属（Penicillium）",
+          "isCorrect": false,
+          "rationale": "砖型大分生孢子见于链格孢霉，而青霉产生的是扫帚状分生孢子梗上的卵形小分生孢子。"
+        }
+      ],
+      "hint": "联想不同皮肤癣菌和霉菌特有的多细胞大分生孢子几何形状（如纺锤形、棍棒状、镰刀形等）。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "临床上长期大量使用广谱抗生素的患者，常并发口腔或阴道的白假丝酵母（Candida albicans）感染。这种现象发生的主要机制是：",
+      "answerOptions": [
+        {
+          "text": "广谱抗生素杀灭了对白假丝酵母起拮抗作用的正常细菌菌群，打破了微生态平衡",
+          "isCorrect": true,
+          "rationale": "白假丝酵母是人体正常菌群，广谱抗生素抑制了正常细菌，消除了正常菌群对假丝酵母的拮抗与竞争，导致假丝酵母过度繁殖。"
+        },
+        {
+          "text": "广谱抗生素直接诱导白假丝酵母基因突变，使其毒力显著增强",
+          "isCorrect": false,
+          "rationale": "抗生素作用于细菌，不直接诱导真菌产生高毒力突变。"
+        },
+        {
+          "text": "广谱抗生素作为营养物质被白假丝酵母直接利用，加速其裂殖",
+          "isCorrect": false,
+          "rationale": "真菌无法将抗生素作为主要碳源/氮源快速利用。"
+        },
+        {
+          "text": "抗生素刺激宿主皮脂腺分泌过量油脂，促进假丝酵母生长",
+          "isCorrect": false,
+          "rationale": "皮脂腺分泌的不饱和脂肪酸具有抑制真菌作用，而非促进，且抗生素机制不在此。"
+        }
+      ],
+      "hint": "白假丝酵母属于人体正常寄居菌群，其受抑与爆发与肠道/黏膜局部细菌生态菌群改变密切相关。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "针对深部真菌病（如深部假丝酵母或曲霉感染），临床上常根据药物特点选择适宜的抗真菌药。下列关于深部抗真菌药物临床应用的叙述，正确的有：",
+      "answerOptions": [
+        {
+          "text": "氟康唑在临床上最常用，对白假丝酵母感染治疗效果较好",
+          "isCorrect": true,
+          "rationale": "氟康唑水溶性好，是对假丝酵母属感染的最常用一线药物之一。"
+        },
+        {
+          "text": "伊曲康唑、伏立康唑及泊沙康唑抗菌谱广，尤其对曲霉属疗效好",
+          "isCorrect": true,
+          "rationale": "广谱三唑类对曲霉等深部丝状真菌具有良好的抗菌活性。"
+        },
+        {
+          "text": "两性霉素 B 虽疗效确切，但由于肾毒性等副作用大且治疗剂量接近中毒剂量，限制了其临床广泛应用",
+          "isCorrect": true,
+          "rationale": "两性霉素B毒性较大、安全窗口较窄，需密切监测使用。"
+        },
+        {
+          "text": "灰黄霉素是目前治疗全身播散性曲霉感染的首选静脉给药药物",
+          "isCorrect": false,
+          "rationale": "灰黄霉素仅用于浅部皮肤癣菌感染，不能用于深部曲霉感染。"
+        }
+      ],
+      "hint": "思考唑类、多烯类以及灰黄霉素各自的临床适应证（深部感染 vs 浅部癣病）与毒副反应。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "灰黄霉素（Griseofulvin）主要用于治疗浅部皮肤癣菌感染。它的主要作用机制是：",
+      "answerOptions": [
+        {
+          "text": "干扰真菌的微管蛋白聚合成微管，从而抑制真菌细胞的有丝分裂",
+          "isCorrect": true,
+          "rationale": "灰黄霉素通过结合微管蛋白，抑制微管装配和有丝分裂纺锤体形成。"
+        },
+        {
+          "text": "抑制 $14\\text{-\\alpha-}$ 去甲基酶，使细胞膜缺乏麦角固醇",
+          "isCorrect": false,
+          "rationale": "抑制 $14\\text{-\\alpha-}$ 去甲基酶是唑类药物的作用机制。"
+        },
+        {
+          "text": "非竞争性抑制 $\\beta\\text{-1,3-葡聚糖}$ 合成酶，破坏细胞壁结构",
+          "isCorrect": false,
+          "rationale": "抑制葡聚糖合成酶是棘白菌素类药物的作用机制。"
+        },
+        {
+          "text": "竞争性结合胞嘧啶脱氨酶，阻断嘌呤和嘧啶碱基摄取",
+          "isCorrect": false,
+          "rationale": "氟胞嘧啶涉及胞嘧啶脱氨酶转化为抗代谢物，而非灰黄霉素。"
+        }
+      ],
+      "hint": "该药作用于真菌细胞内部参与染色体分离和细胞分裂的骨架蛋白成分。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "真菌毒素（mycotoxins）是真菌代谢过程中产生的有毒次级代谢产物。下列关于真菌毒素致病特征及代表性毒素的说法，正确的有：",
+      "answerOptions": [
+        {
+          "text": "黄曲霉毒素（Aflatoxin）由黄曲霉和寄生曲霉产生，具有强致癌性，与肝癌发生密切相关",
+          "isCorrect": true,
+          "rationale": "黄曲霉毒素 B1 是强致癌物，主要靶器官为肝脏，可诱发肝癌。"
+        },
+        {
+          "text": "真菌毒素中毒具有明显的地区性和季节性，但不具有人传人的传染性",
+          "isCorrect": true,
+          "rationale": "真菌毒素中毒是食入污染毒素的食物所致，无传染性。"
+        },
+        {
+          "text": "同一种真菌毒素只能由一种特定的真菌产毒菌株产生，具有极高的专一性",
+          "isCorrect": false,
+          "rationale": "产毒菌株与产生的毒素之间缺乏严格的一对一专一性，同种毒素可由不同菌属产生。"
+        },
+        {
+          "text": "赭曲霉毒素可引起泌尿系统和肝脏肿瘤",
+          "isCorrect": true,
+          "rationale": "赭曲霉毒素具有肾脏毒性和肝毒性，与泌尿系统及肝脏肿瘤发生相关。"
+        }
+      ],
+      "hint": "回想真菌毒素的传染性特征、产毒专一性（或缺乏专一性）以及黄曲霉毒素、赭曲霉毒素的靶器官。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    }
+  ],
+  "topics": {
+    "covered": [
+      "真菌的生物学分类与形态结构",
+      "真菌的繁殖方式与菌落特征",
+      "双相型真菌与真菌抵抗力",
+      "抗真菌药物的作用靶点与机制",
+      "真菌感染的致病机制与真菌毒素"
+    ],
+    "followUp": [
+      "假丝酵母与深部真菌感染的实验室诊断",
+      "真菌细胞膜麦角固醇生物合成途径",
+      "棘白菌素类与多烯类药物的耐药机制",
+      "真菌毒素检测与食品安全防控"
+    ]
+  }
+}

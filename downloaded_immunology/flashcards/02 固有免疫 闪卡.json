@@ -1,0 +1,1540 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "补体 MBL 激活途径中的“MBL”全称是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "甘露聚糖结合凝集素（Mannan-binding lectin）。"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫成分如何在特异性免疫应答效应阶段协助清除抗原？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通过调理作用、ADCC（抗体依赖性细胞毒作用）及补体溶细胞作用协助清除。"
+          }
+        ]
+      },
+      "c": 58
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌表达的哪种特征性蛋白属于常见的 PAMP？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "N-甲酰甲硫氨酸（N-formylmethionine）。"
+          }
+        ]
+      },
+      "c": 36
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "补体激活片段 C3b 在固有免疫中的主要效应是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "调理作用，促进吞噬细胞对病原体的调理吞噬。"
+          }
+        ]
+      },
+      "c": 34
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "补体级联放大反应中形成的两类核心转化酶是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "C3 转化酶和 C5 转化酶。"
+          }
+        ]
+      },
+      "c": 31
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在皮肤粘膜化学屏障中，胃液通过什么创造强酸环境以杀死大部分入侵微生物？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胃酸（盐酸）。"
+          }
+        ]
+      },
+      "c": 65
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "皮肤和粘膜的物理屏障是由什么构成的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由紧密连接的上皮细胞构成。"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "白细胞介素-6（IL-6）主要由哪些细胞分泌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单核/巨噬细胞、血管内皮细胞等。"
+          }
+        ]
+      },
+      "c": 47
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫与获得性免疫在“细胞克隆”方面有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫无细胞克隆产生；获得性免疫会产生特异性细胞克隆。"
+          }
+        ]
+      },
+      "c": 9
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "补体裂解片段 C3a 和 C5a 的主要生物学效应是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "过敏毒素作用，引发和促进炎症反应。"
+          }
+        ]
+      },
+      "c": 33
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫功能失调或异常激活可能参与哪些免疫病理反应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "引发慢性炎性疾病或参与肿瘤的发生发展。"
+          }
+        ]
+      },
+      "c": 60
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肿瘤坏死因子-α（TNF-α）主要由哪些细胞产生？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单核/巨噬细胞、树突状细胞等。"
+          }
+        ]
+      },
+      "c": 45
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在白细胞“固定/牢固结合”阶段，LFA-1 与内皮细胞表面的什么配体结合？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "ICAM-1（细胞间粘附分子-1）。"
+          }
+        ]
+      },
+      "c": 52
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "皮肤和粘膜屏障具体包含哪三种屏障形式？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "物理屏障、化学屏障、微生物屏障。"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血胎屏障由母体和胎儿的什么结构共同组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由母体子宫内膜的基蜕膜和胎儿绒毛膜滋养层细胞共同组成。"
+          }
+        ]
+      },
+      "c": 25
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫与获得性免疫在“免疫记忆”建立方面有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫不产生免疫记忆；获得性免疫能够产生免疫记忆。"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "磷壁酸（LTA）主要存在于哪类病原体结构中？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰氏阳性菌（$G^+$ 菌）的细胞壁。"
+          }
+        ]
+      },
+      "c": 38
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "酵母多糖（Zymosan）是哪种微生物特有的 PAMP？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌。"
+          }
+        ]
+      },
+      "c": 41
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是损伤相关分子模式（DAMP）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "机体损伤或应激的宿主细胞释放的内源性危险信号分子。"
+          }
+        ]
+      },
+      "c": 42
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "正常菌群通过哪些主要方式抵御致病病原体的感染？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "竞争结合上皮细胞、竞争吸收营养物质、分泌杀/抑菌物质。"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脂多糖（LPS）主要存在于哪类病原体结构中？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰氏阴性菌（$G^-$ 菌）的细胞壁外膜。"
+          }
+        ]
+      },
+      "c": 37
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "补体激活的三条主要途径分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "经典途径（Classical）、甘露糖结合凝集素途径（MBL）和替代途径（Alternative）。"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫如何参与机体自我稳定（自稳）的维持？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞损伤释放 DAMP，固有免疫识别并及时清除损伤或衰老的细胞。"
+          }
+        ]
+      },
+      "c": 56
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "正常皮脂腺分泌物呈酸性还是碱性？主要包含什么抑菌因子？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呈酸性，主要包含不饱和脂肪酸。"
+          }
+        ]
+      },
+      "c": 63
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "补体替代途径（旁路途径）激活的突出特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不依赖抗体，可由微生物表面成分直接激活 C3。"
+          }
+        ]
+      },
+      "c": 70
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫在别称上有哪些常见说法？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫（Native immunity）和非特异性免疫（Non-specific immunity）。"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "PAF 与白细胞表面的 PAF 受体结合后，会激活白细胞表面的什么整合素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "LFA-1（淋巴细胞功能相关抗原-1）。"
+          }
+        ]
+      },
+      "c": 51
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在白细胞滚动阶段，血管内皮细胞内预先储存 P-选择素的结构是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "内皮细胞的细胞内颗粒（Weibel-Palade 小体）。"
+          }
+        ]
+      },
+      "c": 72
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "膜攻击复合物（MAC）破坏靶细胞的物理机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在靶细胞膜上穿孔，破坏细胞膜完整性导致胞内物质外漏和细胞溶解。"
+          }
+        ]
+      },
+      "c": 71
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "溶菌酶对哪类细菌细胞壁的破坏作用最明显？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰氏阳性菌（通过水解肽聚糖骨架）。"
+          }
+        ]
+      },
+      "c": 66
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫应答的启动是否需要抗原递呈细胞（APC）的参与？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不需要。"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "甘露糖结构为什么可以被固有免疫系统作为 PAMP 识别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "因为末端富含甘露糖的糖链结构为微生物所特有。"
+          }
+        ]
+      },
+      "c": 40
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰氏阳性菌（$G^+$ 菌）是否有脂多糖（LPS）外膜结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "没有（LPS 为 $G^-$ 菌外膜特有）。"
+          }
+        ]
+      },
+      "c": 79
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在白细胞与内皮细胞粘附过程中，介导白细胞“滚动”的内皮细胞表面分子是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "P-选择素（P-selectin）。"
+          }
+        ]
+      },
+      "c": 49
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫系统中的体内屏障包含哪些主要结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血脑屏障、血胎屏障和血胸腺屏障。"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "皮肤和粘膜分泌物中常见的蛋白类杀菌/抑菌物质有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "溶菌酶、抑菌肽、乳铁蛋白。"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "未接触抗原的正常人，体内固有免疫细胞是否需要抗原诱导的克隆扩增？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不需要，固有免疫细胞缺乏特异性抗原受体克隆扩增。"
+          }
+        ]
+      },
+      "c": 62
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫在机体抗感染中处于什么地位？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "它是机体抵御病原体入侵的第一道防线。"
+          }
+        ]
+      },
+      "c": 54
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胃液中构成化学屏障的主要抑菌/杀菌成分是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胃酸。"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰氏阳性菌（$G^+$ 菌）细胞壁最突出的特征性成分是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "厚层肽聚糖和磷壁酸。"
+          }
+        ]
+      },
+      "c": 44
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫分子主要包含哪些系统与分子类别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "补体系统、受体分子、细胞因子和其他固有免疫分子。"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是病原相关分子模式（PAMP）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病原微生物表面或内部高度保守的特有模式分子，宿主细胞不表达。"
+          }
+        ]
+      },
+      "c": 35
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血胎屏障的功能特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不妨碍母胎间营养物质交换，但可防止母体内的病原体和有害物质进入胎儿体内。"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫与获得性免疫在发挥作用的时间上有什么区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫反应迅速（立即至 96 小时内）；获得性免疫反应较慢（通常需要 96 小时以上）。"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫系统中的组织屏障分为哪两大类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "皮肤和粘膜屏障、体内屏障。"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "免疫学中“APC”的中文全称是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗原提呈细胞（Antigen Presenting Cells）。"
+          }
+        ]
+      },
+      "c": 61
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "获得性免疫在别称上有哪些常见说法？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "适应性免疫（Adaptive immunity）和特异性免疫（Specific immunity）。"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血脑屏障中的星形胶质细胞主要分布在毛细血管壁的什么位置？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "覆盖在脑毛细血管壁的外侧。"
+          }
+        ]
+      },
+      "c": 67
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "发热（Fever）是由固有免疫中的哪些主要促炎细胞因子诱导的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IL-1（表皮/内皮等）、TNF-α、IL-6。"
+          }
+        ]
+      },
+      "c": 76
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "当病原体再次入侵机体时，哪种免疫应答起主要快速防御作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "基于特异性免疫记忆（Specific Immunological Memory）的适应性免疫应答。"
+          }
+        ]
+      },
+      "c": 77
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是皮肤和粘膜的微生物屏障？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "寄居在皮肤和粘膜表面的正常菌群。"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "汗液的 pH 值特征及其中的主要抑菌物质是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呈酸性，主要抑菌物质为乳酸。"
+          }
+        ]
+      },
+      "c": 64
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫细胞主要包含哪三类分类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "髓系免疫细胞、固有淋巴样细胞、固有样淋巴细胞。"
+          }
+        ]
+      },
+      "c": 27
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "TNF-α 在炎症反应中的关键生物学作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "激活血管内皮、增加血管通透性、引发发热及严重时诱导休克。"
+          }
+        ]
+      },
+      "c": 46
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "白细胞从血管中游出（渗出）的具体解剖位置是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "相邻两个血管内皮细胞之间的缝隙。"
+          }
+        ]
+      },
+      "c": 53
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰氏阴性菌（$G^-$ 菌）细胞壁由外向内包含哪些主要结构层？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脂多糖（LPS）、外膜（磷脂）、脂蛋白、薄层肽聚糖以及细胞膜。"
+          }
+        ]
+      },
+      "c": 43
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "髓系免疫细胞在固有免疫中主要包括哪些细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单核/巨噬细胞、中性粒细胞、树突状细胞、肥大细胞等。"
+          }
+        ]
+      },
+      "c": 75
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有样淋巴细胞（Innate-like lymphocytes）属于固有免疫系统还是适应性免疫系统？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "属于固有免疫系统（固有免疫细胞分类之一）。"
+          }
+        ]
+      },
+      "c": 74
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "补体激活后形成的“MAC”全称及其主要作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "膜攻击复合物（Membrane Attack Complex），主要作用是溶解靶细胞。"
+          }
+        ]
+      },
+      "c": 32
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血脑屏障（Blood-brain barrier）由哪些结构组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由软脑膜、脉络丛毛细血管壁和毛细血管壁外覆盖的星形胶质细胞组成。"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "皮脂腺分泌物中发挥抑菌作用的主要化学成分是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不饱和脂肪酸。"
+          }
+        ]
+      },
+      "c": 16
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫与获得性免疫在识别对象上有何本质区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫识别病原特有模式分子（PAMP/DAMP）；获得性免疫识别特异性分子（抗原 antigen）。"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫在特异性（适应性）免疫应答启动阶段发挥什么作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通过 APC 摄取并提呈抗原、提供 T 细胞激活第二信号及分泌细胞因子。"
+          }
+        ]
+      },
+      "c": 57
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫系统主要由哪三大部分组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "组织屏障、固有免疫细胞和固有免疫分子。"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血脑屏障的主要免疫防护功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "阻挡血液中的病原体和大分子物质进入脑组织及脑室。"
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "补体系统在血液中的存在形式通常是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "无活性的酶原（Zymogen）形式。"
+          }
+        ]
+      },
+      "c": 80
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "活化的血管内皮细胞通过释放什么介质来激活滚动中的白细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血小板活化因子（PAF）。"
+          }
+        ]
+      },
+      "c": 50
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IL-6 的主要生物学功能有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "激活淋巴细胞、促进抗体生成、引发发热、诱导急性期蛋白生成及促进中性粒细胞生成。"
+          }
+        ]
+      },
+      "c": 48
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "获得性免疫应答的启动是否需要抗原递呈细胞（APC）的参与？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "需要。"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是获得性免疫（Acquired immunity）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "个体出生后通过与抗原物质接触产生的特异性防御功能。"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫分子如何在特异性免疫应答中发挥调节作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通过分泌多种细胞因子，调控特异性免疫应答的方向与强度。"
+          }
+        ]
+      },
+      "c": 59
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是固有免疫（Innate immunity）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "机体在种系发育和进化过程中形成的天然防御功能。"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸道粘膜清除黏附病原体和异物的主要物理方式是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呼吸道粘膜上皮细胞的定向摆动及分泌液的粘附与冲洗作用。"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "当机体发生固有免疫缺陷时，最直接的临床后果是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "极易患各种感染性疾病。"
+          }
+        ]
+      },
+      "c": 55
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血胸腺屏障的主要功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "防止血液中的循环抗原进入胸腺皮质，为 T 细胞发育提供稳定的微环境。"
+          }
+        ]
+      },
+      "c": 68
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "SLIG 分子表达在白细胞还是内皮细胞表面？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "表达在白细胞表面（作为选择素的配体）。"
+          }
+        ]
+      },
+      "c": 73
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "汗液中发挥抑菌作用的主要化学成分是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "乳酸。"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "若首次感染时固有免疫功能完好，但在适应性免疫启动前未能彻底清除病原体，会导致什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "疾病发生（Disease），并进一步激活适应性免疫系统以达成康复（Recovery）。"
+          }
+        ]
+      },
+      "c": 78
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "补体经典途径与 MBL 途径激活起点的区别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "经典途径由抗原抗体复合物激活；MBL 途径由 MBL 直接识别病原体表面的甘露糖残基激活。"
+          }
+        ]
+      },
+      "c": 69
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肽聚糖（PGN）存在于哪些微生物的细胞壁中？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "革兰氏阴性菌（$G^-$ 菌）、革兰氏阳性菌（$G^+$ 菌）以及真菌胞壁。"
+          }
+        ]
+      },
+      "c": 39
+    }
+  ],
+  "topics": {
+    "covered": [
+      "固有免疫与适应性免疫比较",
+      "固有免疫系统的组成与组织屏障",
+      "补体系统及其激活效应",
+      "固有免疫识别分子（PAMP与DAMP）",
+      "炎症细胞因子与白细胞渗出机制",
+      "固有免疫的生物学意义"
+    ],
+    "followUp": [
+      "模式识别受体（PRR）家族及其信号转导",
+      "固有淋巴细胞（ILC）亚群与功能",
+      "巨噬细胞极化与炎症消退机制",
+      "补体调控分子与补体相关疾病"
+    ]
+  }
+}

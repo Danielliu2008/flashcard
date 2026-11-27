@@ -1,0 +1,1637 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "毛霉属（Mucor spp.）和根霉属（Rhizopus spp.）分类上属于真菌界的哪一个门？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "接合菌门（Zygomycota）。"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "镰刀菌属（Fusarium）产生的大分生孢子典型形态是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "镰刀形。"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "皮肤癣菌引起的感染属于浅部真菌感染还是深部真菌感染？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "浅部真菌感染（多具有较强的传染性）。"
+          }
+        ]
+      },
+      "c": 57
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单细胞真菌最常见的无性繁殖方式是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "芽生（budding）。"
+          }
+        ]
+      },
+      "c": 37
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "健康皮肤皮脂腺分泌的哪种成分具有杀灭真菌作用，能抑制皮肤癣菌感染？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不饱和脂肪酸。"
+          }
+        ]
+      },
+      "c": 65
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在真菌感染基础上发生的超敏反应属于几型超敏反应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IV型超敏反应。"
+          }
+        ]
+      },
+      "c": 58
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌细胞壁的最内层主要由什么成分构成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "几丁质微纤维层。"
+          }
+        ]
+      },
+      "c": 31
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌界（Kingdom Fungi）主要划分为哪四个门？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "接合菌门、担子菌门、子囊菌门和壶菌门。"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "隐球菌属（Cryptococcus spp.）和马拉色菌属属于真菌界的哪一个门？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "担子菌门（Basidiomycota）。"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "白假丝酵母在SDA培养基上形成的菌落形态特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "形成类酵母型菌落；外观与酵母型相似，但显微镜下可见深入培养基生长呈藕节状的假菌丝。"
+          }
+        ]
+      },
+      "c": 46
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "新生隐球菌在SDA培养基上形成的菌落属于哪种类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "酵母型菌落（柔软、致密、光滑、湿润，镜下无菌丝）。"
+          }
+        ]
+      },
+      "c": 45
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "棘白菌素类药物（如卡泊芬净）在深部真菌感染中的临床应用指征是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "主要用于对其他抗真菌药物不耐受或产生耐药的真菌感染者。"
+          }
+        ]
+      },
+      "c": 84
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "培养酵母型及类酵母型真菌的最适生长温度是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "37℃。"
+          }
+        ]
+      },
+      "c": 41
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "绝大部分病原性丝状真菌（如皮肤癣菌、曲霉）的菌丝属于有隔菌丝还是无隔菌丝？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "有隔菌丝。"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗新生隐球菌荚膜特异性IgG抗体主要通过什么机制协助消除真菌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "调理吞噬作用（opsonization）。"
+          }
+        ]
+      },
+      "c": 72
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "双相型真菌在宿主体内（37℃）和环境/培养基（25℃）中分别呈何种形态？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "宿主体内（37℃）呈酵母型，环境/25℃培养时呈菌丝型。"
+          }
+        ]
+      },
+      "c": 49
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "小孢子菌属（Microsporum）产生的大分生孢子通常呈什么形状？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "纺锤形（梭形）。"
+          }
+        ]
+      },
+      "c": 25
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "灰黄霉素（Griseofulvin）抑制真菌生长繁殖的细胞靶点和机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "干扰真菌微管蛋白聚合成微管，抑制有丝分裂。"
+          }
+        ]
+      },
+      "c": 76
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是真菌的无性孢子（asexual spore）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不经过两性细胞的配合而直接产生的生殖孢子。"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "表皮癣菌属（Epidermophyton）产生的大分生孢子呈什么形状？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "棍棒状。"
+          }
+        ]
+      },
+      "c": 27
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌细胞壁多糖成分（占80%～90%）中最主要的是哪两种？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "几丁质（chitin）和葡聚糖（glucan）。"
+          }
+        ]
+      },
+      "c": 32
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌对干燥、阳光及紫外线等理化因素的抵抗力如何？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "耐受性较强。"
+          }
+        ]
+      },
+      "c": 52
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在形态显微观察中，假菌丝与真菌丝在细胞相连处有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "假菌丝细胞间仅以狭小面积相连呈藕节状；真菌丝横隔面积与细胞直径一致，呈竹节状。"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "唑类抗真菌药（如氟康唑、伊曲康唑）的作用靶点和机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抑制14-α-去甲基酶，阻断麦角固醇的生物合成，破坏细胞膜完整性与通透性。"
+          }
+        ]
+      },
+      "c": 74
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "酵母型真菌与类酵母型真菌在结构上的核心区别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "酵母型真菌不产生菌丝；类酵母型真菌可形成假菌丝。"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "我国最常见的继发性/机会致病性真菌是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "白假丝酵母（Candida albicans）。"
+          }
+        ]
+      },
+      "c": 55
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "毛霉形成的孢子囊内含有的许多孢子称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "孢子囊孢子。"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "黄曲霉毒素（aflatoxin）致癌性极强，主要诱发人体哪个器官的肿瘤？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肝脏（诱发肝癌）。"
+          }
+        ]
+      },
+      "c": 62
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "多细胞真菌（丝状真菌/霉菌）由哪两大基本结构组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "菌丝（hypha）和孢子（spore）。"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是“农民肺”（farmer lung）？其发病机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "因吸入含真菌孢子的霉草灰尘引起的呼吸道接触性超敏反应，以咳嗽、发绀、呼吸困难等为特征。"
+          }
+        ]
+      },
+      "c": 59
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌在SDA培养基上生长可形成哪三种基本菌落类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "酵母型菌落、类酵母型菌落和丝状型菌落。"
+          }
+        ]
+      },
+      "c": 44
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌被吞噬细胞吞噬后若未能被杀灭，在局部可刺激形成何种病理改变？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "刺激组织增生，引起细胞浸润形成肉芽肿。"
+          }
+        ]
+      },
+      "c": 68
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "按形态和细胞数量，单细胞真菌主要分为哪两类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "酵母型单细胞真菌和类酵母型单细胞真菌。"
+          }
+        ]
+      },
+      "c": 9
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "CD4+ Th1细胞在抗真菌免疫中分泌哪些关键细胞因子激活巨噬细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IFN-γ 和 IL-2。"
+          }
+        ]
+      },
+      "c": 70
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "根据功能不同，真菌菌丝体可分为哪三种类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "营养菌丝、气中（生）菌丝和生殖菌丝。"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "长期应用广谱抗生素诱发继发性白假丝酵母感染的机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "广谱抗生素杀灭正常细菌，破坏菌群间的拮抗作用，导致菌群失调。"
+          }
+        ]
+      },
+      "c": 67
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为什么真菌分离培养基中常需加入抗生素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "因为多数病原性真菌生长缓慢（需1~4周），加入抗生素可抑制生长快速的细菌污染。"
+          }
+        ]
+      },
+      "c": 43
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "包含超过85%人类病原真菌、为真菌界中最大的一个门是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "子囊菌门（Ascomycota）。"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "伊曲康唑、伏立康唑和泊沙康唑相比两性霉素B在深部真菌治疗上有何突出优势？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗菌谱广，尤其对曲霉疗效高，且毒副作用明显降低。"
+          }
+        ]
+      },
+      "c": 82
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在抗深部真菌（如白假丝酵母、新生隐球菌）感染中起核心保护作用的免疫应答类型是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Th1应答占优势的细胞免疫应答。"
+          }
+        ]
+      },
+      "c": 69
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "预防真菌毒素引起的食物中毒的核心措施是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "严禁销售和食用发霉变质的食品，加强农作物与粮食贮存管理。"
+          }
+        ]
+      },
+      "c": 85
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为什么儿童比成人更易患头癣，而成人手足癣更为多见？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "儿童皮脂腺发育不完善缺乏抑菌脂肪酸；成人掌跖部无皮脂腺且多汗易促真菌生长。"
+          }
+        ]
+      },
+      "c": 66
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "具有胞质浓缩、胞壁加厚特征，作为真菌休眠结构的孢子是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "厚膜孢子（chlamydospore，又称厚壁孢子）。"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "作用于真菌细胞壁合成的抗真菌药代表类别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "棘白菌素类（如卡泊芬净、米卡芬净）。"
+          }
+        ]
+      },
+      "c": 79
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "产生真菌毒素的主要真菌属包括哪三个？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "曲霉属、青霉属和镰刀菌属。"
+          }
+        ]
+      },
+      "c": 61
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "临床治疗白假丝酵母深部感染最常用且效果较好的唑类药物是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氟康唑（Fluconazole）。"
+          }
+        ]
+      },
+      "c": 81
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "丝状型菌落（如红色毛癣菌、烟曲霉）的外观特征是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呈絮状、绒毛状或粉末状，菌落正面与背面常可显现不同颜色。"
+          }
+        ]
+      },
+      "c": 47
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌毒素（mycotoxins）的生物学性质及危害是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌代谢产生的有毒次级代谢产物，污染农作物或食物，具有致癌、致畸和致突变作用。"
+          }
+        ]
+      },
+      "c": 60
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "棘白菌素类抗真菌药（如卡泊芬净）的作用靶点与机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "非竞争性抑制β-1,3-葡聚糖合成酶，破坏真菌细胞壁葡聚糖合成，引起渗透压溶解。"
+          }
+        ]
+      },
+      "c": 78
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗体在抗真菌体液免疫中的保护机制有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通过调理作用促吞噬、阻止真菌转为菌丝相，以及抑制真菌黏附宿主细胞。"
+          }
+        ]
+      },
+      "c": 71
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是双相型真菌（dimorphic fungi）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指形态可随环境条件（如温度、营养）改变而发生两种形态互变的真菌。"
+          }
+        ]
+      },
+      "c": 48
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "请列举三种常见的致病性双相型真菌。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "粗球孢子菌、荚膜组织胞浆菌、芽生菌、孢子丝菌、马尔尼菲青霉（任答三种）。"
+          }
+        ]
+      },
+      "c": 50
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "新生隐球菌（Cryptococcus neoformans）细胞壁外具有哪种与其毒力和致病性密切相关的结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "荚膜（capsule）。"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌经细胞间质配和核配后产生的有性孢子主要包含哪四种？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "接合孢子、子囊孢子、担孢子和卵孢子。"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "培养丝状真菌（霉菌）的最适生长温度范围是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "25℃～28℃。"
+          }
+        ]
+      },
+      "c": 40
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由菌丝细胞直接分化形成的叶状孢子包含哪三种类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "芽生孢子、关节孢子和厚膜孢子。"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "分生孢子根据体积大小和细胞数量可分为哪两类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "大分生孢子（多细胞、体积大）和小分生孢子（单细胞、体积小）。"
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "两性霉素B（Amphotericin B）和制霉菌素抗真菌的作用机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "选择性结合真菌细胞膜的麦角固醇，形成微孔增加膜通透性，导致胞内重要成分外漏死亡。"
+          }
+        ]
+      },
+      "c": 73
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌不含叶绿素，其获取营养的生存方式主要是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "异养方式（多为腐生，少数寄生或共生）。"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "毛霉和根霉等接合菌门真菌的菌丝结构特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为无隔菌丝，呈多核单细胞状态。"
+          }
+        ]
+      },
+      "c": 16
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "根据有无隔膜，真菌的菌丝可分为哪两类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "有隔菌丝和无隔菌丝。"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌孢子对热的耐受力与细菌芽胞相比如何？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌孢子对热的抵抗力较弱，远不及细菌芽胞（一般60℃加热1小时即可杀灭）。"
+          }
+        ]
+      },
+      "c": 51
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "特比萘芬等丙烯胺类抗真菌药通过抑制哪种酶来阻断麦角固醇合成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "角鲨烯环氧化酶（squalene epoxidase）。"
+          }
+        ]
+      },
+      "c": 75
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "引起原发性深部感染的代表性致病真菌有哪些？（列举2种）"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "粗球孢子菌、荚膜组织胞浆菌、芽生菌、马尔尼菲青霉。"
+          }
+        ]
+      },
+      "c": 54
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人类细胞膜与真菌细胞膜在固醇成分上有何关键区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人类细胞膜固醇为胆固醇，而真菌细胞膜特有固醇为麦角固醇（ergosterol）。"
+          }
+        ]
+      },
+      "c": 34
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "葡聚糖在真菌细胞壁中的主要生理功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "作为维持真菌细胞外形坚硬的分子基础。"
+          }
+        ]
+      },
+      "c": 33
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌有性繁殖包含的三步连续阶段依次是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "质配（细胞质结合）、核配（细胞核融合）和减数分裂。"
+          }
+        ]
+      },
+      "c": 38
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由致病性真菌或机会致病性真菌感染引发并表现临床症状的疾病统称为_____。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌病（mycoses）"
+          }
+        ]
+      },
+      "c": 53
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "显微镜下用于真菌鉴定与分类的特殊形态菌丝包含哪些类型？（列举3种）"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "结节状、球拍状、破梳状、鹿角状、螺旋状、关节状菌丝。"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌毒素引发的中毒症（mycotoxicosis）是否具有传染性？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不具有传染性，一般不引起流行，但呈现明显的地区性和季节性。"
+          }
+        ]
+      },
+      "c": 64
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "氟胞嘧啶（Flucytosine）在真菌细胞内转化为5-氟尿嘧啶后，主要干扰哪种大分子的合成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抑制胸腺嘧啶核苷合成酶，影响DNA的合成。"
+          }
+        ]
+      },
+      "c": 77
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌（fungus）属于哪种细胞类型的微生物？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真核细胞型微生物。"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "引起浅部真菌感染的小孢子菌属和毛癣菌属分类上属于真菌界的哪一个门？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "子囊菌门。"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌细胞核糖体的沉降系数及其大、小亚基构成分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "总体为80S，大亚基为60S，小亚基为40S。"
+          }
+        ]
+      },
+      "c": 35
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "类酵母型真菌形成的“假菌丝”（pseudohypha）是如何构成的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由母细胞出芽产生的芽体持续延长且不脱离，相互连接形成藕节状较长的细胞链。"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌生长繁殖的最适酸碱度（pH）范围是多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "pH 4.0～6.0（偏弱酸性）。"
+          }
+        ]
+      },
+      "c": 42
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "治疗浅部皮肤癣菌感染常用的局部外用药物有哪些？（列举2种）"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "特比萘芬喷剂/乳膏、酮康唑软膏、咪康唑霜、克霉唑溶液。"
+          }
+        ]
+      },
+      "c": 80
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "关节孢子（arthrospore）的形成方式是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由菌丝细胞分化出现隔膜，而后断裂成长方形的几个节段而成。"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "霉变甘蔗导致人体急性中枢神经系统损伤的强毒性物质是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "3-硝基丙酸（3-NPA，由节菱孢霉菌产生）。"
+          }
+        ]
+      },
+      "c": 63
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌细胞壁的主要化学成分与细菌细胞壁有何根本不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "真菌细胞壁由几丁质或纤维素构成，不含细菌细胞壁特有的肽聚糖。"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "限制两性霉素B（Amphotericin B）临床广泛应用的主要药理学缺点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "毒副作用极大，且有效治疗剂量与中毒剂量非常接近。"
+          }
+        ]
+      },
+      "c": 83
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在细胞分裂期，真菌的核仁和核膜是否会消失？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不会消失，真菌在细胞分裂期核仁和核膜仍然存在。"
+          }
+        ]
+      },
+      "c": 36
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "白假丝酵母以出芽方式形成的圆形或卵圆形孢子称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "芽生孢子（blastospore）。"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "哪些人群属于深部机会致病性真菌感染的高危人群？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肿瘤患者、长期使用免疫抑制剂者、AIDS患者、免疫缺陷者、糖尿病患者及长期留置导管患者。"
+          }
+        ]
+      },
+      "c": 56
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "医学真菌学中最常用的培养基是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "沙保弱（沙氏）葡萄糖琼脂培养基（Sabouraud dextrose agar, SDA）。"
+          }
+        ]
+      },
+      "c": 39
+    }
+  ],
+  "topics": {
+    "covered": [
+      "真菌生物学性状与分类",
+      "真菌细胞结构与成分",
+      "真菌繁殖、培养与菌落特征",
+      "真菌变异性与抵抗力",
+      "真菌致病性与感染类型",
+      "真菌毒素与超敏反应",
+      "抗真菌免疫机制",
+      "抗真菌药物作用靶点与机制"
+    ],
+    "followUp": [
+      "白假丝酵母与新生隐球菌的致病机制与实验室检查",
+      "曲霉与毛霉引起的深部真菌感染临床诊断",
+      "耐药真菌机制与新型抗真菌药物研发",
+      "真菌毒素的致癌机制与卫生检测标准"
+    ]
+  }
+}

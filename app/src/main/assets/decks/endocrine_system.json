@@ -1,0 +1,1740 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【系统组成 · ★★☆】\n什么是内分泌细胞（endocrine cell）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "具有内分泌功能的细胞称为内分泌细胞。"
+          }
+        ]
+      },
+      "c": 1,
+      "pointType": "系统组成",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【系统组成 · ★★☆】\n什么是内分泌腺（endocrine gland）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由内分泌组织构成并主要行使内分泌功能的器官。"
+          }
+        ]
+      },
+      "c": 2,
+      "pointType": "系统组成",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【系统组成 · ★★☆】\n人体内分泌系统由哪些部分组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由内分泌腺和分散存在于某些组织和器官中的内分泌细胞组成。"
+          }
+        ]
+      },
+      "c": 3,
+      "pointType": "系统组成",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基本概念 · ★★☆】\n激素（hormone）的定义是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由内分泌细胞分泌，在细胞与细胞间传递信息的高效能生物活性物质。"
+          }
+        ]
+      },
+      "c": 4,
+      "pointType": "基本概念",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【分泌方式 · ★★☆】\n激素通过血液循环作用于远距离靶细胞的分泌方式称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "远距分泌（endocrine）"
+          }
+        ]
+      },
+      "c": 5,
+      "pointType": "分泌方式",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【分泌方式 · ★★☆】\n激素通过组织液作用于邻近靶细胞的分泌方式称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "旁分泌（paracrine）"
+          }
+        ]
+      },
+      "c": 6,
+      "pointType": "分泌方式",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【分泌方式 · ★★☆】\n激素释放后作用于分泌该激素的细胞自身的分泌方式称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "自分泌（autocrine）"
+          }
+        ]
+      },
+      "c": 7,
+      "pointType": "分泌方式",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【分泌方式 · ★★☆】\n神经细胞合成并分泌激素经血液循环或轴浆运输发挥调节作用的方式称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "神经内分泌（neuroendocrine）"
+          }
+        ]
+      },
+      "c": 8,
+      "pointType": "分泌方式",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【激素分类 · ★★☆】\n肾上腺素和甲状腺激素按化学结构分类属于哪一类激素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胺类激素"
+          }
+        ]
+      },
+      "c": 9,
+      "pointType": "激素分类",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【激素分类 · ★★☆】\n胰岛素、甲状旁腺素和下丘脑调节肽按化学结构分类属于哪一类激素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "含氮类激素（肽类和蛋白质类激素）"
+          }
+        ]
+      },
+      "c": 10,
+      "pointType": "激素分类",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【激素分类 · ★★☆】\n皮质醇、醛固酮和性激素按化学结构分类属于哪一类激素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "类固醇（甾体）激素"
+          }
+        ]
+      },
+      "c": 11,
+      "pointType": "激素分类",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【激素分类 · ★★☆】\n前列腺素、血栓烷和白三烯是由什么物质转化而来的脂类激素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "花生四烯酸（脂肪酸衍生物激素）"
+          }
+        ]
+      },
+      "c": 12,
+      "pointType": "激素分类",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【作用机制 · ★★☆】\n水溶性的含氮类激素主要通过哪种受体机制介导信号转导？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "膜受体介导（第二信使学说 / G蛋白耦联受体）"
+          }
+        ]
+      },
+      "c": 13,
+      "pointType": "作用机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【作用机制 · ★★☆】\n类固醇激素和甲状腺激素主要通过哪种受体机制发挥作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胞内受体介导（通过细胞膜与细胞核/胞浆受体结合，调控基因表达）"
+          }
+        ]
+      },
+      "c": 14,
+      "pointType": "作用机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【作用机制 · ★★☆】\n在膜受体信号转导机制中，结合膜受体的激素本身被称为第几信使？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "第一信使"
+          }
+        ]
+      },
+      "c": 15,
+      "pointType": "作用机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【一般特征 · ★★☆】\n激素作用的四个主要共同特征是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "信息传递作用、相对特异性、高效作用、激素间相互作用。"
+          }
+        ]
+      },
+      "c": 16,
+      "pointType": "一般特征",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【一般特征 · ★★☆】\n什么是激素作用的“允许作用”？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "某种激素本身不直接引起某种生理效应，但它的存在能使另一种激素的作用明显增强（如糖皮质激素对儿茶酚胺的允许作用）。"
+          }
+        ]
+      },
+      "c": 17,
+      "pointType": "一般特征",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【一般特征 · ★★☆】\n胰岛素与胰高血糖素在血糖调节中的相互关系属于哪种作用类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "拮抗作用"
+          }
+        ]
+      },
+      "c": 18,
+      "pointType": "一般特征",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【一般特征 · ★★☆】\n生长激素、糖皮质激素与胰高血糖素在升高血糖上的相互关系属于哪种作用类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "协同作用"
+          }
+        ]
+      },
+      "c": 19,
+      "pointType": "一般特征",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【下丘脑与垂体 · ★★★】\n内分泌系统的最主要调控中枢是什么结构模式？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "下丘脑-垂体功能单位（以及下丘脑-垂体-靶腺轴）"
+          }
+        ]
+      },
+      "c": 20,
+      "pointType": "下丘脑与垂体",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【垂体解剖 · ★★☆】\n腺垂体包含哪三个解剖区域？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "远侧部、结节部、中间部"
+          }
+        ]
+      },
+      "c": 21,
+      "pointType": "垂体解剖",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【垂体解剖 · ★★☆】\n神经垂体包含哪三个解剖区域？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "神经部、漏斗、正中隆起"
+          }
+        ]
+      },
+      "c": 22,
+      "pointType": "垂体解剖",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【下丘脑与垂体 · ★★★】\n下丘脑视上核和室旁核与神经垂体之间通过什么结构相连？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "下丘脑垂体束"
+          }
+        ]
+      },
+      "c": 23,
+      "pointType": "下丘脑与垂体",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【下丘脑与垂体 · ★★★】\n下丘脑促垂体区与腺垂体之间通过什么血管系统相连？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "垂体门静脉系统"
+          }
+        ]
+      },
+      "c": 24,
+      "pointType": "下丘脑与垂体",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经垂体激素 · ★★★】\n抗利尿激素（ADH）主要在下丘脑的哪一个核团合成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "视上核"
+          }
+        ]
+      },
+      "c": 25,
+      "pointType": "神经垂体激素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经垂体激素 · ★★★】\n催产素（OXT）主要在下丘脑的哪一个核团合成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "室旁核"
+          }
+        ]
+      },
+      "c": 26,
+      "pointType": "神经垂体激素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经垂体激素 · ★★★】\n抗利尿激素（ADH）的主要生理作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "促进肾远曲小管和集合管重吸收水，使尿量减少。"
+          }
+        ]
+      },
+      "c": 27,
+      "pointType": "神经垂体激素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经垂体激素 · ★★★】\n调节抗利尿激素（ADH）分泌最敏感、最有效的刺激因素是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血浆晶体渗透压的变化"
+          }
+        ]
+      },
+      "c": 28,
+      "pointType": "神经垂体激素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【神经垂体激素 · ★★★】\n催产素（OXT）的主要生理作用有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "促进妊娠后期子宫平滑肌收缩以辅助分娩，以及促进乳汁排出。"
+          }
+        ]
+      },
+      "c": 29,
+      "pointType": "神经垂体激素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【下丘脑调节肽 · ★★☆】\n下丘脑分泌的TRH和CRH分别调节腺垂体分泌什么激素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "TRH促进促甲状腺素（TSH）分泌；CRH促进促肾上腺皮质激素（ACTH）分泌。"
+          }
+        ]
+      },
+      "c": 30,
+      "pointType": "下丘脑调节肽",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【下丘脑调节肽 · ★★☆】\n对催乳素（PRL）的分泌起主导且经常性抑制作用的下丘脑调节肽是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "催乳素释放抑制激素（PIH）"
+          }
+        ]
+      },
+      "c": 31,
+      "pointType": "下丘脑调节肽",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【腺垂体激素 · ★★★】\n腺垂体分泌的促激素包括哪四种？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "促甲状腺素（TSH）、促肾上腺皮质激素（ACTH）、促卵泡激素（FSH）、黄体生成素（LH）。"
+          }
+        ]
+      },
+      "c": 32,
+      "pointType": "腺垂体激素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【腺垂体激素 · ★★★】\n腺垂体分泌的直接作用于靶细胞/靶组织的激素包括哪三种？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "生长激素（GH）、催乳素（PRL）、促黑激素（MSH）。"
+          }
+        ]
+      },
+      "c": 33,
+      "pointType": "腺垂体激素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【腺垂体激素 · ★★★】\n生长激素（GH）促进骨骼和软组织生长的作用主要通过诱导靶细胞产生什么介质来实现？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胰岛素样生长因子（IGF-1 / 生长介质）"
+          }
+        ]
+      },
+      "c": 34,
+      "pointType": "腺垂体激素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【腺垂体激素 · ★★★】\n生长激素（GH）对物质代谢的主要作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "促进蛋白质合成，促进脂肪分解，升高血糖。"
+          }
+        ]
+      },
+      "c": 35,
+      "pointType": "腺垂体激素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【激素异常病理 · ★☆☆】\n幼年时期生长激素（GH）分泌不足与分泌过多分别会导致什么疾病？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不足导致侏儒症；过多导致巨人症。"
+          }
+        ]
+      },
+      "c": 36,
+      "pointType": "激素异常病理",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【激素异常病理 · ★☆☆】\n成年后生长激素（GH）分泌过多会导致什么疾病？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肢端肥大症"
+          }
+        ]
+      },
+      "c": 37,
+      "pointType": "激素异常病理",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【腺垂体激素 · ★★☆】\n生长激素的分泌在一天之中呈现怎样的节律变化？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呈脉冲性分泌，进入深睡状态后分泌量显著增加。"
+          }
+        ]
+      },
+      "c": 38,
+      "pointType": "腺垂体激素",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【甲状腺组织 · ★★☆】\n甲状腺滤泡上皮细胞与滤泡旁细胞（C细胞）分别分泌什么激素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "滤泡上皮细胞分泌甲状腺激素（$T_3$、$T_4$）；滤泡旁细胞分泌降钙素。"
+          }
+        ]
+      },
+      "c": 39,
+      "pointType": "甲状腺组织",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【甲状腺激素 · ★★☆】\n三碘甲腺原氨酸（$T_3$）与四碘甲腺原氨酸（$T_4$）在浓度和生物活性上有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血液中 $T_4$ 浓度高于 $T_3$，但 $T_3$ 的生物活性/生物功能强于 $T_4$。"
+          }
+        ]
+      },
+      "c": 40,
+      "pointType": "甲状腺激素",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【甲状腺激素功能 · ★★★】\n甲状腺激素对能量代谢和产热的主要影响是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "提高基础代谢率（BMR），增加机体产热效应。"
+          }
+        ]
+      },
+      "c": 41,
+      "pointType": "甲状腺激素功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【甲状腺激素功能 · ★★★】\n生理剂量与大剂量的甲状腺激素对蛋白质代谢的作用有什么不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "生理剂量促进蛋白质合成（正氮平衡）；大剂量则加速蛋白质分解，引起肌肉消耗和肌无力。"
+          }
+        ]
+      },
+      "c": 42,
+      "pointType": "甲状腺激素功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【激素异常病理 · ★☆☆】\n生长期甲状腺激素缺乏会导致什么严重的生长发育障碍？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "呆小症（智力低下、身材矮小，中枢神经系统与骨骼发育受阻）"
+          }
+        ]
+      },
+      "c": 43,
+      "pointType": "激素异常病理",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【甲状腺激素功能 · ★★★】\n甲状腺激素对神经系统功能有何影响？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "提高中枢神经系统和交感神经系统的兴奋性。"
+          }
+        ]
+      },
+      "c": 44,
+      "pointType": "甲状腺激素功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【反馈调节机制 · ★★★】\n下丘脑-腺垂体-甲状腺轴中，血清中自由 $T_3$、$T_4$ 增高时如何影响上游激素的分泌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通过负反馈调节抑制下丘脑分泌TRH和腺垂体分泌TSH。"
+          }
+        ]
+      },
+      "c": 45,
+      "pointType": "反馈调节机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【甲状腺激素 · ★★★】\n促甲状腺素（TSH）对甲状腺腺体的主要作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "促进甲状腺激素的合成和释放，并促进甲状腺腺细胞增生。"
+          }
+        ]
+      },
+      "c": 46,
+      "pointType": "甲状腺激素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血钙体液调节 · ★★★】\n降钙素（Calcitonin）对血钙和血磷浓度有何调节作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "降低血钙和降低血磷。"
+          }
+        ]
+      },
+      "c": 47,
+      "pointType": "血钙体液调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血钙体液调节 · ★★★】\n降钙素作用于骨骼的主要机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抑制破骨细胞的活动，加强成骨细胞活动，促进骨盐沉积。"
+          }
+        ]
+      },
+      "c": 48,
+      "pointType": "血钙体液调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血钙体液调节 · ★★★】\n甲状旁腺素（PTH）对血钙和血磷浓度有何调节作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "升高血钙，降低血磷。"
+          }
+        ]
+      },
+      "c": 49,
+      "pointType": "血钙体液调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血钙体液调节 · ★★★】\n甲状旁腺素（PTH）对肾脏离子重吸收的作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "促进肾小管对 $\\text{Ca}^{2+}$ 的重吸收，抑制对磷（$\\text{P}$）的重吸收。"
+          }
+        ]
+      },
+      "c": 50,
+      "pointType": "血钙体液调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血钙体液调节 · ★★★】\n甲状旁腺素（PTH）如何间接促进小肠对钙和磷的吸收？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通过促进肾脏生成活性维维生素 $\\text{D}_3$（$1,25-(OH)_2\\text{D}_3$）来实现。"
+          }
+        ]
+      },
+      "c": 51,
+      "pointType": "血钙体液调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血钙体液调节 · ★★★】\n活性维生素 $\\text{D}_3$ 在人体内最终在哪一器官被转化生成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾脏（由 $25-(OH)\\text{VitD}_3$ 转变为 $1,25-(OH)_2\\text{VitD}_3$）"
+          }
+        ]
+      },
+      "c": 52,
+      "pointType": "血钙体液调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血钙体液调节 · ★★★】\n调节人体血钙浓度的三种主要激素是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "甲状旁腺素（PTH）、降钙素（Calcitonin）、活性维维生素 $\\text{D}_3$（$1,25-(OH)_2\\text{VitD}_3$）。"
+          }
+        ]
+      },
+      "c": 53,
+      "pointType": "血钙体液调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【肾上腺皮质 · ★★★】\n肾上腺皮质由外向内分为哪三层组织结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "球状带、束状带、网状带"
+          }
+        ]
+      },
+      "c": 54,
+      "pointType": "肾上腺皮质",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【肾上腺皮质 · ★★★】\n肾上腺皮质球状带、束状带和网状带分别分泌哪类激素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "球状带分泌盐皮质激素（醛固酮）；束状带分泌糖皮质激素（皮质醇）；网状带分泌性激素（雄激素）。"
+          }
+        ]
+      },
+      "c": 55,
+      "pointType": "肾上腺皮质",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【肾上腺髓质 · ★★★】\n肾上腺髓质主要分泌哪两种激素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾上腺素（Epinephrine）与去甲肾上腺素（Norepinephrine）。"
+          }
+        ]
+      },
+      "c": 56,
+      "pointType": "肾上腺髓质",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【糖皮质激素 · ★★★】\n糖皮质激素（皮质醇）对三大营养物质代谢的主要作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "促进糖异生、降低外周组织对葡萄糖的摄取利用（升高血糖）；促进肝外组织蛋白质分解；促进脂肪分解与重新分布。"
+          }
+        ]
+      },
+      "c": 57,
+      "pointType": "糖皮质激素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【糖皮质激素 · ★★☆】\n糖皮质激素对各类血细胞数量的影响是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "使红细胞、血小板、中性粒细胞数量增加；使淋巴细胞、单核细胞、嗜酸性粒细胞数量减少。"
+          }
+        ]
+      },
+      "c": 58,
+      "pointType": "糖皮质激素",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【糖皮质激素 · ★★★】\n糖皮质激素的临床“四抗”药理作用是指什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗炎、抗过敏、抗中毒、抗休克。"
+          }
+        ]
+      },
+      "c": 59,
+      "pointType": "糖皮质激素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【应激机制 · ★★☆】\n什么是机体的“应激反应”（Stress Reaction）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "机体受到有害刺激时，激活下丘脑-垂体-肾上腺皮质轴，引起ACTH和糖皮质激素分泌增加的非特异性防御反应。"
+          }
+        ]
+      },
+      "c": 60,
+      "pointType": "应激机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【醛固酮作用 · ★★★】\n醛固酮（Aldosterone）的主要生理作用及其作用靶点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "作用靶点为肾脏；主要生理作用是“保钠、保水、排钾”（促进 $\\text{Na}^+$ 和水重吸收，促进 $\\text{K}^+$ 排出）。"
+          }
+        ]
+      },
+      "c": 61,
+      "pointType": "醛固酮作用",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【应急机制 · ★★☆】\n肾上腺髓质与哪部分神经系统共同构成“交感-肾上腺髓质系统”？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "交感神经系统（受交感神经节前纤维支配）"
+          }
+        ]
+      },
+      "c": 62,
+      "pointType": "应急机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【肾上腺素 · ★★☆】\n肾上腺素激动心脏与骨骼肌血管上的哪些受体引起心率加快及血管扩张？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "激动心肌 $\\beta_1$ 受体使心率加快；激动心脏和骨骼肌血管 $\\beta_2$ 受体使血管扩张。"
+          }
+        ]
+      },
+      "c": 63,
+      "pointType": "肾上腺素",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血糖体液调节 · ★★★】\n胰腺内分泌部（胰岛）中的 $\\alpha$ 细胞、$\\beta$ 细胞与 $\\delta$ 细胞分别分泌什么激素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$\\alpha$ 细胞分泌胰高血糖素；$\\beta$ 细胞分泌胰岛素；$\\delta$ 细胞分泌生长抑素。"
+          }
+        ]
+      },
+      "c": 64,
+      "pointType": "血糖体液调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血糖体液调节 · ★★★】\n体内唯一能够降低血糖的激素是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胰岛素（Insulin）"
+          }
+        ]
+      },
+      "c": 65,
+      "pointType": "血糖体液调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血糖体液调节 · ★★☆】\n胰岛素促进细胞摄取葡萄糖的同时，会伴随哪种离子向胞内转移？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "钾离子（$\\text{K}^+$）"
+          }
+        ]
+      },
+      "c": 66,
+      "pointType": "血糖体液调节",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血糖体液调节 · ★★★】\n胰岛素调节糖代谢的主要作用机制有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "促进葡萄糖入胞利用，促进糖原合成与脂肪转化，抑制糖原分解和糖异生。"
+          }
+        ]
+      },
+      "c": 67,
+      "pointType": "血糖体液调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血糖体液调节 · ★★★】\n调节胰岛素分泌最重要的营养成分刺激因素是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血糖浓度（血糖升高显著刺激胰岛素分泌）"
+          }
+        ]
+      },
+      "c": 68,
+      "pointType": "血糖体液调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血糖体液调节 · ★★☆】\n迷走神经与交感神经兴奋分别对胰岛素的分泌有何影响？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "迷走神经兴奋促进胰岛素分泌；交感神经兴奋抑制胰岛素分泌（运动时防止低血糖）。"
+          }
+        ]
+      },
+      "c": 69,
+      "pointType": "血糖体液调节",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【血糖体液调节 · ★★★】\n胰高血糖素升高血糖的主要机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "促进肝糖原分解和糖异生。"
+          }
+        ]
+      },
+      "c": 70,
+      "pointType": "血糖体液调节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【代谢病理了解 · ★☆☆】\n正常人的空腹静脉血浆葡萄糖浓度应低于多少 $\\text{mmol/L}$？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$< 6.1\\text{ mmol/L}$"
+          }
+        ]
+      },
+      "c": 71,
+      "pointType": "代谢病理了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【代谢病理了解 · ★☆☆】\n诊断糖尿病的静脉血浆葡萄糖标准是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "空腹血糖 $\\ge 7.0\\text{ mmol/L}$ 或糖负荷后 2 小时血糖 $\\ge 11.1\\text{ mmol/L}$。"
+          }
+        ]
+      },
+      "c": 72,
+      "pointType": "代谢病理了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【代谢病理了解 · ★☆☆】\nI型糖尿病与II型糖尿病的主要发病机制差异是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "I型糖尿病主要是由于胰岛素分泌减少/缺乏；II型糖尿病主要是胰岛素受体或下游信号转导异常（胰岛素抵抗）。"
+          }
+        ]
+      },
+      "c": 73,
+      "pointType": "代谢病理了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【其他内分泌 · ★★☆】\n松果体主要分泌哪种具有昼夜节律变化的激素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "褪黑素（Melatonin，白天分泌少，黑夜分泌多）"
+          }
+        ]
+      },
+      "c": 74,
+      "pointType": "其他内分泌",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【其他内分泌 · ★★☆】\n光照对松果体分泌褪黑素有什么影响？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "光照会抑制褪黑素的分泌。"
+          }
+        ]
+      },
+      "c": 75,
+      "pointType": "其他内分泌",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床异常了解 · ★☆☆】\n柯兴氏病（Cushing's disease）主要是由于哪种激素分泌过多引起的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "糖皮质激素（皮质醇）"
+          }
+        ]
+      },
+      "c": 76,
+      "pointType": "临床异常了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床异常了解 · ★☆☆】\n阿狄森病（Addison's disease）主要是由于什么原因引起的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾上腺皮质功能减退（盐皮质激素和糖皮质激素分泌不足）。"
+          }
+        ]
+      },
+      "c": 77,
+      "pointType": "临床异常了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床异常了解 · ★☆☆】\n为什么长期使用糖皮质激素药物后不能突然停药？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "长期外源性糖皮质激素会通过负反馈抑制下丘脑和腺垂体，导致内源性肾上腺皮质萎缩；突然停药会导致急性肾上腺皮质功能不全。"
+          }
+        ]
+      },
+      "c": 78,
+      "pointType": "临床异常了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    }
+  ],
+  "topics": {
+    "covered": [
+      "内分泌系统基本概念与激素分类",
+      "激素作用机制与共同特征",
+      "下丘脑-垂体系统与神经垂体激素",
+      "腺垂体激素与生长激素",
+      "甲状腺激素与甲状腺功能调节",
+      "钙磷代谢调节激素（PTH、降钙素、活性VitD3）",
+      "肾上腺皮质与髓质激素（糖皮质激素、醛固酮）",
+      "胰岛激素与血糖体液调节",
+      "松果体与内分泌疾病"
+    ],
+    "followUp": [
+      "下丘脑-垂体-靶腺轴负反馈环路的定量动力学",
+      "胰岛素受体底物（IRS）信号转导通路",
+      "肾上腺皮质功能亢进与减退的临床鉴别诊断"
+    ]
+  },
+  "id": "endocrine_system",
+  "title": "内分泌系统 闪卡"
+}

@@ -1,0 +1,1107 @@
+{
+  "id": "deck_overview_system",
+  "title": "概论与组织皮肤 闪卡",
+  "description": "基于课件本章要点与官方题库，全面涵盖解剖方位切面、细胞结构与跨膜运输、四类基本组织微细结构、血液细胞与血型、皮肤各层及附属器构造。",
+  "flashcards": [
+    {
+      "c": 1,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "解剖学三大基本切面及其空间方位划分？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. **矢状面**：沿前后方向将人体分为左、右两部分的纵切面；通过正中线平分左右对称两半的为**正中矢状面**。\n2. **冠状面（额状面）**：沿左右方向将人体分为前（腹侧）、后（背侧）两部分的垂直切面。\n3. **水平面（横断面）**：与地面平行，将人体分为上（头侧）、下（足侧）两部分的水平切面。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 2,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "解剖学方位术语：浅与深、近端与远端的适用区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **浅（Superficial）与深（Deep）**：以体表为准，靠近体表者为浅，远离体表深入内部者为深。\n- **近端（Proximal）与远端（Distal）**：专用于描述四肢器官部位，靠近肢体根部（躯干附着处）者为近端，远离躯干者为远端。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 3,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "内皮（Endothelium）与间皮（Mesothelium）的定义与分布？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "两者在组织学分类上均属于**单层扁平上皮**：\n- **内皮**：衬贴于心脏、血管和淋巴管内表面的上皮，表面光滑，有利于血液和淋巴流动及物质交换。\n- **间皮**：分布于胸膜、腹膜和心包膜表面的上皮，能分泌润滑液体，减少脏器运动时的摩擦。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 4,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体四种基本组织的名称及其结构特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. **上皮组织**：细胞排列紧密规则，细胞间质极少，具保护、吸收、分泌及感觉功能。\n2. **结缔组织**：细胞种类多样，细胞间质丰富（含基质和纤维），起连接、支持、保护和营养作用。\n3. **肌肉组织**：主要由肌细胞构成，具兴奋和收缩传导功能（骨骼肌、心肌、平滑肌）。\n4. **神经组织**：由神经元和神经胶质细胞组成，感受刺激并产生传导神经冲动。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 5,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单纯扩散与易化扩散（协助扩散）的异同点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **共同点**：均属于**被动转运**，驱动力为物质的浓度或电化学梯度，**不消耗代谢能量（ATP）**。\n- **不同点**：\n  - **单纯扩散**：仅适用于脂溶性、非极性小分子（如 O2, CO2, 乙醇, 类固醇），可直接穿透脂质双分子层；\n  - **易化扩散**：针对不溶于脂质的离子或水溶性小分子（如 Na+, K+, 葡萄糖），必须借助膜蛋白（离子通道或转运载体）介导。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 6,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "主动转运的机制及典型代表（钠钾泵 Na+-K+ ATPase）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **机制**：由膜载体蛋白利用水解 ATP 释放的能量，逆浓度差或逆电位差转运物质。\n- **钠钾泵生理意义**：每消耗 1 分子 ATP，向细胞外泵出 3 个 Na+，向细胞内泵入 2 个 K+。其意义在于维持细胞内高 K+ 和细胞外高 Na+，这是形成静息膜电位、动作电位以及继发主动转运的基础。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 7,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "生理学中“内环境”与“内环境稳态”的确切定义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **内环境**：指体内细胞直接浸润和生存的液体环境，即**细胞外液**（包括组织间液约15%、血浆约5%、淋巴液等）。\n- **内环境稳态**：内环境的理化性质（如温度、酸碱度pH、渗透压、电解质浓度等）保持相对动态平衡的状态，是机体正常生命活动的必要条件。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 8,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "疏松结缔组织的主要细胞成分及其功能？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. **成纤维细胞**：数量最多，合成并分泌胶原纤维、弹性纤维及基质。\n2. **巨噬细胞**：由单核细胞分化而来，具有趋化运动和强大吞噬消化异物功能，参与抗原提呈。\n3. **肥大细胞**：胞质含嗜碱性颗粒，储存组胺、肝素等过敏介质，参与过敏与炎症反应。\n4. **浆细胞**：由受抗原刺激的 B 淋巴细胞转化而来，合成并分泌特异性抗体（免疫球蛋白）。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 9,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血液的基本组成及离心分层结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血液加入抗凝剂离心后分为两层：\n1. **上层（浅黄色透明）**：**血浆（Plasma）**，占全血约 55%，主要由水（90%~92%）、血浆蛋白（白蛋白、球蛋白、纤维蛋白原）及电解质组成。\n2. **下层（深红色）**：**血细胞（Formed elements）**，占 45%，包括红细胞（最底层占绝大部分）、白细胞及血小板（中层薄白膜）。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 10,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血浆晶体渗透压与胶体渗透压的形成机制及生理作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **晶体渗透压**：由血浆中无机盐小分子（主要是 Na+ 和 Cl-）形成，数值高（约 300 mOsm/L）。作用：**维持细胞内外的水分平衡和红细胞正常形态体积**。\n- **胶体渗透压**：由血浆大分子蛋白质（主要是**白蛋白**）形成，数值较小（约 25 mmHg）。作用：**维持血管内外的水分平衡及毛细血管有效胶体滤过压**。白蛋白减少会导致组织水肿。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 11,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外周血五类白细胞分类、正常比例及主要生理功能？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. **中性粒细胞（50%~70%）**：核分叶，吞噬杀灭化脓性细菌。\n2. **淋巴细胞（20%~40%）**：T 细胞介导细胞免疫，B 细胞分泌抗体介导体液免疫。\n3. **单核细胞（3%~8%）**：进入组织分化为巨噬细胞，吞噬异物并提呈抗原。\n4. **嗜酸性粒细胞（0.5%~5%）**：限制过敏反应，抗寄生虫感染。\n5. **嗜碱性粒细胞（0%~1%）**：颗粒含组胺和肝素，参与过敏反应与抗凝血。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 12,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "ABO 血型分型依据及交叉配血试验原则？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **分型依据**：红细胞膜上是否存在 A 凝集原或 B 凝集原：A型（含A抗原/抗B抗体）、B型（含B抗原/抗A抗体）、AB型（含A+B抗原/无抗体）、O型（无抗原/含抗A+抗B抗体）。\n- **交叉配血试验**：\n  - **主侧**：受血者血清 + 供血者红细胞（绝对不能凝集）；\n  - **次侧**：供血者血清 + 受血者红细胞（原则上不凝集，紧急时可有轻微反应）。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 13,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Rh 血型系统的临床意义及新生儿溶血症发生机制？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **定义**：以红细胞表面是否存在 D 抗原判定（有为 Rh+，无为 Rh-）。我国人群中 99% 以上为 Rh+。\n- **特点**：人血清中无天然抗 Rh 抗体。\n- **新生儿溶血症机制**：Rh- 母亲怀第一胎 Rh+ 胎儿时，分娩时胎儿红细胞进入母体产生抗 D 抗体（IgG）；当怀第二胎 Rh+ 胎儿时，母体 IgG 抗体经胎盘进入胎儿血液，攻击胎儿红细胞引起严重溶血。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 14,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "皮肤的层次结构及其特征？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. **表皮（Epidermis）**：复层扁平角化上皮，**无血管**，自深至浅分为：基底层（具分裂能力）、棘层、颗粒层、透明层（手掌足底显著）、角质层（无核角化死细胞）。\n2. **真皮（Dermis）**：致密结缔组织，富含胶原纤维、血管网、淋巴管及神经末梢，分为乳头层（形成真皮乳头）和网状层。\n3. **皮下组织（浅筋膜）**：由疏松结缔组织和大量脂肪组织组成，缓冲压力与保温。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 15,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "皮肤四大附属器的结构与功能？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. **毛发与毛囊**：起保护、隔热和触觉感知作用。\n2. **皮脂腺**：全浆分泌腺，开口于毛囊，分泌皮脂润滑皮肤毛发并抑菌。\n3. **汗腺**：局浆分泌腺，分小汗腺（全身分布，蒸发散热）与顶泌汗腺/大汗腺（腋窝、会阴等，受性激素影响）。\n4. **甲（指/趾甲）**：由致密的角化上皮细胞构成，保护指趾端并协助抓取。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 16,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "皮肤中特化细胞（朗格汉斯细胞与黑色素细胞）的功能？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **黑色素细胞（Melanocyte）**：位于表皮基底层，内含酪氨酸酶，合成黑色素颗粒并转移至角质形成细胞，吸收紫外线保护细胞核 DNA。\n- **朗格汉斯细胞（Langerhans cell）**：表皮棘层的树突状细胞，属于单核吞噬细胞系统，具备抗原摄取与提呈能力，是皮肤免疫屏障的哨兵。"
+          }
+        ]
+      },
+      "pointType": "核心解剖结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 17,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞骨架的三大成分及其在细胞分裂中的作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **微丝（Microfilament）**：主要由肌动蛋白（Actin）构成，参与细胞收缩变形、胞质流动及分裂末期胞质分裂沟的形成。\n- **微管（Microtubule）**：由微管蛋白构成的中空管状结构，维持细胞形状，参与纤毛鞭毛运动，并在有丝分裂时**组装成纺锤体牵引染色体分离**。\n- **中间丝（Intermediate filament）**：坚韧稳定的纤维蛋白网，抵抗机械牵拉维持细胞核与细胞器空间定位。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 18,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞器：内质网与高尔基体在分泌蛋白加工中的分工？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "- **粗面内质网（RER）**：膜表面附着核糖体，负责分泌蛋白、溶酶体水解酶和膜蛋白的合成与初步糖基化。\n- **高尔基体（Golgi apparatus）**：由扁平囊泡组成，接收内质网转运来的蛋白质，进行深度修饰、糖基化、蛋白质剪切以及终产物的分选与包装外运。\n- **滑面内质网（SER）**：无核糖体，专司类固醇激素合成、脂质代谢、糖原分解、解毒及钙离子储存释放（肌浆网）。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 19,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞膜的流动镶嵌模型核心要点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. **基本骨架**：两亲性磷脂分子构成的脂质双分子层，疏水尾部相对，亲水头部朝向细胞内外水环境。\n2. **膜蛋白**：呈不对称镶嵌分布，包括整合蛋白（跨膜蛋白）和外周蛋白，承担物质转运、受体信号转导、酶活性及细胞连接等功能。\n3. **膜糖类**：以糖蛋白或糖脂形式分布于质膜**外表面**，形成细胞外被（糖萼），介导细胞识别与组织相容性。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 20,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "生理止血三部曲及血小板在其中的核心作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. **早期小血管收缩**：血管损伤反射性收缩，减少局部出血。\n2. **血小板止血栓形成（初级止血）**：血小板识别暴露的胶原并黏附，释放 ADP、TXA2 激活聚集形成松软的血小板止血栓。\n3. **血液凝固（二级止血）**：凝血级联反应激活凝血酶，将纤维蛋白原转化为交联纤维蛋白网，加固形成牢固血凝块。"
+          }
+        ]
+      },
+      "pointType": "关键生理机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 21,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 1：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 22,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 2：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 23,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 3：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 24,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 4：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 25,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 5：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 26,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 6：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 27,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 7：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 28,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 8：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 29,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 9：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 30,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 10：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 31,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 11：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 32,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 12：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 33,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 13：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 34,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 14：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 35,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 15：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 36,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 16：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 37,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 17：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 38,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 18：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 39,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 19：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 40,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 20：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 41,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 21：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 42,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 22：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 43,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 23：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 44,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 24：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 45,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 25：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 46,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 26：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 47,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 27：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 48,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 28：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 49,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 29：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 50,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "概论与组织皮肤高频考点 30：组织分化与适应机制"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体的各种组织在发育过程中通过选择性基因表达分化出特异性结构。当受到慢性机械磨损或理化刺激时，某些上皮可发生化生（如吸烟导致支气管假复层纤毛柱状上皮化生为复层扁平上皮），失去纤毛排痰功能。"
+          }
+        ]
+      },
+      "pointType": "必考临床辨析",
+      "starRating": "★★☆",
+      "importance": 2
+    }
+  ]
+}

@@ -1,0 +1,1293 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是败血症（septicemia）？有哪些典型致病菌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "致病菌侵入血流后在其中大量繁殖并产生毒性物质，引起高热、瘀斑等全身中毒症状；如鼠疫耶尔森菌、炭疽芽孢杆菌。"
+          }
+        ]
+      },
+      "c": 62
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌外毒素与内毒素在热稳定性上有何不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外毒素不耐热（$60 \\sim 80^\\circ\\text{C}$，30 min 破坏）；内毒素耐热（$160^\\circ\\text{C}$，2~4 h 才被破坏）。"
+          }
+        ]
+      },
+      "c": 34
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "衣原体表面凝集素在靶细胞表面的相应受体是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "N-乙酰葡萄糖胺。"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "宿主的体液免疫（humoral immunity）主要针对哪一类细菌感染发挥防御作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胞外菌（extracellular bacteria）及其释放的毒素。"
+          }
+        ]
+      },
+      "c": 54
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是细菌的侵袭力（invasiveness）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "致病菌突破宿主皮肤、黏膜等生理屏障，进入机体并在体内定植、繁殖和扩散的能力。"
+          }
+        ]
+      },
+      "c": 16
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞免疫（cellular immunity）在宿主抗感染中主要针对哪类病原体发挥关键作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胞内菌（intracellular bacteria，如结核分枝杆菌、伤寒沙门菌等）。"
+          }
+        ]
+      },
+      "c": 57
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在医学微生物学中，传染（infection or communication）是指什么过程？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "致病菌从一个宿主传播到另一个宿主体内，并引起感染的过程。"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "研究体内诱生抗原（IVIAg）对理解细菌致病机制有何意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IVIAg 常与致病菌在宿主体内特定微环境中的生存和关键毒力基因表达密切相关。"
+          }
+        ]
+      },
+      "c": 43
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "吞噬溶酶体内非依氧杀菌系统主要依靠哪些机制杀菌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "溶菌酶、酸性环境（pH 3.5~4.0）、杀菌蛋白（如防御素）以及多种水解酶。"
+          }
+        ]
+      },
+      "c": 51
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是隐性感染（inapparent infection）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "又称亚临床感染；当机体免疫力较强或病菌毒力/数量较低时，感染后对机体损害轻微，不出现明显临床症状。"
+          }
+        ]
+      },
+      "c": 64
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是细菌感染（bacterial infection）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌侵入宿主机体后，通过定植、生长繁殖和释放毒性物质，并与机体相互作用，引起一系列病理变化的过程。"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌内毒素引起的典型全身性病理反应有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "高热、白细胞增多、微循环障碍（低血压）、DIC（弥散性血管内凝血）和内毒素休克。"
+          }
+        ]
+      },
+      "c": 41
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是类毒素（toxoid）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外毒素经甲醛脱毒后，失去毒性但仍保留免疫原性（抗原性）的制剂。"
+          }
+        ]
+      },
+      "c": 35
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "CD4+ 效应 Th1 细胞在清除胞内菌过程中分泌的主要关键细胞因子有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IL-2、IFN-$\\gamma$ 和 TNF-$\\alpha$。"
+          }
+        ]
+      },
+      "c": 58
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "吞噬细胞表面的 IgG Fc 受体和 C3b 受体主要发挥什么作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "借助特异性抗体和补体的调理作用（opsonization），显著增强吞噬细胞的识别与吞噬效率。"
+          }
+        ]
+      },
+      "c": 48
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在静息状态下，细胞内 NF-$\\kappa$B 处于何种形式？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "与 I$\\kappa$B 结合，以非活性形式被限定于细胞质中。"
+          }
+        ]
+      },
+      "c": 40
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是脓毒血症（pyemia）？常见的致病菌是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "化脓性病菌侵入血流繁殖，并通过血流扩散至其他组织器官产生新的化脓性病灶；常见于金黄色葡萄球菌。"
+          }
+        ]
+      },
+      "c": 63
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌生物被膜对其在宿主体内生存有何显著保护作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "帮助细菌躲避抗菌药物、消毒剂的杀灭以及宿主免疫机制的清除，且易发生耐药基因转移。"
+          }
+        ]
+      },
+      "c": 31
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "特异性抗体在体液免疫抗细菌感染中的四大主要作用机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "（1）抑制致病菌黏附；（2）调理吞噬作用；（3）中和细菌毒素；（4）激活补体溶菌。"
+          }
+        ]
+      },
+      "c": 55
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是体内诱导基因（in vivo induced gene, IVIG）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "只有在细菌侵入宿主体内才被诱导表达，而在人工培养条件下不表达的细菌基因。"
+          }
+        ]
+      },
+      "c": 42
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外源性感染（exogenous infection）与内源性感染（endogenous infection）的来源有何不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外源性感染来源于宿主体外；内源性感染来源于宿主自身体内（如体内正常菌群或隐性感染灶）。"
+          }
+        ]
+      },
+      "c": 61
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是侵袭素（invasin）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由染色体编码的一类蛋白质，能特异性识别宿主细胞膜蛋白，介导细菌进入宿主细胞内。"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "吞噬细胞趋化阶段中，常见的趋化因子有哪些种类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "某些细胞因子、补体活化产物（C5a、C3a、C567）、细菌成分或代谢产物及组织分解产物。"
+          }
+        ]
+      },
+      "c": 47
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "大肠埃希菌 I 型菌毛黏附素在肠黏膜上皮细胞表面的受体是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "D-甘露糖。"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "隐性感染与带菌状态在“机体免疫力 vs 病原菌毒力及数量”的对比上有何不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "隐性感染中：机体免疫力 > 病原菌毒力和数量；带菌状态中：机体免疫力 = 病原菌毒力和数量。"
+          }
+        ]
+      },
+      "c": 66
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌外毒素与内毒素在化学性质上有何本质区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外毒素化学本质是蛋白质；内毒素化学本质是脂多糖（LPS）。"
+          }
+        ]
+      },
+      "c": 33
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "吞噬溶酶体内依氧杀菌系统（oxygen-dependent system）产生的主要杀菌活性物质是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "活性氧中介物（ROI）和活性氮中介物（RNI），以及髓过氧化物酶（MPO）-卤化物系统产物。"
+          }
+        ]
+      },
+      "c": 50
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是带菌状态（carrier state）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "感染后致病菌未立即消失，在体内继续存留，与机体免疫力处于相对平衡状态且无临床症状的现象。"
+          }
+        ]
+      },
+      "c": 65
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肠道大量寄生的厌氧菌如何通过代谢产物抑制不耐酸菌和需氧菌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "产生乙酸、丙酸、丁酸及乳酸等酸性产物，降低环境的 pH 和氧化还原电势。"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脑膜炎奈瑟菌和淋病奈瑟菌产生的哪种酶可降低宿主黏膜的特异性防御？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IgA 蛋白酶（可水解黏膜表面的 sIgA）。"
+          }
+        ]
+      },
+      "c": 27
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "内毒素激活单核巨噬细胞跨膜信号转导中最关键的核转录因子途径是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "NF-$\\kappa$B（核转录因子-$\\kappa$B）途径。"
+          }
+        ]
+      },
+      "c": 39
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是机会致病菌（opportunistic pathogen）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "又称条件致病菌；指在正常情况下不致病，但在宿主免疫防御能力下降或菌群失调等特定条件下才引起疾病的细菌。"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是致病菌（pathogenic bacterium）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "又称病原菌（pathogen），指能导致宿主发生感染的细菌。"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "哪些寄居在肠道的正常菌群被研究报道具有抑制肿瘤的作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "双歧杆菌和乳酸杆菌。"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "双歧杆菌诱导产生的哪种抗体能与具共同抗原的微生物反应，阻断其对肠黏膜的黏附？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "sIgA（分泌型 IgA）。"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "破伤风梭菌必须通过何种侵入门户与局部环境才能引起感染？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "深部创伤或缺血坏死组织所构成的厌氧微环境。"
+          }
+        ]
+      },
+      "c": 44
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "CD8+ CTL 细胞杀伤感染胞内菌靶细胞的主要途径是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "释放穿孔素和颗粒酶裂解靶细胞，释放出病菌后由抗体调理被巨噬细胞清除；或分泌细胞因子活化巨噬细胞。"
+          }
+        ]
+      },
+      "c": 59
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "正常体液中的抗菌肽（antimicrobial peptide）杀灭细菌的机理是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "破坏细菌细胞膜的完整性，使细菌溶解死亡。"
+          }
+        ]
+      },
+      "c": 52
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "吞噬体（phagosome）与吞噬溶酶体（phagolysosome）是如何形成的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "吞噬细胞伸出伪足包围细菌形成吞噬体；吞噬体在胞质内与溶酶体融合形成吞噬溶酶体。"
+          }
+        ]
+      },
+      "c": 49
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "适应性免疫（adaptive immunity）有何主要特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "后天获得、高度特异性、需抗原诱导、初次反应较慢、具有免疫记忆。"
+          }
+        ]
+      },
+      "c": 53
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌荚膜（capsule）在致病过程中的主要作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "具有抗吞噬、黏附和抵抗宿主体液中杀菌物质的作用，有利于细菌在体内生存与扩散。"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "决定细菌感染组织特异性的结构基础是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌表面的黏附素（adhesin）与宿主细胞表面相应的受体结合。"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是细菌生物被膜（bacterial biofilm, BF）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌及其分泌的胞外多聚物（多糖、蛋白质、DNA等）附着在有生命或无生命载体表面形成的膜状群体结构。"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为什么细菌内毒素不能用甲醛脱毒制成类毒素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "因为内毒素的化学本质是脂多糖，抗原性弱，无法通过甲醛处理消除毒性同时保留有效免疫原性。"
+          }
+        ]
+      },
+      "c": 36
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "金黄色葡萄球菌产生的血浆凝固酶如何帮助细菌抗吞噬？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "使血浆中的纤维蛋白原变成固态纤维蛋白包绕于菌体表面，阻止吞噬细胞吞噬。"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是正常菌群（normal flora）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "正常寄居在宿主体内、对宿主无害且有些还有利，在长期进化中形成的细菌群。"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "位于细胞壁外层、致病作用类似于荚膜的“微荚膜”结构有哪些常见代表？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "A群链球菌 M 蛋白、伤寒沙门菌 Vi 抗原、大肠埃希菌 K 抗原。"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "临床上易在医学植入物（如中央静脉插管、人工心脏瓣膜）表面形成生物被膜的常见细菌有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "表皮葡萄球菌和铜绿假单胞菌。"
+          }
+        ]
+      },
+      "c": 32
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "吞噬细胞杀灭病原菌过程包含哪四个连续阶段？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "趋化、识别、吞入、杀灭与消化。"
+          }
+        ]
+      },
+      "c": 46
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为什么金黄色葡萄球菌感染的病灶界限分明，且脓汁黏稠呈黄白色？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "因为金黄色葡萄球菌能产生血浆凝固酶，使病灶周围纤维蛋白凝集，局限感染。"
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "A群溶血性链球菌产生哪些侵袭性酶类以促进细菌在组织中扩散？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "透明质酸酶、链激酶（溶纤维蛋白酶原）和链道酶（DNA酶）。"
+          }
+        ]
+      },
+      "c": 25
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "痢疾志贺菌产生的侵袭素如何导致典型黏液脓血便的发生？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "侵入结肠黏膜上皮细胞并向邻近细胞扩散，释放内毒素破坏细胞，致黏膜下层坏死脱落形成溃疡。"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "临床上诱发菌群失调的常见医疗因素有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不规范使用抗生素、免疫抑制剂和肿瘤化疗药物，以及外科手术或插管等。"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血流中的内毒素（LPS）通过特异受体激活单核巨噬细胞的前三步结合过程是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "LPS 先与血清 LBP 结合，再与膜受体 CD14 结合，进而结合并激活 Toll 样受体 4（TLR4）。"
+          }
+        ]
+      },
+      "c": 38
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "隐性感染与带菌状态在检测手段和传染源意义上有何差异？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "隐性感染仅免疫学手段可检出，使宿主获特异免疫；带菌状态免疫学和病原学均可检出，宿主是重要传染源。"
+          }
+        ]
+      },
+      "c": 67
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗体与补体联合溶菌主要是通过激活补体的哪条途径实现的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "经典途径（生成攻膜复合体 MAC 溶解菌体）。"
+          }
+        ]
+      },
+      "c": 56
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌内毒素（脂多糖）主要由哪一部分决定其毒性作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脂质 A（Lipid A）。"
+          }
+        ]
+      },
+      "c": 37
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "决定细菌性疾病发生、发展和结局的基本矛盾是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "微生物对宿主的感染与宿主抗感染免疫双方力量的消长。"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体肠道内的脆弱类杆菌和大肠埃希菌主要可为宿主合成哪些维生素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "维生素 K 和 B 族维生素。"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "溶血性链球菌引起的化脓性感染在病灶和脓汁上有何临床特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "扩散性强，与周围组织界限不清，脓汁稀薄。"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体正常菌群主要寄居在人体的哪些部位？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "正常人的体表以及与外界相通的腔道表面（如口腔、鼻咽腔、肠道、泌尿生殖道等）。"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "菌毛黏附素主要存在于细菌的什么结构顶端？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "普通菌毛的顶端（多见于革兰阴性菌和少数革兰阳性菌）。"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "特异性抗体对胞内菌感染有何辅助防御作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "中和尚未进入细胞的游离细菌以阻止侵入，并在宿主细胞破裂释放细菌时阻断其播散。"
+          }
+        ]
+      },
+      "c": 60
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "宿主的固有免疫（innate immunity）有哪些主要特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "出生时即有、可遗传、无特异性、作用迅速、无免疫记忆。"
+          }
+        ]
+      },
+      "c": 45
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是微生态失调？最常见的表现形式是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指宿主、正常微生物群或外在环境因素打破原有的平衡状态；最常见的是菌群失调。"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是免疫逃逸（immune evasion）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在宿主抗感染免疫的压力下，微生物逃避宿主免疫防御功能的现象。"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "正常菌群发挥生物拮抗（biological antagonism）作用的三大机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "（1）生物屏障与占位性保护；（2）产生对致病菌有害的代谢产物；（3）营养竞争。"
+          }
+        ]
+      },
+      "c": 9
+    }
+  ],
+  "topics": {
+    "covered": [
+      "正常菌群与微生态失调",
+      "细菌侵袭力与黏附/侵袭结构",
+      "细菌毒素（外毒素与内毒素）及其作用机制",
+      "宿主的固有免疫与吞噬杀菌过程",
+      "宿主的适应性免疫（体液免疫与细胞免疫）",
+      "细菌感染的发生、发展与临床类型"
+    ],
+    "followUp": [
+      "内毒素休克与 DIC 的病理生理机制",
+      "细菌生物被膜在耐药性与难治性感染中的作用",
+      "体内诱导基因（IVIG）在新型疫苗研发中的应用",
+      "医院感染的流行病学特点与防控策略"
+    ]
+  }
+}

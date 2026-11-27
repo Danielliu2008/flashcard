@@ -1,0 +1,637 @@
+{
+  "id": "circulatory_system",
+  "title": "循环系统 闪卡",
+  "description": "紧扣循环系统心脏与血管课件第2页要点，涵盖心脏结构与瓣膜、传导系与冠脉、心肌电生理、心动周期力学、微循环、血压调控与血管活性物质",
+  "topics": {
+    "covered": [
+      "心脏结构、瓣膜、传导系统与冠脉供血",
+      "心肌工作细胞与窦房结细胞电生理特性",
+      "心动周期时相、心音、射血评价与心力储备",
+      "动静脉及毛细血管结构、体/肺循环与微循环",
+      "动脉血压形成机制、影响因素与减压反射",
+      "神经（交感/迷走）与体液（AngⅡ/E/NE）调控"
+    ],
+    "followUp": [
+      "体表心电图主要波形与间期的临床意义",
+      "静脉回流影响因素及胎儿血液循环特点"
+    ]
+  },
+  "flashcards": [
+    {
+      "c": 1,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心动周期的定义及心房、心室舒缩时序？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心脏一次收缩和舒张为一个周期。心率75次/分时周期 **0.8 s**：\n• 房缩 **0.1 s** / 房舒 0.7 s\n• 室缩 **0.3 s** / 室舒 0.5 s\n• **全心舒张期 0.4 s**：利于心肌休息与心室充盈。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 2,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "每搏输出量、心输出量与射血分数的定义及正常值？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **每搏输出量(SV)**：单室每次射血，约 **70 mL**。\n• **心输出量(CO)**：每分射血(SV×心率)，约 **5 L/min**。\n• **射血分数(EF)**：SV/舒张末容积，**55%~65%**（评价更敏锐）。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 3,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "第一心音与第二心音的标志及产生原因？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **第一心音(S1)**：标志**心室收缩**开始，主因**房室瓣（二/三尖瓣）关闭**引起振动。\n• **第二心音(S2)**：标志**心室舒张**开始，主因**动脉瓣（主/肺动脉瓣）关闭**引起振动。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 4,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心脏的位置、心尖定位、心包腔与心壁三层结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **位置**：中纵隔内，**2/3偏左**；心尖在**左第5肋间锁骨中线内1~2 cm**。\n• **心包腔**：浆膜心包**脏层（心外膜）与壁层**之间。\n• **心壁**：心内膜（折叠成瓣膜）、心肌层（室肌厚于房肌）、心外膜。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 5,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心脏四腔的出入口及左、右心室壁特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **右房**：接上/下腔V及冠状窦 → 三尖瓣 → **右室** → 肺动脉。\n• **左房**：接4条肺V → 二尖瓣 → **左室** → 升主动脉。\n• 左室壁明显厚于右室壁，但**左、右心室每搏输出量相等**。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 6,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心脏瓣膜的分类及核心生理功能？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **房室瓣**：左为**二尖瓣**，右为**三尖瓣**（借腱索连于乳头肌）。\n• **动脉瓣**：**主动脉瓣**、**肺动脉瓣**。\n• **核心功能**：保证血液**单方向流动**，防止血液逆流。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 7,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心纤维支架的组成与功能？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **组成**：左/右纤维三角（中心纤维体）、各瓣膜纤维环、圆锥韧带、室间隔膜部及瓣膜间隔。\n• **功能**：为心肌纤维和心瓣膜提供牢固附着处，起**支持和稳定心肌**的作用。"
+          }
+        ]
+      },
+      "pointType": "大纲了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "c": 8,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心传导系统的组成与兴奋传导特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **组成**：**窦房结**(正常起搏点)→优势通路→**房室结**(最慢 **0.02 m/s**，**房室延搁**)→房室束/左右束支→**浦肯野纤维**(最快 **4 m/s**)。\n• **特点**：两头快中间慢，避免房室收缩重叠。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 9,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心脏的供血动脉（冠状动脉）分支及静脉回流？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **冠脉起自升主动脉(主动脉窦)**：\n  - **左冠**：前室间支(前降支)、旋支；\n  - **右冠**：后室间支、窦房结/房室结支等。\n• **静脉**：主要汇入**冠状窦**，直接开口于**右心房**。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 10,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心肌工作细胞（心室肌）动作电位 0~4 期离子流机制？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **0期**：快 Na⁺ 内流。\n• **1期**：Na⁺ 失活，K⁺ 短暂外流。\n• **2期平台期**：**Ca²⁺ 慢内流与 K⁺ 外流平衡**。\n• **3期**：Ca²⁺ 失活，K⁺ 大量外流。\n• **4期**：Na⁺-K⁺ 泵恢复梯度。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 11,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心肌有效不应期、期前收缩与代偿间歇的机制？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **有效不应期**：持续至**舒张早期**，保证心肌**不发生强直收缩**。\n• **期前收缩**：有效不应期后受异常刺激提前产生收缩。\n• **代偿间歇**：随后的窦性冲动落入期前收缩有效不应期，出现较长舒张期。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 12,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "窦房结细胞的电生理特性及 4 期自动去极化机制？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **慢反应自律细胞**：最大复极 **-70 mV**，0期 **Ca²⁺ 内流**，**无平台期**。\n• **4期自动去极**：以 **Ik 衰减为主**，伴 **If 递增**及 Ca²⁺ 内流，达阈电位(-40 mV)起搏。"
+          }
+        ]
+      },
+      "pointType": "大纲熟悉",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 13,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心动周期各时相心室压力、瓣膜与血流特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **等容收缩期**：两瓣闭，压骤升。\n• **射血期**：动脉瓣开，快速期压达峰射 **2/3** 血。\n• **等容舒张期**：两瓣闭，压骤降。\n• **充盈期**：房室瓣开，抽吸占 **75%**，房缩 **25%**。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 14,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心脏射血功能评价指标及搏出量的调节因素？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **评价指标**：心输出量、心指数、**射血分数**、**心脏做功量**（更全面反映泵血功能）。\n• **调节因素**：**前负荷**（异长自身调节）、**心肌收缩力**（等长自身调节）、**后负荷**（主动脉压）及心率。"
+          }
+        ]
+      },
+      "pointType": "大纲熟悉",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 15,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "心脏泵血功能的储备（心力储备）包括哪些内容？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **搏出量储备**：**收缩期储备(约35 mL) > 舒张期储备(约15 mL)**。\n• **心率储备**：**动用心率储备是提高心输出量的主要途径**（40~180次/分内）；心动周期缩短主要缩短**心舒期**。"
+          }
+        ]
+      },
+      "pointType": "大纲熟悉",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 16,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "体表心电图（ECG）主要波形与间期的生理意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **P波**：两心房去极化。\n• **QRS波群**：两心室去极化。\n• **T波**：心室复极化。\n• **PR间期**：房室传导时间(0.12~0.20 s)。\n• **ST段**：心室处于平台期；**QT间期**：心室去极到复极总时间。"
+          }
+        ]
+      },
+      "pointType": "大纲熟悉",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 17,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "动、静脉与毛细血管壁的结构特点及功能分类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• 除**毛细血管(内皮+基膜，交换血管)**外均分三层。\n• **大A**：弹性纤维多(**弹性贮器**)；**中A**：分配血管；**小/微A**：**前阻力血管**。\n• **静脉**：壁薄有瓣，**容量血管**(容血 **60~70%**)。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 18,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "体循环与肺循环的组成路径及核心生理意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **体循环**：左室→主动脉→全身毛细血管(**送O₂营养、收CO₂废物**)→上/下腔V与冠状窦→右房。\n• **肺循环**：右室→肺动脉→肺泡毛细血管(**气体交换**)→4肺V→左房。两循环**心输出量相等**。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 19,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "微循环的组成及三条血流通路的生理功能？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **组成**：前阻力血管(微A/后微A/括约肌)、交换血管(真毛细血管)、后阻力血管(微V)。\n• **三通路**：① **迂回通路**：**物质交换**；② **直捷通路**：促血液快速回心；③ **动-静脉短路**：不交换，参与**体温调节**。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 20,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "体循环主要动脉分段及主动脉弓、腹主动脉分支？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **分段**：升主动脉(发左右冠脉)→主动脉弓→胸主动脉→腹主动脉→髂总动脉。\n• **主动脉弓自右向左**：**头臂干**、**左颈总动脉**、**左锁骨下动脉**。\n• **腹主动脉脏支**：腹腔干、肠系膜上/下动脉、肾动脉、生殖腺动脉。"
+          }
+        ]
+      },
+      "pointType": "大纲熟悉",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 21,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "体循环主要静脉系及肝门静脉系的结构特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **三大静脉系**：上腔静脉系(头颈上肢胸)、下腔静脉系(下肢盆腹)、心静脉系。\n• **肝门静脉**：由**脾V与肠系膜上V**汇合，收消化道单脏器静脉血→入肝→肝V→下腔V，特点：**无静脉瓣**。"
+          }
+        ]
+      },
+      "pointType": "大纲熟悉",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 22,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "动脉血压正常范围、脉压、平均动脉压及高血压标准？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **正常**：收缩压 **90~139**，舒张压 **60~89 mmHg**。\n• **脉压**=收缩压-舒张压；**平均动脉压**=舒张压+1/3脉压。\n• **高血压**：**≥140** 和/或 **≥90 mmHg**。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 23,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "动脉血压的形成机制及心输出量、心率、外周阻力的影响？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **机制**：充足循环血量 + 心脏射血 + 外周阻力 + 大动脉弹性贮器。\n• **影响**：搏出量↑→主要升高**收缩压**(脉压↑)；**外周阻力↑与心率↑**→主要升高**舒张压**；大动脉弹性↓→收缩压↑舒张压↓(脉压↑)。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 24,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "交感神经与迷走神经对心脏活动的调控效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **心交感神经**（释放去甲肾上腺素）：**正性变时、变力、变传导**（心率↑、收缩力↑、传导↑）。\n• **心迷走神经**（释放乙酰胆碱）：**负性变时、变力、变传导**；安静状态下**迷走神经占优势**。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 25,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "减压反射（压力感受性反射）的机制与生理意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **反射弧**：血压↑→牵张**颈动脉窦/主动脉弓**→舌咽/迷走N→延髓→**迷走N↑、交感N↓**→心率↓、血管舒张→血压↓。\n• **意义**：**负反馈**缓冲血压短期波动（如蹲转立位血压骤降时，反射减弱使血压回升）。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 26,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血管紧张素Ⅱ（AngⅡ）的生成途径及升高血压作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **生成**：血压↓→肾近球细胞分泌**肾素**→血管紧张素原→AngⅠ→肺 **ACE** → **AngⅡ**。\n• **作用**：① **强烈收缩外周血管**，外周阻力↑；② 促进**醛固酮分泌**保钠保水，增加循环血量。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 27,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肾上腺素（E）与去甲肾上腺素（NE）的心血管作用对比？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **E**：兴奋 **α、β受体均强** → 心率↑收缩力↑，骨骼肌血管舒(β₂)，总阻力变化不大，收缩压↑脉压↑，临床用于**强心**。\n• **NE**：**α强、β弱** → 全身血管广泛收缩，阻力↑，临床用于**升压**。"
+          }
+        ]
+      },
+      "pointType": "重点掌握",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 28,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "影响静脉回流的五大因素与胎儿血液循环特有结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **回流因素**：体循环平均充盈压、**心脏收缩力(主要动力)**、体位、骨骼肌挤压、吸气胸内压降低。\n• **胎儿循环**：无肺换气，特有**卵圆孔**(右房→左房)、**动脉导管**(肺A→主A)、静脉导管及脐动静脉。"
+          }
+        ]
+      },
+      "pointType": "大纲了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    }
+  ]
+}

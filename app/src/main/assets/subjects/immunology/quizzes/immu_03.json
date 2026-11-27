@@ -1,0 +1,769 @@
+{
+  "quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "根据免疫学定义，抗原的“免疫原性”（Immunogenicity）是指下列哪种特性？",
+      "answerOptions": [
+        {
+          "text": "刺激机体产生特异性抗体或致敏淋巴细胞的能力",
+          "isCorrect": true,
+          "rationale": "免疫原性强调的是抗原激活免疫系统并诱导特异性体液或细胞免疫应答产物生成的诱导能力。"
+        },
+        {
+          "text": "与特异性抗体或致敏淋巴细胞发生结合的能力",
+          "isCorrect": false,
+          "rationale": "与相应免疫应答产物发生特异性结合的能力称为抗原性（或免疫反应性），而非免疫原性。"
+        },
+        {
+          "text": "抑制淋巴细胞增殖分化并诱导免疫耐受的能力",
+          "isCorrect": false,
+          "rationale": "免疫原性是刺激和激活免疫细胞，而不是抑制淋巴细胞的分化。"
+        },
+        {
+          "text": "诱导机体发生非特异性炎症吞噬反应的能力",
+          "isCorrect": false,
+          "rationale": "免疫原性特指诱导特异性免疫应答的特性，与非特异性炎症反应无关。"
+        }
+      ],
+      "hint": "注意区分“刺激免疫应答产物生成”与“与应答产物结合”这两个不同的过程。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于半抗原（Hapten）的生物学特性，下列描述正确的是？",
+      "answerOptions": [
+        {
+          "text": "仅具备抗原性，单独存在时不具备免疫原性",
+          "isCorrect": true,
+          "rationale": "半抗原通常是小分子物质，自身无法诱导免疫应答，但能与已产生的特异性抗体发生结合。"
+        },
+        {
+          "text": "既具备免疫原性，也具备抗原性",
+          "isCorrect": false,
+          "rationale": "同时具备免疫原性和抗原性的物质被称为完全抗原。"
+        },
+        {
+          "text": "既不具备免疫原性，也不具备抗原性",
+          "isCorrect": false,
+          "rationale": "半抗原能够与特异性抗体结合，因此它具备抗原性。"
+        },
+        {
+          "text": "仅具备免疫原性，不具备抗原性",
+          "isCorrect": false,
+          "rationale": "不存在仅有免疫原性而缺乏抗原性的抗原分子。"
+        }
+      ],
+      "hint": "考虑半抗原在未经蛋白质载体修饰时所缺失的功能。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "半抗原如需获得免疫原性并转化成为完全抗原，关键需要与下列哪种物质结合？",
+      "answerOptions": [
+        {
+          "text": "单糖分子",
+          "isCorrect": false,
+          "rationale": "单纯的小分子糖类不能作为有效载体使半抗原获得免疫原性。"
+        },
+        {
+          "text": "脂质双分子层",
+          "isCorrect": false,
+          "rationale": "蛋白质是提供载体效应、激活T细胞辅助的最主要载体成分。"
+        },
+        {
+          "text": "蛋白质载体",
+          "isCorrect": true,
+          "rationale": "半抗原与蛋白质载体结合后可形成半抗原-载体复合物，从而具备激活免疫应答的能力。"
+        },
+        {
+          "text": "无机盐佐剂",
+          "isCorrect": false,
+          "rationale": "佐剂可以增强免疫应答，但无法直接将单纯的半抗原转化为完全抗原。"
+        }
+      ],
+      "hint": "思考半抗原-载体效应中“载体”的主要化学本质。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在决定抗原免疫原性的各项因素中，作为首要与核心前提条件的是？",
+      "answerOptions": [
+        {
+          "text": "宿主的年龄",
+          "isCorrect": false,
+          "rationale": "宿主年龄属于影响应答水平的宿主因素，而非抗原物质自身的首要特征。"
+        },
+        {
+          "text": "分子量大小",
+          "isCorrect": false,
+          "rationale": "分子量大小会影响免疫原性的强弱，但异物性才是决定是否产生应答的前提。"
+        },
+        {
+          "text": "异物性",
+          "isCorrect": true,
+          "rationale": "异物性是免疫原性的核心，只有被免疫系统识别为“非己”的物质才能引发免疫应答。"
+        },
+        {
+          "text": "给药途径",
+          "isCorrect": false,
+          "rationale": "进入途径影响免疫应答的强度，并非抗原本身的决定性分子特征。"
+        }
+      ],
+      "hint": "回想免疫系统区分“己”与“非己”的基本原则。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "根据抗原进入机体的途径，机体产生免疫应答强度由强到弱的正确顺序是？",
+      "answerOptions": [
+        {
+          "text": "口服 > 呼吸道 > 静脉 > 腹腔 > 肌肉 > 皮下 > 皮内",
+          "isCorrect": false,
+          "rationale": "此顺序正好与实际免疫应答强度完全相反。"
+        },
+        {
+          "text": "皮内 > 皮下 > 肌肉 > 腹腔 > 静脉 > 呼吸道 > 口服",
+          "isCorrect": true,
+          "rationale": "皮内和皮下含有丰富的抗原提呈细胞，能最有效地诱导强免疫应答，而口服最容易诱导免疫耐受。"
+        },
+        {
+          "text": "皮下 > 皮内 > 腹腔 > 肌肉 > 静脉 > 口服 > 呼吸道",
+          "isCorrect": false,
+          "rationale": "皮内途径的免疫应答强度高于皮下途径，且呼吸道排在口服之前。"
+        },
+        {
+          "text": "静脉 > 腹腔 > 肌肉 > 皮下 > 皮内 > 呼吸道 > 口服",
+          "isCorrect": false,
+          "rationale": "静脉注射抗原容易随血液扩散或诱导耐受，其应答强度低于皮内、皮下及肌肉途径。"
+        }
+      ],
+      "hint": "联系临床局部疫苗接种常用的皮内/皮下注射与口服给药的效果差异。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列哪些特征属于完全抗原（Complete Antigen）所具备的生物学属性？",
+      "answerOptions": [
+        {
+          "text": "能够刺激机体产生特异性抗体或致敏淋巴细胞",
+          "isCorrect": true,
+          "rationale": "完全抗原具有免疫原性，能够诱导特异性体液和细胞免疫应答。"
+        },
+        {
+          "text": "分子量通常较小且结构单一",
+          "isCorrect": false,
+          "rationale": "完全抗原通常是大分子且结构相对复杂，小分子物质多为半抗原。"
+        },
+        {
+          "text": "能够与相应的特异性免疫应答产物发生特异性结合",
+          "isCorrect": false,
+          "rationale": "完全抗原具有抗原性（免疫反应性），可与抗体或致敏淋巴细胞结合。"
+        },
+        {
+          "text": "必须是胚胎期与特异性淋巴细胞接触过的自身成分",
+          "isCorrect": false,
+          "rationale": "胚胎期接触过的自身成分会被识别为“己”而产生耐受，不具备异物性。"
+        }
+      ],
+      "hint": "完全抗原同时具备“诱导应答”和“特异结合”双重特性。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "某些隐藏在机体屏障内的自身组织成分（如眼晶状体蛋白）在创伤释放后会引发自身免疫应答，其主要原因是？",
+      "answerOptions": [
+        {
+          "text": "在胚胎期未与特异性淋巴细胞充分接触过，被免疫系统识别为“异物”",
+          "isCorrect": true,
+          "rationale": "异物性的定义包括胚胎期未与淋巴细胞接触过的成分，隐藏抗原释放后会被视作非己物质。"
+        },
+        {
+          "text": "这些组织成分在释放后分子量急剧变小成为半抗原",
+          "isCorrect": false,
+          "rationale": "隐蔽抗原引发自身免疫应答是因为破坏了免疫隔离，而非分子量缩小。"
+        },
+        {
+          "text": "改变了进入机体的途径为呼吸道吸入",
+          "isCorrect": false,
+          "rationale": "自身隐蔽抗原的释放是进入循环或局部组织，并非通过呼吸道吸入。"
+        },
+        {
+          "text": "其化学本质发生了从多糖到蛋白质的转变",
+          "isCorrect": false,
+          "rationale": "晶状体蛋白本身即为蛋白质，释放时化学本质并未发生改变。"
+        }
+      ],
+      "hint": "想想免疫系统在胚胎发育期建立自身耐受的条件。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于抗原剂量对机体免疫应答的影响，下列说法正确的是？",
+      "answerOptions": [
+        {
+          "text": "重复进入适量抗原会逐步削弱机体的免疫应答强度",
+          "isCorrect": false,
+          "rationale": "重复给予适量抗原通常会引起二次免疫应答，使应答水平显著增强。"
+        },
+        {
+          "text": "抗原剂量越大，诱导产生的特异性抗体滴度必然越高",
+          "isCorrect": false,
+          "rationale": "过大剂量的抗原会引起免疫耐受，导致无应答。"
+        },
+        {
+          "text": "抗原剂量不足或过多均可能导致不发生免疫应答",
+          "isCorrect": true,
+          "rationale": "剂量过低无法有效激活免疫细胞，而剂量过高则可能诱导免疫耐受。"
+        },
+        {
+          "text": "极微量抗原即可轻松诱导最高水平的特异性免疫应答",
+          "isCorrect": false,
+          "rationale": "抗原剂量不足时无法达到激活免疫系统的阈值。"
+        }
+      ],
+      "hint": "注意抗原剂量存在一个适宜的“窗口”，偏离适宜范围会导致无应答。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在群体水平上，决定不同个体对同一特定抗原产生免疫应答质与量差异的关键宿主遗传因素是？",
+      "answerOptions": [
+        {
+          "text": "补体系统经典途径蛋白的表达量",
+          "isCorrect": false,
+          "rationale": "补体系统属于非特异性/体液效应分子，不决定对特定抗原应答的遗传特异性。"
+        },
+        {
+          "text": "主要组织相容性复合物（MHC）的多态性",
+          "isCorrect": true,
+          "rationale": "MHC多态性决定了不同个体提呈抗原肽的能力差异，从而影响免疫应答的质和量。"
+        },
+        {
+          "text": "免疫球蛋白重链恒定区的基因突变",
+          "isCorrect": false,
+          "rationale": "恒定区主要决定抗体的效应功能类别，而非个体对抗原应答的遗传差异核心。"
+        },
+        {
+          "text": "溶菌酶基因的拷贝数差异",
+          "isCorrect": false,
+          "rationale": "溶菌酶是非特异性免疫分子，与特异性抗原应答的遗传调控无直接关系。"
+        }
+      ],
+      "hint": "寻找与抗原加工和提呈密切相关且具有极高基因多态性的分子系统。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "根据资料，下列哪些化学物质类型可以作为抗原？",
+      "answerOptions": [
+        {
+          "text": "核酸",
+          "isCorrect": true,
+          "rationale": "在特定条件下（如结合蛋白载体或自身免疫状态下），核酸亦可具备抗原性。"
+        },
+        {
+          "text": "微生物的多糖",
+          "isCorrect": true,
+          "rationale": "微生物表面多糖能够被免疫细胞识别并诱导特异性免疫应答。"
+        },
+        {
+          "text": "蛋白质",
+          "isCorrect": true,
+          "rationale": "绝大多数抗原是蛋白质，它们具有复杂的结构和良好的免疫原性。"
+        },
+        {
+          "text": "糖肽与糖脂",
+          "isCorrect": true,
+          "rationale": "复合糖类如糖肽和糖脂同样具备抗原特异性，能够被免疫系统识别。"
+        }
+      ],
+      "hint": "抗原不仅限于蛋白质，还涵盖多种生物大分子及复合物。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "特异性识别并结合抗原的 $T$ 细胞与 $B$ 细胞表面受体分别是？",
+      "answerOptions": [
+        {
+          "text": "FcR 与 Complement Receptor",
+          "isCorrect": false,
+          "rationale": "Fc受体和补体受体主要参与效应阶段的识别，不负责特异性抗原识别。"
+        },
+        {
+          "text": "CD4 与 CD8",
+          "isCorrect": false,
+          "rationale": "CD4 与 CD8 是 $T$ 细胞的共受体（辅助受体），协助受体信号传导而非主识别受体。"
+        },
+        {
+          "text": "MHC-I 与 MHC-II",
+          "isCorrect": false,
+          "rationale": "MHC 分子是抗原提呈分子，而非淋巴细胞表面特异性识别抗原的受体。"
+        },
+        {
+          "text": "TCR 与 BCR",
+          "isCorrect": true,
+          "rationale": "$T$ 细胞表面特异性识别抗原的是 TCR（$T$细胞受体），$B$ 细胞表面的是 BCR（$B$细胞受体）。"
+        }
+      ],
+      "hint": "注意受体名称的缩写通常直接对应其所在的细胞类型（T细胞或B细胞）。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在所有常见的抗原接种途径中，引发特异性免疫应答水平相对最低的是？",
+      "answerOptions": [
+        {
+          "text": "口服途径",
+          "isCorrect": true,
+          "rationale": "口服途径通过消化道给药，极易诱导全身免疫耐受，产生的 systemic 免疫应答水平最低。"
+        },
+        {
+          "text": "皮内注射",
+          "isCorrect": false,
+          "rationale": "皮内注射能有效保留抗原并刺激富集的 APC，诱导的应答水平最高。"
+        },
+        {
+          "text": "静脉注射",
+          "isCorrect": false,
+          "rationale": "静脉注射诱导的应答强度虽弱于皮下/肌肉，但仍高于口服途径。"
+        },
+        {
+          "text": "肌肉注射",
+          "isCorrect": false,
+          "rationale": "肌肉注射可提供良好的抗原释放库，诱导较强的免疫应答。"
+        }
+      ],
+      "hint": "回忆吸收抗原后最容易诱导“免疫耐受”而非激活免疫应答的途径。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "在“半抗原-载体效应”中，关于载体（Carrier）的功能与性质，描述正确的有？",
+      "answerOptions": [
+        {
+          "text": "载体本身完全不能诱导抗载体抗体的产生",
+          "isCorrect": false,
+          "rationale": "载体本身作为完全抗原，也可以诱导机体产生针对载体本身的抗体。"
+        },
+        {
+          "text": "半抗原与载体结合后会彻底失去原有的抗原性",
+          "isCorrect": false,
+          "rationale": "半抗原结合载体后仍保留其特异性抗原表位，可诱导产生针对半抗原的特异性抗体。"
+        },
+        {
+          "text": "载体通常是大分子蛋白质",
+          "isCorrect": true,
+          "rationale": "大分子蛋白质含有辅助性 $T$ 细胞（Th细胞）识别的表位，是最常见的载体。"
+        },
+        {
+          "text": "载体为半抗原提供了引发免疫应答所需的免疫原性",
+          "isCorrect": true,
+          "rationale": "半抗原缺乏免疫原性，必须借助载体激活辅助性 $T$ 细胞，进而帮助 $B$ 细胞产生抗体。"
+        }
+      ],
+      "hint": "思考载体是如何补足半抗原所缺失的免疫功能的。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "青霉素本身属于小分子化合物，但在某些个体体内可引起严重的速发型超敏反应（过敏休克）。这一现象的免疫学机制是？",
+      "answerOptions": [
+        {
+          "text": "青霉素本身是高分子蛋白质，具有极强直接刺激免疫细胞的能力",
+          "isCorrect": false,
+          "rationale": "青霉素是小分子化合物而非高分子蛋白质。"
+        },
+        {
+          "text": "青霉素无需结合任何分子即可直接作为完全抗原激活抗体产生",
+          "isCorrect": false,
+          "rationale": "小分子半抗原无法在不结合载体蛋白的情况下直接引发免疫应答。"
+        },
+        {
+          "text": "青霉素降解产物作为半抗原与体内组织蛋白共价结合形成完全抗原",
+          "isCorrect": true,
+          "rationale": "青霉素降解产物是半抗原，在体内结合蛋白质载体后转化为完全抗原，进而诱导免疫应答。"
+        },
+        {
+          "text": "青霉素通过口服途径进入体内诱导了全身最高水平的免疫应答",
+          "isCorrect": false,
+          "rationale": "青霉素过敏通常由注射或吸收引发，且口服途径并非诱导最高应答的途径。"
+        }
+      ],
+      "hint": "结合“半抗原-载体效应”解释小分子药物引发过敏反应的过程。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列哪些宿主自身因素会显著影响抗原在机体内的免疫原性表现？",
+      "answerOptions": [
+        {
+          "text": "抗原注射时的物理给药剂量",
+          "isCorrect": false,
+          "rationale": "抗原剂量属于免疫方案/抗原本身的因素，不属于宿主自身的生理遗传因素。"
+        },
+        {
+          "text": "宿主的性别与健康状况",
+          "isCorrect": true,
+          "rationale": "激素水平及总体健康程度等机体生理状态均会调控免疫应答水平。"
+        },
+        {
+          "text": "宿主的遗传背景（如种属差异及MHC基因型）",
+          "isCorrect": true,
+          "rationale": "遗传背景决定了机体免疫系统对抗原表位的识别能力及应答强度。"
+        },
+        {
+          "text": "宿主的年龄状态",
+          "isCorrect": true,
+          "rationale": "幼年期或老年期机体的免疫系统发育未完善或退化，会影响免疫应答效果。"
+        }
+      ],
+      "hint": "注意区分“宿主自身的生理/遗传特性”与“抗原免疫操作方案”。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于抗原与机体之间的“亲缘关系”对其免疫原性的影响，下列规律描述正确的是？",
+      "answerOptions": [
+        {
+          "text": "亲缘关系远近仅影响抗原结合力，不影响免疫原性",
+          "isCorrect": false,
+          "rationale": "亲缘关系直接决定异物性程度，是影响免疫原性的核心因素之一。"
+        },
+        {
+          "text": "抗原与宿主的亲缘关系越远，其免疫原性通常越强",
+          "isCorrect": true,
+          "rationale": "亲缘关系越远，分子结构差异越大，异物性越强，因而免疫原性越强。"
+        },
+        {
+          "text": "同种同基因个体之间的组织移植具有最强的免疫原性",
+          "isCorrect": false,
+          "rationale": "同种同基因个体间无分子差异，不具备异物性，不会引发免疫排斥。"
+        },
+        {
+          "text": "抗原与宿主的亲缘关系越近，其免疫原性通常越强",
+          "isCorrect": false,
+          "rationale": "亲缘关系越近，分子结构越相似，易被识别为自身成分而产生耐受。"
+        }
+      ],
+      "hint": "考虑种属差异越大时，蛋白质一级结构的相似度会如何变化。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "关于抗原性（Antigenicity）与免疫原性（Immunogenicity）的区别与联系，下列描述正确的有？",
+      "answerOptions": [
+        {
+          "text": "半抗原是同时具备强免疫原性和抗原性的典型代表",
+          "isCorrect": false,
+          "rationale": "半抗原缺乏免疫原性，必须依赖载体。"
+        },
+        {
+          "text": "具备抗原性的物质不一定具备免疫原性",
+          "isCorrect": true,
+          "rationale": "半抗原只具备抗原性，缺乏诱导免疫应答的免疫原性。"
+        },
+        {
+          "text": "免疫原性特指抗原与抗体发生特异性结合的分子能力",
+          "isCorrect": false,
+          "rationale": "特指与抗体结合的能力是抗原性（免疫反应性），而非免疫原性。"
+        },
+        {
+          "text": "具备免疫原性的物质通常都同时具备抗原性",
+          "isCorrect": true,
+          "rationale": "能够诱导产生应答产物的完全抗原，必然能够与这些产物结合。"
+        }
+      ],
+      "hint": "厘清完全抗原和半抗原在概念定义上的区别。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "当特异性 $T$ 细胞与 $B$ 细胞被抗原激活并增殖分化后，它们产生的效应产物分别是？",
+      "answerOptions": [
+        {
+          "text": "致敏 $T$ 淋巴细胞与抗体（由浆细胞产生）",
+          "isCorrect": true,
+          "rationale": "$T$ 细胞分化为致敏 $T$ 细胞发挥细胞免疫效应，$B$ 细胞分化为浆细胞分泌抗体发挥体液免疫效应。"
+        },
+        {
+          "text": "补体蛋白与溶菌酶",
+          "isCorrect": false,
+          "rationale": "补体和溶菌酶主要是非特异性体液免疫成分，非淋巴细胞激活特异性分泌。"
+        },
+        {
+          "text": "主要组织相容性抗原与细胞因子受体",
+          "isCorrect": false,
+          "rationale": "MHC 和受体是膜表面分子，并非淋巴细胞应答后释放的特异性效应产物。"
+        },
+        {
+          "text": "巨噬细胞与中性粒细胞",
+          "isCorrect": false,
+          "rationale": "巨噬细胞与中性粒细胞是固有免疫细胞，非 $T/B$ 细胞分化的效应产物。"
+        }
+      ],
+      "hint": "回顾体液免疫与细胞免疫两大特异性应答的主要效应分子/细胞。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列哪些给药途径所诱导的免疫应答水平高于“静脉注射”途径？",
+      "answerOptions": [
+        {
+          "text": "皮下注射",
+          "isCorrect": true,
+          "rationale": "皮下途径应答强度仅次于皮内，高于静脉注射。"
+        },
+        {
+          "text": "口服给药",
+          "isCorrect": false,
+          "rationale": "口服给药处于应答强度排序的末位，低于静脉注射。"
+        },
+        {
+          "text": "肌肉注射",
+          "isCorrect": true,
+          "rationale": "肌肉途径应答强度排在皮内和皮下之后，但依然高于静脉注射。"
+        },
+        {
+          "text": "皮内注射",
+          "isCorrect": true,
+          "rationale": "皮内途径处于应答强度排序的最首位，显著高于静脉注射。"
+        }
+      ],
+      "hint": "根据免疫应答强度的七级排序（皮内至口服）进行判断。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "实验表明，某些多糖抗原能够刺激人和小鼠产生强烈的免疫应答，但对豚鼠则无法诱导应答。这主要说明了什么？",
+      "answerOptions": [
+        {
+          "text": "多糖抗原属于半抗原，必须结合蛋白载体才能在豚鼠体内起作用",
+          "isCorrect": false,
+          "rationale": "多糖在人和小鼠体内能直接引发应答，豚鼠无应答是由宿主遗传差异引起的。"
+        },
+        {
+          "text": "多糖抗原在豚鼠体内被口服吸收因而引发了免疫耐受",
+          "isCorrect": false,
+          "rationale": "此实验现象与给药途径无关，核心在于种属间的遗传差异。"
+        },
+        {
+          "text": "豚鼠体内完全不存在能够识别任何抗原的 $B$ 细胞受体",
+          "isCorrect": false,
+          "rationale": "豚鼠拥有健全的免疫系统，只是对该特定多糖抗原缺乏遗传应答能力。"
+        },
+        {
+          "text": "种属遗传背景决定了机体对抗原的免疫应答能力",
+          "isCorrect": true,
+          "rationale": "不同物种基因组差异（如MHC等基因）导致对同一种抗原的应答表现不同。"
+        }
+      ],
+      "hint": "分析同一抗原在不同动物物种间表现差异的根本原因。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "根据抗原（Ag）的概念，下列关于抗原特性的描述正确的有？",
+      "answerOptions": [
+        {
+          "text": "能被 $T$、$B$ 淋巴细胞表面特异性受体（TCR/BCR）识别及结合",
+          "isCorrect": true,
+          "rationale": "抗原识别是特异性免疫应答启动的第一步。"
+        },
+        {
+          "text": "能激活 $T$、$B$ 细胞产生效应产物（特异性淋巴细胞或抗体）",
+          "isCorrect": true,
+          "rationale": "抗原具备诱导免疫细胞活化、增殖和分化的能力。"
+        },
+        {
+          "text": "能与特异性效应产物在体内外发生特异性结合",
+          "isCorrect": true,
+          "rationale": "抗原能够与特异性抗体或致敏淋巴细胞结合发挥免疫效应。"
+        },
+        {
+          "text": "只能来自于体外的病原体，机体自身成分绝不可能成为抗原",
+          "isCorrect": false,
+          "rationale": "机体自身成分在未建立耐受或发生改变时亦可成为自身抗原。"
+        }
+      ],
+      "hint": "综合思考抗原在识别、激活及效应阶段的作用。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "向同一种试验动物多次、重复注射适量的同一完全抗原，通常会导致什么结果？",
+      "answerOptions": [
+        {
+          "text": "迅速诱导机体产生全身性免疫耐受",
+          "isCorrect": false,
+          "rationale": "适量重复刺激增强应答，只有超大剂量或特定非免疫途径长期刺激才易诱导耐受。"
+        },
+        {
+          "text": "诱导产生更强烈的特异性二次免疫应答",
+          "isCorrect": true,
+          "rationale": "适量抗原的重复刺激能够激活记忆细胞，引发快速且强烈的二次应答。"
+        },
+        {
+          "text": "使该完全抗原逐渐降解为半抗原",
+          "isCorrect": false,
+          "rationale": "重复注射不会改变抗原分子入体前的完全抗原性质。"
+        },
+        {
+          "text": "导致宿主的免疫系统彻底丧失异物识别能力",
+          "isCorrect": false,
+          "rationale": "重复免疫强化特异性应答，不会破坏免疫系统的总体识别功能。"
+        }
+      ],
+      "hint": "回想加强免疫（如加强针疫苗）的作用机制。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "异物性是免疫原性的首要条件。下列各项中，可被机体免疫系统判定为“异物”的有？",
+      "answerOptions": [
+        {
+          "text": "侵入机体的异种细菌和病毒蛋白质",
+          "isCorrect": true,
+          "rationale": "来自于体外异种生物的成分是最典型的非己异物。"
+        },
+        {
+          "text": "胚胎期已与特异性淋巴细胞充分接触并建立耐受的正常血清蛋白",
+          "isCorrect": false,
+          "rationale": "胚胎期接触并建立耐受的成分被识别为“自身”，不具备异物性。"
+        },
+        {
+          "text": "同种异体移植的器官与组织",
+          "isCorrect": true,
+          "rationale": "同种不同个体间存在基因和分子结构差异，会被识别为异物。"
+        },
+        {
+          "text": "因外伤破坏屏障而释放入血的隐蔽自身成分（如精子）",
+          "isCorrect": true,
+          "rationale": "胚胎期未与淋巴细胞接触过的自身隐蔽成分释放后同样被视作异物。"
+        }
+      ],
+      "hint": "考虑“非己成分”以及“未在胚胎期接触过的自身成分”。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在抗体（免疫球蛋白）的分子结构中，直接负责与抗原结合的部位主要位于？",
+      "answerOptions": [
+        {
+          "text": "C区（恒定区）",
+          "isCorrect": false,
+          "rationale": "恒定区（C区）主要决定抗体的类别和结合补体/细胞受体等效应功能。"
+        },
+        {
+          "text": "Fc片段",
+          "isCorrect": false,
+          "rationale": "Fc片段负责结合免疫细胞表面的 Fc 受体，不参与结合抗原。"
+        },
+        {
+          "text": "铰链区",
+          "isCorrect": false,
+          "rationale": "铰链区赋予抗体分子柔韧性，便于两个 Fab 段伸展结合抗原，自身不直接结合抗原。"
+        },
+        {
+          "text": "V区（可变区）",
+          "isCorrect": true,
+          "rationale": "抗体的可变区（V区）形成抗原结合槽，决定了抗体结合抗原的特异性。"
+        }
+      ],
+      "hint": "回忆抗体分子结构图中与抗原对接的高变区域。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "关于抗原进入机体的途径与免疫应答强度的关系，下列说法正确的有？",
+      "answerOptions": [
+        {
+          "text": "静脉注射比肌肉注射更容易引发高强度的特异性体液免疫应答",
+          "isCorrect": false,
+          "rationale": "静脉注射抗原迅速稀释扩散，应答强度低于肌肉注射。"
+        },
+        {
+          "text": "呼吸道和口服途径诱导的全身特异性免疫应答水平相对较低",
+          "isCorrect": true,
+          "rationale": "粘膜给药途径容易诱导局部免疫或免疫耐受，全身应答水平排序靠后。"
+        },
+        {
+          "text": "口服途径是所有免疫途径中诱导强系统性体液应答的最佳途径",
+          "isCorrect": false,
+          "rationale": "口服途径最容易诱导免疫耐受，系统性应答强度最低。"
+        },
+        {
+          "text": "皮内途径诱导的特异性免疫应答强于皮下途径",
+          "isCorrect": true,
+          "rationale": "皮内给药能将抗原限制在富含树突状细胞的区域，应答强度最高。"
+        }
+      ],
+      "hint": "根据免疫途径强度顺序列举各途径之间的强弱对比。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "下列哪种分子在单独进入机体时，仅能与现有特异性抗体结合，而不能刺激机体产生新抗体？",
+      "answerOptions": [
+        {
+          "text": "半抗原-蛋白质载体复合物",
+          "isCorrect": false,
+          "rationale": "半抗原与载体结合后转变为完全抗原，能够刺激抗体产生。"
+        },
+        {
+          "text": "异种血清蛋白",
+          "isCorrect": false,
+          "rationale": "异种血清蛋白属于完全抗原，可强效刺激机体产生抗体。"
+        },
+        {
+          "text": "半抗原",
+          "isCorrect": true,
+          "rationale": "半抗原只具备抗原性（与抗体结合），不具备免疫原性（刺激抗体产生）。"
+        },
+        {
+          "text": "完全抗原",
+          "isCorrect": false,
+          "rationale": "完全抗原具备免疫原性，能够刺激抗体产生。"
+        }
+      ],
+      "hint": "寻找“有抗原性但无免疫原性”的抗原类型。"
+    },
+    {
+      "type": "fill_in_blank",
+      "question": "完全抗原指既有（1）_______又有（2）_______的物质；半抗原仅具备（3）_______而缺乏（4）_______。",
+      "blankAnswers": [
+        "免疫原性",
+        "抗原性",
+        "抗原性",
+        "免疫原性"
+      ],
+      "rationale": "标准答案及考点解析：完全抗原既能诱导免疫应答（免疫原性），又能与免疫应答产物结合（抗原性/反应原性）；半抗原只有抗原性，单独无免疫原性，需与蛋白质载体偶联才获得免疫原性。",
+      "hint": "核心考点：完全抗原与半抗原的概念对比。"
+    },
+    {
+      "type": "fill_in_blank",
+      "question": "根据抗原刺激机体产生抗体是否需要辅助性T细胞协助，抗原可分为（1）_______（TD-Ag）和（2）_______（TI-Ag）。",
+      "blankAnswers": [
+        "胸腺依赖性抗原",
+        "胸腺非依赖性抗原"
+      ],
+      "rationale": "标准答案及考点解析：TD-Ag（Thymus-Dependent Antigen）需要Th细胞辅助产生抗体，引起体液和细胞免疫及免疫记忆；TI-Ag（Thymus-Independent Antigen）不依赖Th即可直接刺激B细胞。",
+      "hint": "核心考点：TD-Ag 与 TI-Ag 分类标准。"
+    },
+    {
+      "type": "fill_in_blank",
+      "question": "抗原免疫原性的首要决定本质是（1）_______；与种属无关、存在于人、动物及微生物之间的共同抗原称为（2）_______（Forssman抗原）。",
+      "blankAnswers": [
+        "异物性",
+        "异嗜性抗原"
+      ],
+      "rationale": "标准答案及考点解析：异物性是抗原具备免疫原性的物质基础，种系关系越远异物性越强；不同种属间存在的共同抗原被称为异嗜性抗原。",
+      "hint": "核心考点：抗原性质与异嗜性抗原概念。"
+    }
+  ],
+  "topics": {
+    "covered": [
+      "抗原的概念与基本特性",
+      "完全抗原与半抗原",
+      "影响抗原免疫原性的因素（异物性、剂量、途径及宿主因素）"
+    ],
+    "followUp": [
+      "抗原决定基（表位）的结构与功能",
+      "TD-Ag 与 TI-Ag 的区别与免疫机制",
+      "主要组织相容性抗原（MHC）与抗原提呈",
+      "超抗原（Superantigen）的特点与免疫激活机制"
+    ]
+  }
+}

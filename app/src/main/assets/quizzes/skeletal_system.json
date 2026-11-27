@@ -1,0 +1,5800 @@
+{
+  "id": "skeletal_system",
+  "title": "人体骨骼 测验",
+  "quiz": [
+    {
+      "c": "1",
+      "type": "single_choice",
+      "question": "关于成人与儿童体内骨髓的分布及其功能变化，下列说法正确的是？",
+      "prompt": "关于成人与儿童体内骨髓的分布及其功能变化，下列说法正确的是？",
+      "answerOptions": [
+        {
+          "text": "胎儿和幼儿时期长骨骨干内充填的是黄骨髓，因此造血功能尚未成熟。",
+          "isCorrect": false,
+          "rationale": "胎儿和幼儿时期的骨髓全部为红骨髓，具有活跃的造血和免疫功能，5岁以后才开始出现黄骨髓。"
+        },
+        {
+          "text": "黄骨髓因含有丰富血管和幼稚血细胞而呈黄色，且一旦形成便永久丧失造血能力。",
+          "isCorrect": false,
+          "rationale": "黄骨髓呈黄色是因为沉积了大量脂肪组织，且在机体严重失血或贫血时仍能逆转为红骨髓恢复造血。"
+        },
+        {
+          "text": "成人躯干骨（如胸骨和髂骨）内的骨髓会随年龄增长全部转化为无造血功能的黄骨髓。",
+          "isCorrect": false,
+          "rationale": "成人的椎骨、髂骨、肋骨、胸骨等扁骨和不规则骨内终生保留红骨髓，是临床骨髓穿刺的常用部位。"
+        },
+        {
+          "text": "5岁以后长骨骨干内的红骨髓逐渐被脂肪组织代替形成黄骨髓，但在大量失血时可重新转化为红骨髓。",
+          "isCorrect": true,
+          "rationale": "幼年时期骨髓全为红骨髓，随着年龄增长长骨干内红骨髓被脂肪占据变成黄骨髓，但在严重失血或贫血时黄骨髓可转变为红骨髓恢复造血功能。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胎儿和幼儿时期长骨骨干内充填的是黄骨髓，因此造血功能尚未成熟。",
+          "isCorrect": false,
+          "rationale": "胎儿和幼儿时期的骨髓全部为红骨髓，具有活跃的造血和免疫功能，5岁以后才开始出现黄骨髓。"
+        },
+        {
+          "text": "黄骨髓因含有丰富血管和幼稚血细胞而呈黄色，且一旦形成便永久丧失造血能力。",
+          "isCorrect": false,
+          "rationale": "黄骨髓呈黄色是因为沉积了大量脂肪组织，且在机体严重失血或贫血时仍能逆转为红骨髓恢复造血。"
+        },
+        {
+          "text": "成人躯干骨（如胸骨和髂骨）内的骨髓会随年龄增长全部转化为无造血功能的黄骨髓。",
+          "isCorrect": false,
+          "rationale": "成人的椎骨、髂骨、肋骨、胸骨等扁骨和不规则骨内终生保留红骨髓，是临床骨髓穿刺的常用部位。"
+        },
+        {
+          "text": "5岁以后长骨骨干内的红骨髓逐渐被脂肪组织代替形成黄骨髓，但在大量失血时可重新转化为红骨髓。",
+          "isCorrect": true,
+          "rationale": "幼年时期骨髓全为红骨髓，随着年龄增长长骨干内红骨髓被脂肪占据变成黄骨髓，但在严重失血或贫血时黄骨髓可转变为红骨髓恢复造血功能。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意区分不同年龄段以及躯干骨与长骨干中骨髓类型的差异。",
+      "id": 1
+    },
+    {
+      "c": "2",
+      "type": "single_choice",
+      "question": "在儿童和青少年发育时期，直接促使长骨不断加长（纵向生长）的关键结构是？",
+      "prompt": "在儿童和青少年发育时期，直接促使长骨不断加长（纵向生长）的关键结构是？",
+      "answerOptions": [
+        {
+          "text": "骨外膜",
+          "isCorrect": false,
+          "rationale": "骨外膜内层的成骨细胞主要负责骨的横向加粗和创伤修复，而非纵向延伸。"
+        },
+        {
+          "text": "骨髓腔",
+          "isCorrect": false,
+          "rationale": "骨髓腔是容纳骨髓的空腔，其随着破骨细胞吸收内侧骨质而扩大，并不直接促使长骨加长。"
+        },
+        {
+          "text": "关节软骨",
+          "isCorrect": false,
+          "rationale": "关节软骨终生不发生骨化，其主要功能是减少关节面摩擦和缓冲震荡，不直接促进骨干加长。"
+        },
+        {
+          "text": "骺软骨（骺板）",
+          "isCorrect": true,
+          "rationale": "位于骨干与骨骺之间的骺软骨细胞不断分裂增殖和骨化，使长骨长度持续增加，直至成年骨化形成骺线。"
+        }
+      ],
+      "options": [
+        {
+          "text": "骨外膜",
+          "isCorrect": false,
+          "rationale": "骨外膜内层的成骨细胞主要负责骨的横向加粗和创伤修复，而非纵向延伸。"
+        },
+        {
+          "text": "骨髓腔",
+          "isCorrect": false,
+          "rationale": "骨髓腔是容纳骨髓的空腔，其随着破骨细胞吸收内侧骨质而扩大，并不直接促使长骨加长。"
+        },
+        {
+          "text": "关节软骨",
+          "isCorrect": false,
+          "rationale": "关节软骨终生不发生骨化，其主要功能是减少关节面摩擦和缓冲震荡，不直接促进骨干加长。"
+        },
+        {
+          "text": "骺软骨（骺板）",
+          "isCorrect": true,
+          "rationale": "位于骨干与骨骺之间的骺软骨细胞不断分裂增殖和骨化，使长骨长度持续增加，直至成年骨化形成骺线。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考位于骨干与骨骺之间能够不断增殖和骨化的软骨结构。",
+      "id": 2
+    },
+    {
+      "c": "3",
+      "type": "single_choice",
+      "question": "某老年患者因轻微跌倒即发生股骨颈骨折。从骨的化学成分与物理性质变化的角度分析，其主要原因是？",
+      "prompt": "某老年患者因轻微跌倒即发生股骨颈骨折。从骨的化学成分与物理性质变化的角度分析，其主要原因是？",
+      "answerOptions": [
+        {
+          "text": "骨质中羟基磷灰石完全流失，导致骨骼仅由胶原纤维束构成而失去支撑力。",
+          "isCorrect": false,
+          "rationale": "老年性骨质疏松是骨组织总量的减少和微结构破坏，并非无机骨盐完全流失。"
+        },
+        {
+          "text": "骨膜成骨活性异常亢进，导致骨密质过度增厚而丧失应有的弹性。",
+          "isCorrect": false,
+          "rationale": "老年期骨膜成骨活性通常处于相对静止状态，骨质疏松表现为骨量减少而非骨质过度增厚。"
+        },
+        {
+          "text": "骨有机质比例远高于无机质，导致骨骼变得过于柔软易弯曲变形。",
+          "isCorrect": false,
+          "rationale": "有机质比例高（如幼年时期）会使骨富有弹性且柔软易变形，而老年人则是无机质相对增多、骨质变脆。"
+        },
+        {
+          "text": "骨无机质比例增高，且因激素水平改变等导致骨质疏松、呈现多孔性，使骨的脆性显著增加。",
+          "isCorrect": true,
+          "rationale": "随年龄增长，骨无机质比例增加且骨量因激素下降等减少，导致骨质疏松多孔，抗冲击力下降而易骨折。"
+        }
+      ],
+      "options": [
+        {
+          "text": "骨质中羟基磷灰石完全流失，导致骨骼仅由胶原纤维束构成而失去支撑力。",
+          "isCorrect": false,
+          "rationale": "老年性骨质疏松是骨组织总量的减少和微结构破坏，并非无机骨盐完全流失。"
+        },
+        {
+          "text": "骨膜成骨活性异常亢进，导致骨密质过度增厚而丧失应有的弹性。",
+          "isCorrect": false,
+          "rationale": "老年期骨膜成骨活性通常处于相对静止状态，骨质疏松表现为骨量减少而非骨质过度增厚。"
+        },
+        {
+          "text": "骨有机质比例远高于无机质，导致骨骼变得过于柔软易弯曲变形。",
+          "isCorrect": false,
+          "rationale": "有机质比例高（如幼年时期）会使骨富有弹性且柔软易变形，而老年人则是无机质相对增多、骨质变脆。"
+        },
+        {
+          "text": "骨无机质比例增高，且因激素水平改变等导致骨质疏松、呈现多孔性，使骨的脆性显著增加。",
+          "isCorrect": true,
+          "rationale": "随年龄增长，骨无机质比例增加且骨量因激素下降等减少，导致骨质疏松多孔，抗冲击力下降而易骨折。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "对比幼儿与老年人骨中无机盐与有机物的比例差异及骨质微结构变化。",
+      "id": 3
+    },
+    {
+      "c": "4",
+      "type": "single_choice",
+      "question": "在解剖学标本观察中，若发现一块椎骨的椎体较小、横突上有横突孔，且棘突末端分叉，则该椎骨属于？",
+      "prompt": "在解剖学标本观察中，若发现一块椎骨的椎体较小、横突上有横突孔，且棘突末端分叉，则该椎骨属于？",
+      "answerOptions": [
+        {
+          "text": "颈椎",
+          "isCorrect": true,
+          "rationale": "横突孔（内有椎动脉通过）和末端分叉的棘突是颈椎所独有的典型特征。"
+        },
+        {
+          "text": "胸椎",
+          "isCorrect": false,
+          "rationale": "胸椎椎体呈心形，两侧有肋凹与肋骨相关节，棘突较长且斜向后下方呈叠瓦状排列。"
+        },
+        {
+          "text": "腰椎",
+          "isCorrect": false,
+          "rationale": "腰椎椎体粗大呈肾形，棘突呈板状水平向后，无横突孔和肋凹。"
+        },
+        {
+          "text": "骶椎",
+          "isCorrect": false,
+          "rationale": "成人5块骶椎融合成一块三角形的骶骨，不具备独立的横突孔和分叉棘突结构。"
+        }
+      ],
+      "options": [
+        {
+          "text": "颈椎",
+          "isCorrect": true,
+          "rationale": "横突孔（内有椎动脉通过）和末端分叉的棘突是颈椎所独有的典型特征。"
+        },
+        {
+          "text": "胸椎",
+          "isCorrect": false,
+          "rationale": "胸椎椎体呈心形，两侧有肋凹与肋骨相关节，棘突较长且斜向后下方呈叠瓦状排列。"
+        },
+        {
+          "text": "腰椎",
+          "isCorrect": false,
+          "rationale": "腰椎椎体粗大呈肾形，棘突呈板状水平向后，无横突孔和肋凹。"
+        },
+        {
+          "text": "骶椎",
+          "isCorrect": false,
+          "rationale": "成人5块骶椎融合成一块三角形的骶骨，不具备独立的横突孔和分叉棘突结构。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆哪类椎骨具有穿行椎动脉的特有孔洞。",
+      "id": 4
+    },
+    {
+      "c": "5",
+      "type": "single_choice",
+      "question": "膝关节为了增加关节面的吻合度并有效缓冲运动震荡，在其关节腔内特有的纤维软骨结构是？",
+      "prompt": "膝关节为了增加关节面的吻合度并有效缓冲运动震荡，在其关节腔内特有的纤维软骨结构是？",
+      "answerOptions": [
+        {
+          "text": "髌韧带",
+          "isCorrect": false,
+          "rationale": "髌韧带是股四头肌肌腱延伸部分，属于关节囊外的囊外韧带。"
+        },
+        {
+          "text": "关节唇",
+          "isCorrect": false,
+          "rationale": "关节唇（如肩臼唇、髋臼唇）是附着于关节窝周缘的纤维软骨环，主要起加深关节窝的作用，而非位于腔内垫平关节面。"
+        },
+        {
+          "text": "半月板",
+          "isCorrect": true,
+          "rationale": "膝关节腔内的内、外侧半月板垫在股骨髁与胫骨髁之间，能加深关节窝、适应关节面形状并缓冲震荡。"
+        },
+        {
+          "text": "交叉韧带",
+          "isCorrect": false,
+          "rationale": "膝交叉韧带位于关节囊内，主要作用是限制胫骨的前后移动，不属于垫在关节面之间的半月板/关节盘结构。"
+        }
+      ],
+      "options": [
+        {
+          "text": "髌韧带",
+          "isCorrect": false,
+          "rationale": "髌韧带是股四头肌肌腱延伸部分，属于关节囊外的囊外韧带。"
+        },
+        {
+          "text": "关节唇",
+          "isCorrect": false,
+          "rationale": "关节唇（如肩臼唇、髋臼唇）是附着于关节窝周缘的纤维软骨环，主要起加深关节窝的作用，而非位于腔内垫平关节面。"
+        },
+        {
+          "text": "半月板",
+          "isCorrect": true,
+          "rationale": "膝关节腔内的内、外侧半月板垫在股骨髁与胫骨髁之间，能加深关节窝、适应关节面形状并缓冲震荡。"
+        },
+        {
+          "text": "交叉韧带",
+          "isCorrect": false,
+          "rationale": "膝交叉韧带位于关节囊内，主要作用是限制胫骨的前后移动，不属于垫在关节面之间的半月板/关节盘结构。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "寻找垫在股骨髁与胫骨髁之间、呈半月形的纤维软骨结构。",
+      "id": 5
+    },
+    {
+      "c": "6",
+      "type": "single_choice",
+      "question": "成人髋骨是由多块骨在幼年期通过软骨连结，至16岁左右完全融合而成的复合骨。下列哪项结构是由这三块骨共同参与融合形成的？",
+      "prompt": "成人髋骨是由多块骨在幼年期通过软骨连结，至16岁左右完全融合而成的复合骨。下列哪项结构是由这三块骨共同参与融合形成的？",
+      "answerOptions": [
+        {
+          "text": "髂骨翼",
+          "isCorrect": false,
+          "rationale": "髂骨翼是髂骨上部扁阔的部分，仅属于髂骨自身结构。"
+        },
+        {
+          "text": "髋臼",
+          "isCorrect": true,
+          "rationale": "髋臼由髂骨体（上2/5）、坐骨体（后下2/5）和耻骨体（前下1/5）三者共同汇合融合而成。"
+        },
+        {
+          "text": "闭孔",
+          "isCorrect": false,
+          "rationale": "闭孔是由耻骨支和坐骨支围成的孔洞，髂骨并不参与其构成。"
+        },
+        {
+          "text": "坐骨结节",
+          "isCorrect": false,
+          "rationale": "坐骨结节位于坐骨体的后下部，是坐位时的承重焦点，不包含髂骨与耻骨成分。"
+        }
+      ],
+      "options": [
+        {
+          "text": "髂骨翼",
+          "isCorrect": false,
+          "rationale": "髂骨翼是髂骨上部扁阔的部分，仅属于髂骨自身结构。"
+        },
+        {
+          "text": "髋臼",
+          "isCorrect": true,
+          "rationale": "髋臼由髂骨体（上2/5）、坐骨体（后下2/5）和耻骨体（前下1/5）三者共同汇合融合而成。"
+        },
+        {
+          "text": "闭孔",
+          "isCorrect": false,
+          "rationale": "闭孔是由耻骨支和坐骨支围成的孔洞，髂骨并不参与其构成。"
+        },
+        {
+          "text": "坐骨结节",
+          "isCorrect": false,
+          "rationale": "坐骨结节位于坐骨体的后下部，是坐位时的承重焦点，不包含髂骨与耻骨成分。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆髋骨的三块组成骨（髂骨、坐骨、耻骨）在何处汇合接合。",
+      "id": 6
+    },
+    {
+      "c": "7",
+      "type": "single_choice",
+      "question": "与肩关节相比，膝关节在结构特点与功能适应上的显著区别是？",
+      "prompt": "与肩关节相比，膝关节在结构特点与功能适应上的显著区别是？",
+      "answerOptions": [
+        {
+          "text": "膝关节关节囊坚韧，内部有交叉韧带和半月板，牺牲了部分运动灵活性以换取极高的稳固性和承重能力。",
+          "isCorrect": true,
+          "rationale": "下肢关节以稳固性和承重为主，膝关节通过坚韧韧带和半月板强化稳定性；肩关节则以运动灵活为首要特征。"
+        },
+        {
+          "text": "膝关节关节囊薄而松弛，主要依靠周围丰富的肌肉和肌腱来维持关节稳定性。",
+          "isCorrect": false,
+          "rationale": "关节囊薄而松弛、依靠周围肌肉韧带维持稳定是肩关节的典型结构特征。"
+        },
+        {
+          "text": "膝关节由股骨下端、胫骨上端、腓骨上端和髌骨共同构成一个统一的关节腔。",
+          "isCorrect": false,
+          "rationale": "腓骨不参与构成膝关节，膝关节仅由股骨下端、胫骨上端和髌骨构成。"
+        },
+        {
+          "text": "膝关节属于典型的多轴球窝关节，能够进行屈伸、收展及幅度极大的环转运动。",
+          "isCorrect": false,
+          "rationale": "膝关节主要属于屈干（滑车）关节，主要进行屈伸运动，不能进行多轴球窝式的广泛环转。"
+        }
+      ],
+      "options": [
+        {
+          "text": "膝关节关节囊坚韧，内部有交叉韧带和半月板，牺牲了部分运动灵活性以换取极高的稳固性和承重能力。",
+          "isCorrect": true,
+          "rationale": "下肢关节以稳固性和承重为主，膝关节通过坚韧韧带和半月板强化稳定性；肩关节则以运动灵活为首要特征。"
+        },
+        {
+          "text": "膝关节关节囊薄而松弛，主要依靠周围丰富的肌肉和肌腱来维持关节稳定性。",
+          "isCorrect": false,
+          "rationale": "关节囊薄而松弛、依靠周围肌肉韧带维持稳定是肩关节的典型结构特征。"
+        },
+        {
+          "text": "膝关节由股骨下端、胫骨上端、腓骨上端和髌骨共同构成一个统一的关节腔。",
+          "isCorrect": false,
+          "rationale": "腓骨不参与构成膝关节，膝关节仅由股骨下端、胫骨上端和髌骨构成。"
+        },
+        {
+          "text": "膝关节属于典型的多轴球窝关节，能够进行屈伸、收展及幅度极大的环转运动。",
+          "isCorrect": false,
+          "rationale": "膝关节主要属于屈干（滑车）关节，主要进行屈伸运动，不能进行多轴球窝式的广泛环转。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "对比上肢关节与下肢关节在灵活性与稳固性需求上的差异。",
+      "id": 7
+    },
+    {
+      "c": "8",
+      "type": "single_choice",
+      "question": "颅盖骨（如顶骨、额骨）在胚胎发育过程中的骨化方式主要是？",
+      "prompt": "颅盖骨（如顶骨、额骨）在胚胎发育过程中的骨化方式主要是？",
+      "answerOptions": [
+        {
+          "text": "膜化骨（膜内化骨）",
+          "isCorrect": true,
+          "rationale": "颅盖骨和面颅骨直接在间充质膜的基础上骨化形成，称为膜化骨。"
+        },
+        {
+          "text": "异位骨化",
+          "isCorrect": false,
+          "rationale": "异位骨化是指在非骨组织（如肌肉、韧带）中发生的病理性骨形成，不属于正常的胚胎骨发育模式。"
+        },
+        {
+          "text": "种先化骨",
+          "isCorrect": false,
+          "rationale": "解剖学与胚胎学中并无“种先化骨”这一概念。"
+        },
+        {
+          "text": "软骨化骨",
+          "isCorrect": false,
+          "rationale": "软骨化骨是指先形成软骨模型再骨化的方式，多见于长骨、短骨及颅底骨。"
+        }
+      ],
+      "options": [
+        {
+          "text": "膜化骨（膜内化骨）",
+          "isCorrect": true,
+          "rationale": "颅盖骨和面颅骨直接在间充质膜的基础上骨化形成，称为膜化骨。"
+        },
+        {
+          "text": "异位骨化",
+          "isCorrect": false,
+          "rationale": "异位骨化是指在非骨组织（如肌肉、韧带）中发生的病理性骨形成，不属于正常的胚胎骨发育模式。"
+        },
+        {
+          "text": "种先化骨",
+          "isCorrect": false,
+          "rationale": "解剖学与胚胎学中并无“种先化骨”这一概念。"
+        },
+        {
+          "text": "软骨化骨",
+          "isCorrect": false,
+          "rationale": "软骨化骨是指先形成软骨模型再骨化的方式，多见于长骨、短骨及颅底骨。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分在间充质膜基础上直接骨化与先形成软骨雏形再骨化的两类方式。",
+      "id": 8
+    },
+    {
+      "c": "9",
+      "type": "single_choice",
+      "question": "根据骨的形态分类，髌骨属于哪一类骨？",
+      "prompt": "根据骨的形态分类，髌骨属于哪一类骨？",
+      "answerOptions": [
+        {
+          "text": "长骨",
+          "isCorrect": false,
+          "rationale": "长骨呈长管状，主要分布于四肢，而髌骨不具有长管状结构和髓腔。"
+        },
+        {
+          "text": "圆骨",
+          "isCorrect": true,
+          "rationale": "髌骨位于膝关节前方，按骨的形态分类属于圆骨（籽骨）。"
+        },
+        {
+          "text": "扁骨",
+          "isCorrect": false,
+          "rationale": "扁骨呈板状，主要分布于颅骨、胸部及骨盆，不属于髌骨的分类形态。"
+        },
+        {
+          "text": "短骨",
+          "isCorrect": false,
+          "rationale": "短骨近立方形，主要分布于手腕和足跗部，髌骨有其特定的圆骨分类。"
+        }
+      ],
+      "options": [
+        {
+          "text": "长骨",
+          "isCorrect": false,
+          "rationale": "长骨呈长管状，主要分布于四肢，而髌骨不具有长管状结构和髓腔。"
+        },
+        {
+          "text": "圆骨",
+          "isCorrect": true,
+          "rationale": "髌骨位于膝关节前方，按骨的形态分类属于圆骨（籽骨）。"
+        },
+        {
+          "text": "扁骨",
+          "isCorrect": false,
+          "rationale": "扁骨呈板状，主要分布于颅骨、胸部及骨盆，不属于髌骨的分类形态。"
+        },
+        {
+          "text": "短骨",
+          "isCorrect": false,
+          "rationale": "短骨近立方形，主要分布于手腕和足跗部，髌骨有其特定的圆骨分类。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "考虑髌骨呈圆形或籽粒状包埋于肌腱内的特定形态特征。",
+      "id": 9
+    },
+    {
+      "c": "10",
+      "type": "single_choice",
+      "question": "幼年时期，长骨的骨干与骨骺之间存在骺软骨。骺软骨的主要生理功能是什么？",
+      "prompt": "幼年时期，长骨的骨干与骨骺之间存在骺软骨。骺软骨的主要生理功能是什么？",
+      "answerOptions": [
+        {
+          "text": "分泌滑液以减少关节摩擦",
+          "isCorrect": false,
+          "rationale": "滑液由滑膜关节内部的滑膜层分泌，与骺软骨的生长功能无关。"
+        },
+        {
+          "text": "充填髓腔并维持造血功能",
+          "isCorrect": false,
+          "rationale": "造血功能由充填于髓腔和骨松质网眼内的红骨髓承担，而非骺软骨。"
+        },
+        {
+          "text": "使骨不断加长",
+          "isCorrect": true,
+          "rationale": "幼年时骺软骨细胞不断增殖和骨化，使长骨向两端增加长度，完成纵向生长。"
+        },
+        {
+          "text": "使骨不断加粗",
+          "isCorrect": false,
+          "rationale": "骨的横向加粗主要依靠骨膜内层的骨细胞进行成骨活动。"
+        }
+      ],
+      "options": [
+        {
+          "text": "分泌滑液以减少关节摩擦",
+          "isCorrect": false,
+          "rationale": "滑液由滑膜关节内部的滑膜层分泌，与骺软骨的生长功能无关。"
+        },
+        {
+          "text": "充填髓腔并维持造血功能",
+          "isCorrect": false,
+          "rationale": "造血功能由充填于髓腔和骨松质网眼内的红骨髓承担，而非骺软骨。"
+        },
+        {
+          "text": "使骨不断加长",
+          "isCorrect": true,
+          "rationale": "幼年时骺软骨细胞不断增殖和骨化，使长骨向两端增加长度，完成纵向生长。"
+        },
+        {
+          "text": "使骨不断加粗",
+          "isCorrect": false,
+          "rationale": "骨的横向加粗主要依靠骨膜内层的骨细胞进行成骨活动。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考儿童及青少年时期长骨实现身高增长的生长机制。",
+      "id": 10
+    },
+    {
+      "c": "11",
+      "type": "single_choice",
+      "question": "在骨组织的细胞类型中，能够形成类骨质并促进骨组织钙化的细胞是？",
+      "prompt": "在骨组织的细胞类型中，能够形成类骨质并促进骨组织钙化的细胞是？",
+      "answerOptions": [
+        {
+          "text": "骨细胞",
+          "isCorrect": false,
+          "rationale": "骨细胞是成熟后埋入骨基质中的细胞，主要维持骨基质的代谢，不承担大量生成类骨质的功能。"
+        },
+        {
+          "text": "破骨细胞",
+          "isCorrect": false,
+          "rationale": "破骨细胞通过释放溶酶体酶和乳酸，专门负责骨质的溶解与吸收。"
+        },
+        {
+          "text": "成骨细胞",
+          "isCorrect": true,
+          "rationale": "成骨细胞负责合成和分泌未钙化的细胞外基质（类骨质），并调节骨盐沉着促进钙化。"
+        },
+        {
+          "text": "骨原细胞",
+          "isCorrect": false,
+          "rationale": "骨原细胞是干细胞，主要通过分裂分化为成骨细胞或成软骨细胞。"
+        }
+      ],
+      "options": [
+        {
+          "text": "骨细胞",
+          "isCorrect": false,
+          "rationale": "骨细胞是成熟后埋入骨基质中的细胞，主要维持骨基质的代谢，不承担大量生成类骨质的功能。"
+        },
+        {
+          "text": "破骨细胞",
+          "isCorrect": false,
+          "rationale": "破骨细胞通过释放溶酶体酶和乳酸，专门负责骨质的溶解与吸收。"
+        },
+        {
+          "text": "成骨细胞",
+          "isCorrect": true,
+          "rationale": "成骨细胞负责合成和分泌未钙化的细胞外基质（类骨质），并调节骨盐沉着促进钙化。"
+        },
+        {
+          "text": "骨原细胞",
+          "isCorrect": false,
+          "rationale": "骨原细胞是干细胞，主要通过分裂分化为成骨细胞或成软骨细胞。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分骨组织中负责建造新骨与负责吸收旧骨的不同细胞类型。",
+      "id": 11
+    },
+    {
+      "c": "12",
+      "type": "single_choice",
+      "question": "在长骨骨干的密质骨结构中，最主要的结构单位是什么？",
+      "prompt": "在长骨骨干的密质骨结构中，最主要的结构单位是什么？",
+      "answerOptions": [
+        {
+          "text": "骨单位（哈弗斯系统）",
+          "isCorrect": true,
+          "rationale": "骨单位由同心圆排列的骨板围绕中央管构成，是骨密质起承担重力和抗压作用的基本结构单位。"
+        },
+        {
+          "text": "外环骨板",
+          "isCorrect": false,
+          "rationale": "外环骨板环绕于骨干外表面下方，并非骨密质内部的主要建构单元。"
+        },
+        {
+          "text": "间骨板",
+          "isCorrect": false,
+          "rationale": "间骨板充填于骨单位之间或骨单位与环骨板之间，是旧骨单位吸收后的残留结构。"
+        },
+        {
+          "text": "骨小梁",
+          "isCorrect": false,
+          "rationale": "骨小梁是骨松质内交错形成的海绵状结构，不属于骨密质的建构单位。"
+        }
+      ],
+      "options": [
+        {
+          "text": "骨单位（哈弗斯系统）",
+          "isCorrect": true,
+          "rationale": "骨单位由同心圆排列的骨板围绕中央管构成，是骨密质起承担重力和抗压作用的基本结构单位。"
+        },
+        {
+          "text": "外环骨板",
+          "isCorrect": false,
+          "rationale": "外环骨板环绕于骨干外表面下方，并非骨密质内部的主要建构单元。"
+        },
+        {
+          "text": "间骨板",
+          "isCorrect": false,
+          "rationale": "间骨板充填于骨单位之间或骨单位与环骨板之间，是旧骨单位吸收后的残留结构。"
+        },
+        {
+          "text": "骨小梁",
+          "isCorrect": false,
+          "rationale": "骨小梁是骨松质内交错形成的海绵状结构，不属于骨密质的建构单位。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "寻找围绕血管管道（中央管）呈同心圆排列的密质骨核心建构单元。",
+      "id": 12
+    },
+    {
+      "c": "13",
+      "type": "single_choice",
+      "question": "骨塑建（bone modeling）使骨的形态和大小发生改变。其中长骨的横向加粗主要依赖于下列哪项结构？",
+      "prompt": "骨塑建（bone modeling）使骨的形态和大小发生改变。其中长骨的横向加粗主要依赖于下列哪项结构？",
+      "answerOptions": [
+        {
+          "text": "关节软骨的增殖与骨化",
+          "isCorrect": false,
+          "rationale": "关节软骨覆盖于关节面起减震和保护作用，不参与骨干直径的横向加粗。"
+        },
+        {
+          "text": "骨膜中的骨组织细胞",
+          "isCorrect": true,
+          "rationale": "骨膜内层的骨原细胞和成骨细胞在骨表面不断进行单向骨形成，使骨干横向增粗。"
+        },
+        {
+          "text": "骺板（骺软骨）的成骨活动",
+          "isCorrect": false,
+          "rationale": "骺板的成骨活动主要负责长骨的纵向加长。"
+        },
+        {
+          "text": "髓腔内黄骨髓的沉积",
+          "isCorrect": false,
+          "rationale": "黄骨髓充填于髓腔内部，属于脂肪组织，不直接参与骨壁外侧的加粗。"
+        }
+      ],
+      "options": [
+        {
+          "text": "关节软骨的增殖与骨化",
+          "isCorrect": false,
+          "rationale": "关节软骨覆盖于关节面起减震和保护作用，不参与骨干直径的横向加粗。"
+        },
+        {
+          "text": "骨膜中的骨组织细胞",
+          "isCorrect": true,
+          "rationale": "骨膜内层的骨原细胞和成骨细胞在骨表面不断进行单向骨形成，使骨干横向增粗。"
+        },
+        {
+          "text": "骺板（骺软骨）的成骨活动",
+          "isCorrect": false,
+          "rationale": "骺板的成骨活动主要负责长骨的纵向加长。"
+        },
+        {
+          "text": "髓腔内黄骨髓的沉积",
+          "isCorrect": false,
+          "rationale": "黄骨髓充填于髓腔内部，属于脂肪组织，不直接参与骨壁外侧的加粗。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分长骨纵向加长与横向加粗的生理部位差异。",
+      "id": 13
+    },
+    {
+      "c": "14",
+      "type": "single_choice",
+      "question": "在骨同一部位发生微量骨质循环代谢，通过骨形成与骨吸收维持骨量稳定且不改变骨形态大小的过程称为什么？",
+      "prompt": "在骨同一部位发生微量骨质循环代谢，通过骨形成与骨吸收维持骨量稳定且不改变骨形态大小的过程称为什么？",
+      "answerOptions": [
+        {
+          "text": "膜化骨（intramembranous ossification）",
+          "isCorrect": false,
+          "rationale": "膜化骨是间充质先形成膜再骨化的骨发生方式，多见于扁骨。"
+        },
+        {
+          "text": "骨重建（bone remodeling）",
+          "isCorrect": true,
+          "rationale": "骨重建是骨同一部位骨形成与吸收的循环过程，维持骨相对稳定，并不改变骨的形态与大小。"
+        },
+        {
+          "text": "骨塑建（bone modeling）",
+          "isCorrect": false,
+          "rationale": "骨塑建是在不同部位出现单向骨形成与吸收，会导致骨形态和大小发生改变。"
+        },
+        {
+          "text": "软骨化骨（endochondral ossification）",
+          "isCorrect": false,
+          "rationale": "软骨化骨是在软骨雏形基础上骨化的骨发生方式，见于长骨等。"
+        }
+      ],
+      "options": [
+        {
+          "text": "膜化骨（intramembranous ossification）",
+          "isCorrect": false,
+          "rationale": "膜化骨是间充质先形成膜再骨化的骨发生方式，多见于扁骨。"
+        },
+        {
+          "text": "骨重建（bone remodeling）",
+          "isCorrect": true,
+          "rationale": "骨重建是骨同一部位骨形成与吸收的循环过程，维持骨相对稳定，并不改变骨的形态与大小。"
+        },
+        {
+          "text": "骨塑建（bone modeling）",
+          "isCorrect": false,
+          "rationale": "骨塑建是在不同部位出现单向骨形成与吸收，会导致骨形态和大小发生改变。"
+        },
+        {
+          "text": "软骨化骨（endochondral ossification）",
+          "isCorrect": false,
+          "rationale": "软骨化骨是在软骨雏形基础上骨化的骨发生方式，见于长骨等。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "关注定义中“不改变骨形态和大小”这一维持动态平衡的代谢过程。",
+      "id": 14
+    },
+    {
+      "c": "15",
+      "type": "single_choice",
+      "question": "桡尺近侧关节属于单轴关节，能够绕垂直轴做旋转运动。这种关节形态类型被称为？",
+      "prompt": "桡尺近侧关节属于单轴关节，能够绕垂直轴做旋转运动。这种关节形态类型被称为？",
+      "answerOptions": [
+        {
+          "text": "屈戌关节（滑车关节）",
+          "isCorrect": false,
+          "rationale": "屈戌关节绕冠状轴做屈、伸运动，如指间关节。"
+        },
+        {
+          "text": "车轴关节",
+          "isCorrect": true,
+          "rationale": "车轴关节绕垂直轴做旋转运动，如桡尺近侧关节和寰枢中间关节。"
+        },
+        {
+          "text": "椭圆关节",
+          "isCorrect": false,
+          "rationale": "椭圆关节属于双轴关节，可绕冠状轴和矢状轴做屈伸、收展及环转运动。"
+        },
+        {
+          "text": "鞍状关节",
+          "isCorrect": false,
+          "rationale": "鞍状关节属于双轴关节，如拇指腕掌关节。"
+        }
+      ],
+      "options": [
+        {
+          "text": "屈戌关节（滑车关节）",
+          "isCorrect": false,
+          "rationale": "屈戌关节绕冠状轴做屈、伸运动，如指间关节。"
+        },
+        {
+          "text": "车轴关节",
+          "isCorrect": true,
+          "rationale": "车轴关节绕垂直轴做旋转运动，如桡尺近侧关节和寰枢中间关节。"
+        },
+        {
+          "text": "椭圆关节",
+          "isCorrect": false,
+          "rationale": "椭圆关节属于双轴关节，可绕冠状轴和矢状轴做屈伸、收展及环转运动。"
+        },
+        {
+          "text": "鞍状关节",
+          "isCorrect": false,
+          "rationale": "鞍状关节属于双轴关节，如拇指腕掌关节。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "想想转轴或圆柱状形态、绕垂直轴旋转的单轴关节名称。",
+      "id": 15
+    },
+    {
+      "c": "16",
+      "type": "single_choice",
+      "question": "在颅骨解剖中，位于颅底中央、形态似蝴蝶，且拥有“垂体窝”和“视神经管”的骨是？",
+      "prompt": "在颅骨解剖中，位于颅底中央、形态似蝴蝶，且拥有“垂体窝”和“视神经管”的骨是？",
+      "answerOptions": [
+        {
+          "text": "筛骨",
+          "isCorrect": false,
+          "rationale": "筛骨位于颅前窝中央及鼻腔顶，含有筛板、垂直板及筛骨迷路。"
+        },
+        {
+          "text": "颞骨",
+          "isCorrect": false,
+          "rationale": "颞骨位于颅两侧，包含鳞部、鼓部和岩部，不包含垂体窝。"
+        },
+        {
+          "text": "蝶骨",
+          "isCorrect": true,
+          "rationale": "蝶骨位于颅底中央，分为体、大翼、小翼和翼突，体部有垂体窝，小翼交界处有视神经管。"
+        },
+        {
+          "text": "枕骨",
+          "isCorrect": false,
+          "rationale": "枕骨位于颅后下部，含有枕骨大孔和舌下神经管。"
+        }
+      ],
+      "options": [
+        {
+          "text": "筛骨",
+          "isCorrect": false,
+          "rationale": "筛骨位于颅前窝中央及鼻腔顶，含有筛板、垂直板及筛骨迷路。"
+        },
+        {
+          "text": "颞骨",
+          "isCorrect": false,
+          "rationale": "颞骨位于颅两侧，包含鳞部、鼓部和岩部，不包含垂体窝。"
+        },
+        {
+          "text": "蝶骨",
+          "isCorrect": true,
+          "rationale": "蝶骨位于颅底中央，分为体、大翼、小翼和翼突，体部有垂体窝，小翼交界处有视神经管。"
+        },
+        {
+          "text": "枕骨",
+          "isCorrect": false,
+          "rationale": "枕骨位于颅后下部，含有枕骨大孔和舌下神经管。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "提示该骨位于颅底中央，名称与一种会飞的昆虫形状相似。",
+      "id": 16
+    },
+    {
+      "c": "17",
+      "type": "single_choice",
+      "question": "当发生颅底骨折时，脑脊液漏或血管损伤常发生于骨质较为复杂脆弱的部位。下列颞骨的解剖部位中最易发生颅底骨折的是？",
+      "prompt": "当发生颅底骨折时，脑脊液漏或血管损伤常发生于骨质较为复杂脆弱的部位。下列颞骨的解剖部位中最易发生颅底骨折的是？",
+      "answerOptions": [
+        {
+          "text": "岩部",
+          "isCorrect": true,
+          "rationale": "颞骨岩部呈锥体状嵌于颅底，内有前庭蜗器官，骨质薄且孔道多，是颅底骨折的好发部位。"
+        },
+        {
+          "text": "鼓部",
+          "isCorrect": false,
+          "rationale": "鼓部为外耳道周围的骨板，并非颅底骨折最典型的发生部位。"
+        },
+        {
+          "text": "鳞部",
+          "isCorrect": false,
+          "rationale": "鳞部呈薄片状构成颅腔侧壁，不属于颅底的核心骨折易发区。"
+        },
+        {
+          "text": "颧突",
+          "isCorrect": false,
+          "rationale": "颧突向前方伸出与颧骨相接形成颧弓，属于面侧部突出结构。"
+        }
+      ],
+      "options": [
+        {
+          "text": "岩部",
+          "isCorrect": true,
+          "rationale": "颞骨岩部呈锥体状嵌于颅底，内有前庭蜗器官，骨质薄且孔道多，是颅底骨折的好发部位。"
+        },
+        {
+          "text": "鼓部",
+          "isCorrect": false,
+          "rationale": "鼓部为外耳道周围的骨板，并非颅底骨折最典型的发生部位。"
+        },
+        {
+          "text": "鳞部",
+          "isCorrect": false,
+          "rationale": "鳞部呈薄片状构成颅腔侧壁，不属于颅底的核心骨折易发区。"
+        },
+        {
+          "text": "颧突",
+          "isCorrect": false,
+          "rationale": "颧突向前方伸出与颧骨相接形成颧弓，属于面侧部突出结构。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "考虑颞骨中呈锥体状、内部包含听觉与平衡觉器官且位于颅底的部位。",
+      "id": 17
+    },
+    {
+      "c": "18",
+      "type": "single_choice",
+      "question": "新生儿颅顶骨尚未发育完全，骨缝交界处充填结缔组织膜形成颅囟。其中位于矢状缝与冠状缝相接处的颅囟是？",
+      "prompt": "新生儿颅顶骨尚未发育完全，骨缝交界处充填结缔组织膜形成颅囟。其中位于矢状缝与冠状缝相接处的颅囟是？",
+      "answerOptions": [
+        {
+          "text": "蝶囟",
+          "isCorrect": false,
+          "rationale": "蝶囟位于顶骨前下角与蝶骨大翼相邻处。"
+        },
+        {
+          "text": "前囟",
+          "isCorrect": true,
+          "rationale": "前囟位于额骨与两侧顶骨交界处（矢状缝与冠状缝相接处），呈菱形。"
+        },
+        {
+          "text": "乳突囟",
+          "isCorrect": false,
+          "rationale": "乳突囟位于顶骨后下角与颞骨乳突相邻处。"
+        },
+        {
+          "text": "后囟",
+          "isCorrect": false,
+          "rationale": "后囟位于矢状缝与人字缝相接处，呈三角形。"
+        }
+      ],
+      "options": [
+        {
+          "text": "蝶囟",
+          "isCorrect": false,
+          "rationale": "蝶囟位于顶骨前下角与蝶骨大翼相邻处。"
+        },
+        {
+          "text": "前囟",
+          "isCorrect": true,
+          "rationale": "前囟位于额骨与两侧顶骨交界处（矢状缝与冠状缝相接处），呈菱形。"
+        },
+        {
+          "text": "乳突囟",
+          "isCorrect": false,
+          "rationale": "乳突囟位于顶骨后下角与颞骨乳突相邻处。"
+        },
+        {
+          "text": "后囟",
+          "isCorrect": false,
+          "rationale": "后囟位于矢状缝与人字缝相接处，呈三角形。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "该颅囟位于颅顶前部，闭合较晚，呈菱形。",
+      "id": 18
+    },
+    {
+      "c": "19",
+      "type": "single_choice",
+      "question": "颅骨各骨之间绝大多数通过缝、软骨或骨性结合相连，其中唯一的动关节（滑膜关节）是？",
+      "prompt": "颅骨各骨之间绝大多数通过缝、软骨或骨性结合相连，其中唯一的动关节（滑膜关节）是？",
+      "answerOptions": [
+        {
+          "text": "蝶枕结合",
+          "isCorrect": false,
+          "rationale": "蝶枕结合属于软骨结合或骨性结合，不具备关节腔和滑膜。"
+        },
+        {
+          "text": "寰枕关节",
+          "isCorrect": false,
+          "rationale": "寰枕关节是枕骨与第一颈椎（寰椎）之间的连结，属于头脊连结而非颅骨之间的连结。"
+        },
+        {
+          "text": "冠状缝连结",
+          "isCorrect": false,
+          "rationale": "冠状缝属于不动或微动的纤维缝连结。"
+        },
+        {
+          "text": "颞下颌关节",
+          "isCorrect": true,
+          "rationale": "颞下颌关节由下颌骨的下颌头与颞骨的下颌窝及关节结节构成，是颅骨间唯一的滑膜关节。"
+        }
+      ],
+      "options": [
+        {
+          "text": "蝶枕结合",
+          "isCorrect": false,
+          "rationale": "蝶枕结合属于软骨结合或骨性结合，不具备关节腔和滑膜。"
+        },
+        {
+          "text": "寰枕关节",
+          "isCorrect": false,
+          "rationale": "寰枕关节是枕骨与第一颈椎（寰椎）之间的连结，属于头脊连结而非颅骨之间的连结。"
+        },
+        {
+          "text": "冠状缝连结",
+          "isCorrect": false,
+          "rationale": "冠状缝属于不动或微动的纤维缝连结。"
+        },
+        {
+          "text": "颞下颌关节",
+          "isCorrect": true,
+          "rationale": "颞下颌关节由下颌骨的下颌头与颞骨的下颌窝及关节结节构成，是颅骨间唯一的滑膜关节。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "该关节参与张口、闭口及咀嚼等下颌运动。",
+      "id": 19
+    },
+    {
+      "c": "20",
+      "type": "single_choice",
+      "question": "颈椎（C1-C7）在解剖形态上区别于胸椎和腰椎的最显著结构特征是什么？",
+      "prompt": "颈椎（C1-C7）在解剖形态上区别于胸椎和腰椎的最显著结构特征是什么？",
+      "answerOptions": [
+        {
+          "text": "椎体粗壮呈横肾形",
+          "isCorrect": false,
+          "rationale": "椎体高大粗壮呈肾形是腰椎的典型特征。"
+        },
+        {
+          "text": "横突上有横突孔",
+          "isCorrect": true,
+          "rationale": "颈椎横突根部均有横突孔，内有椎动脉和椎静脉穿行，这是颈椎独有的特征。"
+        },
+        {
+          "text": "椎体两侧有上、下肋凹",
+          "isCorrect": false,
+          "rationale": "椎体两侧的肋凹是胸椎与肋骨结合的关节面结构。"
+        },
+        {
+          "text": "棘突长且斜向后下方",
+          "isCorrect": false,
+          "rationale": "棘突长且斜向后下方是胸椎的典型形态特征。"
+        }
+      ],
+      "options": [
+        {
+          "text": "椎体粗壮呈横肾形",
+          "isCorrect": false,
+          "rationale": "椎体高大粗壮呈肾形是腰椎的典型特征。"
+        },
+        {
+          "text": "横突上有横突孔",
+          "isCorrect": true,
+          "rationale": "颈椎横突根部均有横突孔，内有椎动脉和椎静脉穿行，这是颈椎独有的特征。"
+        },
+        {
+          "text": "椎体两侧有上、下肋凹",
+          "isCorrect": false,
+          "rationale": "椎体两侧的肋凹是胸椎与肋骨结合的关节面结构。"
+        },
+        {
+          "text": "棘突长且斜向后下方",
+          "isCorrect": false,
+          "rationale": "棘突长且斜向后下方是胸椎的典型形态特征。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "寻找供椎血管（如椎动脉）向上穿行入颅的独特骨性管道孔洞。",
+      "id": 20
+    },
+    {
+      "c": "21",
+      "type": "single_choice",
+      "question": "临床上进行腰椎穿刺（Lumbar Puncture）抽取脑脊液时，为了避免损伤脊髓，常选择定位的椎骨棘突间隙是？",
+      "prompt": "临床上进行腰椎穿刺（Lumbar Puncture）抽取脑脊液时，为了避免损伤脊髓，常选择定位的椎骨棘突间隙是？",
+      "answerOptions": [
+        {
+          "text": "第1~2腰椎棘突间隙",
+          "isCorrect": false,
+          "rationale": "第1腰椎下缘平对脊髓圆锥终止处，L1~L2间隙穿刺仍有可能误伤脊髓。"
+        },
+        {
+          "text": "第7颈椎与第1胸椎棘突间隙",
+          "isCorrect": false,
+          "rationale": "颈胸交界处内部充填有脊髓，穿刺极易造成严重的脊髓损伤。"
+        },
+        {
+          "text": "第3~4腰椎棘突间隙",
+          "isCorrect": true,
+          "rationale": "成人脊髓下端平对第1腰椎下缘，第3~4（或第4~5）腰椎棘突间隙无脊髓，穿刺安全性极高。"
+        },
+        {
+          "text": "第11~12胸椎棘突间隙",
+          "isCorrect": false,
+          "rationale": "第11~12胸椎平面仍处于脊髓下端位置，穿刺风险极大。"
+        }
+      ],
+      "options": [
+        {
+          "text": "第1~2腰椎棘突间隙",
+          "isCorrect": false,
+          "rationale": "第1腰椎下缘平对脊髓圆锥终止处，L1~L2间隙穿刺仍有可能误伤脊髓。"
+        },
+        {
+          "text": "第7颈椎与第1胸椎棘突间隙",
+          "isCorrect": false,
+          "rationale": "颈胸交界处内部充填有脊髓，穿刺极易造成严重的脊髓损伤。"
+        },
+        {
+          "text": "第3~4腰椎棘突间隙",
+          "isCorrect": true,
+          "rationale": "成人脊髓下端平对第1腰椎下缘，第3~4（或第4~5）腰椎棘突间隙无脊髓，穿刺安全性极高。"
+        },
+        {
+          "text": "第11~12胸椎棘突间隙",
+          "isCorrect": false,
+          "rationale": "第11~12胸椎平面仍处于脊髓下端位置，穿刺风险极大。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "选择位于腰椎中下段、脊髓圆锥已经终止的解剖间隙。",
+      "id": 21
+    },
+    {
+      "c": "22",
+      "type": "single_choice",
+      "question": "胸骨角（Angle of Louis）是临床上重要的体表定位标志。下列关于胸骨角平对关系的叙述中，错误的是？",
+      "prompt": "胸骨角（Angle of Louis）是临床上重要的体表定位标志。下列关于胸骨角平对关系的叙述中，错误的是？",
+      "answerOptions": [
+        {
+          "text": "平对第7颈椎棘突",
+          "isCorrect": true,
+          "rationale": "第7颈椎棘突位于项部下方（隆椎），与胸前壁的胸骨角不在同一个解剖平面。"
+        },
+        {
+          "text": "向后平对第4胸椎体下缘",
+          "isCorrect": false,
+          "rationale": "胸骨角向后延伸的水平面恰好平对第4胸椎体下缘，也是上、下纵隔的分界线。"
+        },
+        {
+          "text": "两侧平对第2肋软骨",
+          "isCorrect": false,
+          "rationale": "胸骨角两侧与第2肋软骨相连，是临床上体表计数肋骨的重要标志。"
+        },
+        {
+          "text": "深部平对左、右主支气管分叉处",
+          "isCorrect": false,
+          "rationale": "胸骨角平面向后深入可平对气管分叉处。"
+        }
+      ],
+      "options": [
+        {
+          "text": "平对第7颈椎棘突",
+          "isCorrect": true,
+          "rationale": "第7颈椎棘突位于项部下方（隆椎），与胸前壁的胸骨角不在同一个解剖平面。"
+        },
+        {
+          "text": "向后平对第4胸椎体下缘",
+          "isCorrect": false,
+          "rationale": "胸骨角向后延伸的水平面恰好平对第4胸椎体下缘，也是上、下纵隔的分界线。"
+        },
+        {
+          "text": "两侧平对第2肋软骨",
+          "isCorrect": false,
+          "rationale": "胸骨角两侧与第2肋软骨相连，是临床上体表计数肋骨的重要标志。"
+        },
+        {
+          "text": "深部平对左、右主支气管分叉处",
+          "isCorrect": false,
+          "rationale": "胸骨角平面向后深入可平对气管分叉处。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "找出哪一项属于项部后方突出的椎骨标志，而非胸前壁胸骨角的平对平面。",
+      "id": 22
+    },
+    {
+      "c": "23",
+      "type": "single_choice",
+      "question": "锁骨呈“S”形弯曲，内侧 $2/3$ 凸向前，外侧 $1/3$ 凸向后。临床上锁骨发生骨折的最常见部位是？",
+      "prompt": "锁骨呈“S”形弯曲，内侧 $2/3$ 凸向前，外侧 $1/3$ 凸向后。临床上锁骨发生骨折的最常见部位是？",
+      "answerOptions": [
+        {
+          "text": "肩峰端关节面处",
+          "isCorrect": false,
+          "rationale": "肩峰端外侧较平扁，骨折发生率低于中外交界处。"
+        },
+        {
+          "text": "锁骨中段最前凸点",
+          "isCorrect": false,
+          "rationale": "解剖学上最典型的易骨折点是凸度转变的内侧 $2/3$ 与外侧 $1/3$ 交界处。"
+        },
+        {
+          "text": "胸骨端关节面处",
+          "isCorrect": false,
+          "rationale": "胸骨端有坚韧的胸锁韧带加固，发生骨折的概率较低。"
+        },
+        {
+          "text": "内侧 $2/3$ 与外侧 $1/3$ 交界处",
+          "isCorrect": true,
+          "rationale": "锁骨在内凸与外凸的交界转换处形态突变，应力集中，最易发生骨折。"
+        }
+      ],
+      "options": [
+        {
+          "text": "肩峰端关节面处",
+          "isCorrect": false,
+          "rationale": "肩峰端外侧较平扁，骨折发生率低于中外交界处。"
+        },
+        {
+          "text": "锁骨中段最前凸点",
+          "isCorrect": false,
+          "rationale": "解剖学上最典型的易骨折点是凸度转变的内侧 $2/3$ 与外侧 $1/3$ 交界处。"
+        },
+        {
+          "text": "胸骨端关节面处",
+          "isCorrect": false,
+          "rationale": "胸骨端有坚韧的胸锁韧带加固，发生骨折的概率较低。"
+        },
+        {
+          "text": "内侧 $2/3$ 与外侧 $1/3$ 交界处",
+          "isCorrect": true,
+          "rationale": "锁骨在内凸与外凸的交界转换处形态突变，应力集中，最易发生骨折。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "考虑锁骨从向前凸转变为向后凸的弯曲转折薄弱点。",
+      "id": 23
+    },
+    {
+      "c": "24",
+      "type": "single_choice",
+      "question": "手骨中的腕骨共有8块短骨，分为近侧列和远侧列。下列哪一块骨属于近侧列腕骨？",
+      "prompt": "手骨中的腕骨共有8块短骨，分为近侧列和远侧列。下列哪一块骨属于近侧列腕骨？",
+      "answerOptions": [
+        {
+          "text": "头状骨",
+          "isCorrect": false,
+          "rationale": "头状骨属于远侧列腕骨，位于远侧列中央。"
+        },
+        {
+          "text": "钩骨",
+          "isCorrect": false,
+          "rationale": "钩骨属于远侧列腕骨，位于远侧列尺侧。"
+        },
+        {
+          "text": "大多角骨",
+          "isCorrect": false,
+          "rationale": "大多角骨属于远侧列腕骨，与第一掌骨相关节。"
+        },
+        {
+          "text": "月骨",
+          "isCorrect": true,
+          "rationale": "近侧列腕骨由桡侧向尺侧依次为手舟骨、月骨、三角骨和豌豆骨。"
+        }
+      ],
+      "options": [
+        {
+          "text": "头状骨",
+          "isCorrect": false,
+          "rationale": "头状骨属于远侧列腕骨，位于远侧列中央。"
+        },
+        {
+          "text": "钩骨",
+          "isCorrect": false,
+          "rationale": "钩骨属于远侧列腕骨，位于远侧列尺侧。"
+        },
+        {
+          "text": "大多角骨",
+          "isCorrect": false,
+          "rationale": "大多角骨属于远侧列腕骨，与第一掌骨相关节。"
+        },
+        {
+          "text": "月骨",
+          "isCorrect": true,
+          "rationale": "近侧列腕骨由桡侧向尺侧依次为手舟骨、月骨、三角骨和豌豆骨。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆近侧列四块腕骨（手舟、月、三角、豌豆）的解剖名称。",
+      "id": 24
+    },
+    {
+      "c": "25",
+      "type": "single_choice",
+      "question": "膝关节是人体结构最复杂的关节，其关节腔内能够有效限制胫骨相对于股骨向前移位的韧带是？",
+      "prompt": "膝关节是人体结构最复杂的关节，其关节腔内能够有效限制胫骨相对于股骨向前移位的韧带是？",
+      "answerOptions": [
+        {
+          "text": "后交叉韧带",
+          "isCorrect": false,
+          "rationale": "后交叉韧带起自胫骨髁间隆起后方，防止胫骨相对于股骨向后移位。"
+        },
+        {
+          "text": "胫侧副韧带",
+          "isCorrect": false,
+          "rationale": "胫侧副韧带位于膝关节内侧囊外，主要防止膝关节过度外翻。"
+        },
+        {
+          "text": "髌韧带",
+          "isCorrect": false,
+          "rationale": "髌韧带位于膝关节前方，连结髌骨尖与胫骨粗隆，传导股四头肌张力。"
+        },
+        {
+          "text": "前交叉韧带",
+          "isCorrect": true,
+          "rationale": "前交叉韧带起自胫骨髁间隆起前方，斜向后上方止于股骨外侧髁内侧面，主要限制胫骨前移。"
+        }
+      ],
+      "options": [
+        {
+          "text": "后交叉韧带",
+          "isCorrect": false,
+          "rationale": "后交叉韧带起自胫骨髁间隆起后方，防止胫骨相对于股骨向后移位。"
+        },
+        {
+          "text": "胫侧副韧带",
+          "isCorrect": false,
+          "rationale": "胫侧副韧带位于膝关节内侧囊外，主要防止膝关节过度外翻。"
+        },
+        {
+          "text": "髌韧带",
+          "isCorrect": false,
+          "rationale": "髌韧带位于膝关节前方，连结髌骨尖与胫骨粗隆，传导股四头肌张力。"
+        },
+        {
+          "text": "前交叉韧带",
+          "isCorrect": true,
+          "rationale": "前交叉韧带起自胫骨髁间隆起前方，斜向后上方止于股骨外侧髁内侧面，主要限制胫骨前移。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分关节腔内交叉韧带中“前”与“后”分别限制胫骨移动的方向。",
+      "id": 25
+    },
+    {
+      "c": "26",
+      "type": "multiple_select",
+      "question": "骨膜对骨的生存、营养与修复至关重要。关于骨膜结构与功能的叙述，正确的有？",
+      "prompt": "骨膜对骨的生存、营养与修复至关重要。关于骨膜结构与功能的叙述，正确的有？",
+      "answerOptions": [
+        {
+          "text": "骨外膜内层含有成骨细胞和骨原细胞，具有骨生长与创伤修复作用。",
+          "isCorrect": true,
+          "rationale": "骨膜内层的细胞具有分化能力，在骨折或生长发育期可分化为成骨细胞产生新骨质。"
+        },
+        {
+          "text": "骨膜完整包被在骨的所有表面，包括关节面和髓腔内面。",
+          "isCorrect": false,
+          "rationale": "骨膜覆于关节面以外的骨表面，关节面表面覆有光滑的关节软骨，而髓腔内面衬有骨内膜。"
+        },
+        {
+          "text": "穿通纤维（Sharpey's fibers）将骨外膜外层的致密胶原纤维束穿入骨质中，使骨膜牢固固着于骨面。",
+          "isCorrect": true,
+          "rationale": "骨外膜外层的胶原纤维束穿入骨质形成穿通纤维，保证骨膜与骨质表面紧密结合而不易剥离。"
+        },
+        {
+          "text": "骨膜内分布有丰富的感受张力和撕扯刺激的躯体传入神经纤维。",
+          "isCorrect": true,
+          "rationale": "骨膜对张力或撕扯等机械刺激非常敏感，因此骨折或骨膜下脓肿会引起剧烈的痛觉反应。"
+        }
+      ],
+      "options": [
+        {
+          "text": "骨外膜内层含有成骨细胞和骨原细胞，具有骨生长与创伤修复作用。",
+          "isCorrect": true,
+          "rationale": "骨膜内层的细胞具有分化能力，在骨折或生长发育期可分化为成骨细胞产生新骨质。"
+        },
+        {
+          "text": "骨膜完整包被在骨的所有表面，包括关节面和髓腔内面。",
+          "isCorrect": false,
+          "rationale": "骨膜覆于关节面以外的骨表面，关节面表面覆有光滑的关节软骨，而髓腔内面衬有骨内膜。"
+        },
+        {
+          "text": "穿通纤维（Sharpey's fibers）将骨外膜外层的致密胶原纤维束穿入骨质中，使骨膜牢固固着于骨面。",
+          "isCorrect": true,
+          "rationale": "骨外膜外层的胶原纤维束穿入骨质形成穿通纤维，保证骨膜与骨质表面紧密结合而不易剥离。"
+        },
+        {
+          "text": "骨膜内分布有丰富的感受张力和撕扯刺激的躯体传入神经纤维。",
+          "isCorrect": true,
+          "rationale": "骨膜对张力或撕扯等机械刺激非常敏感，因此骨折或骨膜下脓肿会引起剧烈的痛觉反应。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "考虑骨膜的层次分布、神经支配以及与关节面和髓腔的位置关系。",
+      "id": 26
+    },
+    {
+      "c": "27",
+      "type": "multiple_select",
+      "question": "关于胸廓的构成与呼吸运动机制，下列叙述正确的有？",
+      "prompt": "关于胸廓的构成与呼吸运动机制，下列叙述正确的有？",
+      "answerOptions": [
+        {
+          "text": "胸廓由12块胸椎、12对肋骨、1块胸骨以及它们之间的连结共同围成。",
+          "isCorrect": true,
+          "rationale": "胸廓的骨性支架由后方的胸椎、两侧的肋骨和前方的胸骨共同构成，保护胸腔脏器。"
+        },
+        {
+          "text": "吸气时，在呼吸肌收缩作用下肋骨前端抬高并伴随胸骨上升，使胸廓前后径和横径均增大。",
+          "isCorrect": true,
+          "rationale": "肋骨抬高和向外扩展改变了胸腔的前后径与横径，从而增大胸腔容积促成吸气。"
+        },
+        {
+          "text": "第1-7肋软骨直接与胸骨相连，称为真肋；第8-10肋软骨依次连于上位肋软骨形成肋弓。",
+          "isCorrect": true,
+          "rationale": "第1-7肋通过肋软骨直接与胸骨连结；第8-10肋不直接连胸骨，而是构成肋弓。"
+        },
+        {
+          "text": "锁骨与肩胛骨作为上肢带骨，直接参与围成胸廓的上下口。",
+          "isCorrect": false,
+          "rationale": "锁骨和肩胛骨属于附肢骨骼的上肢带骨，虽贴于胸廓外壁，但不参与围成胸廓腔体本身。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胸廓由12块胸椎、12对肋骨、1块胸骨以及它们之间的连结共同围成。",
+          "isCorrect": true,
+          "rationale": "胸廓的骨性支架由后方的胸椎、两侧的肋骨和前方的胸骨共同构成，保护胸腔脏器。"
+        },
+        {
+          "text": "吸气时，在呼吸肌收缩作用下肋骨前端抬高并伴随胸骨上升，使胸廓前后径和横径均增大。",
+          "isCorrect": true,
+          "rationale": "肋骨抬高和向外扩展改变了胸腔的前后径与横径，从而增大胸腔容积促成吸气。"
+        },
+        {
+          "text": "第1-7肋软骨直接与胸骨相连，称为真肋；第8-10肋软骨依次连于上位肋软骨形成肋弓。",
+          "isCorrect": true,
+          "rationale": "第1-7肋通过肋软骨直接与胸骨连结；第8-10肋不直接连胸骨，而是构成肋弓。"
+        },
+        {
+          "text": "锁骨与肩胛骨作为上肢带骨，直接参与围成胸廓的上下口。",
+          "isCorrect": false,
+          "rationale": "锁骨和肩胛骨属于附肢骨骼的上肢带骨，虽贴于胸廓外壁，但不参与围成胸廓腔体本身。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意区分躯干骨与上肢带骨，并思考真肋、假肋及肋弓的定义。",
+      "id": 27
+    },
+    {
+      "c": "28",
+      "type": "multiple_select",
+      "question": "根据骨的形态分类，下列骨骼与其分类匹配正确的有？",
+      "prompt": "根据骨的形态分类，下列骨骼与其分类匹配正确的有？",
+      "answerOptions": [
+        {
+          "text": "髌骨 —— 籽骨",
+          "isCorrect": true,
+          "rationale": "髌骨包埋于股四头肌肌腱内，是人体中最大的籽骨。"
+        },
+        {
+          "text": "掌骨 —— 长骨",
+          "isCorrect": true,
+          "rationale": "掌骨呈长管状，分为一体两端，属于长骨。"
+        },
+        {
+          "text": "肋骨 —— 长骨",
+          "isCorrect": false,
+          "rationale": "肋骨虽呈长条状，但内部无髓腔，属于板状的扁骨。"
+        },
+        {
+          "text": "椎骨 —— 不规则骨",
+          "isCorrect": true,
+          "rationale": "椎骨形状不规则，具有椎体、椎弓及多个突起，属于不规则骨。"
+        }
+      ],
+      "options": [
+        {
+          "text": "髌骨 —— 籽骨",
+          "isCorrect": true,
+          "rationale": "髌骨包埋于股四头肌肌腱内，是人体中最大的籽骨。"
+        },
+        {
+          "text": "掌骨 —— 长骨",
+          "isCorrect": true,
+          "rationale": "掌骨呈长管状，分为一体两端，属于长骨。"
+        },
+        {
+          "text": "肋骨 —— 长骨",
+          "isCorrect": false,
+          "rationale": "肋骨虽呈长条状，但内部无髓腔，属于板状的扁骨。"
+        },
+        {
+          "text": "椎骨 —— 不规则骨",
+          "isCorrect": true,
+          "rationale": "椎骨形状不规则，具有椎体、椎弓及多个突起，属于不规则骨。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "判断长骨的结构特征（是否有髓腔与一体两端），以及籽骨和扁骨的代表。",
+      "id": 28
+    },
+    {
+      "c": "29",
+      "type": "multiple_select",
+      "question": "人体脊柱从侧面观察可见四个生理弯曲。关于脊柱弯曲的形成及生理意义，正确的有？",
+      "prompt": "人体脊柱从侧面观察可见四个生理弯曲。关于脊柱弯曲的形成及生理意义，正确的有？",
+      "answerOptions": [
+        {
+          "text": "婴儿出生时四个生理弯曲均已完全发育成熟，以适应直立行走需求。",
+          "isCorrect": false,
+          "rationale": "颈曲和腰曲是婴儿出生后在抬头、坐起及站立行走等运动发育过程中才逐步形成的。"
+        },
+        {
+          "text": "脊柱的生理弯曲增加了脊柱的弹性，有助于维持人体重心稳定并缓冲运动震荡。",
+          "isCorrect": true,
+          "rationale": "弯曲呈弹簧状结构，在直立、行走和跳跃时可吸收和缓冲传导至颅骨的冲击力。"
+        },
+        {
+          "text": "胸曲和骶曲在胚胎时期就已经形成，有利于扩大胸腔和盆腔的容积。",
+          "isCorrect": true,
+          "rationale": "胸曲和骶曲适应胚胎屈曲姿势，生前已存在，并为胸腔和盆腔脏器提供更大的空间。"
+        },
+        {
+          "text": "颈曲和腰曲凸向前，胸曲和骶曲凸向后。",
+          "isCorrect": true,
+          "rationale": "脊柱的4个生理弯曲中，颈曲与腰曲向前突出，胸曲与骶曲向后突出。"
+        }
+      ],
+      "options": [
+        {
+          "text": "婴儿出生时四个生理弯曲均已完全发育成熟，以适应直立行走需求。",
+          "isCorrect": false,
+          "rationale": "颈曲和腰曲是婴儿出生后在抬头、坐起及站立行走等运动发育过程中才逐步形成的。"
+        },
+        {
+          "text": "脊柱的生理弯曲增加了脊柱的弹性，有助于维持人体重心稳定并缓冲运动震荡。",
+          "isCorrect": true,
+          "rationale": "弯曲呈弹簧状结构，在直立、行走和跳跃时可吸收和缓冲传导至颅骨的冲击力。"
+        },
+        {
+          "text": "胸曲和骶曲在胚胎时期就已经形成，有利于扩大胸腔和盆腔的容积。",
+          "isCorrect": true,
+          "rationale": "胸曲和骶曲适应胚胎屈曲姿势，生前已存在，并为胸腔和盆腔脏器提供更大的空间。"
+        },
+        {
+          "text": "颈曲和腰曲凸向前，胸曲和骶曲凸向后。",
+          "isCorrect": true,
+          "rationale": "脊柱的4个生理弯曲中，颈曲与腰曲向前突出，胸曲与骶曲向后突出。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆脊柱弯曲的凸向方向以及颈曲、腰曲随婴幼儿动作发育而出现的过程。",
+      "id": 29
+    },
+    {
+      "c": "30",
+      "type": "multiple_select",
+      "question": "关于骨基质（骨质）的化学成分及其物理特性，下列哪些叙述是正确的？",
+      "prompt": "关于骨基质（骨质）的化学成分及其物理特性，下列哪些叙述是正确的？",
+      "answerOptions": [
+        {
+          "text": "骨基质中的有机成分主要为胶原纤维和蛋白多糖",
+          "isCorrect": true,
+          "rationale": "有机成分构成骨基质的有机网状支架，赋予骨骼良好的弹性和韧性。"
+        },
+        {
+          "text": "成人骨基质中无机物约占 $2/3$，主要成分为骨盐",
+          "isCorrect": true,
+          "rationale": "成人骨基质中的无机成分占三分之二，以磷酸钙和碳酸钙等羟基磷灰石骨盐形式存在。"
+        },
+        {
+          "text": "骨基质的无机成分维持骨的硬度，人体内 $99\\%$ 的钙储存于骨中",
+          "isCorrect": true,
+          "rationale": "骨盐在胶原纤维上沉着形成坚硬结构，使骨成为机体最大的钙矿物质贮存库。"
+        },
+        {
+          "text": "编织骨的胶原纤维呈同心圆板层状排列，广泛存在于正常成年人骨密质中",
+          "isCorrect": false,
+          "rationale": "编织骨的胶原纤维无规则交织，见于胚胎、5岁以内的儿童及骨折修复期，成年人骨质主要为板层骨。"
+        }
+      ],
+      "options": [
+        {
+          "text": "骨基质中的有机成分主要为胶原纤维和蛋白多糖",
+          "isCorrect": true,
+          "rationale": "有机成分构成骨基质的有机网状支架，赋予骨骼良好的弹性和韧性。"
+        },
+        {
+          "text": "成人骨基质中无机物约占 $2/3$，主要成分为骨盐",
+          "isCorrect": true,
+          "rationale": "成人骨基质中的无机成分占三分之二，以磷酸钙和碳酸钙等羟基磷灰石骨盐形式存在。"
+        },
+        {
+          "text": "骨基质的无机成分维持骨的硬度，人体内 $99\\%$ 的钙储存于骨中",
+          "isCorrect": true,
+          "rationale": "骨盐在胶原纤维上沉着形成坚硬结构，使骨成为机体最大的钙矿物质贮存库。"
+        },
+        {
+          "text": "编织骨的胶原纤维呈同心圆板层状排列，广泛存在于正常成年人骨密质中",
+          "isCorrect": false,
+          "rationale": "编织骨的胶原纤维无规则交织，见于胚胎、5岁以内的儿童及骨折修复期，成年人骨质主要为板层骨。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆骨组织中有机物与无机物的比例及其各自赋予骨骼的弹性和硬度特性。",
+      "id": 30
+    },
+    {
+      "c": "31",
+      "type": "multiple_select",
+      "question": "关于骨髓的分布和生理功能，下列哪些说法符合解剖学事实？",
+      "prompt": "关于骨髓的分布和生理功能，下列哪些说法符合解剖学事实？",
+      "answerOptions": [
+        {
+          "text": "成人长骨骨干内的红骨髓会被脂肪组织取代，转变为黄骨髓",
+          "isCorrect": false,
+          "rationale": "5岁以后，长骨骨干髓腔内的红骨髓逐渐沉积大量脂肪，失去造血活力转变为黄骨髓。"
+        },
+        {
+          "text": "成人在椎骨、髂骨、肋骨及长骨骨骺等骨松质处仍保留红骨髓",
+          "isCorrect": true,
+          "rationale": "成年后造血功能主要集中在扁骨、不规则骨以及长骨骨骺的骨松质网眼内。"
+        },
+        {
+          "text": "红骨髓具有造血功能，在胎儿和幼儿时期充填于所有骨髓腔和骨松质间隙",
+          "isCorrect": true,
+          "rationale": "婴幼儿生长发育旺盛，全身骨髓腔内均为具备活跃造血功能的红骨髓。"
+        },
+        {
+          "text": "黄骨髓由于沉积了大量脂肪，终生均无法恢复造血能力",
+          "isCorrect": false,
+          "rationale": "在严重贫血或大出血等特殊应激状态下，黄骨髓可重新转化为红骨髓恢复造血活力。"
+        }
+      ],
+      "options": [
+        {
+          "text": "成人长骨骨干内的红骨髓会被脂肪组织取代，转变为黄骨髓",
+          "isCorrect": false,
+          "rationale": "5岁以后，长骨骨干髓腔内的红骨髓逐渐沉积大量脂肪，失去造血活力转变为黄骨髓。"
+        },
+        {
+          "text": "成人在椎骨、髂骨、肋骨及长骨骨骺等骨松质处仍保留红骨髓",
+          "isCorrect": true,
+          "rationale": "成年后造血功能主要集中在扁骨、不规则骨以及长骨骨骺的骨松质网眼内。"
+        },
+        {
+          "text": "红骨髓具有造血功能，在胎儿和幼儿时期充填于所有骨髓腔和骨松质间隙",
+          "isCorrect": true,
+          "rationale": "婴幼儿生长发育旺盛，全身骨髓腔内均为具备活跃造血功能的红骨髓。"
+        },
+        {
+          "text": "黄骨髓由于沉积了大量脂肪，终生均无法恢复造血能力",
+          "isCorrect": false,
+          "rationale": "在严重贫血或大出血等特殊应激状态下，黄骨髓可重新转化为红骨髓恢复造血活力。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意区分红骨髓与黄骨髓在不同年龄阶段的分布部位及造血活性变化。",
+      "id": 31
+    },
+    {
+      "c": "32",
+      "type": "multiple_select",
+      "question": "滑膜关节是骨连结的主要形式，其必须具备的基本结构包含哪些？",
+      "prompt": "滑膜关节是骨连结的主要形式，其必须具备的基本结构包含哪些？",
+      "answerOptions": [
+        {
+          "text": "关节面",
+          "isCorrect": true,
+          "rationale": "关节面是参与构成关节的相邻骨接触面，表面覆盖有减少摩擦的关节软骨。"
+        },
+        {
+          "text": "关节盘",
+          "isCorrect": false,
+          "rationale": "关节盘属于关节的辅助结构（如膝关节半月板、颞下颌关节盘），并非所有关节必备。"
+        },
+        {
+          "text": "关节囊",
+          "isCorrect": true,
+          "rationale": "关节囊由结缔组织构成，包裹关节四周，分为外层纤维膜和内层滑膜。"
+        },
+        {
+          "text": "关节腔",
+          "isCorrect": true,
+          "rationale": "关节腔是关节囊与关节面围成的密闭腔隙，内呈负压状态并含有滑液。"
+        }
+      ],
+      "options": [
+        {
+          "text": "关节面",
+          "isCorrect": true,
+          "rationale": "关节面是参与构成关节的相邻骨接触面，表面覆盖有减少摩擦的关节软骨。"
+        },
+        {
+          "text": "关节盘",
+          "isCorrect": false,
+          "rationale": "关节盘属于关节的辅助结构（如膝关节半月板、颞下颌关节盘），并非所有关节必备。"
+        },
+        {
+          "text": "关节囊",
+          "isCorrect": true,
+          "rationale": "关节囊由结缔组织构成，包裹关节四周，分为外层纤维膜和内层滑膜。"
+        },
+        {
+          "text": "关节腔",
+          "isCorrect": true,
+          "rationale": "关节腔是关节囊与关节面围成的密闭腔隙，内呈负压状态并含有滑液。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分关节的“基本结构”与“辅助结构”（如韧带、关节唇、关节盘等）。",
+      "id": 32
+    },
+    {
+      "c": "33",
+      "type": "multiple_select",
+      "question": "人体脑颅骨共8块，下列骨骼中属于不成对脑颅骨的是哪些？",
+      "prompt": "人体脑颅骨共8块，下列骨骼中属于不成对脑颅骨的是哪些？",
+      "answerOptions": [
+        {
+          "text": "筛骨",
+          "isCorrect": true,
+          "rationale": "筛骨位于两眶之间和鼻腔上方，属于不成对的脑颅骨。"
+        },
+        {
+          "text": "额骨",
+          "isCorrect": true,
+          "rationale": "额骨位于颅的前上部，属于不成对的脑颅骨。"
+        },
+        {
+          "text": "枕骨",
+          "isCorrect": true,
+          "rationale": "枕骨位于颅的后下部，属于不成对的脑颅骨。"
+        },
+        {
+          "text": "顶骨",
+          "isCorrect": false,
+          "rationale": "顶骨位于颅顶中部两侧，属于成对的脑颅骨。"
+        }
+      ],
+      "options": [
+        {
+          "text": "筛骨",
+          "isCorrect": true,
+          "rationale": "筛骨位于两眶之间和鼻腔上方，属于不成对的脑颅骨。"
+        },
+        {
+          "text": "额骨",
+          "isCorrect": true,
+          "rationale": "额骨位于颅的前上部，属于不成对的脑颅骨。"
+        },
+        {
+          "text": "枕骨",
+          "isCorrect": true,
+          "rationale": "枕骨位于颅的后下部，属于不成对的脑颅骨。"
+        },
+        {
+          "text": "顶骨",
+          "isCorrect": false,
+          "rationale": "顶骨位于颅顶中部两侧，属于成对的脑颅骨。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆脑颅骨中成对的骨只有顶骨和颞骨，其余均为不成对骨。",
+      "id": 33
+    },
+    {
+      "c": "34",
+      "type": "multiple_select",
+      "question": "下列面颅骨中，属于成对面颅骨的是哪些？",
+      "prompt": "下列面颅骨中，属于成对面颅骨的是哪些？",
+      "answerOptions": [
+        {
+          "text": "下鼻甲",
+          "isCorrect": true,
+          "rationale": "下鼻甲附着于鼻腔外侧壁，左右各一，属于成对的面颅骨。"
+        },
+        {
+          "text": "犁骨",
+          "isCorrect": false,
+          "rationale": "犁骨位于鼻腔后下部，构成骨性鼻中隔的下部，是不成对的面颅骨。"
+        },
+        {
+          "text": "颧骨",
+          "isCorrect": true,
+          "rationale": "颧骨位于面两侧，形成面颊部突起，成对存在。"
+        },
+        {
+          "text": "上颌骨",
+          "isCorrect": true,
+          "rationale": "上颌骨位于面部中央两侧，左右各一块，成对存在。"
+        }
+      ],
+      "options": [
+        {
+          "text": "下鼻甲",
+          "isCorrect": true,
+          "rationale": "下鼻甲附着于鼻腔外侧壁，左右各一，属于成对的面颅骨。"
+        },
+        {
+          "text": "犁骨",
+          "isCorrect": false,
+          "rationale": "犁骨位于鼻腔后下部，构成骨性鼻中隔的下部，是不成对的面颅骨。"
+        },
+        {
+          "text": "颧骨",
+          "isCorrect": true,
+          "rationale": "颧骨位于面两侧，形成面颊部突起，成对存在。"
+        },
+        {
+          "text": "上颌骨",
+          "isCorrect": true,
+          "rationale": "上颌骨位于面部中央两侧，左右各一块，成对存在。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "面颅骨共15块，不成对的只有犁骨、下颌骨和舌骨。",
+      "id": 34
+    },
+    {
+      "c": "35",
+      "type": "multiple_select",
+      "question": "关于胸椎（T1-T12）的解剖结构特点，下列哪些描述是正确的？",
+      "prompt": "关于胸椎（T1-T12）的解剖结构特点，下列哪些描述是正确的？",
+      "answerOptions": [
+        {
+          "text": "棘突短、宽，呈板状水平伸向后方",
+          "isCorrect": false,
+          "rationale": "棘突短宽且水平伸向后方是腰椎的特征；胸椎棘突较长且斜向后下方。"
+        },
+        {
+          "text": "横突末端前面有横突肋凹",
+          "isCorrect": true,
+          "rationale": "横突肋凹与肋骨的肋结节结合形成肋横突关节。"
+        },
+        {
+          "text": "椎体两侧后份上、下缘有上、下肋凹",
+          "isCorrect": true,
+          "rationale": "胸椎椎体上的肋凹与肋骨的肋头连结构成肋头关节。"
+        },
+        {
+          "text": "椎体横切面呈心形",
+          "isCorrect": true,
+          "rationale": "胸椎椎体呈短柱状，其横切面在解剖形态上呈心脏形。"
+        }
+      ],
+      "options": [
+        {
+          "text": "棘突短、宽，呈板状水平伸向后方",
+          "isCorrect": false,
+          "rationale": "棘突短宽且水平伸向后方是腰椎的特征；胸椎棘突较长且斜向后下方。"
+        },
+        {
+          "text": "横突末端前面有横突肋凹",
+          "isCorrect": true,
+          "rationale": "横突肋凹与肋骨的肋结节结合形成肋横突关节。"
+        },
+        {
+          "text": "椎体两侧后份上、下缘有上、下肋凹",
+          "isCorrect": true,
+          "rationale": "胸椎椎体上的肋凹与肋骨的肋头连结构成肋头关节。"
+        },
+        {
+          "text": "椎体横切面呈心形",
+          "isCorrect": true,
+          "rationale": "胸椎椎体呈短柱状，其横切面在解剖形态上呈心脏形。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意胸椎与肋骨相关节的特定结构（肋凹）及其棘突的倾斜走向。",
+      "id": 35
+    },
+    {
+      "c": "36",
+      "type": "multiple_select",
+      "question": "人体共有12对肋骨，根据其前端与胸骨的连结方式，可分为真肋、假肋和浮肋。下列划分正确的是哪些？",
+      "prompt": "人体共有12对肋骨，根据其前端与胸骨的连结方式，可分为真肋、假肋和浮肋。下列划分正确的是哪些？",
+      "answerOptions": [
+        {
+          "text": "第1~7肋前端直接与胸骨连接，称为真肋",
+          "isCorrect": true,
+          "rationale": "第1~7肋借助各自的肋软骨直接连接于胸骨，被称为真肋。"
+        },
+        {
+          "text": "第1~5肋为真肋，第6~12肋统称为假肋",
+          "isCorrect": false,
+          "rationale": "真肋范围为第1~7肋，假肋为第8~10肋，第11~12肋为浮肋。"
+        },
+        {
+          "text": "第8~10肋不直接与胸骨连接，称为假肋",
+          "isCorrect": true,
+          "rationale": "第8~10肋前端借助软骨依次连接形成肋弓，不直接连接胸骨，被称为假肋。"
+        },
+        {
+          "text": "第11~12肋前端游离于腹壁肌层中，称为浮肋",
+          "isCorrect": true,
+          "rationale": "第11~12肋前端游离，不与肋弓或胸骨相连，被称为浮肋。"
+        }
+      ],
+      "options": [
+        {
+          "text": "第1~7肋前端直接与胸骨连接，称为真肋",
+          "isCorrect": true,
+          "rationale": "第1~7肋借助各自的肋软骨直接连接于胸骨，被称为真肋。"
+        },
+        {
+          "text": "第1~5肋为真肋，第6~12肋统称为假肋",
+          "isCorrect": false,
+          "rationale": "真肋范围为第1~7肋，假肋为第8~10肋，第11~12肋为浮肋。"
+        },
+        {
+          "text": "第8~10肋不直接与胸骨连接，称为假肋",
+          "isCorrect": true,
+          "rationale": "第8~10肋前端借助软骨依次连接形成肋弓，不直接连接胸骨，被称为假肋。"
+        },
+        {
+          "text": "第11~12肋前端游离于腹壁肌层中，称为浮肋",
+          "isCorrect": true,
+          "rationale": "第11~12肋前端游离，不与肋弓或胸骨相连，被称为浮肋。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分12对肋骨中直接连结胸骨、间接连成肋弓以及前端游离的三组划分。",
+      "id": 36
+    },
+    {
+      "c": "37",
+      "type": "multiple_select",
+      "question": "髋骨（Hip Bone）是下肢带骨，在幼年时期由三块独立的骨通过软骨结合而成，成年后融合为一块。这三块骨包括哪些？",
+      "prompt": "髋骨（Hip Bone）是下肢带骨，在幼年时期由三块独立的骨通过软骨结合而成，成年后融合为一块。这三块骨包括哪些？",
+      "answerOptions": [
+        {
+          "text": "坐骨",
+          "isCorrect": true,
+          "rationale": "坐骨构成髋骨的后下部，包含坐骨结节和坐骨棘。"
+        },
+        {
+          "text": "股骨",
+          "isCorrect": false,
+          "rationale": "股骨是大腿部的自由下肢骨，不属于髋骨自身的组成部分。"
+        },
+        {
+          "text": "耻骨",
+          "isCorrect": true,
+          "rationale": "耻骨构成髋骨的前下部，两侧耻骨在前方通过耻骨联合相连。"
+        },
+        {
+          "text": "髂骨",
+          "isCorrect": true,
+          "rationale": "髂骨构成髋骨的上部，包含髂嵴和髂窝，并参与构成髋臼。"
+        }
+      ],
+      "options": [
+        {
+          "text": "坐骨",
+          "isCorrect": true,
+          "rationale": "坐骨构成髋骨的后下部，包含坐骨结节和坐骨棘。"
+        },
+        {
+          "text": "股骨",
+          "isCorrect": false,
+          "rationale": "股骨是大腿部的自由下肢骨，不属于髋骨自身的组成部分。"
+        },
+        {
+          "text": "耻骨",
+          "isCorrect": true,
+          "rationale": "耻骨构成髋骨的前下部，两侧耻骨在前方通过耻骨联合相连。"
+        },
+        {
+          "text": "髂骨",
+          "isCorrect": true,
+          "rationale": "髂骨构成髋骨的上部，包含髂嵴和髂窝，并参与构成髋臼。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "寻找在髋臼处汇合并融合形成单块髋骨的三块原始骨骼。",
+      "id": 37
+    },
+    {
+      "c": "38",
+      "type": "multiple_select",
+      "question": "人体足部的跗骨和跖骨借韧带及肌腱连结形成凸向向上的足弓。关于足弓的结构和功能，下列哪些说法是正确的？",
+      "prompt": "人体足部的跗骨和跖骨借韧带及肌腱连结形成凸向向上的足弓。关于足弓的结构和功能，下列哪些说法是正确的？",
+      "answerOptions": [
+        {
+          "text": "外侧纵弓由跟骨、骰骨及第4、5跖骨构成",
+          "isCorrect": true,
+          "rationale": "外侧纵弓高度较低，比较平直，主要承担和传递重力。"
+        },
+        {
+          "text": "足弓的主要功能是支持体重、缓冲震荡，并保护足底血管和神经免受压迫",
+          "isCorrect": true,
+          "rationale": "足弓使足底形成空腔，防止直立或行走时足底软组织、血管和神经受到挤压。"
+        },
+        {
+          "text": "横弓由三块楔骨、骰骨及跖骨后部构成",
+          "isCorrect": true,
+          "rationale": "横弓在足中部呈横向拱形，强化了足部的整体结构稳定。"
+        },
+        {
+          "text": "内侧纵弓由跟骨、距骨、足舟骨、三块楔骨及第1~3跖骨构成",
+          "isCorrect": true,
+          "rationale": "内侧纵弓曲度大、弹性强，主要发挥缓冲行走和跳跃震荡的作用。"
+        }
+      ],
+      "options": [
+        {
+          "text": "外侧纵弓由跟骨、骰骨及第4、5跖骨构成",
+          "isCorrect": true,
+          "rationale": "外侧纵弓高度较低，比较平直，主要承担和传递重力。"
+        },
+        {
+          "text": "足弓的主要功能是支持体重、缓冲震荡，并保护足底血管和神经免受压迫",
+          "isCorrect": true,
+          "rationale": "足弓使足底形成空腔，防止直立或行走时足底软组织、血管和神经受到挤压。"
+        },
+        {
+          "text": "横弓由三块楔骨、骰骨及跖骨后部构成",
+          "isCorrect": true,
+          "rationale": "横弓在足中部呈横向拱形，强化了足部的整体结构稳定。"
+        },
+        {
+          "text": "内侧纵弓由跟骨、距骨、足舟骨、三块楔骨及第1~3跖骨构成",
+          "isCorrect": true,
+          "rationale": "内侧纵弓曲度大、弹性强，主要发挥缓冲行走和跳跃震荡的作用。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "足弓分为内侧纵弓、外侧纵弓和横弓，兼具承重、减震与保护功能。",
+      "id": 38
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】长骨干中的骨髓终身保有造血功能。",
+      "prompt": "【判断题】长骨干中的骨髓终身保有造血功能。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "长骨干内的红骨髓在成年后逐渐被脂肪组织代替转化为无造血功能的黄骨髓，仅在重度失血时可逆转。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "长骨干内的红骨髓在成年后逐渐被脂肪组织代替转化为无造血功能的黄骨髓，仅在重度失血时可逆转。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "长骨干内的红骨髓在成年后逐渐被脂肪组织代替转化为无造血功能的黄骨髓，仅在重度失血时可逆转。",
+      "hint": "",
+      "c": "39",
+      "id": 39
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】胸廓由胸椎、肋骨、胸骨和锁骨共同构成。",
+      "prompt": "【判断题】胸廓由胸椎、肋骨、胸骨和锁骨共同构成。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "胸廓由12块胸椎、12对肋和1块胸骨通过关节和软骨连结构成，锁骨属于上肢带骨，不构成胸廓。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "胸廓由12块胸椎、12对肋和1块胸骨通过关节和软骨连结构成，锁骨属于上肢带骨，不构成胸廓。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胸廓由12块胸椎、12对肋和1块胸骨通过关节和软骨连结构成，锁骨属于上肢带骨，不构成胸廓。",
+      "hint": "",
+      "c": "40",
+      "id": 40
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】人体的全部12对肋骨均直接借肋软骨连于胸骨。",
+      "prompt": "【判断题】人体的全部12对肋骨均直接借肋软骨连于胸骨。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "仅第1~7对肋（真肋）直接连于胸骨；第8~10对肋连于上位肋软骨形成肋弓（假肋）；第11~12对肋前端游离（浮肋）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "仅第1~7对肋（真肋）直接连于胸骨；第8~10对肋连于上位肋软骨形成肋弓（假肋）；第11~12对肋前端游离（浮肋）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "仅第1~7对肋（真肋）直接连于胸骨；第8~10对肋连于上位肋软骨形成肋弓（假肋）；第11~12对肋前端游离（浮肋）。",
+      "hint": "",
+      "c": "41",
+      "id": 41
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】髂骨、耻骨和坐骨三骨在髋臼处共同融合愈合，参与构成髋臼。",
+      "prompt": "【判断题】髂骨、耻骨和坐骨三骨在髋臼处共同融合愈合，参与构成髋臼。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "髂骨、坐骨和耻骨以软骨在髋臼处结合，成年后完全骨性融合为一块髋骨。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "髂骨、坐骨和耻骨以软骨在髋臼处结合，成年后完全骨性融合为一块髋骨。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "髂骨、坐骨和耻骨以软骨在髋臼处结合，成年后完全骨性融合为一块髋骨。",
+      "hint": "",
+      "c": "42",
+      "id": 42
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】脊柱的四个生理弯曲中，颈曲和腰曲凸向前，胸曲和骶曲凸向后。",
+      "prompt": "【判断题】脊柱的四个生理弯曲中，颈曲和腰曲凸向前，胸曲和骶曲凸向后。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "凸向前的颈曲和腰曲是人类直立行走和抬头后形成的次发曲，胸曲和骶曲凸向后保留胚胎初发曲。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "凸向前的颈曲和腰曲是人类直立行走和抬头后形成的次发曲，胸曲和骶曲凸向后保留胚胎初发曲。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "凸向前的颈曲和腰曲是人类直立行走和抬头后形成的次发曲，胸曲和骶曲凸向后保留胚胎初发曲。",
+      "hint": "",
+      "c": "43",
+      "id": 43
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】第8~12对肋软骨末端共同连接形成肋弓。",
+      "prompt": "【判断题】第8~12对肋软骨末端共同连接形成肋弓。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "形成肋弓的仅为第8、9、10对肋软骨；第11~12肋前端游离于腹壁肌层中，不参与形成肋弓。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "形成肋弓的仅为第8、9、10对肋软骨；第11~12肋前端游离于腹壁肌层中，不参与形成肋弓。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "形成肋弓的仅为第8、9、10对肋软骨；第11~12肋前端游离于腹壁肌层中，不参与形成肋弓。",
+      "hint": "",
+      "c": "44",
+      "id": 44
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】椎管在解剖学上向上通过枕骨大孔与颅腔直接相通。",
+      "prompt": "【判断题】椎管在解剖学上向上通过枕骨大孔与颅腔直接相通。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "椎管向上经枕骨大孔直通颅腔，脑脊髓和脑脊液在其中移行流动，并非互不相通。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "椎管向上经枕骨大孔直通颅腔，脑脊髓和脑脊液在其中移行流动，并非互不相通。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "椎管向上经枕骨大孔直通颅腔，脑脊髓和脑脊液在其中移行流动，并非互不相通。",
+      "hint": "",
+      "c": "45",
+      "id": 45
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】胸椎共有12块，其主要特征是棘突末端分叉。",
+      "prompt": "【判断题】胸椎共有12块，其主要特征是棘突末端分叉。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "棘突末端分叉是颈椎（第2~6颈椎）的特有特征；胸椎棘突细长呈叠瓦状向后下方倾斜且末端不分叉。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "棘突末端分叉是颈椎（第2~6颈椎）的特有特征；胸椎棘突细长呈叠瓦状向后下方倾斜且末端不分叉。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "棘突末端分叉是颈椎（第2~6颈椎）的特有特征；胸椎棘突细长呈叠瓦状向后下方倾斜且末端不分叉。",
+      "hint": "",
+      "c": "46",
+      "id": 46
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】肩关节的关节盂周围附着有关节唇，具有加深关节窝、增加关节稳定性的作用。",
+      "prompt": "【判断题】肩关节的关节盂周围附着有关节唇，具有加深关节窝、增加关节稳定性的作用。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "肩关节盂浅而小，周缘附着纤维软骨性的盂唇，使关节窝加深增大以增强稳定性。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "肩关节盂浅而小，周缘附着纤维软骨性的盂唇，使关节窝加深增大以增强稳定性。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肩关节盂浅而小，周缘附着纤维软骨性的盂唇，使关节窝加深增大以增强稳定性。",
+      "hint": "",
+      "c": "47",
+      "id": 47
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】椎动脉沿颈部上行，穿经第6至第1颈椎的横突孔入颅供血。",
+      "prompt": "【判断题】椎动脉沿颈部上行，穿经第6至第1颈椎的横突孔入颅供血。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "椎骨的横突孔是颈椎的特征性结构，容纳椎动脉和椎静脉穿行。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "椎骨的横突孔是颈椎的特征性结构，容纳椎动脉和椎静脉穿行。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "椎骨的横突孔是颈椎的特征性结构，容纳椎动脉和椎静脉穿行。",
+      "hint": "",
+      "c": "48",
+      "id": 48
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】关节的基本构造包括关节面、关节囊和关节腔三部分。",
+      "prompt": "【判断题】关节的基本构造包括关节面、关节囊和关节腔三部分。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "任何动关节均必须具备关节面（覆关节软骨）、关节囊（纤维层与滑膜层）和关节腔（密闭负压含滑液）三大基本要素。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "任何动关节均必须具备关节面（覆关节软骨）、关节囊（纤维层与滑膜层）和关节腔（密闭负压含滑液）三大基本要素。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "任何动关节均必须具备关节面（覆关节软骨）、关节囊（纤维层与滑膜层）和关节腔（密闭负压含滑液）三大基本要素。",
+      "hint": "",
+      "c": "49",
+      "id": 49
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】黄骨髓主要由脂肪组织构成，在机体严重慢性贫血时可转化为红骨髓恢复造血。",
+      "prompt": "【判断题】黄骨髓主要由脂肪组织构成，在机体严重慢性贫血时可转化为红骨髓恢复造血。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "黄骨髓终生保留潜在造血能力，机体大失血或长期缺氧缺血时可复原为红骨髓。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "黄骨髓终生保留潜在造血能力，机体大失血或长期缺氧缺血时可复原为红骨髓。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "黄骨髓终生保留潜在造血能力，机体大失血或长期缺氧缺血时可复原为红骨髓。",
+      "hint": "",
+      "c": "50",
+      "id": 50
+    },
+    {
+      "c": "51",
+      "type": "fill_blank",
+      "question": "骨的基本结构为（1）_______、（2）_______和（3）_______。典型的长骨两端膨大的部分称为（4）_______，中间细长的部位为（5）_______。",
+      "prompt": "骨的基本结构为（1）_______、（2）_______和（3）_______。典型的长骨两端膨大的部分称为（4）_______，中间细长的部位为（5）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "骨膜",
+        "骨质",
+        "骨髓",
+        "骨骺",
+        "骨干"
+      ],
+      "blanks": [
+        "骨膜",
+        "骨质",
+        "骨髓",
+        "骨骺",
+        "骨干"
+      ],
+      "rationale": "标准答案及考点解析：骨的基本结构为 骨膜  、 骨质 和 骨髓 。典型的长骨两端膨大的部分称为 骨骺 ，中间细长的部位为 骨干 。",
+      "hint": "核心考点：共 5 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 51
+    },
+    {
+      "c": "52",
+      "type": "fill_blank",
+      "question": "根据骨的外形，可将骨分为（1）_______、（2）_______、扁骨和（3）_______。掌骨属于（4）_______，胸骨属于（5）_______。",
+      "prompt": "根据骨的外形，可将骨分为（1）_______、（2）_______、扁骨和（3）_______。掌骨属于（4）_______，胸骨属于（5）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "长骨",
+        "短骨",
+        "不规则骨",
+        "长骨",
+        "扁骨"
+      ],
+      "blanks": [
+        "长骨",
+        "短骨",
+        "不规则骨",
+        "长骨",
+        "扁骨"
+      ],
+      "rationale": "标准答案及考点解析：根据骨的外形，可将骨分为  长骨  、 短骨 、扁骨和 不规则骨 。掌骨属于 长骨  ，胸骨属于  扁骨   。",
+      "hint": "核心考点：共 5 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 52
+    },
+    {
+      "c": "53",
+      "type": "fill_blank",
+      "question": "骨的发生包括（1）_______和（2）_______两种形式。",
+      "prompt": "骨的发生包括（1）_______和（2）_______两种形式。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "软骨化骨",
+        "膜内化骨"
+      ],
+      "blanks": [
+        "软骨化骨",
+        "膜内化骨"
+      ],
+      "rationale": "标准答案及考点解析：骨的发生包括 软骨化骨  和 膜内化骨  两种形式。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 53
+    },
+    {
+      "c": "54",
+      "type": "fill_blank",
+      "question": "骨髓有（1）_______和（2）_______两种，其中有造血功能的是 （3）_______，随着年龄增长转变为（4）_______而失去造血功能，在成人的（5）_______和（6）_______内存留具有造血功能的骨髓。",
+      "prompt": "骨髓有（1）_______和（2）_______两种，其中有造血功能的是 （3）_______，随着年龄增长转变为（4）_______而失去造血功能，在成人的（5）_______和（6）_______内存留具有造血功能的骨髓。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "红骨髓",
+        "黄骨髓",
+        "红骨髓",
+        "黄骨髓",
+        "扁骨（短骨）",
+        "不规则骨（长骨骨骺的骨松质内）"
+      ],
+      "blanks": [
+        "红骨髓",
+        "黄骨髓",
+        "红骨髓",
+        "黄骨髓",
+        "扁骨（短骨）",
+        "不规则骨（长骨骨骺的骨松质内）"
+      ],
+      "rationale": "标准答案及考点解析：骨髓有 红骨髓 和 黄骨髓 两种，其中有造血功能的是 红骨髓  ，随着年龄增长     转变为 黄骨髓 而失去造血功能，在成人的 扁骨（短骨） 和 不规则骨（长骨骨骺的骨松质内） 内存留具有造血功能的骨髓。",
+      "hint": "核心考点：共 6 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 54
+    },
+    {
+      "c": "55",
+      "type": "fill_blank",
+      "question": "骨连结包括（1）_______和间接连结，间接连结即（2）_______，由（3）_______、（4）_______和（5）_______组成，关节腔中的滑液具有（6）_______的功能。",
+      "prompt": "骨连结包括（1）_______和间接连结，间接连结即（2）_______，由（3）_______、（4）_______和（5）_______组成，关节腔中的滑液具有（6）_______的功能。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "直接连接",
+        "关节",
+        "关节面",
+        "关节囊",
+        "关节腔",
+        "缓冲摩擦"
+      ],
+      "blanks": [
+        "直接连接",
+        "关节",
+        "关节面",
+        "关节囊",
+        "关节腔",
+        "缓冲摩擦"
+      ],
+      "rationale": "标准答案及考点解析：骨连结包括 直接连接 和间接连结，间接连结即 关节 ，由 关节面 、 关节囊     和 关节腔  组成，关节腔中的滑液具有 缓冲摩擦  的功能。",
+      "hint": "核心考点：共 6 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 55
+    },
+    {
+      "c": "56",
+      "type": "fill_blank",
+      "question": "肘关节由（1）_______，（2）_______和（3）_______三个关节组成，肱二头肌收缩可（4）_______肘关节，肱三头肌收缩可（5）_______肘关节。",
+      "prompt": "肘关节由（1）_______，（2）_______和（3）_______三个关节组成，肱二头肌收缩可（4）_______肘关节，肱三头肌收缩可（5）_______肘关节。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "肱尺关节",
+        "肱桡关节",
+        "桡尺近侧关节",
+        "屈",
+        "伸"
+      ],
+      "blanks": [
+        "肱尺关节",
+        "肱桡关节",
+        "桡尺近侧关节",
+        "屈",
+        "伸"
+      ],
+      "rationale": "标准答案及考点解析：肘关节由 肱尺关节 ， 肱桡关节 和 桡尺近侧关节 三个关节组成，肱二头肌收缩可 屈 肘关节，肱三头肌收缩可 伸 肘关节。",
+      "hint": "核心考点：共 5 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 56
+    },
+    {
+      "c": "57",
+      "type": "fill_blank",
+      "question": "胸骨由（1）_______、（2）_______和（3）_______三部分构成，与（4）_______ 和（5）_______共同围成胸廓，保护内部的（6）_______和（7）_______等重要脏器。经过胸骨正中引的标志线称作（8）_______。",
+      "prompt": "胸骨由（1）_______、（2）_______和（3）_______三部分构成，与（4）_______ 和（5）_______共同围成胸廓，保护内部的（6）_______和（7）_______等重要脏器。经过胸骨正中引的标志线称作（8）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "胸骨柄",
+        "胸骨体",
+        "剑突",
+        "胸椎",
+        "肋骨",
+        "心脏",
+        "肺",
+        "前正中线"
+      ],
+      "blanks": [
+        "胸骨柄",
+        "胸骨体",
+        "剑突",
+        "胸椎",
+        "肋骨",
+        "心脏",
+        "肺",
+        "前正中线"
+      ],
+      "rationale": "标准答案及考点解析：胸骨由 胸骨柄 、 胸骨体 和 剑突  三部分构成，与 胸椎  和 肋骨 共同围成胸廓，保护内部的 心脏 和 肺 等重要脏器。经过胸骨正中引的标志线称作 前正中线 。",
+      "hint": "核心考点：共 8 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 57
+    },
+    {
+      "c": "58",
+      "type": "fill_blank",
+      "question": "髋骨由（1）_______、（2）_______和（3）_______三块骨融合而成，与（4）_______和（5）_______共同构成骨盆；三块骨融合处形成一大而深的窝，称为（6）_______，与（7）_______构成髋关节。",
+      "prompt": "髋骨由（1）_______、（2）_______和（3）_______三块骨融合而成，与（4）_______和（5）_______共同构成骨盆；三块骨融合处形成一大而深的窝，称为（6）_______，与（7）_______构成髋关节。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "髂骨",
+        "耻骨",
+        "坐骨",
+        "骶骨",
+        "尾骨",
+        "髋臼",
+        "股骨头"
+      ],
+      "blanks": [
+        "髂骨",
+        "耻骨",
+        "坐骨",
+        "骶骨",
+        "尾骨",
+        "髋臼",
+        "股骨头"
+      ],
+      "rationale": "标准答案及考点解析：髋骨由 髂骨 、 耻骨 和 坐骨 三块骨融合而成，与 骶骨 和 尾骨 共同构成骨盆；三块骨融合处形成一大而深的窝，称为 髋臼 ，与 股骨头 构成髋关节。",
+      "hint": "核心考点：共 7 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 58
+    },
+    {
+      "c": "59",
+      "type": "fill_blank",
+      "question": "椎骨由位于前方的（1）_______和后方的（2）_______组成；椎孔上下相连形成（3）_______，容纳并保护位于其内的（4）_______，相邻的椎上、下切迹围成（5）_______有（6）_______通过。",
+      "prompt": "椎骨由位于前方的（1）_______和后方的（2）_______组成；椎孔上下相连形成（3）_______，容纳并保护位于其内的（4）_______，相邻的椎上、下切迹围成（5）_______有（6）_______通过。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "椎体",
+        "椎弓",
+        "椎管",
+        "脊髓",
+        "椎间孔",
+        "脊神经"
+      ],
+      "blanks": [
+        "椎体",
+        "椎弓",
+        "椎管",
+        "脊髓",
+        "椎间孔",
+        "脊神经"
+      ],
+      "rationale": "标准答案及考点解析：椎骨由位于前方的 椎体 和后方的 椎弓 组成；椎孔上下相连形成 椎管 ，容纳并保护位于其内的 脊髓 ，相邻的椎上、下切迹围成 椎间孔 有 脊神经 通过。",
+      "hint": "核心考点：共 6 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 59
+    },
+    {
+      "c": "60",
+      "type": "fill_blank",
+      "question": "有横突孔的椎骨是（1）_______，椎体呈心形棘突斜向后下方的椎骨是（2）_______。",
+      "prompt": "有横突孔的椎骨是（1）_______，椎体呈心形棘突斜向后下方的椎骨是（2）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "颈椎",
+        "胸椎"
+      ],
+      "blanks": [
+        "颈椎",
+        "胸椎"
+      ],
+      "rationale": "标准答案及考点解析：有横突孔的椎骨是 颈椎 ，椎体呈心形棘突斜向后下方的椎骨是  胸椎  。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 60
+    },
+    {
+      "c": "61",
+      "type": "fill_blank",
+      "question": "构成膝关节的骨包括（1）_______、（2）_______和（3）_______，关节腔内有（4）_______分隔关节头和关节窝减少运动摩擦。",
+      "prompt": "构成膝关节的骨包括（1）_______、（2）_______和（3）_______，关节腔内有（4）_______分隔关节头和关节窝减少运动摩擦。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "股骨",
+        "胫骨",
+        "髌骨",
+        "半月板（关节盘）"
+      ],
+      "blanks": [
+        "股骨",
+        "胫骨",
+        "髌骨",
+        "半月板（关节盘）"
+      ],
+      "rationale": "标准答案及考点解析：构成膝关节的骨包括股骨 、 胫骨 和 髌骨 ，关节腔内有 半月板（关节盘） 分隔关节头和关节窝减少运动摩擦。",
+      "hint": "核心考点：共 4 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 61
+    },
+    {
+      "c": "62",
+      "type": "fill_blank",
+      "question": "骨折指（1）_______，根据骨折断面是否与外界相通可将骨折分为",
+      "prompt": "骨折指（1）_______，根据骨折断面是否与外界相通可将骨折分为",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "骨的连续性的中断"
+      ],
+      "blanks": [
+        "骨的连续性的中断"
+      ],
+      "rationale": "标准答案及考点解析：骨折指 骨的连续性的中断，根据骨折断面是否与外界相通可将骨折分为",
+      "hint": "核心考点：共 1 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 62
+    },
+    {
+      "c": "63",
+      "type": "fill_blank",
+      "question": "（1）_______和（2）_______。",
+      "prompt": "（1）_______和（2）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "闭合性骨折",
+        "开放性骨折"
+      ],
+      "blanks": [
+        "闭合性骨折",
+        "开放性骨折"
+      ],
+      "rationale": "标准答案及考点解析：闭合性骨折 和 开放性骨折 。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 63
+    },
+    {
+      "c": "64",
+      "type": "fill_blank",
+      "question": "关节附属结构包括（1）_______、（2）_______和（3）_______。其中起增大关节窝作用的是（4）_______。",
+      "prompt": "关节附属结构包括（1）_______、（2）_______和（3）_______。其中起增大关节窝作用的是（4）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "关节盘",
+        "关节唇",
+        "韧带",
+        "关节唇"
+      ],
+      "blanks": [
+        "关节盘",
+        "关节唇",
+        "韧带",
+        "关节唇"
+      ],
+      "rationale": "标准答案及考点解析：关节附属结构包括 关节盘 、 关节唇 和 韧带 。其中起增大关节窝作用的是 关节唇 。",
+      "hint": "核心考点：共 4 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 64
+    },
+    {
+      "c": "65",
+      "type": "fill_blank",
+      "question": "脊椎有4个生理弯曲，其中凸向前的是（1）_______和（2）_______，凸向后的是（3）_______和（4）_______。",
+      "prompt": "脊椎有4个生理弯曲，其中凸向前的是（1）_______和（2）_______，凸向后的是（3）_______和（4）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "颈曲",
+        "腰曲",
+        "胸曲",
+        "骶曲"
+      ],
+      "blanks": [
+        "颈曲",
+        "腰曲",
+        "胸曲",
+        "骶曲"
+      ],
+      "rationale": "标准答案及考点解析：脊椎有4个生理弯曲，其中凸向前的是 颈曲 和 腰曲 ，凸向后的是 胸曲 和 骶曲 。",
+      "hint": "核心考点：共 4 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 65
+    },
+    {
+      "c": "66",
+      "type": "fill_blank",
+      "question": "紧贴于脊柱的椎体前、后，对脊柱有固定作用韧带分别是（1）_______和（2）_______。",
+      "prompt": "紧贴于脊柱的椎体前、后，对脊柱有固定作用韧带分别是（1）_______和（2）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "前纵韧带",
+        "后纵韧带"
+      ],
+      "blanks": [
+        "前纵韧带",
+        "后纵韧带"
+      ],
+      "rationale": "标准答案及考点解析：紧贴于脊柱的椎体前、后，对脊柱有固定作用韧带分别是 前纵韧带 和 后纵韧带 。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 66
+    }
+  ],
+  "topics": {
+    "covered": [
+      "骨的功能与形态分类",
+      "骨组织细胞与骨基质结构",
+      "骨的发生、生长与重建",
+      "关节的基本结构与分类",
+      "中轴骨骼（颅骨与躯干骨）的解剖特征",
+      "附肢骨骼（上肢骨与下肢骨）及主要关节"
+    ],
+    "followUp": [
+      "骨折愈合的四个病理生理阶段",
+      "人工关节在临床骨科中的应用现状",
+      "股骨颈骨折与膝关节损伤的生物力学分析",
+      "骨质疏松症的成因与成骨-溶骨平衡机制"
+    ]
+  },
+  "questions": [
+    {
+      "c": "1",
+      "type": "single_choice",
+      "question": "关于成人与儿童体内骨髓的分布及其功能变化，下列说法正确的是？",
+      "prompt": "关于成人与儿童体内骨髓的分布及其功能变化，下列说法正确的是？",
+      "answerOptions": [
+        {
+          "text": "胎儿和幼儿时期长骨骨干内充填的是黄骨髓，因此造血功能尚未成熟。",
+          "isCorrect": false,
+          "rationale": "胎儿和幼儿时期的骨髓全部为红骨髓，具有活跃的造血和免疫功能，5岁以后才开始出现黄骨髓。"
+        },
+        {
+          "text": "黄骨髓因含有丰富血管和幼稚血细胞而呈黄色，且一旦形成便永久丧失造血能力。",
+          "isCorrect": false,
+          "rationale": "黄骨髓呈黄色是因为沉积了大量脂肪组织，且在机体严重失血或贫血时仍能逆转为红骨髓恢复造血。"
+        },
+        {
+          "text": "成人躯干骨（如胸骨和髂骨）内的骨髓会随年龄增长全部转化为无造血功能的黄骨髓。",
+          "isCorrect": false,
+          "rationale": "成人的椎骨、髂骨、肋骨、胸骨等扁骨和不规则骨内终生保留红骨髓，是临床骨髓穿刺的常用部位。"
+        },
+        {
+          "text": "5岁以后长骨骨干内的红骨髓逐渐被脂肪组织代替形成黄骨髓，但在大量失血时可重新转化为红骨髓。",
+          "isCorrect": true,
+          "rationale": "幼年时期骨髓全为红骨髓，随着年龄增长长骨干内红骨髓被脂肪占据变成黄骨髓，但在严重失血或贫血时黄骨髓可转变为红骨髓恢复造血功能。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胎儿和幼儿时期长骨骨干内充填的是黄骨髓，因此造血功能尚未成熟。",
+          "isCorrect": false,
+          "rationale": "胎儿和幼儿时期的骨髓全部为红骨髓，具有活跃的造血和免疫功能，5岁以后才开始出现黄骨髓。"
+        },
+        {
+          "text": "黄骨髓因含有丰富血管和幼稚血细胞而呈黄色，且一旦形成便永久丧失造血能力。",
+          "isCorrect": false,
+          "rationale": "黄骨髓呈黄色是因为沉积了大量脂肪组织，且在机体严重失血或贫血时仍能逆转为红骨髓恢复造血。"
+        },
+        {
+          "text": "成人躯干骨（如胸骨和髂骨）内的骨髓会随年龄增长全部转化为无造血功能的黄骨髓。",
+          "isCorrect": false,
+          "rationale": "成人的椎骨、髂骨、肋骨、胸骨等扁骨和不规则骨内终生保留红骨髓，是临床骨髓穿刺的常用部位。"
+        },
+        {
+          "text": "5岁以后长骨骨干内的红骨髓逐渐被脂肪组织代替形成黄骨髓，但在大量失血时可重新转化为红骨髓。",
+          "isCorrect": true,
+          "rationale": "幼年时期骨髓全为红骨髓，随着年龄增长长骨干内红骨髓被脂肪占据变成黄骨髓，但在严重失血或贫血时黄骨髓可转变为红骨髓恢复造血功能。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意区分不同年龄段以及躯干骨与长骨干中骨髓类型的差异。",
+      "id": 1
+    },
+    {
+      "c": "2",
+      "type": "single_choice",
+      "question": "在儿童和青少年发育时期，直接促使长骨不断加长（纵向生长）的关键结构是？",
+      "prompt": "在儿童和青少年发育时期，直接促使长骨不断加长（纵向生长）的关键结构是？",
+      "answerOptions": [
+        {
+          "text": "骨外膜",
+          "isCorrect": false,
+          "rationale": "骨外膜内层的成骨细胞主要负责骨的横向加粗和创伤修复，而非纵向延伸。"
+        },
+        {
+          "text": "骨髓腔",
+          "isCorrect": false,
+          "rationale": "骨髓腔是容纳骨髓的空腔，其随着破骨细胞吸收内侧骨质而扩大，并不直接促使长骨加长。"
+        },
+        {
+          "text": "关节软骨",
+          "isCorrect": false,
+          "rationale": "关节软骨终生不发生骨化，其主要功能是减少关节面摩擦和缓冲震荡，不直接促进骨干加长。"
+        },
+        {
+          "text": "骺软骨（骺板）",
+          "isCorrect": true,
+          "rationale": "位于骨干与骨骺之间的骺软骨细胞不断分裂增殖和骨化，使长骨长度持续增加，直至成年骨化形成骺线。"
+        }
+      ],
+      "options": [
+        {
+          "text": "骨外膜",
+          "isCorrect": false,
+          "rationale": "骨外膜内层的成骨细胞主要负责骨的横向加粗和创伤修复，而非纵向延伸。"
+        },
+        {
+          "text": "骨髓腔",
+          "isCorrect": false,
+          "rationale": "骨髓腔是容纳骨髓的空腔，其随着破骨细胞吸收内侧骨质而扩大，并不直接促使长骨加长。"
+        },
+        {
+          "text": "关节软骨",
+          "isCorrect": false,
+          "rationale": "关节软骨终生不发生骨化，其主要功能是减少关节面摩擦和缓冲震荡，不直接促进骨干加长。"
+        },
+        {
+          "text": "骺软骨（骺板）",
+          "isCorrect": true,
+          "rationale": "位于骨干与骨骺之间的骺软骨细胞不断分裂增殖和骨化，使长骨长度持续增加，直至成年骨化形成骺线。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考位于骨干与骨骺之间能够不断增殖和骨化的软骨结构。",
+      "id": 2
+    },
+    {
+      "c": "3",
+      "type": "single_choice",
+      "question": "某老年患者因轻微跌倒即发生股骨颈骨折。从骨的化学成分与物理性质变化的角度分析，其主要原因是？",
+      "prompt": "某老年患者因轻微跌倒即发生股骨颈骨折。从骨的化学成分与物理性质变化的角度分析，其主要原因是？",
+      "answerOptions": [
+        {
+          "text": "骨质中羟基磷灰石完全流失，导致骨骼仅由胶原纤维束构成而失去支撑力。",
+          "isCorrect": false,
+          "rationale": "老年性骨质疏松是骨组织总量的减少和微结构破坏，并非无机骨盐完全流失。"
+        },
+        {
+          "text": "骨膜成骨活性异常亢进，导致骨密质过度增厚而丧失应有的弹性。",
+          "isCorrect": false,
+          "rationale": "老年期骨膜成骨活性通常处于相对静止状态，骨质疏松表现为骨量减少而非骨质过度增厚。"
+        },
+        {
+          "text": "骨有机质比例远高于无机质，导致骨骼变得过于柔软易弯曲变形。",
+          "isCorrect": false,
+          "rationale": "有机质比例高（如幼年时期）会使骨富有弹性且柔软易变形，而老年人则是无机质相对增多、骨质变脆。"
+        },
+        {
+          "text": "骨无机质比例增高，且因激素水平改变等导致骨质疏松、呈现多孔性，使骨的脆性显著增加。",
+          "isCorrect": true,
+          "rationale": "随年龄增长，骨无机质比例增加且骨量因激素下降等减少，导致骨质疏松多孔，抗冲击力下降而易骨折。"
+        }
+      ],
+      "options": [
+        {
+          "text": "骨质中羟基磷灰石完全流失，导致骨骼仅由胶原纤维束构成而失去支撑力。",
+          "isCorrect": false,
+          "rationale": "老年性骨质疏松是骨组织总量的减少和微结构破坏，并非无机骨盐完全流失。"
+        },
+        {
+          "text": "骨膜成骨活性异常亢进，导致骨密质过度增厚而丧失应有的弹性。",
+          "isCorrect": false,
+          "rationale": "老年期骨膜成骨活性通常处于相对静止状态，骨质疏松表现为骨量减少而非骨质过度增厚。"
+        },
+        {
+          "text": "骨有机质比例远高于无机质，导致骨骼变得过于柔软易弯曲变形。",
+          "isCorrect": false,
+          "rationale": "有机质比例高（如幼年时期）会使骨富有弹性且柔软易变形，而老年人则是无机质相对增多、骨质变脆。"
+        },
+        {
+          "text": "骨无机质比例增高，且因激素水平改变等导致骨质疏松、呈现多孔性，使骨的脆性显著增加。",
+          "isCorrect": true,
+          "rationale": "随年龄增长，骨无机质比例增加且骨量因激素下降等减少，导致骨质疏松多孔，抗冲击力下降而易骨折。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "对比幼儿与老年人骨中无机盐与有机物的比例差异及骨质微结构变化。",
+      "id": 3
+    },
+    {
+      "c": "4",
+      "type": "single_choice",
+      "question": "在解剖学标本观察中，若发现一块椎骨的椎体较小、横突上有横突孔，且棘突末端分叉，则该椎骨属于？",
+      "prompt": "在解剖学标本观察中，若发现一块椎骨的椎体较小、横突上有横突孔，且棘突末端分叉，则该椎骨属于？",
+      "answerOptions": [
+        {
+          "text": "颈椎",
+          "isCorrect": true,
+          "rationale": "横突孔（内有椎动脉通过）和末端分叉的棘突是颈椎所独有的典型特征。"
+        },
+        {
+          "text": "胸椎",
+          "isCorrect": false,
+          "rationale": "胸椎椎体呈心形，两侧有肋凹与肋骨相关节，棘突较长且斜向后下方呈叠瓦状排列。"
+        },
+        {
+          "text": "腰椎",
+          "isCorrect": false,
+          "rationale": "腰椎椎体粗大呈肾形，棘突呈板状水平向后，无横突孔和肋凹。"
+        },
+        {
+          "text": "骶椎",
+          "isCorrect": false,
+          "rationale": "成人5块骶椎融合成一块三角形的骶骨，不具备独立的横突孔和分叉棘突结构。"
+        }
+      ],
+      "options": [
+        {
+          "text": "颈椎",
+          "isCorrect": true,
+          "rationale": "横突孔（内有椎动脉通过）和末端分叉的棘突是颈椎所独有的典型特征。"
+        },
+        {
+          "text": "胸椎",
+          "isCorrect": false,
+          "rationale": "胸椎椎体呈心形，两侧有肋凹与肋骨相关节，棘突较长且斜向后下方呈叠瓦状排列。"
+        },
+        {
+          "text": "腰椎",
+          "isCorrect": false,
+          "rationale": "腰椎椎体粗大呈肾形，棘突呈板状水平向后，无横突孔和肋凹。"
+        },
+        {
+          "text": "骶椎",
+          "isCorrect": false,
+          "rationale": "成人5块骶椎融合成一块三角形的骶骨，不具备独立的横突孔和分叉棘突结构。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆哪类椎骨具有穿行椎动脉的特有孔洞。",
+      "id": 4
+    },
+    {
+      "c": "5",
+      "type": "single_choice",
+      "question": "膝关节为了增加关节面的吻合度并有效缓冲运动震荡，在其关节腔内特有的纤维软骨结构是？",
+      "prompt": "膝关节为了增加关节面的吻合度并有效缓冲运动震荡，在其关节腔内特有的纤维软骨结构是？",
+      "answerOptions": [
+        {
+          "text": "髌韧带",
+          "isCorrect": false,
+          "rationale": "髌韧带是股四头肌肌腱延伸部分，属于关节囊外的囊外韧带。"
+        },
+        {
+          "text": "关节唇",
+          "isCorrect": false,
+          "rationale": "关节唇（如肩臼唇、髋臼唇）是附着于关节窝周缘的纤维软骨环，主要起加深关节窝的作用，而非位于腔内垫平关节面。"
+        },
+        {
+          "text": "半月板",
+          "isCorrect": true,
+          "rationale": "膝关节腔内的内、外侧半月板垫在股骨髁与胫骨髁之间，能加深关节窝、适应关节面形状并缓冲震荡。"
+        },
+        {
+          "text": "交叉韧带",
+          "isCorrect": false,
+          "rationale": "膝交叉韧带位于关节囊内，主要作用是限制胫骨的前后移动，不属于垫在关节面之间的半月板/关节盘结构。"
+        }
+      ],
+      "options": [
+        {
+          "text": "髌韧带",
+          "isCorrect": false,
+          "rationale": "髌韧带是股四头肌肌腱延伸部分，属于关节囊外的囊外韧带。"
+        },
+        {
+          "text": "关节唇",
+          "isCorrect": false,
+          "rationale": "关节唇（如肩臼唇、髋臼唇）是附着于关节窝周缘的纤维软骨环，主要起加深关节窝的作用，而非位于腔内垫平关节面。"
+        },
+        {
+          "text": "半月板",
+          "isCorrect": true,
+          "rationale": "膝关节腔内的内、外侧半月板垫在股骨髁与胫骨髁之间，能加深关节窝、适应关节面形状并缓冲震荡。"
+        },
+        {
+          "text": "交叉韧带",
+          "isCorrect": false,
+          "rationale": "膝交叉韧带位于关节囊内，主要作用是限制胫骨的前后移动，不属于垫在关节面之间的半月板/关节盘结构。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "寻找垫在股骨髁与胫骨髁之间、呈半月形的纤维软骨结构。",
+      "id": 5
+    },
+    {
+      "c": "6",
+      "type": "single_choice",
+      "question": "成人髋骨是由多块骨在幼年期通过软骨连结，至16岁左右完全融合而成的复合骨。下列哪项结构是由这三块骨共同参与融合形成的？",
+      "prompt": "成人髋骨是由多块骨在幼年期通过软骨连结，至16岁左右完全融合而成的复合骨。下列哪项结构是由这三块骨共同参与融合形成的？",
+      "answerOptions": [
+        {
+          "text": "髂骨翼",
+          "isCorrect": false,
+          "rationale": "髂骨翼是髂骨上部扁阔的部分，仅属于髂骨自身结构。"
+        },
+        {
+          "text": "髋臼",
+          "isCorrect": true,
+          "rationale": "髋臼由髂骨体（上2/5）、坐骨体（后下2/5）和耻骨体（前下1/5）三者共同汇合融合而成。"
+        },
+        {
+          "text": "闭孔",
+          "isCorrect": false,
+          "rationale": "闭孔是由耻骨支和坐骨支围成的孔洞，髂骨并不参与其构成。"
+        },
+        {
+          "text": "坐骨结节",
+          "isCorrect": false,
+          "rationale": "坐骨结节位于坐骨体的后下部，是坐位时的承重焦点，不包含髂骨与耻骨成分。"
+        }
+      ],
+      "options": [
+        {
+          "text": "髂骨翼",
+          "isCorrect": false,
+          "rationale": "髂骨翼是髂骨上部扁阔的部分，仅属于髂骨自身结构。"
+        },
+        {
+          "text": "髋臼",
+          "isCorrect": true,
+          "rationale": "髋臼由髂骨体（上2/5）、坐骨体（后下2/5）和耻骨体（前下1/5）三者共同汇合融合而成。"
+        },
+        {
+          "text": "闭孔",
+          "isCorrect": false,
+          "rationale": "闭孔是由耻骨支和坐骨支围成的孔洞，髂骨并不参与其构成。"
+        },
+        {
+          "text": "坐骨结节",
+          "isCorrect": false,
+          "rationale": "坐骨结节位于坐骨体的后下部，是坐位时的承重焦点，不包含髂骨与耻骨成分。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆髋骨的三块组成骨（髂骨、坐骨、耻骨）在何处汇合接合。",
+      "id": 6
+    },
+    {
+      "c": "7",
+      "type": "single_choice",
+      "question": "与肩关节相比，膝关节在结构特点与功能适应上的显著区别是？",
+      "prompt": "与肩关节相比，膝关节在结构特点与功能适应上的显著区别是？",
+      "answerOptions": [
+        {
+          "text": "膝关节关节囊坚韧，内部有交叉韧带和半月板，牺牲了部分运动灵活性以换取极高的稳固性和承重能力。",
+          "isCorrect": true,
+          "rationale": "下肢关节以稳固性和承重为主，膝关节通过坚韧韧带和半月板强化稳定性；肩关节则以运动灵活为首要特征。"
+        },
+        {
+          "text": "膝关节关节囊薄而松弛，主要依靠周围丰富的肌肉和肌腱来维持关节稳定性。",
+          "isCorrect": false,
+          "rationale": "关节囊薄而松弛、依靠周围肌肉韧带维持稳定是肩关节的典型结构特征。"
+        },
+        {
+          "text": "膝关节由股骨下端、胫骨上端、腓骨上端和髌骨共同构成一个统一的关节腔。",
+          "isCorrect": false,
+          "rationale": "腓骨不参与构成膝关节，膝关节仅由股骨下端、胫骨上端和髌骨构成。"
+        },
+        {
+          "text": "膝关节属于典型的多轴球窝关节，能够进行屈伸、收展及幅度极大的环转运动。",
+          "isCorrect": false,
+          "rationale": "膝关节主要属于屈干（滑车）关节，主要进行屈伸运动，不能进行多轴球窝式的广泛环转。"
+        }
+      ],
+      "options": [
+        {
+          "text": "膝关节关节囊坚韧，内部有交叉韧带和半月板，牺牲了部分运动灵活性以换取极高的稳固性和承重能力。",
+          "isCorrect": true,
+          "rationale": "下肢关节以稳固性和承重为主，膝关节通过坚韧韧带和半月板强化稳定性；肩关节则以运动灵活为首要特征。"
+        },
+        {
+          "text": "膝关节关节囊薄而松弛，主要依靠周围丰富的肌肉和肌腱来维持关节稳定性。",
+          "isCorrect": false,
+          "rationale": "关节囊薄而松弛、依靠周围肌肉韧带维持稳定是肩关节的典型结构特征。"
+        },
+        {
+          "text": "膝关节由股骨下端、胫骨上端、腓骨上端和髌骨共同构成一个统一的关节腔。",
+          "isCorrect": false,
+          "rationale": "腓骨不参与构成膝关节，膝关节仅由股骨下端、胫骨上端和髌骨构成。"
+        },
+        {
+          "text": "膝关节属于典型的多轴球窝关节，能够进行屈伸、收展及幅度极大的环转运动。",
+          "isCorrect": false,
+          "rationale": "膝关节主要属于屈干（滑车）关节，主要进行屈伸运动，不能进行多轴球窝式的广泛环转。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "对比上肢关节与下肢关节在灵活性与稳固性需求上的差异。",
+      "id": 7
+    },
+    {
+      "c": "8",
+      "type": "single_choice",
+      "question": "颅盖骨（如顶骨、额骨）在胚胎发育过程中的骨化方式主要是？",
+      "prompt": "颅盖骨（如顶骨、额骨）在胚胎发育过程中的骨化方式主要是？",
+      "answerOptions": [
+        {
+          "text": "膜化骨（膜内化骨）",
+          "isCorrect": true,
+          "rationale": "颅盖骨和面颅骨直接在间充质膜的基础上骨化形成，称为膜化骨。"
+        },
+        {
+          "text": "异位骨化",
+          "isCorrect": false,
+          "rationale": "异位骨化是指在非骨组织（如肌肉、韧带）中发生的病理性骨形成，不属于正常的胚胎骨发育模式。"
+        },
+        {
+          "text": "种先化骨",
+          "isCorrect": false,
+          "rationale": "解剖学与胚胎学中并无“种先化骨”这一概念。"
+        },
+        {
+          "text": "软骨化骨",
+          "isCorrect": false,
+          "rationale": "软骨化骨是指先形成软骨模型再骨化的方式，多见于长骨、短骨及颅底骨。"
+        }
+      ],
+      "options": [
+        {
+          "text": "膜化骨（膜内化骨）",
+          "isCorrect": true,
+          "rationale": "颅盖骨和面颅骨直接在间充质膜的基础上骨化形成，称为膜化骨。"
+        },
+        {
+          "text": "异位骨化",
+          "isCorrect": false,
+          "rationale": "异位骨化是指在非骨组织（如肌肉、韧带）中发生的病理性骨形成，不属于正常的胚胎骨发育模式。"
+        },
+        {
+          "text": "种先化骨",
+          "isCorrect": false,
+          "rationale": "解剖学与胚胎学中并无“种先化骨”这一概念。"
+        },
+        {
+          "text": "软骨化骨",
+          "isCorrect": false,
+          "rationale": "软骨化骨是指先形成软骨模型再骨化的方式，多见于长骨、短骨及颅底骨。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分在间充质膜基础上直接骨化与先形成软骨雏形再骨化的两类方式。",
+      "id": 8
+    },
+    {
+      "c": "9",
+      "type": "single_choice",
+      "question": "根据骨的形态分类，髌骨属于哪一类骨？",
+      "prompt": "根据骨的形态分类，髌骨属于哪一类骨？",
+      "answerOptions": [
+        {
+          "text": "长骨",
+          "isCorrect": false,
+          "rationale": "长骨呈长管状，主要分布于四肢，而髌骨不具有长管状结构和髓腔。"
+        },
+        {
+          "text": "圆骨",
+          "isCorrect": true,
+          "rationale": "髌骨位于膝关节前方，按骨的形态分类属于圆骨（籽骨）。"
+        },
+        {
+          "text": "扁骨",
+          "isCorrect": false,
+          "rationale": "扁骨呈板状，主要分布于颅骨、胸部及骨盆，不属于髌骨的分类形态。"
+        },
+        {
+          "text": "短骨",
+          "isCorrect": false,
+          "rationale": "短骨近立方形，主要分布于手腕和足跗部，髌骨有其特定的圆骨分类。"
+        }
+      ],
+      "options": [
+        {
+          "text": "长骨",
+          "isCorrect": false,
+          "rationale": "长骨呈长管状，主要分布于四肢，而髌骨不具有长管状结构和髓腔。"
+        },
+        {
+          "text": "圆骨",
+          "isCorrect": true,
+          "rationale": "髌骨位于膝关节前方，按骨的形态分类属于圆骨（籽骨）。"
+        },
+        {
+          "text": "扁骨",
+          "isCorrect": false,
+          "rationale": "扁骨呈板状，主要分布于颅骨、胸部及骨盆，不属于髌骨的分类形态。"
+        },
+        {
+          "text": "短骨",
+          "isCorrect": false,
+          "rationale": "短骨近立方形，主要分布于手腕和足跗部，髌骨有其特定的圆骨分类。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "考虑髌骨呈圆形或籽粒状包埋于肌腱内的特定形态特征。",
+      "id": 9
+    },
+    {
+      "c": "10",
+      "type": "single_choice",
+      "question": "幼年时期，长骨的骨干与骨骺之间存在骺软骨。骺软骨的主要生理功能是什么？",
+      "prompt": "幼年时期，长骨的骨干与骨骺之间存在骺软骨。骺软骨的主要生理功能是什么？",
+      "answerOptions": [
+        {
+          "text": "分泌滑液以减少关节摩擦",
+          "isCorrect": false,
+          "rationale": "滑液由滑膜关节内部的滑膜层分泌，与骺软骨的生长功能无关。"
+        },
+        {
+          "text": "充填髓腔并维持造血功能",
+          "isCorrect": false,
+          "rationale": "造血功能由充填于髓腔和骨松质网眼内的红骨髓承担，而非骺软骨。"
+        },
+        {
+          "text": "使骨不断加长",
+          "isCorrect": true,
+          "rationale": "幼年时骺软骨细胞不断增殖和骨化，使长骨向两端增加长度，完成纵向生长。"
+        },
+        {
+          "text": "使骨不断加粗",
+          "isCorrect": false,
+          "rationale": "骨的横向加粗主要依靠骨膜内层的骨细胞进行成骨活动。"
+        }
+      ],
+      "options": [
+        {
+          "text": "分泌滑液以减少关节摩擦",
+          "isCorrect": false,
+          "rationale": "滑液由滑膜关节内部的滑膜层分泌，与骺软骨的生长功能无关。"
+        },
+        {
+          "text": "充填髓腔并维持造血功能",
+          "isCorrect": false,
+          "rationale": "造血功能由充填于髓腔和骨松质网眼内的红骨髓承担，而非骺软骨。"
+        },
+        {
+          "text": "使骨不断加长",
+          "isCorrect": true,
+          "rationale": "幼年时骺软骨细胞不断增殖和骨化，使长骨向两端增加长度，完成纵向生长。"
+        },
+        {
+          "text": "使骨不断加粗",
+          "isCorrect": false,
+          "rationale": "骨的横向加粗主要依靠骨膜内层的骨细胞进行成骨活动。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考儿童及青少年时期长骨实现身高增长的生长机制。",
+      "id": 10
+    },
+    {
+      "c": "11",
+      "type": "single_choice",
+      "question": "在骨组织的细胞类型中，能够形成类骨质并促进骨组织钙化的细胞是？",
+      "prompt": "在骨组织的细胞类型中，能够形成类骨质并促进骨组织钙化的细胞是？",
+      "answerOptions": [
+        {
+          "text": "骨细胞",
+          "isCorrect": false,
+          "rationale": "骨细胞是成熟后埋入骨基质中的细胞，主要维持骨基质的代谢，不承担大量生成类骨质的功能。"
+        },
+        {
+          "text": "破骨细胞",
+          "isCorrect": false,
+          "rationale": "破骨细胞通过释放溶酶体酶和乳酸，专门负责骨质的溶解与吸收。"
+        },
+        {
+          "text": "成骨细胞",
+          "isCorrect": true,
+          "rationale": "成骨细胞负责合成和分泌未钙化的细胞外基质（类骨质），并调节骨盐沉着促进钙化。"
+        },
+        {
+          "text": "骨原细胞",
+          "isCorrect": false,
+          "rationale": "骨原细胞是干细胞，主要通过分裂分化为成骨细胞或成软骨细胞。"
+        }
+      ],
+      "options": [
+        {
+          "text": "骨细胞",
+          "isCorrect": false,
+          "rationale": "骨细胞是成熟后埋入骨基质中的细胞，主要维持骨基质的代谢，不承担大量生成类骨质的功能。"
+        },
+        {
+          "text": "破骨细胞",
+          "isCorrect": false,
+          "rationale": "破骨细胞通过释放溶酶体酶和乳酸，专门负责骨质的溶解与吸收。"
+        },
+        {
+          "text": "成骨细胞",
+          "isCorrect": true,
+          "rationale": "成骨细胞负责合成和分泌未钙化的细胞外基质（类骨质），并调节骨盐沉着促进钙化。"
+        },
+        {
+          "text": "骨原细胞",
+          "isCorrect": false,
+          "rationale": "骨原细胞是干细胞，主要通过分裂分化为成骨细胞或成软骨细胞。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分骨组织中负责建造新骨与负责吸收旧骨的不同细胞类型。",
+      "id": 11
+    },
+    {
+      "c": "12",
+      "type": "single_choice",
+      "question": "在长骨骨干的密质骨结构中，最主要的结构单位是什么？",
+      "prompt": "在长骨骨干的密质骨结构中，最主要的结构单位是什么？",
+      "answerOptions": [
+        {
+          "text": "骨单位（哈弗斯系统）",
+          "isCorrect": true,
+          "rationale": "骨单位由同心圆排列的骨板围绕中央管构成，是骨密质起承担重力和抗压作用的基本结构单位。"
+        },
+        {
+          "text": "外环骨板",
+          "isCorrect": false,
+          "rationale": "外环骨板环绕于骨干外表面下方，并非骨密质内部的主要建构单元。"
+        },
+        {
+          "text": "间骨板",
+          "isCorrect": false,
+          "rationale": "间骨板充填于骨单位之间或骨单位与环骨板之间，是旧骨单位吸收后的残留结构。"
+        },
+        {
+          "text": "骨小梁",
+          "isCorrect": false,
+          "rationale": "骨小梁是骨松质内交错形成的海绵状结构，不属于骨密质的建构单位。"
+        }
+      ],
+      "options": [
+        {
+          "text": "骨单位（哈弗斯系统）",
+          "isCorrect": true,
+          "rationale": "骨单位由同心圆排列的骨板围绕中央管构成，是骨密质起承担重力和抗压作用的基本结构单位。"
+        },
+        {
+          "text": "外环骨板",
+          "isCorrect": false,
+          "rationale": "外环骨板环绕于骨干外表面下方，并非骨密质内部的主要建构单元。"
+        },
+        {
+          "text": "间骨板",
+          "isCorrect": false,
+          "rationale": "间骨板充填于骨单位之间或骨单位与环骨板之间，是旧骨单位吸收后的残留结构。"
+        },
+        {
+          "text": "骨小梁",
+          "isCorrect": false,
+          "rationale": "骨小梁是骨松质内交错形成的海绵状结构，不属于骨密质的建构单位。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "寻找围绕血管管道（中央管）呈同心圆排列的密质骨核心建构单元。",
+      "id": 12
+    },
+    {
+      "c": "13",
+      "type": "single_choice",
+      "question": "骨塑建（bone modeling）使骨的形态和大小发生改变。其中长骨的横向加粗主要依赖于下列哪项结构？",
+      "prompt": "骨塑建（bone modeling）使骨的形态和大小发生改变。其中长骨的横向加粗主要依赖于下列哪项结构？",
+      "answerOptions": [
+        {
+          "text": "关节软骨的增殖与骨化",
+          "isCorrect": false,
+          "rationale": "关节软骨覆盖于关节面起减震和保护作用，不参与骨干直径的横向加粗。"
+        },
+        {
+          "text": "骨膜中的骨组织细胞",
+          "isCorrect": true,
+          "rationale": "骨膜内层的骨原细胞和成骨细胞在骨表面不断进行单向骨形成，使骨干横向增粗。"
+        },
+        {
+          "text": "骺板（骺软骨）的成骨活动",
+          "isCorrect": false,
+          "rationale": "骺板的成骨活动主要负责长骨的纵向加长。"
+        },
+        {
+          "text": "髓腔内黄骨髓的沉积",
+          "isCorrect": false,
+          "rationale": "黄骨髓充填于髓腔内部，属于脂肪组织，不直接参与骨壁外侧的加粗。"
+        }
+      ],
+      "options": [
+        {
+          "text": "关节软骨的增殖与骨化",
+          "isCorrect": false,
+          "rationale": "关节软骨覆盖于关节面起减震和保护作用，不参与骨干直径的横向加粗。"
+        },
+        {
+          "text": "骨膜中的骨组织细胞",
+          "isCorrect": true,
+          "rationale": "骨膜内层的骨原细胞和成骨细胞在骨表面不断进行单向骨形成，使骨干横向增粗。"
+        },
+        {
+          "text": "骺板（骺软骨）的成骨活动",
+          "isCorrect": false,
+          "rationale": "骺板的成骨活动主要负责长骨的纵向加长。"
+        },
+        {
+          "text": "髓腔内黄骨髓的沉积",
+          "isCorrect": false,
+          "rationale": "黄骨髓充填于髓腔内部，属于脂肪组织，不直接参与骨壁外侧的加粗。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分长骨纵向加长与横向加粗的生理部位差异。",
+      "id": 13
+    },
+    {
+      "c": "14",
+      "type": "single_choice",
+      "question": "在骨同一部位发生微量骨质循环代谢，通过骨形成与骨吸收维持骨量稳定且不改变骨形态大小的过程称为什么？",
+      "prompt": "在骨同一部位发生微量骨质循环代谢，通过骨形成与骨吸收维持骨量稳定且不改变骨形态大小的过程称为什么？",
+      "answerOptions": [
+        {
+          "text": "膜化骨（intramembranous ossification）",
+          "isCorrect": false,
+          "rationale": "膜化骨是间充质先形成膜再骨化的骨发生方式，多见于扁骨。"
+        },
+        {
+          "text": "骨重建（bone remodeling）",
+          "isCorrect": true,
+          "rationale": "骨重建是骨同一部位骨形成与吸收的循环过程，维持骨相对稳定，并不改变骨的形态与大小。"
+        },
+        {
+          "text": "骨塑建（bone modeling）",
+          "isCorrect": false,
+          "rationale": "骨塑建是在不同部位出现单向骨形成与吸收，会导致骨形态和大小发生改变。"
+        },
+        {
+          "text": "软骨化骨（endochondral ossification）",
+          "isCorrect": false,
+          "rationale": "软骨化骨是在软骨雏形基础上骨化的骨发生方式，见于长骨等。"
+        }
+      ],
+      "options": [
+        {
+          "text": "膜化骨（intramembranous ossification）",
+          "isCorrect": false,
+          "rationale": "膜化骨是间充质先形成膜再骨化的骨发生方式，多见于扁骨。"
+        },
+        {
+          "text": "骨重建（bone remodeling）",
+          "isCorrect": true,
+          "rationale": "骨重建是骨同一部位骨形成与吸收的循环过程，维持骨相对稳定，并不改变骨的形态与大小。"
+        },
+        {
+          "text": "骨塑建（bone modeling）",
+          "isCorrect": false,
+          "rationale": "骨塑建是在不同部位出现单向骨形成与吸收，会导致骨形态和大小发生改变。"
+        },
+        {
+          "text": "软骨化骨（endochondral ossification）",
+          "isCorrect": false,
+          "rationale": "软骨化骨是在软骨雏形基础上骨化的骨发生方式，见于长骨等。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "关注定义中“不改变骨形态和大小”这一维持动态平衡的代谢过程。",
+      "id": 14
+    },
+    {
+      "c": "15",
+      "type": "single_choice",
+      "question": "桡尺近侧关节属于单轴关节，能够绕垂直轴做旋转运动。这种关节形态类型被称为？",
+      "prompt": "桡尺近侧关节属于单轴关节，能够绕垂直轴做旋转运动。这种关节形态类型被称为？",
+      "answerOptions": [
+        {
+          "text": "屈戌关节（滑车关节）",
+          "isCorrect": false,
+          "rationale": "屈戌关节绕冠状轴做屈、伸运动，如指间关节。"
+        },
+        {
+          "text": "车轴关节",
+          "isCorrect": true,
+          "rationale": "车轴关节绕垂直轴做旋转运动，如桡尺近侧关节和寰枢中间关节。"
+        },
+        {
+          "text": "椭圆关节",
+          "isCorrect": false,
+          "rationale": "椭圆关节属于双轴关节，可绕冠状轴和矢状轴做屈伸、收展及环转运动。"
+        },
+        {
+          "text": "鞍状关节",
+          "isCorrect": false,
+          "rationale": "鞍状关节属于双轴关节，如拇指腕掌关节。"
+        }
+      ],
+      "options": [
+        {
+          "text": "屈戌关节（滑车关节）",
+          "isCorrect": false,
+          "rationale": "屈戌关节绕冠状轴做屈、伸运动，如指间关节。"
+        },
+        {
+          "text": "车轴关节",
+          "isCorrect": true,
+          "rationale": "车轴关节绕垂直轴做旋转运动，如桡尺近侧关节和寰枢中间关节。"
+        },
+        {
+          "text": "椭圆关节",
+          "isCorrect": false,
+          "rationale": "椭圆关节属于双轴关节，可绕冠状轴和矢状轴做屈伸、收展及环转运动。"
+        },
+        {
+          "text": "鞍状关节",
+          "isCorrect": false,
+          "rationale": "鞍状关节属于双轴关节，如拇指腕掌关节。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "想想转轴或圆柱状形态、绕垂直轴旋转的单轴关节名称。",
+      "id": 15
+    },
+    {
+      "c": "16",
+      "type": "single_choice",
+      "question": "在颅骨解剖中，位于颅底中央、形态似蝴蝶，且拥有“垂体窝”和“视神经管”的骨是？",
+      "prompt": "在颅骨解剖中，位于颅底中央、形态似蝴蝶，且拥有“垂体窝”和“视神经管”的骨是？",
+      "answerOptions": [
+        {
+          "text": "筛骨",
+          "isCorrect": false,
+          "rationale": "筛骨位于颅前窝中央及鼻腔顶，含有筛板、垂直板及筛骨迷路。"
+        },
+        {
+          "text": "颞骨",
+          "isCorrect": false,
+          "rationale": "颞骨位于颅两侧，包含鳞部、鼓部和岩部，不包含垂体窝。"
+        },
+        {
+          "text": "蝶骨",
+          "isCorrect": true,
+          "rationale": "蝶骨位于颅底中央，分为体、大翼、小翼和翼突，体部有垂体窝，小翼交界处有视神经管。"
+        },
+        {
+          "text": "枕骨",
+          "isCorrect": false,
+          "rationale": "枕骨位于颅后下部，含有枕骨大孔和舌下神经管。"
+        }
+      ],
+      "options": [
+        {
+          "text": "筛骨",
+          "isCorrect": false,
+          "rationale": "筛骨位于颅前窝中央及鼻腔顶，含有筛板、垂直板及筛骨迷路。"
+        },
+        {
+          "text": "颞骨",
+          "isCorrect": false,
+          "rationale": "颞骨位于颅两侧，包含鳞部、鼓部和岩部，不包含垂体窝。"
+        },
+        {
+          "text": "蝶骨",
+          "isCorrect": true,
+          "rationale": "蝶骨位于颅底中央，分为体、大翼、小翼和翼突，体部有垂体窝，小翼交界处有视神经管。"
+        },
+        {
+          "text": "枕骨",
+          "isCorrect": false,
+          "rationale": "枕骨位于颅后下部，含有枕骨大孔和舌下神经管。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "提示该骨位于颅底中央，名称与一种会飞的昆虫形状相似。",
+      "id": 16
+    },
+    {
+      "c": "17",
+      "type": "single_choice",
+      "question": "当发生颅底骨折时，脑脊液漏或血管损伤常发生于骨质较为复杂脆弱的部位。下列颞骨的解剖部位中最易发生颅底骨折的是？",
+      "prompt": "当发生颅底骨折时，脑脊液漏或血管损伤常发生于骨质较为复杂脆弱的部位。下列颞骨的解剖部位中最易发生颅底骨折的是？",
+      "answerOptions": [
+        {
+          "text": "岩部",
+          "isCorrect": true,
+          "rationale": "颞骨岩部呈锥体状嵌于颅底，内有前庭蜗器官，骨质薄且孔道多，是颅底骨折的好发部位。"
+        },
+        {
+          "text": "鼓部",
+          "isCorrect": false,
+          "rationale": "鼓部为外耳道周围的骨板，并非颅底骨折最典型的发生部位。"
+        },
+        {
+          "text": "鳞部",
+          "isCorrect": false,
+          "rationale": "鳞部呈薄片状构成颅腔侧壁，不属于颅底的核心骨折易发区。"
+        },
+        {
+          "text": "颧突",
+          "isCorrect": false,
+          "rationale": "颧突向前方伸出与颧骨相接形成颧弓，属于面侧部突出结构。"
+        }
+      ],
+      "options": [
+        {
+          "text": "岩部",
+          "isCorrect": true,
+          "rationale": "颞骨岩部呈锥体状嵌于颅底，内有前庭蜗器官，骨质薄且孔道多，是颅底骨折的好发部位。"
+        },
+        {
+          "text": "鼓部",
+          "isCorrect": false,
+          "rationale": "鼓部为外耳道周围的骨板，并非颅底骨折最典型的发生部位。"
+        },
+        {
+          "text": "鳞部",
+          "isCorrect": false,
+          "rationale": "鳞部呈薄片状构成颅腔侧壁，不属于颅底的核心骨折易发区。"
+        },
+        {
+          "text": "颧突",
+          "isCorrect": false,
+          "rationale": "颧突向前方伸出与颧骨相接形成颧弓，属于面侧部突出结构。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "考虑颞骨中呈锥体状、内部包含听觉与平衡觉器官且位于颅底的部位。",
+      "id": 17
+    },
+    {
+      "c": "18",
+      "type": "single_choice",
+      "question": "新生儿颅顶骨尚未发育完全，骨缝交界处充填结缔组织膜形成颅囟。其中位于矢状缝与冠状缝相接处的颅囟是？",
+      "prompt": "新生儿颅顶骨尚未发育完全，骨缝交界处充填结缔组织膜形成颅囟。其中位于矢状缝与冠状缝相接处的颅囟是？",
+      "answerOptions": [
+        {
+          "text": "蝶囟",
+          "isCorrect": false,
+          "rationale": "蝶囟位于顶骨前下角与蝶骨大翼相邻处。"
+        },
+        {
+          "text": "前囟",
+          "isCorrect": true,
+          "rationale": "前囟位于额骨与两侧顶骨交界处（矢状缝与冠状缝相接处），呈菱形。"
+        },
+        {
+          "text": "乳突囟",
+          "isCorrect": false,
+          "rationale": "乳突囟位于顶骨后下角与颞骨乳突相邻处。"
+        },
+        {
+          "text": "后囟",
+          "isCorrect": false,
+          "rationale": "后囟位于矢状缝与人字缝相接处，呈三角形。"
+        }
+      ],
+      "options": [
+        {
+          "text": "蝶囟",
+          "isCorrect": false,
+          "rationale": "蝶囟位于顶骨前下角与蝶骨大翼相邻处。"
+        },
+        {
+          "text": "前囟",
+          "isCorrect": true,
+          "rationale": "前囟位于额骨与两侧顶骨交界处（矢状缝与冠状缝相接处），呈菱形。"
+        },
+        {
+          "text": "乳突囟",
+          "isCorrect": false,
+          "rationale": "乳突囟位于顶骨后下角与颞骨乳突相邻处。"
+        },
+        {
+          "text": "后囟",
+          "isCorrect": false,
+          "rationale": "后囟位于矢状缝与人字缝相接处，呈三角形。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "该颅囟位于颅顶前部，闭合较晚，呈菱形。",
+      "id": 18
+    },
+    {
+      "c": "19",
+      "type": "single_choice",
+      "question": "颅骨各骨之间绝大多数通过缝、软骨或骨性结合相连，其中唯一的动关节（滑膜关节）是？",
+      "prompt": "颅骨各骨之间绝大多数通过缝、软骨或骨性结合相连，其中唯一的动关节（滑膜关节）是？",
+      "answerOptions": [
+        {
+          "text": "蝶枕结合",
+          "isCorrect": false,
+          "rationale": "蝶枕结合属于软骨结合或骨性结合，不具备关节腔和滑膜。"
+        },
+        {
+          "text": "寰枕关节",
+          "isCorrect": false,
+          "rationale": "寰枕关节是枕骨与第一颈椎（寰椎）之间的连结，属于头脊连结而非颅骨之间的连结。"
+        },
+        {
+          "text": "冠状缝连结",
+          "isCorrect": false,
+          "rationale": "冠状缝属于不动或微动的纤维缝连结。"
+        },
+        {
+          "text": "颞下颌关节",
+          "isCorrect": true,
+          "rationale": "颞下颌关节由下颌骨的下颌头与颞骨的下颌窝及关节结节构成，是颅骨间唯一的滑膜关节。"
+        }
+      ],
+      "options": [
+        {
+          "text": "蝶枕结合",
+          "isCorrect": false,
+          "rationale": "蝶枕结合属于软骨结合或骨性结合，不具备关节腔和滑膜。"
+        },
+        {
+          "text": "寰枕关节",
+          "isCorrect": false,
+          "rationale": "寰枕关节是枕骨与第一颈椎（寰椎）之间的连结，属于头脊连结而非颅骨之间的连结。"
+        },
+        {
+          "text": "冠状缝连结",
+          "isCorrect": false,
+          "rationale": "冠状缝属于不动或微动的纤维缝连结。"
+        },
+        {
+          "text": "颞下颌关节",
+          "isCorrect": true,
+          "rationale": "颞下颌关节由下颌骨的下颌头与颞骨的下颌窝及关节结节构成，是颅骨间唯一的滑膜关节。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "该关节参与张口、闭口及咀嚼等下颌运动。",
+      "id": 19
+    },
+    {
+      "c": "20",
+      "type": "single_choice",
+      "question": "颈椎（C1-C7）在解剖形态上区别于胸椎和腰椎的最显著结构特征是什么？",
+      "prompt": "颈椎（C1-C7）在解剖形态上区别于胸椎和腰椎的最显著结构特征是什么？",
+      "answerOptions": [
+        {
+          "text": "椎体粗壮呈横肾形",
+          "isCorrect": false,
+          "rationale": "椎体高大粗壮呈肾形是腰椎的典型特征。"
+        },
+        {
+          "text": "横突上有横突孔",
+          "isCorrect": true,
+          "rationale": "颈椎横突根部均有横突孔，内有椎动脉和椎静脉穿行，这是颈椎独有的特征。"
+        },
+        {
+          "text": "椎体两侧有上、下肋凹",
+          "isCorrect": false,
+          "rationale": "椎体两侧的肋凹是胸椎与肋骨结合的关节面结构。"
+        },
+        {
+          "text": "棘突长且斜向后下方",
+          "isCorrect": false,
+          "rationale": "棘突长且斜向后下方是胸椎的典型形态特征。"
+        }
+      ],
+      "options": [
+        {
+          "text": "椎体粗壮呈横肾形",
+          "isCorrect": false,
+          "rationale": "椎体高大粗壮呈肾形是腰椎的典型特征。"
+        },
+        {
+          "text": "横突上有横突孔",
+          "isCorrect": true,
+          "rationale": "颈椎横突根部均有横突孔，内有椎动脉和椎静脉穿行，这是颈椎独有的特征。"
+        },
+        {
+          "text": "椎体两侧有上、下肋凹",
+          "isCorrect": false,
+          "rationale": "椎体两侧的肋凹是胸椎与肋骨结合的关节面结构。"
+        },
+        {
+          "text": "棘突长且斜向后下方",
+          "isCorrect": false,
+          "rationale": "棘突长且斜向后下方是胸椎的典型形态特征。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "寻找供椎血管（如椎动脉）向上穿行入颅的独特骨性管道孔洞。",
+      "id": 20
+    },
+    {
+      "c": "21",
+      "type": "single_choice",
+      "question": "临床上进行腰椎穿刺（Lumbar Puncture）抽取脑脊液时，为了避免损伤脊髓，常选择定位的椎骨棘突间隙是？",
+      "prompt": "临床上进行腰椎穿刺（Lumbar Puncture）抽取脑脊液时，为了避免损伤脊髓，常选择定位的椎骨棘突间隙是？",
+      "answerOptions": [
+        {
+          "text": "第1~2腰椎棘突间隙",
+          "isCorrect": false,
+          "rationale": "第1腰椎下缘平对脊髓圆锥终止处，L1~L2间隙穿刺仍有可能误伤脊髓。"
+        },
+        {
+          "text": "第7颈椎与第1胸椎棘突间隙",
+          "isCorrect": false,
+          "rationale": "颈胸交界处内部充填有脊髓，穿刺极易造成严重的脊髓损伤。"
+        },
+        {
+          "text": "第3~4腰椎棘突间隙",
+          "isCorrect": true,
+          "rationale": "成人脊髓下端平对第1腰椎下缘，第3~4（或第4~5）腰椎棘突间隙无脊髓，穿刺安全性极高。"
+        },
+        {
+          "text": "第11~12胸椎棘突间隙",
+          "isCorrect": false,
+          "rationale": "第11~12胸椎平面仍处于脊髓下端位置，穿刺风险极大。"
+        }
+      ],
+      "options": [
+        {
+          "text": "第1~2腰椎棘突间隙",
+          "isCorrect": false,
+          "rationale": "第1腰椎下缘平对脊髓圆锥终止处，L1~L2间隙穿刺仍有可能误伤脊髓。"
+        },
+        {
+          "text": "第7颈椎与第1胸椎棘突间隙",
+          "isCorrect": false,
+          "rationale": "颈胸交界处内部充填有脊髓，穿刺极易造成严重的脊髓损伤。"
+        },
+        {
+          "text": "第3~4腰椎棘突间隙",
+          "isCorrect": true,
+          "rationale": "成人脊髓下端平对第1腰椎下缘，第3~4（或第4~5）腰椎棘突间隙无脊髓，穿刺安全性极高。"
+        },
+        {
+          "text": "第11~12胸椎棘突间隙",
+          "isCorrect": false,
+          "rationale": "第11~12胸椎平面仍处于脊髓下端位置，穿刺风险极大。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "选择位于腰椎中下段、脊髓圆锥已经终止的解剖间隙。",
+      "id": 21
+    },
+    {
+      "c": "22",
+      "type": "single_choice",
+      "question": "胸骨角（Angle of Louis）是临床上重要的体表定位标志。下列关于胸骨角平对关系的叙述中，错误的是？",
+      "prompt": "胸骨角（Angle of Louis）是临床上重要的体表定位标志。下列关于胸骨角平对关系的叙述中，错误的是？",
+      "answerOptions": [
+        {
+          "text": "平对第7颈椎棘突",
+          "isCorrect": true,
+          "rationale": "第7颈椎棘突位于项部下方（隆椎），与胸前壁的胸骨角不在同一个解剖平面。"
+        },
+        {
+          "text": "向后平对第4胸椎体下缘",
+          "isCorrect": false,
+          "rationale": "胸骨角向后延伸的水平面恰好平对第4胸椎体下缘，也是上、下纵隔的分界线。"
+        },
+        {
+          "text": "两侧平对第2肋软骨",
+          "isCorrect": false,
+          "rationale": "胸骨角两侧与第2肋软骨相连，是临床上体表计数肋骨的重要标志。"
+        },
+        {
+          "text": "深部平对左、右主支气管分叉处",
+          "isCorrect": false,
+          "rationale": "胸骨角平面向后深入可平对气管分叉处。"
+        }
+      ],
+      "options": [
+        {
+          "text": "平对第7颈椎棘突",
+          "isCorrect": true,
+          "rationale": "第7颈椎棘突位于项部下方（隆椎），与胸前壁的胸骨角不在同一个解剖平面。"
+        },
+        {
+          "text": "向后平对第4胸椎体下缘",
+          "isCorrect": false,
+          "rationale": "胸骨角向后延伸的水平面恰好平对第4胸椎体下缘，也是上、下纵隔的分界线。"
+        },
+        {
+          "text": "两侧平对第2肋软骨",
+          "isCorrect": false,
+          "rationale": "胸骨角两侧与第2肋软骨相连，是临床上体表计数肋骨的重要标志。"
+        },
+        {
+          "text": "深部平对左、右主支气管分叉处",
+          "isCorrect": false,
+          "rationale": "胸骨角平面向后深入可平对气管分叉处。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "找出哪一项属于项部后方突出的椎骨标志，而非胸前壁胸骨角的平对平面。",
+      "id": 22
+    },
+    {
+      "c": "23",
+      "type": "single_choice",
+      "question": "锁骨呈“S”形弯曲，内侧 $2/3$ 凸向前，外侧 $1/3$ 凸向后。临床上锁骨发生骨折的最常见部位是？",
+      "prompt": "锁骨呈“S”形弯曲，内侧 $2/3$ 凸向前，外侧 $1/3$ 凸向后。临床上锁骨发生骨折的最常见部位是？",
+      "answerOptions": [
+        {
+          "text": "肩峰端关节面处",
+          "isCorrect": false,
+          "rationale": "肩峰端外侧较平扁，骨折发生率低于中外交界处。"
+        },
+        {
+          "text": "锁骨中段最前凸点",
+          "isCorrect": false,
+          "rationale": "解剖学上最典型的易骨折点是凸度转变的内侧 $2/3$ 与外侧 $1/3$ 交界处。"
+        },
+        {
+          "text": "胸骨端关节面处",
+          "isCorrect": false,
+          "rationale": "胸骨端有坚韧的胸锁韧带加固，发生骨折的概率较低。"
+        },
+        {
+          "text": "内侧 $2/3$ 与外侧 $1/3$ 交界处",
+          "isCorrect": true,
+          "rationale": "锁骨在内凸与外凸的交界转换处形态突变，应力集中，最易发生骨折。"
+        }
+      ],
+      "options": [
+        {
+          "text": "肩峰端关节面处",
+          "isCorrect": false,
+          "rationale": "肩峰端外侧较平扁，骨折发生率低于中外交界处。"
+        },
+        {
+          "text": "锁骨中段最前凸点",
+          "isCorrect": false,
+          "rationale": "解剖学上最典型的易骨折点是凸度转变的内侧 $2/3$ 与外侧 $1/3$ 交界处。"
+        },
+        {
+          "text": "胸骨端关节面处",
+          "isCorrect": false,
+          "rationale": "胸骨端有坚韧的胸锁韧带加固，发生骨折的概率较低。"
+        },
+        {
+          "text": "内侧 $2/3$ 与外侧 $1/3$ 交界处",
+          "isCorrect": true,
+          "rationale": "锁骨在内凸与外凸的交界转换处形态突变，应力集中，最易发生骨折。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "考虑锁骨从向前凸转变为向后凸的弯曲转折薄弱点。",
+      "id": 23
+    },
+    {
+      "c": "24",
+      "type": "single_choice",
+      "question": "手骨中的腕骨共有8块短骨，分为近侧列和远侧列。下列哪一块骨属于近侧列腕骨？",
+      "prompt": "手骨中的腕骨共有8块短骨，分为近侧列和远侧列。下列哪一块骨属于近侧列腕骨？",
+      "answerOptions": [
+        {
+          "text": "头状骨",
+          "isCorrect": false,
+          "rationale": "头状骨属于远侧列腕骨，位于远侧列中央。"
+        },
+        {
+          "text": "钩骨",
+          "isCorrect": false,
+          "rationale": "钩骨属于远侧列腕骨，位于远侧列尺侧。"
+        },
+        {
+          "text": "大多角骨",
+          "isCorrect": false,
+          "rationale": "大多角骨属于远侧列腕骨，与第一掌骨相关节。"
+        },
+        {
+          "text": "月骨",
+          "isCorrect": true,
+          "rationale": "近侧列腕骨由桡侧向尺侧依次为手舟骨、月骨、三角骨和豌豆骨。"
+        }
+      ],
+      "options": [
+        {
+          "text": "头状骨",
+          "isCorrect": false,
+          "rationale": "头状骨属于远侧列腕骨，位于远侧列中央。"
+        },
+        {
+          "text": "钩骨",
+          "isCorrect": false,
+          "rationale": "钩骨属于远侧列腕骨，位于远侧列尺侧。"
+        },
+        {
+          "text": "大多角骨",
+          "isCorrect": false,
+          "rationale": "大多角骨属于远侧列腕骨，与第一掌骨相关节。"
+        },
+        {
+          "text": "月骨",
+          "isCorrect": true,
+          "rationale": "近侧列腕骨由桡侧向尺侧依次为手舟骨、月骨、三角骨和豌豆骨。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆近侧列四块腕骨（手舟、月、三角、豌豆）的解剖名称。",
+      "id": 24
+    },
+    {
+      "c": "25",
+      "type": "single_choice",
+      "question": "膝关节是人体结构最复杂的关节，其关节腔内能够有效限制胫骨相对于股骨向前移位的韧带是？",
+      "prompt": "膝关节是人体结构最复杂的关节，其关节腔内能够有效限制胫骨相对于股骨向前移位的韧带是？",
+      "answerOptions": [
+        {
+          "text": "后交叉韧带",
+          "isCorrect": false,
+          "rationale": "后交叉韧带起自胫骨髁间隆起后方，防止胫骨相对于股骨向后移位。"
+        },
+        {
+          "text": "胫侧副韧带",
+          "isCorrect": false,
+          "rationale": "胫侧副韧带位于膝关节内侧囊外，主要防止膝关节过度外翻。"
+        },
+        {
+          "text": "髌韧带",
+          "isCorrect": false,
+          "rationale": "髌韧带位于膝关节前方，连结髌骨尖与胫骨粗隆，传导股四头肌张力。"
+        },
+        {
+          "text": "前交叉韧带",
+          "isCorrect": true,
+          "rationale": "前交叉韧带起自胫骨髁间隆起前方，斜向后上方止于股骨外侧髁内侧面，主要限制胫骨前移。"
+        }
+      ],
+      "options": [
+        {
+          "text": "后交叉韧带",
+          "isCorrect": false,
+          "rationale": "后交叉韧带起自胫骨髁间隆起后方，防止胫骨相对于股骨向后移位。"
+        },
+        {
+          "text": "胫侧副韧带",
+          "isCorrect": false,
+          "rationale": "胫侧副韧带位于膝关节内侧囊外，主要防止膝关节过度外翻。"
+        },
+        {
+          "text": "髌韧带",
+          "isCorrect": false,
+          "rationale": "髌韧带位于膝关节前方，连结髌骨尖与胫骨粗隆，传导股四头肌张力。"
+        },
+        {
+          "text": "前交叉韧带",
+          "isCorrect": true,
+          "rationale": "前交叉韧带起自胫骨髁间隆起前方，斜向后上方止于股骨外侧髁内侧面，主要限制胫骨前移。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分关节腔内交叉韧带中“前”与“后”分别限制胫骨移动的方向。",
+      "id": 25
+    },
+    {
+      "c": "26",
+      "type": "multiple_select",
+      "question": "骨膜对骨的生存、营养与修复至关重要。关于骨膜结构与功能的叙述，正确的有？",
+      "prompt": "骨膜对骨的生存、营养与修复至关重要。关于骨膜结构与功能的叙述，正确的有？",
+      "answerOptions": [
+        {
+          "text": "骨外膜内层含有成骨细胞和骨原细胞，具有骨生长与创伤修复作用。",
+          "isCorrect": true,
+          "rationale": "骨膜内层的细胞具有分化能力，在骨折或生长发育期可分化为成骨细胞产生新骨质。"
+        },
+        {
+          "text": "骨膜完整包被在骨的所有表面，包括关节面和髓腔内面。",
+          "isCorrect": false,
+          "rationale": "骨膜覆于关节面以外的骨表面，关节面表面覆有光滑的关节软骨，而髓腔内面衬有骨内膜。"
+        },
+        {
+          "text": "穿通纤维（Sharpey's fibers）将骨外膜外层的致密胶原纤维束穿入骨质中，使骨膜牢固固着于骨面。",
+          "isCorrect": true,
+          "rationale": "骨外膜外层的胶原纤维束穿入骨质形成穿通纤维，保证骨膜与骨质表面紧密结合而不易剥离。"
+        },
+        {
+          "text": "骨膜内分布有丰富的感受张力和撕扯刺激的躯体传入神经纤维。",
+          "isCorrect": true,
+          "rationale": "骨膜对张力或撕扯等机械刺激非常敏感，因此骨折或骨膜下脓肿会引起剧烈的痛觉反应。"
+        }
+      ],
+      "options": [
+        {
+          "text": "骨外膜内层含有成骨细胞和骨原细胞，具有骨生长与创伤修复作用。",
+          "isCorrect": true,
+          "rationale": "骨膜内层的细胞具有分化能力，在骨折或生长发育期可分化为成骨细胞产生新骨质。"
+        },
+        {
+          "text": "骨膜完整包被在骨的所有表面，包括关节面和髓腔内面。",
+          "isCorrect": false,
+          "rationale": "骨膜覆于关节面以外的骨表面，关节面表面覆有光滑的关节软骨，而髓腔内面衬有骨内膜。"
+        },
+        {
+          "text": "穿通纤维（Sharpey's fibers）将骨外膜外层的致密胶原纤维束穿入骨质中，使骨膜牢固固着于骨面。",
+          "isCorrect": true,
+          "rationale": "骨外膜外层的胶原纤维束穿入骨质形成穿通纤维，保证骨膜与骨质表面紧密结合而不易剥离。"
+        },
+        {
+          "text": "骨膜内分布有丰富的感受张力和撕扯刺激的躯体传入神经纤维。",
+          "isCorrect": true,
+          "rationale": "骨膜对张力或撕扯等机械刺激非常敏感，因此骨折或骨膜下脓肿会引起剧烈的痛觉反应。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "考虑骨膜的层次分布、神经支配以及与关节面和髓腔的位置关系。",
+      "id": 26
+    },
+    {
+      "c": "27",
+      "type": "multiple_select",
+      "question": "关于胸廓的构成与呼吸运动机制，下列叙述正确的有？",
+      "prompt": "关于胸廓的构成与呼吸运动机制，下列叙述正确的有？",
+      "answerOptions": [
+        {
+          "text": "胸廓由12块胸椎、12对肋骨、1块胸骨以及它们之间的连结共同围成。",
+          "isCorrect": true,
+          "rationale": "胸廓的骨性支架由后方的胸椎、两侧的肋骨和前方的胸骨共同构成，保护胸腔脏器。"
+        },
+        {
+          "text": "吸气时，在呼吸肌收缩作用下肋骨前端抬高并伴随胸骨上升，使胸廓前后径和横径均增大。",
+          "isCorrect": true,
+          "rationale": "肋骨抬高和向外扩展改变了胸腔的前后径与横径，从而增大胸腔容积促成吸气。"
+        },
+        {
+          "text": "第1-7肋软骨直接与胸骨相连，称为真肋；第8-10肋软骨依次连于上位肋软骨形成肋弓。",
+          "isCorrect": true,
+          "rationale": "第1-7肋通过肋软骨直接与胸骨连结；第8-10肋不直接连胸骨，而是构成肋弓。"
+        },
+        {
+          "text": "锁骨与肩胛骨作为上肢带骨，直接参与围成胸廓的上下口。",
+          "isCorrect": false,
+          "rationale": "锁骨和肩胛骨属于附肢骨骼的上肢带骨，虽贴于胸廓外壁，但不参与围成胸廓腔体本身。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胸廓由12块胸椎、12对肋骨、1块胸骨以及它们之间的连结共同围成。",
+          "isCorrect": true,
+          "rationale": "胸廓的骨性支架由后方的胸椎、两侧的肋骨和前方的胸骨共同构成，保护胸腔脏器。"
+        },
+        {
+          "text": "吸气时，在呼吸肌收缩作用下肋骨前端抬高并伴随胸骨上升，使胸廓前后径和横径均增大。",
+          "isCorrect": true,
+          "rationale": "肋骨抬高和向外扩展改变了胸腔的前后径与横径，从而增大胸腔容积促成吸气。"
+        },
+        {
+          "text": "第1-7肋软骨直接与胸骨相连，称为真肋；第8-10肋软骨依次连于上位肋软骨形成肋弓。",
+          "isCorrect": true,
+          "rationale": "第1-7肋通过肋软骨直接与胸骨连结；第8-10肋不直接连胸骨，而是构成肋弓。"
+        },
+        {
+          "text": "锁骨与肩胛骨作为上肢带骨，直接参与围成胸廓的上下口。",
+          "isCorrect": false,
+          "rationale": "锁骨和肩胛骨属于附肢骨骼的上肢带骨，虽贴于胸廓外壁，但不参与围成胸廓腔体本身。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意区分躯干骨与上肢带骨，并思考真肋、假肋及肋弓的定义。",
+      "id": 27
+    },
+    {
+      "c": "28",
+      "type": "multiple_select",
+      "question": "根据骨的形态分类，下列骨骼与其分类匹配正确的有？",
+      "prompt": "根据骨的形态分类，下列骨骼与其分类匹配正确的有？",
+      "answerOptions": [
+        {
+          "text": "髌骨 —— 籽骨",
+          "isCorrect": true,
+          "rationale": "髌骨包埋于股四头肌肌腱内，是人体中最大的籽骨。"
+        },
+        {
+          "text": "掌骨 —— 长骨",
+          "isCorrect": true,
+          "rationale": "掌骨呈长管状，分为一体两端，属于长骨。"
+        },
+        {
+          "text": "肋骨 —— 长骨",
+          "isCorrect": false,
+          "rationale": "肋骨虽呈长条状，但内部无髓腔，属于板状的扁骨。"
+        },
+        {
+          "text": "椎骨 —— 不规则骨",
+          "isCorrect": true,
+          "rationale": "椎骨形状不规则，具有椎体、椎弓及多个突起，属于不规则骨。"
+        }
+      ],
+      "options": [
+        {
+          "text": "髌骨 —— 籽骨",
+          "isCorrect": true,
+          "rationale": "髌骨包埋于股四头肌肌腱内，是人体中最大的籽骨。"
+        },
+        {
+          "text": "掌骨 —— 长骨",
+          "isCorrect": true,
+          "rationale": "掌骨呈长管状，分为一体两端，属于长骨。"
+        },
+        {
+          "text": "肋骨 —— 长骨",
+          "isCorrect": false,
+          "rationale": "肋骨虽呈长条状，但内部无髓腔，属于板状的扁骨。"
+        },
+        {
+          "text": "椎骨 —— 不规则骨",
+          "isCorrect": true,
+          "rationale": "椎骨形状不规则，具有椎体、椎弓及多个突起，属于不规则骨。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "判断长骨的结构特征（是否有髓腔与一体两端），以及籽骨和扁骨的代表。",
+      "id": 28
+    },
+    {
+      "c": "29",
+      "type": "multiple_select",
+      "question": "人体脊柱从侧面观察可见四个生理弯曲。关于脊柱弯曲的形成及生理意义，正确的有？",
+      "prompt": "人体脊柱从侧面观察可见四个生理弯曲。关于脊柱弯曲的形成及生理意义，正确的有？",
+      "answerOptions": [
+        {
+          "text": "婴儿出生时四个生理弯曲均已完全发育成熟，以适应直立行走需求。",
+          "isCorrect": false,
+          "rationale": "颈曲和腰曲是婴儿出生后在抬头、坐起及站立行走等运动发育过程中才逐步形成的。"
+        },
+        {
+          "text": "脊柱的生理弯曲增加了脊柱的弹性，有助于维持人体重心稳定并缓冲运动震荡。",
+          "isCorrect": true,
+          "rationale": "弯曲呈弹簧状结构，在直立、行走和跳跃时可吸收和缓冲传导至颅骨的冲击力。"
+        },
+        {
+          "text": "胸曲和骶曲在胚胎时期就已经形成，有利于扩大胸腔和盆腔的容积。",
+          "isCorrect": true,
+          "rationale": "胸曲和骶曲适应胚胎屈曲姿势，生前已存在，并为胸腔和盆腔脏器提供更大的空间。"
+        },
+        {
+          "text": "颈曲和腰曲凸向前，胸曲和骶曲凸向后。",
+          "isCorrect": true,
+          "rationale": "脊柱的4个生理弯曲中，颈曲与腰曲向前突出，胸曲与骶曲向后突出。"
+        }
+      ],
+      "options": [
+        {
+          "text": "婴儿出生时四个生理弯曲均已完全发育成熟，以适应直立行走需求。",
+          "isCorrect": false,
+          "rationale": "颈曲和腰曲是婴儿出生后在抬头、坐起及站立行走等运动发育过程中才逐步形成的。"
+        },
+        {
+          "text": "脊柱的生理弯曲增加了脊柱的弹性，有助于维持人体重心稳定并缓冲运动震荡。",
+          "isCorrect": true,
+          "rationale": "弯曲呈弹簧状结构，在直立、行走和跳跃时可吸收和缓冲传导至颅骨的冲击力。"
+        },
+        {
+          "text": "胸曲和骶曲在胚胎时期就已经形成，有利于扩大胸腔和盆腔的容积。",
+          "isCorrect": true,
+          "rationale": "胸曲和骶曲适应胚胎屈曲姿势，生前已存在，并为胸腔和盆腔脏器提供更大的空间。"
+        },
+        {
+          "text": "颈曲和腰曲凸向前，胸曲和骶曲凸向后。",
+          "isCorrect": true,
+          "rationale": "脊柱的4个生理弯曲中，颈曲与腰曲向前突出，胸曲与骶曲向后突出。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆脊柱弯曲的凸向方向以及颈曲、腰曲随婴幼儿动作发育而出现的过程。",
+      "id": 29
+    },
+    {
+      "c": "30",
+      "type": "multiple_select",
+      "question": "关于骨基质（骨质）的化学成分及其物理特性，下列哪些叙述是正确的？",
+      "prompt": "关于骨基质（骨质）的化学成分及其物理特性，下列哪些叙述是正确的？",
+      "answerOptions": [
+        {
+          "text": "骨基质中的有机成分主要为胶原纤维和蛋白多糖",
+          "isCorrect": true,
+          "rationale": "有机成分构成骨基质的有机网状支架，赋予骨骼良好的弹性和韧性。"
+        },
+        {
+          "text": "成人骨基质中无机物约占 $2/3$，主要成分为骨盐",
+          "isCorrect": true,
+          "rationale": "成人骨基质中的无机成分占三分之二，以磷酸钙和碳酸钙等羟基磷灰石骨盐形式存在。"
+        },
+        {
+          "text": "骨基质的无机成分维持骨的硬度，人体内 $99\\%$ 的钙储存于骨中",
+          "isCorrect": true,
+          "rationale": "骨盐在胶原纤维上沉着形成坚硬结构，使骨成为机体最大的钙矿物质贮存库。"
+        },
+        {
+          "text": "编织骨的胶原纤维呈同心圆板层状排列，广泛存在于正常成年人骨密质中",
+          "isCorrect": false,
+          "rationale": "编织骨的胶原纤维无规则交织，见于胚胎、5岁以内的儿童及骨折修复期，成年人骨质主要为板层骨。"
+        }
+      ],
+      "options": [
+        {
+          "text": "骨基质中的有机成分主要为胶原纤维和蛋白多糖",
+          "isCorrect": true,
+          "rationale": "有机成分构成骨基质的有机网状支架，赋予骨骼良好的弹性和韧性。"
+        },
+        {
+          "text": "成人骨基质中无机物约占 $2/3$，主要成分为骨盐",
+          "isCorrect": true,
+          "rationale": "成人骨基质中的无机成分占三分之二，以磷酸钙和碳酸钙等羟基磷灰石骨盐形式存在。"
+        },
+        {
+          "text": "骨基质的无机成分维持骨的硬度，人体内 $99\\%$ 的钙储存于骨中",
+          "isCorrect": true,
+          "rationale": "骨盐在胶原纤维上沉着形成坚硬结构，使骨成为机体最大的钙矿物质贮存库。"
+        },
+        {
+          "text": "编织骨的胶原纤维呈同心圆板层状排列，广泛存在于正常成年人骨密质中",
+          "isCorrect": false,
+          "rationale": "编织骨的胶原纤维无规则交织，见于胚胎、5岁以内的儿童及骨折修复期，成年人骨质主要为板层骨。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆骨组织中有机物与无机物的比例及其各自赋予骨骼的弹性和硬度特性。",
+      "id": 30
+    },
+    {
+      "c": "31",
+      "type": "multiple_select",
+      "question": "关于骨髓的分布和生理功能，下列哪些说法符合解剖学事实？",
+      "prompt": "关于骨髓的分布和生理功能，下列哪些说法符合解剖学事实？",
+      "answerOptions": [
+        {
+          "text": "成人长骨骨干内的红骨髓会被脂肪组织取代，转变为黄骨髓",
+          "isCorrect": false,
+          "rationale": "5岁以后，长骨骨干髓腔内的红骨髓逐渐沉积大量脂肪，失去造血活力转变为黄骨髓。"
+        },
+        {
+          "text": "成人在椎骨、髂骨、肋骨及长骨骨骺等骨松质处仍保留红骨髓",
+          "isCorrect": true,
+          "rationale": "成年后造血功能主要集中在扁骨、不规则骨以及长骨骨骺的骨松质网眼内。"
+        },
+        {
+          "text": "红骨髓具有造血功能，在胎儿和幼儿时期充填于所有骨髓腔和骨松质间隙",
+          "isCorrect": true,
+          "rationale": "婴幼儿生长发育旺盛，全身骨髓腔内均为具备活跃造血功能的红骨髓。"
+        },
+        {
+          "text": "黄骨髓由于沉积了大量脂肪，终生均无法恢复造血能力",
+          "isCorrect": false,
+          "rationale": "在严重贫血或大出血等特殊应激状态下，黄骨髓可重新转化为红骨髓恢复造血活力。"
+        }
+      ],
+      "options": [
+        {
+          "text": "成人长骨骨干内的红骨髓会被脂肪组织取代，转变为黄骨髓",
+          "isCorrect": false,
+          "rationale": "5岁以后，长骨骨干髓腔内的红骨髓逐渐沉积大量脂肪，失去造血活力转变为黄骨髓。"
+        },
+        {
+          "text": "成人在椎骨、髂骨、肋骨及长骨骨骺等骨松质处仍保留红骨髓",
+          "isCorrect": true,
+          "rationale": "成年后造血功能主要集中在扁骨、不规则骨以及长骨骨骺的骨松质网眼内。"
+        },
+        {
+          "text": "红骨髓具有造血功能，在胎儿和幼儿时期充填于所有骨髓腔和骨松质间隙",
+          "isCorrect": true,
+          "rationale": "婴幼儿生长发育旺盛，全身骨髓腔内均为具备活跃造血功能的红骨髓。"
+        },
+        {
+          "text": "黄骨髓由于沉积了大量脂肪，终生均无法恢复造血能力",
+          "isCorrect": false,
+          "rationale": "在严重贫血或大出血等特殊应激状态下，黄骨髓可重新转化为红骨髓恢复造血活力。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意区分红骨髓与黄骨髓在不同年龄阶段的分布部位及造血活性变化。",
+      "id": 31
+    },
+    {
+      "c": "32",
+      "type": "multiple_select",
+      "question": "滑膜关节是骨连结的主要形式，其必须具备的基本结构包含哪些？",
+      "prompt": "滑膜关节是骨连结的主要形式，其必须具备的基本结构包含哪些？",
+      "answerOptions": [
+        {
+          "text": "关节面",
+          "isCorrect": true,
+          "rationale": "关节面是参与构成关节的相邻骨接触面，表面覆盖有减少摩擦的关节软骨。"
+        },
+        {
+          "text": "关节盘",
+          "isCorrect": false,
+          "rationale": "关节盘属于关节的辅助结构（如膝关节半月板、颞下颌关节盘），并非所有关节必备。"
+        },
+        {
+          "text": "关节囊",
+          "isCorrect": true,
+          "rationale": "关节囊由结缔组织构成，包裹关节四周，分为外层纤维膜和内层滑膜。"
+        },
+        {
+          "text": "关节腔",
+          "isCorrect": true,
+          "rationale": "关节腔是关节囊与关节面围成的密闭腔隙，内呈负压状态并含有滑液。"
+        }
+      ],
+      "options": [
+        {
+          "text": "关节面",
+          "isCorrect": true,
+          "rationale": "关节面是参与构成关节的相邻骨接触面，表面覆盖有减少摩擦的关节软骨。"
+        },
+        {
+          "text": "关节盘",
+          "isCorrect": false,
+          "rationale": "关节盘属于关节的辅助结构（如膝关节半月板、颞下颌关节盘），并非所有关节必备。"
+        },
+        {
+          "text": "关节囊",
+          "isCorrect": true,
+          "rationale": "关节囊由结缔组织构成，包裹关节四周，分为外层纤维膜和内层滑膜。"
+        },
+        {
+          "text": "关节腔",
+          "isCorrect": true,
+          "rationale": "关节腔是关节囊与关节面围成的密闭腔隙，内呈负压状态并含有滑液。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分关节的“基本结构”与“辅助结构”（如韧带、关节唇、关节盘等）。",
+      "id": 32
+    },
+    {
+      "c": "33",
+      "type": "multiple_select",
+      "question": "人体脑颅骨共8块，下列骨骼中属于不成对脑颅骨的是哪些？",
+      "prompt": "人体脑颅骨共8块，下列骨骼中属于不成对脑颅骨的是哪些？",
+      "answerOptions": [
+        {
+          "text": "筛骨",
+          "isCorrect": true,
+          "rationale": "筛骨位于两眶之间和鼻腔上方，属于不成对的脑颅骨。"
+        },
+        {
+          "text": "额骨",
+          "isCorrect": true,
+          "rationale": "额骨位于颅的前上部，属于不成对的脑颅骨。"
+        },
+        {
+          "text": "枕骨",
+          "isCorrect": true,
+          "rationale": "枕骨位于颅的后下部，属于不成对的脑颅骨。"
+        },
+        {
+          "text": "顶骨",
+          "isCorrect": false,
+          "rationale": "顶骨位于颅顶中部两侧，属于成对的脑颅骨。"
+        }
+      ],
+      "options": [
+        {
+          "text": "筛骨",
+          "isCorrect": true,
+          "rationale": "筛骨位于两眶之间和鼻腔上方，属于不成对的脑颅骨。"
+        },
+        {
+          "text": "额骨",
+          "isCorrect": true,
+          "rationale": "额骨位于颅的前上部，属于不成对的脑颅骨。"
+        },
+        {
+          "text": "枕骨",
+          "isCorrect": true,
+          "rationale": "枕骨位于颅的后下部，属于不成对的脑颅骨。"
+        },
+        {
+          "text": "顶骨",
+          "isCorrect": false,
+          "rationale": "顶骨位于颅顶中部两侧，属于成对的脑颅骨。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆脑颅骨中成对的骨只有顶骨和颞骨，其余均为不成对骨。",
+      "id": 33
+    },
+    {
+      "c": "34",
+      "type": "multiple_select",
+      "question": "下列面颅骨中，属于成对面颅骨的是哪些？",
+      "prompt": "下列面颅骨中，属于成对面颅骨的是哪些？",
+      "answerOptions": [
+        {
+          "text": "下鼻甲",
+          "isCorrect": true,
+          "rationale": "下鼻甲附着于鼻腔外侧壁，左右各一，属于成对的面颅骨。"
+        },
+        {
+          "text": "犁骨",
+          "isCorrect": false,
+          "rationale": "犁骨位于鼻腔后下部，构成骨性鼻中隔的下部，是不成对的面颅骨。"
+        },
+        {
+          "text": "颧骨",
+          "isCorrect": true,
+          "rationale": "颧骨位于面两侧，形成面颊部突起，成对存在。"
+        },
+        {
+          "text": "上颌骨",
+          "isCorrect": true,
+          "rationale": "上颌骨位于面部中央两侧，左右各一块，成对存在。"
+        }
+      ],
+      "options": [
+        {
+          "text": "下鼻甲",
+          "isCorrect": true,
+          "rationale": "下鼻甲附着于鼻腔外侧壁，左右各一，属于成对的面颅骨。"
+        },
+        {
+          "text": "犁骨",
+          "isCorrect": false,
+          "rationale": "犁骨位于鼻腔后下部，构成骨性鼻中隔的下部，是不成对的面颅骨。"
+        },
+        {
+          "text": "颧骨",
+          "isCorrect": true,
+          "rationale": "颧骨位于面两侧，形成面颊部突起，成对存在。"
+        },
+        {
+          "text": "上颌骨",
+          "isCorrect": true,
+          "rationale": "上颌骨位于面部中央两侧，左右各一块，成对存在。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "面颅骨共15块，不成对的只有犁骨、下颌骨和舌骨。",
+      "id": 34
+    },
+    {
+      "c": "35",
+      "type": "multiple_select",
+      "question": "关于胸椎（T1-T12）的解剖结构特点，下列哪些描述是正确的？",
+      "prompt": "关于胸椎（T1-T12）的解剖结构特点，下列哪些描述是正确的？",
+      "answerOptions": [
+        {
+          "text": "棘突短、宽，呈板状水平伸向后方",
+          "isCorrect": false,
+          "rationale": "棘突短宽且水平伸向后方是腰椎的特征；胸椎棘突较长且斜向后下方。"
+        },
+        {
+          "text": "横突末端前面有横突肋凹",
+          "isCorrect": true,
+          "rationale": "横突肋凹与肋骨的肋结节结合形成肋横突关节。"
+        },
+        {
+          "text": "椎体两侧后份上、下缘有上、下肋凹",
+          "isCorrect": true,
+          "rationale": "胸椎椎体上的肋凹与肋骨的肋头连结构成肋头关节。"
+        },
+        {
+          "text": "椎体横切面呈心形",
+          "isCorrect": true,
+          "rationale": "胸椎椎体呈短柱状，其横切面在解剖形态上呈心脏形。"
+        }
+      ],
+      "options": [
+        {
+          "text": "棘突短、宽，呈板状水平伸向后方",
+          "isCorrect": false,
+          "rationale": "棘突短宽且水平伸向后方是腰椎的特征；胸椎棘突较长且斜向后下方。"
+        },
+        {
+          "text": "横突末端前面有横突肋凹",
+          "isCorrect": true,
+          "rationale": "横突肋凹与肋骨的肋结节结合形成肋横突关节。"
+        },
+        {
+          "text": "椎体两侧后份上、下缘有上、下肋凹",
+          "isCorrect": true,
+          "rationale": "胸椎椎体上的肋凹与肋骨的肋头连结构成肋头关节。"
+        },
+        {
+          "text": "椎体横切面呈心形",
+          "isCorrect": true,
+          "rationale": "胸椎椎体呈短柱状，其横切面在解剖形态上呈心脏形。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意胸椎与肋骨相关节的特定结构（肋凹）及其棘突的倾斜走向。",
+      "id": 35
+    },
+    {
+      "c": "36",
+      "type": "multiple_select",
+      "question": "人体共有12对肋骨，根据其前端与胸骨的连结方式，可分为真肋、假肋和浮肋。下列划分正确的是哪些？",
+      "prompt": "人体共有12对肋骨，根据其前端与胸骨的连结方式，可分为真肋、假肋和浮肋。下列划分正确的是哪些？",
+      "answerOptions": [
+        {
+          "text": "第1~7肋前端直接与胸骨连接，称为真肋",
+          "isCorrect": true,
+          "rationale": "第1~7肋借助各自的肋软骨直接连接于胸骨，被称为真肋。"
+        },
+        {
+          "text": "第1~5肋为真肋，第6~12肋统称为假肋",
+          "isCorrect": false,
+          "rationale": "真肋范围为第1~7肋，假肋为第8~10肋，第11~12肋为浮肋。"
+        },
+        {
+          "text": "第8~10肋不直接与胸骨连接，称为假肋",
+          "isCorrect": true,
+          "rationale": "第8~10肋前端借助软骨依次连接形成肋弓，不直接连接胸骨，被称为假肋。"
+        },
+        {
+          "text": "第11~12肋前端游离于腹壁肌层中，称为浮肋",
+          "isCorrect": true,
+          "rationale": "第11~12肋前端游离，不与肋弓或胸骨相连，被称为浮肋。"
+        }
+      ],
+      "options": [
+        {
+          "text": "第1~7肋前端直接与胸骨连接，称为真肋",
+          "isCorrect": true,
+          "rationale": "第1~7肋借助各自的肋软骨直接连接于胸骨，被称为真肋。"
+        },
+        {
+          "text": "第1~5肋为真肋，第6~12肋统称为假肋",
+          "isCorrect": false,
+          "rationale": "真肋范围为第1~7肋，假肋为第8~10肋，第11~12肋为浮肋。"
+        },
+        {
+          "text": "第8~10肋不直接与胸骨连接，称为假肋",
+          "isCorrect": true,
+          "rationale": "第8~10肋前端借助软骨依次连接形成肋弓，不直接连接胸骨，被称为假肋。"
+        },
+        {
+          "text": "第11~12肋前端游离于腹壁肌层中，称为浮肋",
+          "isCorrect": true,
+          "rationale": "第11~12肋前端游离，不与肋弓或胸骨相连，被称为浮肋。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分12对肋骨中直接连结胸骨、间接连成肋弓以及前端游离的三组划分。",
+      "id": 36
+    },
+    {
+      "c": "37",
+      "type": "multiple_select",
+      "question": "髋骨（Hip Bone）是下肢带骨，在幼年时期由三块独立的骨通过软骨结合而成，成年后融合为一块。这三块骨包括哪些？",
+      "prompt": "髋骨（Hip Bone）是下肢带骨，在幼年时期由三块独立的骨通过软骨结合而成，成年后融合为一块。这三块骨包括哪些？",
+      "answerOptions": [
+        {
+          "text": "坐骨",
+          "isCorrect": true,
+          "rationale": "坐骨构成髋骨的后下部，包含坐骨结节和坐骨棘。"
+        },
+        {
+          "text": "股骨",
+          "isCorrect": false,
+          "rationale": "股骨是大腿部的自由下肢骨，不属于髋骨自身的组成部分。"
+        },
+        {
+          "text": "耻骨",
+          "isCorrect": true,
+          "rationale": "耻骨构成髋骨的前下部，两侧耻骨在前方通过耻骨联合相连。"
+        },
+        {
+          "text": "髂骨",
+          "isCorrect": true,
+          "rationale": "髂骨构成髋骨的上部，包含髂嵴和髂窝，并参与构成髋臼。"
+        }
+      ],
+      "options": [
+        {
+          "text": "坐骨",
+          "isCorrect": true,
+          "rationale": "坐骨构成髋骨的后下部，包含坐骨结节和坐骨棘。"
+        },
+        {
+          "text": "股骨",
+          "isCorrect": false,
+          "rationale": "股骨是大腿部的自由下肢骨，不属于髋骨自身的组成部分。"
+        },
+        {
+          "text": "耻骨",
+          "isCorrect": true,
+          "rationale": "耻骨构成髋骨的前下部，两侧耻骨在前方通过耻骨联合相连。"
+        },
+        {
+          "text": "髂骨",
+          "isCorrect": true,
+          "rationale": "髂骨构成髋骨的上部，包含髂嵴和髂窝，并参与构成髋臼。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "寻找在髋臼处汇合并融合形成单块髋骨的三块原始骨骼。",
+      "id": 37
+    },
+    {
+      "c": "38",
+      "type": "multiple_select",
+      "question": "人体足部的跗骨和跖骨借韧带及肌腱连结形成凸向向上的足弓。关于足弓的结构和功能，下列哪些说法是正确的？",
+      "prompt": "人体足部的跗骨和跖骨借韧带及肌腱连结形成凸向向上的足弓。关于足弓的结构和功能，下列哪些说法是正确的？",
+      "answerOptions": [
+        {
+          "text": "外侧纵弓由跟骨、骰骨及第4、5跖骨构成",
+          "isCorrect": true,
+          "rationale": "外侧纵弓高度较低，比较平直，主要承担和传递重力。"
+        },
+        {
+          "text": "足弓的主要功能是支持体重、缓冲震荡，并保护足底血管和神经免受压迫",
+          "isCorrect": true,
+          "rationale": "足弓使足底形成空腔，防止直立或行走时足底软组织、血管和神经受到挤压。"
+        },
+        {
+          "text": "横弓由三块楔骨、骰骨及跖骨后部构成",
+          "isCorrect": true,
+          "rationale": "横弓在足中部呈横向拱形，强化了足部的整体结构稳定。"
+        },
+        {
+          "text": "内侧纵弓由跟骨、距骨、足舟骨、三块楔骨及第1~3跖骨构成",
+          "isCorrect": true,
+          "rationale": "内侧纵弓曲度大、弹性强，主要发挥缓冲行走和跳跃震荡的作用。"
+        }
+      ],
+      "options": [
+        {
+          "text": "外侧纵弓由跟骨、骰骨及第4、5跖骨构成",
+          "isCorrect": true,
+          "rationale": "外侧纵弓高度较低，比较平直，主要承担和传递重力。"
+        },
+        {
+          "text": "足弓的主要功能是支持体重、缓冲震荡，并保护足底血管和神经免受压迫",
+          "isCorrect": true,
+          "rationale": "足弓使足底形成空腔，防止直立或行走时足底软组织、血管和神经受到挤压。"
+        },
+        {
+          "text": "横弓由三块楔骨、骰骨及跖骨后部构成",
+          "isCorrect": true,
+          "rationale": "横弓在足中部呈横向拱形，强化了足部的整体结构稳定。"
+        },
+        {
+          "text": "内侧纵弓由跟骨、距骨、足舟骨、三块楔骨及第1~3跖骨构成",
+          "isCorrect": true,
+          "rationale": "内侧纵弓曲度大、弹性强，主要发挥缓冲行走和跳跃震荡的作用。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "足弓分为内侧纵弓、外侧纵弓和横弓，兼具承重、减震与保护功能。",
+      "id": 38
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】长骨干中的骨髓终身保有造血功能。",
+      "prompt": "【判断题】长骨干中的骨髓终身保有造血功能。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "长骨干内的红骨髓在成年后逐渐被脂肪组织代替转化为无造血功能的黄骨髓，仅在重度失血时可逆转。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "长骨干内的红骨髓在成年后逐渐被脂肪组织代替转化为无造血功能的黄骨髓，仅在重度失血时可逆转。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "长骨干内的红骨髓在成年后逐渐被脂肪组织代替转化为无造血功能的黄骨髓，仅在重度失血时可逆转。",
+      "hint": "",
+      "c": "39",
+      "id": 39
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】胸廓由胸椎、肋骨、胸骨和锁骨共同构成。",
+      "prompt": "【判断题】胸廓由胸椎、肋骨、胸骨和锁骨共同构成。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "胸廓由12块胸椎、12对肋和1块胸骨通过关节和软骨连结构成，锁骨属于上肢带骨，不构成胸廓。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "胸廓由12块胸椎、12对肋和1块胸骨通过关节和软骨连结构成，锁骨属于上肢带骨，不构成胸廓。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "胸廓由12块胸椎、12对肋和1块胸骨通过关节和软骨连结构成，锁骨属于上肢带骨，不构成胸廓。",
+      "hint": "",
+      "c": "40",
+      "id": 40
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】人体的全部12对肋骨均直接借肋软骨连于胸骨。",
+      "prompt": "【判断题】人体的全部12对肋骨均直接借肋软骨连于胸骨。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "仅第1~7对肋（真肋）直接连于胸骨；第8~10对肋连于上位肋软骨形成肋弓（假肋）；第11~12对肋前端游离（浮肋）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "仅第1~7对肋（真肋）直接连于胸骨；第8~10对肋连于上位肋软骨形成肋弓（假肋）；第11~12对肋前端游离（浮肋）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "仅第1~7对肋（真肋）直接连于胸骨；第8~10对肋连于上位肋软骨形成肋弓（假肋）；第11~12对肋前端游离（浮肋）。",
+      "hint": "",
+      "c": "41",
+      "id": 41
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】髂骨、耻骨和坐骨三骨在髋臼处共同融合愈合，参与构成髋臼。",
+      "prompt": "【判断题】髂骨、耻骨和坐骨三骨在髋臼处共同融合愈合，参与构成髋臼。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "髂骨、坐骨和耻骨以软骨在髋臼处结合，成年后完全骨性融合为一块髋骨。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "髂骨、坐骨和耻骨以软骨在髋臼处结合，成年后完全骨性融合为一块髋骨。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "髂骨、坐骨和耻骨以软骨在髋臼处结合，成年后完全骨性融合为一块髋骨。",
+      "hint": "",
+      "c": "42",
+      "id": 42
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】脊柱的四个生理弯曲中，颈曲和腰曲凸向前，胸曲和骶曲凸向后。",
+      "prompt": "【判断题】脊柱的四个生理弯曲中，颈曲和腰曲凸向前，胸曲和骶曲凸向后。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "凸向前的颈曲和腰曲是人类直立行走和抬头后形成的次发曲，胸曲和骶曲凸向后保留胚胎初发曲。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "凸向前的颈曲和腰曲是人类直立行走和抬头后形成的次发曲，胸曲和骶曲凸向后保留胚胎初发曲。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "凸向前的颈曲和腰曲是人类直立行走和抬头后形成的次发曲，胸曲和骶曲凸向后保留胚胎初发曲。",
+      "hint": "",
+      "c": "43",
+      "id": 43
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】第8~12对肋软骨末端共同连接形成肋弓。",
+      "prompt": "【判断题】第8~12对肋软骨末端共同连接形成肋弓。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "形成肋弓的仅为第8、9、10对肋软骨；第11~12肋前端游离于腹壁肌层中，不参与形成肋弓。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "形成肋弓的仅为第8、9、10对肋软骨；第11~12肋前端游离于腹壁肌层中，不参与形成肋弓。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "形成肋弓的仅为第8、9、10对肋软骨；第11~12肋前端游离于腹壁肌层中，不参与形成肋弓。",
+      "hint": "",
+      "c": "44",
+      "id": 44
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】椎管在解剖学上向上通过枕骨大孔与颅腔直接相通。",
+      "prompt": "【判断题】椎管在解剖学上向上通过枕骨大孔与颅腔直接相通。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "椎管向上经枕骨大孔直通颅腔，脑脊髓和脑脊液在其中移行流动，并非互不相通。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "椎管向上经枕骨大孔直通颅腔，脑脊髓和脑脊液在其中移行流动，并非互不相通。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "椎管向上经枕骨大孔直通颅腔，脑脊髓和脑脊液在其中移行流动，并非互不相通。",
+      "hint": "",
+      "c": "45",
+      "id": 45
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】胸椎共有12块，其主要特征是棘突末端分叉。",
+      "prompt": "【判断题】胸椎共有12块，其主要特征是棘突末端分叉。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "棘突末端分叉是颈椎（第2~6颈椎）的特有特征；胸椎棘突细长呈叠瓦状向后下方倾斜且末端不分叉。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "棘突末端分叉是颈椎（第2~6颈椎）的特有特征；胸椎棘突细长呈叠瓦状向后下方倾斜且末端不分叉。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "棘突末端分叉是颈椎（第2~6颈椎）的特有特征；胸椎棘突细长呈叠瓦状向后下方倾斜且末端不分叉。",
+      "hint": "",
+      "c": "46",
+      "id": 46
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】肩关节的关节盂周围附着有关节唇，具有加深关节窝、增加关节稳定性的作用。",
+      "prompt": "【判断题】肩关节的关节盂周围附着有关节唇，具有加深关节窝、增加关节稳定性的作用。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "肩关节盂浅而小，周缘附着纤维软骨性的盂唇，使关节窝加深增大以增强稳定性。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "肩关节盂浅而小，周缘附着纤维软骨性的盂唇，使关节窝加深增大以增强稳定性。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肩关节盂浅而小，周缘附着纤维软骨性的盂唇，使关节窝加深增大以增强稳定性。",
+      "hint": "",
+      "c": "47",
+      "id": 47
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】椎动脉沿颈部上行，穿经第6至第1颈椎的横突孔入颅供血。",
+      "prompt": "【判断题】椎动脉沿颈部上行，穿经第6至第1颈椎的横突孔入颅供血。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "椎骨的横突孔是颈椎的特征性结构，容纳椎动脉和椎静脉穿行。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "椎骨的横突孔是颈椎的特征性结构，容纳椎动脉和椎静脉穿行。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "椎骨的横突孔是颈椎的特征性结构，容纳椎动脉和椎静脉穿行。",
+      "hint": "",
+      "c": "48",
+      "id": 48
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】关节的基本构造包括关节面、关节囊和关节腔三部分。",
+      "prompt": "【判断题】关节的基本构造包括关节面、关节囊和关节腔三部分。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "任何动关节均必须具备关节面（覆关节软骨）、关节囊（纤维层与滑膜层）和关节腔（密闭负压含滑液）三大基本要素。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "任何动关节均必须具备关节面（覆关节软骨）、关节囊（纤维层与滑膜层）和关节腔（密闭负压含滑液）三大基本要素。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "任何动关节均必须具备关节面（覆关节软骨）、关节囊（纤维层与滑膜层）和关节腔（密闭负压含滑液）三大基本要素。",
+      "hint": "",
+      "c": "49",
+      "id": 49
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】黄骨髓主要由脂肪组织构成，在机体严重慢性贫血时可转化为红骨髓恢复造血。",
+      "prompt": "【判断题】黄骨髓主要由脂肪组织构成，在机体严重慢性贫血时可转化为红骨髓恢复造血。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "黄骨髓终生保留潜在造血能力，机体大失血或长期缺氧缺血时可复原为红骨髓。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "黄骨髓终生保留潜在造血能力，机体大失血或长期缺氧缺血时可复原为红骨髓。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "黄骨髓终生保留潜在造血能力，机体大失血或长期缺氧缺血时可复原为红骨髓。",
+      "hint": "",
+      "c": "50",
+      "id": 50
+    },
+    {
+      "c": "51",
+      "type": "fill_blank",
+      "question": "骨的基本结构为（1）_______、（2）_______和（3）_______。典型的长骨两端膨大的部分称为（4）_______，中间细长的部位为（5）_______。",
+      "prompt": "骨的基本结构为（1）_______、（2）_______和（3）_______。典型的长骨两端膨大的部分称为（4）_______，中间细长的部位为（5）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "骨膜",
+        "骨质",
+        "骨髓",
+        "骨骺",
+        "骨干"
+      ],
+      "blanks": [
+        "骨膜",
+        "骨质",
+        "骨髓",
+        "骨骺",
+        "骨干"
+      ],
+      "rationale": "标准答案及考点解析：骨的基本结构为 骨膜  、 骨质 和 骨髓 。典型的长骨两端膨大的部分称为 骨骺 ，中间细长的部位为 骨干 。",
+      "hint": "核心考点：共 5 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 51
+    },
+    {
+      "c": "52",
+      "type": "fill_blank",
+      "question": "根据骨的外形，可将骨分为（1）_______、（2）_______、扁骨和（3）_______。掌骨属于（4）_______，胸骨属于（5）_______。",
+      "prompt": "根据骨的外形，可将骨分为（1）_______、（2）_______、扁骨和（3）_______。掌骨属于（4）_______，胸骨属于（5）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "长骨",
+        "短骨",
+        "不规则骨",
+        "长骨",
+        "扁骨"
+      ],
+      "blanks": [
+        "长骨",
+        "短骨",
+        "不规则骨",
+        "长骨",
+        "扁骨"
+      ],
+      "rationale": "标准答案及考点解析：根据骨的外形，可将骨分为  长骨  、 短骨 、扁骨和 不规则骨 。掌骨属于 长骨  ，胸骨属于  扁骨   。",
+      "hint": "核心考点：共 5 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 52
+    },
+    {
+      "c": "53",
+      "type": "fill_blank",
+      "question": "骨的发生包括（1）_______和（2）_______两种形式。",
+      "prompt": "骨的发生包括（1）_______和（2）_______两种形式。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "软骨化骨",
+        "膜内化骨"
+      ],
+      "blanks": [
+        "软骨化骨",
+        "膜内化骨"
+      ],
+      "rationale": "标准答案及考点解析：骨的发生包括 软骨化骨  和 膜内化骨  两种形式。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 53
+    },
+    {
+      "c": "54",
+      "type": "fill_blank",
+      "question": "骨髓有（1）_______和（2）_______两种，其中有造血功能的是 （3）_______，随着年龄增长转变为（4）_______而失去造血功能，在成人的（5）_______和（6）_______内存留具有造血功能的骨髓。",
+      "prompt": "骨髓有（1）_______和（2）_______两种，其中有造血功能的是 （3）_______，随着年龄增长转变为（4）_______而失去造血功能，在成人的（5）_______和（6）_______内存留具有造血功能的骨髓。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "红骨髓",
+        "黄骨髓",
+        "红骨髓",
+        "黄骨髓",
+        "扁骨（短骨）",
+        "不规则骨（长骨骨骺的骨松质内）"
+      ],
+      "blanks": [
+        "红骨髓",
+        "黄骨髓",
+        "红骨髓",
+        "黄骨髓",
+        "扁骨（短骨）",
+        "不规则骨（长骨骨骺的骨松质内）"
+      ],
+      "rationale": "标准答案及考点解析：骨髓有 红骨髓 和 黄骨髓 两种，其中有造血功能的是 红骨髓  ，随着年龄增长     转变为 黄骨髓 而失去造血功能，在成人的 扁骨（短骨） 和 不规则骨（长骨骨骺的骨松质内） 内存留具有造血功能的骨髓。",
+      "hint": "核心考点：共 6 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 54
+    },
+    {
+      "c": "55",
+      "type": "fill_blank",
+      "question": "骨连结包括（1）_______和间接连结，间接连结即（2）_______，由（3）_______、（4）_______和（5）_______组成，关节腔中的滑液具有（6）_______的功能。",
+      "prompt": "骨连结包括（1）_______和间接连结，间接连结即（2）_______，由（3）_______、（4）_______和（5）_______组成，关节腔中的滑液具有（6）_______的功能。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "直接连接",
+        "关节",
+        "关节面",
+        "关节囊",
+        "关节腔",
+        "缓冲摩擦"
+      ],
+      "blanks": [
+        "直接连接",
+        "关节",
+        "关节面",
+        "关节囊",
+        "关节腔",
+        "缓冲摩擦"
+      ],
+      "rationale": "标准答案及考点解析：骨连结包括 直接连接 和间接连结，间接连结即 关节 ，由 关节面 、 关节囊     和 关节腔  组成，关节腔中的滑液具有 缓冲摩擦  的功能。",
+      "hint": "核心考点：共 6 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 55
+    },
+    {
+      "c": "56",
+      "type": "fill_blank",
+      "question": "肘关节由（1）_______，（2）_______和（3）_______三个关节组成，肱二头肌收缩可（4）_______肘关节，肱三头肌收缩可（5）_______肘关节。",
+      "prompt": "肘关节由（1）_______，（2）_______和（3）_______三个关节组成，肱二头肌收缩可（4）_______肘关节，肱三头肌收缩可（5）_______肘关节。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "肱尺关节",
+        "肱桡关节",
+        "桡尺近侧关节",
+        "屈",
+        "伸"
+      ],
+      "blanks": [
+        "肱尺关节",
+        "肱桡关节",
+        "桡尺近侧关节",
+        "屈",
+        "伸"
+      ],
+      "rationale": "标准答案及考点解析：肘关节由 肱尺关节 ， 肱桡关节 和 桡尺近侧关节 三个关节组成，肱二头肌收缩可 屈 肘关节，肱三头肌收缩可 伸 肘关节。",
+      "hint": "核心考点：共 5 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 56
+    },
+    {
+      "c": "57",
+      "type": "fill_blank",
+      "question": "胸骨由（1）_______、（2）_______和（3）_______三部分构成，与（4）_______ 和（5）_______共同围成胸廓，保护内部的（6）_______和（7）_______等重要脏器。经过胸骨正中引的标志线称作（8）_______。",
+      "prompt": "胸骨由（1）_______、（2）_______和（3）_______三部分构成，与（4）_______ 和（5）_______共同围成胸廓，保护内部的（6）_______和（7）_______等重要脏器。经过胸骨正中引的标志线称作（8）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "胸骨柄",
+        "胸骨体",
+        "剑突",
+        "胸椎",
+        "肋骨",
+        "心脏",
+        "肺",
+        "前正中线"
+      ],
+      "blanks": [
+        "胸骨柄",
+        "胸骨体",
+        "剑突",
+        "胸椎",
+        "肋骨",
+        "心脏",
+        "肺",
+        "前正中线"
+      ],
+      "rationale": "标准答案及考点解析：胸骨由 胸骨柄 、 胸骨体 和 剑突  三部分构成，与 胸椎  和 肋骨 共同围成胸廓，保护内部的 心脏 和 肺 等重要脏器。经过胸骨正中引的标志线称作 前正中线 。",
+      "hint": "核心考点：共 8 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 57
+    },
+    {
+      "c": "58",
+      "type": "fill_blank",
+      "question": "髋骨由（1）_______、（2）_______和（3）_______三块骨融合而成，与（4）_______和（5）_______共同构成骨盆；三块骨融合处形成一大而深的窝，称为（6）_______，与（7）_______构成髋关节。",
+      "prompt": "髋骨由（1）_______、（2）_______和（3）_______三块骨融合而成，与（4）_______和（5）_______共同构成骨盆；三块骨融合处形成一大而深的窝，称为（6）_______，与（7）_______构成髋关节。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "髂骨",
+        "耻骨",
+        "坐骨",
+        "骶骨",
+        "尾骨",
+        "髋臼",
+        "股骨头"
+      ],
+      "blanks": [
+        "髂骨",
+        "耻骨",
+        "坐骨",
+        "骶骨",
+        "尾骨",
+        "髋臼",
+        "股骨头"
+      ],
+      "rationale": "标准答案及考点解析：髋骨由 髂骨 、 耻骨 和 坐骨 三块骨融合而成，与 骶骨 和 尾骨 共同构成骨盆；三块骨融合处形成一大而深的窝，称为 髋臼 ，与 股骨头 构成髋关节。",
+      "hint": "核心考点：共 7 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 58
+    },
+    {
+      "c": "59",
+      "type": "fill_blank",
+      "question": "椎骨由位于前方的（1）_______和后方的（2）_______组成；椎孔上下相连形成（3）_______，容纳并保护位于其内的（4）_______，相邻的椎上、下切迹围成（5）_______有（6）_______通过。",
+      "prompt": "椎骨由位于前方的（1）_______和后方的（2）_______组成；椎孔上下相连形成（3）_______，容纳并保护位于其内的（4）_______，相邻的椎上、下切迹围成（5）_______有（6）_______通过。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "椎体",
+        "椎弓",
+        "椎管",
+        "脊髓",
+        "椎间孔",
+        "脊神经"
+      ],
+      "blanks": [
+        "椎体",
+        "椎弓",
+        "椎管",
+        "脊髓",
+        "椎间孔",
+        "脊神经"
+      ],
+      "rationale": "标准答案及考点解析：椎骨由位于前方的 椎体 和后方的 椎弓 组成；椎孔上下相连形成 椎管 ，容纳并保护位于其内的 脊髓 ，相邻的椎上、下切迹围成 椎间孔 有 脊神经 通过。",
+      "hint": "核心考点：共 6 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 59
+    },
+    {
+      "c": "60",
+      "type": "fill_blank",
+      "question": "有横突孔的椎骨是（1）_______，椎体呈心形棘突斜向后下方的椎骨是（2）_______。",
+      "prompt": "有横突孔的椎骨是（1）_______，椎体呈心形棘突斜向后下方的椎骨是（2）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "颈椎",
+        "胸椎"
+      ],
+      "blanks": [
+        "颈椎",
+        "胸椎"
+      ],
+      "rationale": "标准答案及考点解析：有横突孔的椎骨是 颈椎 ，椎体呈心形棘突斜向后下方的椎骨是  胸椎  。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 60
+    },
+    {
+      "c": "61",
+      "type": "fill_blank",
+      "question": "构成膝关节的骨包括（1）_______、（2）_______和（3）_______，关节腔内有（4）_______分隔关节头和关节窝减少运动摩擦。",
+      "prompt": "构成膝关节的骨包括（1）_______、（2）_______和（3）_______，关节腔内有（4）_______分隔关节头和关节窝减少运动摩擦。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "股骨",
+        "胫骨",
+        "髌骨",
+        "半月板（关节盘）"
+      ],
+      "blanks": [
+        "股骨",
+        "胫骨",
+        "髌骨",
+        "半月板（关节盘）"
+      ],
+      "rationale": "标准答案及考点解析：构成膝关节的骨包括股骨 、 胫骨 和 髌骨 ，关节腔内有 半月板（关节盘） 分隔关节头和关节窝减少运动摩擦。",
+      "hint": "核心考点：共 4 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 61
+    },
+    {
+      "c": "62",
+      "type": "fill_blank",
+      "question": "骨折指（1）_______，根据骨折断面是否与外界相通可将骨折分为",
+      "prompt": "骨折指（1）_______，根据骨折断面是否与外界相通可将骨折分为",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "骨的连续性的中断"
+      ],
+      "blanks": [
+        "骨的连续性的中断"
+      ],
+      "rationale": "标准答案及考点解析：骨折指 骨的连续性的中断，根据骨折断面是否与外界相通可将骨折分为",
+      "hint": "核心考点：共 1 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 62
+    },
+    {
+      "c": "63",
+      "type": "fill_blank",
+      "question": "（1）_______和（2）_______。",
+      "prompt": "（1）_______和（2）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "闭合性骨折",
+        "开放性骨折"
+      ],
+      "blanks": [
+        "闭合性骨折",
+        "开放性骨折"
+      ],
+      "rationale": "标准答案及考点解析：闭合性骨折 和 开放性骨折 。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 63
+    },
+    {
+      "c": "64",
+      "type": "fill_blank",
+      "question": "关节附属结构包括（1）_______、（2）_______和（3）_______。其中起增大关节窝作用的是（4）_______。",
+      "prompt": "关节附属结构包括（1）_______、（2）_______和（3）_______。其中起增大关节窝作用的是（4）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "关节盘",
+        "关节唇",
+        "韧带",
+        "关节唇"
+      ],
+      "blanks": [
+        "关节盘",
+        "关节唇",
+        "韧带",
+        "关节唇"
+      ],
+      "rationale": "标准答案及考点解析：关节附属结构包括 关节盘 、 关节唇 和 韧带 。其中起增大关节窝作用的是 关节唇 。",
+      "hint": "核心考点：共 4 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 64
+    },
+    {
+      "c": "65",
+      "type": "fill_blank",
+      "question": "脊椎有4个生理弯曲，其中凸向前的是（1）_______和（2）_______，凸向后的是（3）_______和（4）_______。",
+      "prompt": "脊椎有4个生理弯曲，其中凸向前的是（1）_______和（2）_______，凸向后的是（3）_______和（4）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "颈曲",
+        "腰曲",
+        "胸曲",
+        "骶曲"
+      ],
+      "blanks": [
+        "颈曲",
+        "腰曲",
+        "胸曲",
+        "骶曲"
+      ],
+      "rationale": "标准答案及考点解析：脊椎有4个生理弯曲，其中凸向前的是 颈曲 和 腰曲 ，凸向后的是 胸曲 和 骶曲 。",
+      "hint": "核心考点：共 4 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 65
+    },
+    {
+      "c": "66",
+      "type": "fill_blank",
+      "question": "紧贴于脊柱的椎体前、后，对脊柱有固定作用韧带分别是（1）_______和（2）_______。",
+      "prompt": "紧贴于脊柱的椎体前、后，对脊柱有固定作用韧带分别是（1）_______和（2）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "前纵韧带",
+        "后纵韧带"
+      ],
+      "blanks": [
+        "前纵韧带",
+        "后纵韧带"
+      ],
+      "rationale": "标准答案及考点解析：紧贴于脊柱的椎体前、后，对脊柱有固定作用韧带分别是 前纵韧带 和 后纵韧带 。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 66
+    }
+  ]
+}

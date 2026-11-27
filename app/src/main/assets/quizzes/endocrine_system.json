@@ -1,0 +1,4275 @@
+{
+  "quiz": [
+    {
+      "c": "1",
+      "type": "single_choice",
+      "question": "某化学物质由内分泌细胞分泌后，不进入血液循环，而是通过组织液扩散作用于邻近的靶细胞。这种体液调节的分泌方式属于：",
+      "prompt": "某化学物质由内分泌细胞分泌后，不进入血液循环，而是通过组织液扩散作用于邻近的靶细胞。这种体液调节的分泌方式属于：",
+      "answerOptions": [
+        {
+          "text": "自分泌",
+          "isCorrect": false,
+          "rationale": "自分泌是指细胞分泌的激素作用于自身或同类细胞。"
+        },
+        {
+          "text": "旁分泌",
+          "isCorrect": true,
+          "rationale": "旁分泌是指内分泌细胞分泌的激素通过组织液直接扩散，作用于邻近靶细胞的调节方式。"
+        },
+        {
+          "text": "神经内分泌",
+          "isCorrect": false,
+          "rationale": "神经内分泌是指神经元合成的激素沿轴突运输并释放入血。"
+        },
+        {
+          "text": "远距分泌",
+          "isCorrect": false,
+          "rationale": "远距分泌要求激素经由血液循环运输至远隔的靶器官或靶细胞。"
+        }
+      ],
+      "options": [
+        {
+          "text": "自分泌",
+          "isCorrect": false,
+          "rationale": "自分泌是指细胞分泌的激素作用于自身或同类细胞。"
+        },
+        {
+          "text": "旁分泌",
+          "isCorrect": true,
+          "rationale": "旁分泌是指内分泌细胞分泌的激素通过组织液直接扩散，作用于邻近靶细胞的调节方式。"
+        },
+        {
+          "text": "神经内分泌",
+          "isCorrect": false,
+          "rationale": "神经内分泌是指神经元合成的激素沿轴突运输并释放入血。"
+        },
+        {
+          "text": "远距分泌",
+          "isCorrect": false,
+          "rationale": "远距分泌要求激素经由血液循环运输至远隔的靶器官或靶细胞。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意区分激素进入血液运输还是仅通过局部的组织液扩散。",
+      "id": 1
+    },
+    {
+      "c": "2",
+      "type": "single_choice",
+      "question": "下列哪种激素的受体位于细胞内部（胞内受体），且其化学本质属于脂溶性类固醇激素？",
+      "prompt": "下列哪种激素的受体位于细胞内部（胞内受体），且其化学本质属于脂溶性类固醇激素？",
+      "answerOptions": [
+        {
+          "text": "促甲状腺素",
+          "isCorrect": false,
+          "rationale": "促甲状腺素属于肽类和蛋白质类激素，作用于膜受体。"
+        },
+        {
+          "text": "肾上腺素",
+          "isCorrect": false,
+          "rationale": "肾上腺素属于胺类激素，结合细胞膜上的 G 蛋白耦联受体。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": false,
+          "rationale": "胰岛素属于蛋白质类激素，水溶性，通过结合细胞膜受体发挥作用。"
+        },
+        {
+          "text": "皮质醇",
+          "isCorrect": true,
+          "rationale": "皮质醇是肾上腺皮质分泌的类固醇激素，为脂溶性，能透过细胞膜结合胞内受体。"
+        }
+      ],
+      "options": [
+        {
+          "text": "促甲状腺素",
+          "isCorrect": false,
+          "rationale": "促甲状腺素属于肽类和蛋白质类激素，作用于膜受体。"
+        },
+        {
+          "text": "肾上腺素",
+          "isCorrect": false,
+          "rationale": "肾上腺素属于胺类激素，结合细胞膜上的 G 蛋白耦联受体。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": false,
+          "rationale": "胰岛素属于蛋白质类激素，水溶性，通过结合细胞膜受体发挥作用。"
+        },
+        {
+          "text": "皮质醇",
+          "isCorrect": true,
+          "rationale": "皮质醇是肾上腺皮质分泌的类固醇激素，为脂溶性，能透过细胞膜结合胞内受体。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆肾上腺皮质和性腺所分泌激素的化学分类及跨膜作用机制。",
+      "id": 2
+    },
+    {
+      "c": "3",
+      "type": "single_choice",
+      "question": "当机体缺乏糖皮质激素时，儿茶酚胺的血管收缩作用显著减弱；而补给适脑糖皮质激素后，儿茶酚胺的血管收缩效应得以恢复。这种激素间的相互作用称为：",
+      "prompt": "当机体缺乏糖皮质激素时，儿茶酚胺的血管收缩作用显著减弱；而补给适脑糖皮质激素后，儿茶酚胺的血管收缩效应得以恢复。这种激素间的相互作用称为：",
+      "answerOptions": [
+        {
+          "text": "拮抗作用",
+          "isCorrect": false,
+          "rationale": "拮抗作用是指一种激素的作用抵消或削弱另一种激素的作用。"
+        },
+        {
+          "text": "竞争作用",
+          "isCorrect": false,
+          "rationale": "竞争作用是指结构相似的激素竞争结合同一受体。"
+        },
+        {
+          "text": "允许作用",
+          "isCorrect": true,
+          "rationale": "允许作用是指某种激素本身不直接引起某器官反应，但它的存在能使另一种激素的生理效应显著增强或得以表达。"
+        },
+        {
+          "text": "协同作用",
+          "isCorrect": false,
+          "rationale": "协同作用是指两种激素均能产生某种效应且效应叠加（如生长激素和胰高血糖素均能升高血糖）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "拮抗作用",
+          "isCorrect": false,
+          "rationale": "拮抗作用是指一种激素的作用抵消或削弱另一种激素的作用。"
+        },
+        {
+          "text": "竞争作用",
+          "isCorrect": false,
+          "rationale": "竞争作用是指结构相似的激素竞争结合同一受体。"
+        },
+        {
+          "text": "允许作用",
+          "isCorrect": true,
+          "rationale": "允许作用是指某种激素本身不直接引起某器官反应，但它的存在能使另一种激素的生理效应显著增强或得以表达。"
+        },
+        {
+          "text": "协同作用",
+          "isCorrect": false,
+          "rationale": "协同作用是指两种激素均能产生某种效应且效应叠加（如生长激素和胰高血糖素均能升高血糖）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "这种作用形式强调某种激素为另一种激素“铺平道路”或提供发挥作用的前提条件。",
+      "id": 3
+    },
+    {
+      "c": "4",
+      "type": "single_choice",
+      "question": "抗利尿激素（ADH）主要在下丘脑的哪个核团合成，并储存于神经垂体？",
+      "prompt": "抗利尿激素（ADH）主要在下丘脑的哪个核团合成，并储存于神经垂体？",
+      "answerOptions": [
+        {
+          "text": "视上核",
+          "isCorrect": true,
+          "rationale": "抗利尿激素（ADH）主要在下丘脑视上核合成，沿下丘脑-垂体束运输至神经垂体储存。"
+        },
+        {
+          "text": "弓状核",
+          "isCorrect": false,
+          "rationale": "弓状核属于促垂体区，主要分泌调节性多肽进入垂体门脉系统。"
+        },
+        {
+          "text": "室旁核",
+          "isCorrect": false,
+          "rationale": "催产素（OXT）主要在下丘脑室旁核合成，而抗利尿激素主要在视上核合成。"
+        },
+        {
+          "text": "视交叉上核",
+          "isCorrect": false,
+          "rationale": "视交叉上核与生物节律控制有关，不是 ADH 主要合成的神经核团。"
+        }
+      ],
+      "options": [
+        {
+          "text": "视上核",
+          "isCorrect": true,
+          "rationale": "抗利尿激素（ADH）主要在下丘脑视上核合成，沿下丘脑-垂体束运输至神经垂体储存。"
+        },
+        {
+          "text": "弓状核",
+          "isCorrect": false,
+          "rationale": "弓状核属于促垂体区，主要分泌调节性多肽进入垂体门脉系统。"
+        },
+        {
+          "text": "室旁核",
+          "isCorrect": false,
+          "rationale": "催产素（OXT）主要在下丘脑室旁核合成，而抗利尿激素主要在视上核合成。"
+        },
+        {
+          "text": "视交叉上核",
+          "isCorrect": false,
+          "rationale": "视交叉上核与生物节律控制有关，不是 ADH 主要合成的神经核团。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "下丘脑有两个主要神经核团分别合成 ADH 和催产素，注意区分“视上”与“室旁”。",
+      "id": 4
+    },
+    {
+      "c": "5",
+      "type": "single_choice",
+      "question": "当机体严重失水导致血浆晶体渗透压升高时，下丘脑-神经垂体系统会发生什么改变？",
+      "prompt": "当机体严重失水导致血浆晶体渗透压升高时，下丘脑-神经垂体系统会发生什么改变？",
+      "answerOptions": [
+        {
+          "text": "ADH 分泌减少，肾小管对水的重吸收减少，尿量增加",
+          "isCorrect": false,
+          "rationale": "失水使血浆渗透压升高，此时机体需要保水，因此 ADH 分泌应当增加而非减少。"
+        },
+        {
+          "text": "催产素分泌增加，抑制肾脏排水",
+          "isCorrect": false,
+          "rationale": "催产素主要调节子宫平滑肌收缩和排乳，对晶体渗透压引起的尿量调节不起主要作用。"
+        },
+        {
+          "text": "醛固酮分泌减少，促进肾脏排水",
+          "isCorrect": false,
+          "rationale": "晶体渗透压升高主要刺激 ADH 分泌，且醛固酮的作用是保钠保水，不会在此状态下减少以促进排水。"
+        },
+        {
+          "text": "ADH 分泌增加，肾远曲小管和集合管对水的重吸收增加，尿量减少",
+          "isCorrect": true,
+          "rationale": "晶体渗透压升高会最有效且最早地刺激下丘脑渗透压感受器，使 ADH 分泌增加，促进远曲小管和集合管重吸收水。"
+        }
+      ],
+      "options": [
+        {
+          "text": "ADH 分泌减少，肾小管对水的重吸收减少，尿量增加",
+          "isCorrect": false,
+          "rationale": "失水使血浆渗透压升高，此时机体需要保水，因此 ADH 分泌应当增加而非减少。"
+        },
+        {
+          "text": "催产素分泌增加，抑制肾脏排水",
+          "isCorrect": false,
+          "rationale": "催产素主要调节子宫平滑肌收缩和排乳，对晶体渗透压引起的尿量调节不起主要作用。"
+        },
+        {
+          "text": "醛固酮分泌减少，促进肾脏排水",
+          "isCorrect": false,
+          "rationale": "晶体渗透压升高主要刺激 ADH 分泌，且醛固酮的作用是保钠保水，不会在此状态下减少以促进排水。"
+        },
+        {
+          "text": "ADH 分泌增加，肾远曲小管和集合管对水的重吸收增加，尿量减少",
+          "isCorrect": true,
+          "rationale": "晶体渗透压升高会最有效且最早地刺激下丘脑渗透压感受器，使 ADH 分泌增加，促进远曲小管和集合管重吸收水。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考晶体渗透压变化对感受器的刺激以及 ADH 对肾脏重吸收水分的作用部位。",
+      "id": 5
+    },
+    {
+      "c": "6",
+      "type": "single_choice",
+      "question": "生长激素（GH）促进骨骼和软组织生长的作用主要依赖于诱导靶细胞产生下列哪种介质？",
+      "prompt": "生长激素（GH）促进骨骼和软组织生长的作用主要依赖于诱导靶细胞产生下列哪种介质？",
+      "answerOptions": [
+        {
+          "text": "胰岛素样生长因子-1（IGF-1）",
+          "isCorrect": true,
+          "rationale": "生长激素诱导肝脏及其他靶细胞产生胰岛素样生长因子（IGF-1），后者介导 GH 促进骨骼和肌肉生长的生理效应。"
+        },
+        {
+          "text": "去甲肾上腺素",
+          "isCorrect": false,
+          "rationale": "去甲肾上腺素是交感神经递质和肾上腺髓质激素，不参与生长激素介导的生长效应。"
+        },
+        {
+          "text": "促肾上腺皮质激素（ACTH）",
+          "isCorrect": false,
+          "rationale": "ACTH 是腺垂体分泌刺激肾上腺皮质的促激素。"
+        },
+        {
+          "text": "促甲状腺素释放激素（TRH）",
+          "isCorrect": false,
+          "rationale": "TRH 是下丘脑分泌用于调节促甲状腺素的调节性多肽。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胰岛素样生长因子-1（IGF-1）",
+          "isCorrect": true,
+          "rationale": "生长激素诱导肝脏及其他靶细胞产生胰岛素样生长因子（IGF-1），后者介导 GH 促进骨骼和肌肉生长的生理效应。"
+        },
+        {
+          "text": "去甲肾上腺素",
+          "isCorrect": false,
+          "rationale": "去甲肾上腺素是交感神经递质和肾上腺髓质激素，不参与生长激素介导的生长效应。"
+        },
+        {
+          "text": "促肾上腺皮质激素（ACTH）",
+          "isCorrect": false,
+          "rationale": "ACTH 是腺垂体分泌刺激肾上腺皮质的促激素。"
+        },
+        {
+          "text": "促甲状腺素释放激素（TRH）",
+          "isCorrect": false,
+          "rationale": "TRH 是下丘脑分泌用于调节促甲状腺素的调节性多肽。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "考虑生长激素作用于靶器官时产生的生长介质名称。",
+      "id": 6
+    },
+    {
+      "c": "7",
+      "type": "single_choice",
+      "question": "一名成年患者出现手足增大、面容改变、颅骨增厚等症状，临床诊断为肢端肥大症。该病症通常是由于：",
+      "prompt": "一名成年患者出现手足增大、面容改变、颅骨增厚等症状，临床诊断为肢端肥大症。该病症通常是由于：",
+      "answerOptions": [
+        {
+          "text": "幼年时期甲状腺激素缺乏",
+          "isCorrect": false,
+          "rationale": "幼年时期甲状腺激素缺乏会导致呆小症。"
+        },
+        {
+          "text": "成年期生长激素分泌过多",
+          "isCorrect": true,
+          "rationale": "成年期长骨骨骺已闭合，GH 过多无法再使身长增加，只能引起肢端短骨、软组织及内脏过度生长，表现为肢端肥大症。"
+        },
+        {
+          "text": "幼年时期生长激素分泌过多",
+          "isCorrect": false,
+          "rationale": "幼年期骨骺未闭合，生长激素过多会导致巨人症。"
+        },
+        {
+          "text": "成年期糖皮质激素分泌过多",
+          "isCorrect": false,
+          "rationale": "成年期糖皮质激素过多会导致柯兴氏病（库欣综合征），表现满月脸、向心性肥胖等。"
+        }
+      ],
+      "options": [
+        {
+          "text": "幼年时期甲状腺激素缺乏",
+          "isCorrect": false,
+          "rationale": "幼年时期甲状腺激素缺乏会导致呆小症。"
+        },
+        {
+          "text": "成年期生长激素分泌过多",
+          "isCorrect": true,
+          "rationale": "成年期长骨骨骺已闭合，GH 过多无法再使身长增加，只能引起肢端短骨、软组织及内脏过度生长，表现为肢端肥大症。"
+        },
+        {
+          "text": "幼年时期生长激素分泌过多",
+          "isCorrect": false,
+          "rationale": "幼年期骨骺未闭合，生长激素过多会导致巨人症。"
+        },
+        {
+          "text": "成年期糖皮质激素分泌过多",
+          "isCorrect": false,
+          "rationale": "成年期糖皮质激素过多会导致柯兴氏病（库欣综合征），表现满月脸、向心性肥胖等。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "结合骨骺闭合的时机，区分幼年期与成年期生长激素异常产生的不同后果。",
+      "id": 7
+    },
+    {
+      "c": "8",
+      "type": "single_choice",
+      "question": "关于甲状腺激素对蛋白质代谢的影响，生理剂量与大剂量的效应有何显著区别？",
+      "prompt": "关于甲状腺激素对蛋白质代谢的影响，生理剂量与大剂量的效应有何显著区别？",
+      "answerOptions": [
+        {
+          "text": "生理剂量促进蛋白质合成，大剂量加速蛋白质分解",
+          "isCorrect": true,
+          "rationale": "生理剂量的甲状腺激素促进蛋白质合成（正氮平衡），而大剂量或过量时则转为促进蛋白质分解，导致肌肉消瘦与无力。"
+        },
+        {
+          "text": "生理剂量与大剂量均无明显改变",
+          "isCorrect": false,
+          "rationale": "甲状腺激素对蛋白质代谢有着剂量依赖性的双相调节作用。"
+        },
+        {
+          "text": "生理剂量促进蛋白质分解，大剂量促进蛋白质合成",
+          "isCorrect": false,
+          "rationale": "此选项颠倒了生理剂量与大剂量对蛋白质代谢的作用机制。"
+        },
+        {
+          "text": "生理剂量与大剂量均抑制蛋白质合成",
+          "isCorrect": false,
+          "rationale": "生理剂量是促进蛋白质合成以维持生长发育。"
+        }
+      ],
+      "options": [
+        {
+          "text": "生理剂量促进蛋白质合成，大剂量加速蛋白质分解",
+          "isCorrect": true,
+          "rationale": "生理剂量的甲状腺激素促进蛋白质合成（正氮平衡），而大剂量或过量时则转为促进蛋白质分解，导致肌肉消瘦与无力。"
+        },
+        {
+          "text": "生理剂量与大剂量均无明显改变",
+          "isCorrect": false,
+          "rationale": "甲状腺激素对蛋白质代谢有着剂量依赖性的双相调节作用。"
+        },
+        {
+          "text": "生理剂量促进蛋白质分解，大剂量促进蛋白质合成",
+          "isCorrect": false,
+          "rationale": "此选项颠倒了生理剂量与大剂量对蛋白质代谢的作用机制。"
+        },
+        {
+          "text": "生理剂量与大剂量均抑制蛋白质合成",
+          "isCorrect": false,
+          "rationale": "生理剂量是促进蛋白质合成以维持生长发育。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考正常生理浓度促进生长，与甲亢（激素过量）时肌肉消瘦无力的现象。",
+      "id": 8
+    },
+    {
+      "c": "9",
+      "type": "single_choice",
+      "question": "呆小症（克汀病）与侏儒症患者均表现为身材矮小，但呆小症患者还伴有明显的智力低下。这是因为呆小症是由于在幼年时期缺乏：",
+      "prompt": "呆小症（克汀病）与侏儒症患者均表现为身材矮小，但呆小症患者还伴有明显的智力低下。这是因为呆小症是由于在幼年时期缺乏：",
+      "answerOptions": [
+        {
+          "text": "生长激素",
+          "isCorrect": false,
+          "rationale": "幼年缺乏生长激素导致侏儒症，患者身材矮小但智力发育正常。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": false,
+          "rationale": "幼年缺乏胰岛素表现为 1 型糖尿病，而非呆小症。"
+        },
+        {
+          "text": "甲状腺激素",
+          "isCorrect": true,
+          "rationale": "甲状腺激素对中枢神经系统的发育成熟和骨骼生长至关重要，幼年缺乏会导致身材矮小且智力发育严重障碍（呆小症）。"
+        },
+        {
+          "text": "降钙素",
+          "isCorrect": false,
+          "rationale": "降钙素缺乏主要影响钙磷代谢，不直接导致身材矮小和智力障碍。"
+        }
+      ],
+      "options": [
+        {
+          "text": "生长激素",
+          "isCorrect": false,
+          "rationale": "幼年缺乏生长激素导致侏儒症，患者身材矮小但智力发育正常。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": false,
+          "rationale": "幼年缺乏胰岛素表现为 1 型糖尿病，而非呆小症。"
+        },
+        {
+          "text": "甲状腺激素",
+          "isCorrect": true,
+          "rationale": "甲状腺激素对中枢神经系统的发育成熟和骨骼生长至关重要，幼年缺乏会导致身材矮小且智力发育严重障碍（呆小症）。"
+        },
+        {
+          "text": "降钙素",
+          "isCorrect": false,
+          "rationale": "降钙素缺乏主要影响钙磷代谢，不直接导致身材矮小和智力障碍。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "关注哪种激素在幼年期对脑和中枢神经系统的发育成熟起决定性作用。",
+      "id": 9
+    },
+    {
+      "c": "10",
+      "type": "single_choice",
+      "question": "降钙素（Calcitonin）由甲状腺内的哪种细胞分泌，其对血钙的主要生理效应是什么？",
+      "prompt": "降钙素（Calcitonin）由甲状腺内的哪种细胞分泌，其对血钙的主要生理效应是什么？",
+      "answerOptions": [
+        {
+          "text": "主细胞；升高血钙",
+          "isCorrect": false,
+          "rationale": "甲状旁腺主细胞分泌甲状旁腺素（PTH），起升高血钙作用。"
+        },
+        {
+          "text": "束状带细胞；降低血钙",
+          "isCorrect": false,
+          "rationale": "束状带细胞属于肾上腺皮质，分泌糖皮质激素。"
+        },
+        {
+          "text": "滤泡上皮细胞；升高血钙",
+          "isCorrect": false,
+          "rationale": "滤泡上皮细胞分泌的是 $T_3$ 和 $T_4$。"
+        },
+        {
+          "text": "滤泡旁细胞（C细胞）；降低血钙",
+          "isCorrect": true,
+          "rationale": "降钙素由甲状腺滤泡旁细胞（C细胞）分泌，通过抑制破骨细胞活动、加强成骨细胞活动来降低血钙。"
+        }
+      ],
+      "options": [
+        {
+          "text": "主细胞；升高血钙",
+          "isCorrect": false,
+          "rationale": "甲状旁腺主细胞分泌甲状旁腺素（PTH），起升高血钙作用。"
+        },
+        {
+          "text": "束状带细胞；降低血钙",
+          "isCorrect": false,
+          "rationale": "束状带细胞属于肾上腺皮质，分泌糖皮质激素。"
+        },
+        {
+          "text": "滤泡上皮细胞；升高血钙",
+          "isCorrect": false,
+          "rationale": "滤泡上皮细胞分泌的是 $T_3$ 和 $T_4$。"
+        },
+        {
+          "text": "滤泡旁细胞（C细胞）；降低血钙",
+          "isCorrect": true,
+          "rationale": "降钙素由甲状腺滤泡旁细胞（C细胞）分泌，通过抑制破骨细胞活动、加强成骨细胞活动来降低血钙。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意甲状腺中滤泡细胞与滤泡旁细胞（C细胞）所分泌激素的不同及降钙素的名称含义。",
+      "id": 10
+    },
+    {
+      "c": "11",
+      "type": "single_choice",
+      "question": "甲状旁腺素（PTH）在调节机体钙磷代谢中发挥重要作用，下列关于 PTH 生理作用的描述，正确的是：",
+      "prompt": "甲状旁腺素（PTH）在调节机体钙磷代谢中发挥重要作用，下列关于 PTH 生理作用的描述，正确的是：",
+      "answerOptions": [
+        {
+          "text": "抑制小肠对钙、磷的吸收",
+          "isCorrect": false,
+          "rationale": "PTH 能促进活性 $1,25-(OH)_2VitD_3$ 的生成，从而间接促进小肠对钙、磷的吸收。"
+        },
+        {
+          "text": "动员骨钙入血，促进肾小管重吸收 $Ca^{2+}$，抑制磷的重吸收",
+          "isCorrect": true,
+          "rationale": "PTH 的主要作用是升高血钙、降低血磷，主要通过动员骨钙、促进肾重吸收 $Ca^{2+}$ 和排磷来实现。"
+        },
+        {
+          "text": "促进成骨细胞活动，使骨盐沉积",
+          "isCorrect": false,
+          "rationale": "促进成骨细胞活动和骨盐沉积是降钙素的生理效应。"
+        },
+        {
+          "text": "抑制破骨细胞活动，促进肾小管排钙保磷",
+          "isCorrect": false,
+          "rationale": "PTH 动员骨钙入血（激活破骨细胞），促进肾小管重吸收钙并抑制磷的重吸收。"
+        }
+      ],
+      "options": [
+        {
+          "text": "抑制小肠对钙、磷的吸收",
+          "isCorrect": false,
+          "rationale": "PTH 能促进活性 $1,25-(OH)_2VitD_3$ 的生成，从而间接促进小肠对钙、磷的吸收。"
+        },
+        {
+          "text": "动员骨钙入血，促进肾小管重吸收 $Ca^{2+}$，抑制磷的重吸收",
+          "isCorrect": true,
+          "rationale": "PTH 的主要作用是升高血钙、降低血磷，主要通过动员骨钙、促进肾重吸收 $Ca^{2+}$ 和排磷来实现。"
+        },
+        {
+          "text": "促进成骨细胞活动，使骨盐沉积",
+          "isCorrect": false,
+          "rationale": "促进成骨细胞活动和骨盐沉积是降钙素的生理效应。"
+        },
+        {
+          "text": "抑制破骨细胞活动，促进肾小管排钙保磷",
+          "isCorrect": false,
+          "rationale": "PTH 动员骨钙入血（激活破骨细胞），促进肾小管重吸收钙并抑制磷的重吸收。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "锁定 PTH 的核心目标：升高血钙、降低血磷。",
+      "id": 11
+    },
+    {
+      "c": "12",
+      "type": "single_choice",
+      "question": "肾上腺皮质由外向内可分为三层，其中束状带细胞主要分泌：",
+      "prompt": "肾上腺皮质由外向内可分为三层，其中束状带细胞主要分泌：",
+      "answerOptions": [
+        {
+          "text": "肾上腺素",
+          "isCorrect": false,
+          "rationale": "肾上腺素是由肾上腺髓质分泌，而非皮质。"
+        },
+        {
+          "text": "性激素（雄激素）",
+          "isCorrect": false,
+          "rationale": "性激素主要由肾上腺皮质最内层的网状带分泌。"
+        },
+        {
+          "text": "糖皮质激素（皮质醇）",
+          "isCorrect": true,
+          "rationale": "肾上腺皮质中间的束状带主要分泌糖皮质激素（以皮质醇为主）。"
+        },
+        {
+          "text": "盐皮质激素（醛固酮）",
+          "isCorrect": false,
+          "rationale": "醛固酮等盐皮质激素由肾上腺皮质最外层的球状带分泌。"
+        }
+      ],
+      "options": [
+        {
+          "text": "肾上腺素",
+          "isCorrect": false,
+          "rationale": "肾上腺素是由肾上腺髓质分泌，而非皮质。"
+        },
+        {
+          "text": "性激素（雄激素）",
+          "isCorrect": false,
+          "rationale": "性激素主要由肾上腺皮质最内层的网状带分泌。"
+        },
+        {
+          "text": "糖皮质激素（皮质醇）",
+          "isCorrect": true,
+          "rationale": "肾上腺皮质中间的束状带主要分泌糖皮质激素（以皮质醇为主）。"
+        },
+        {
+          "text": "盐皮质激素（醛固酮）",
+          "isCorrect": false,
+          "rationale": "醛固酮等盐皮质激素由肾上腺皮质最外层的球状带分泌。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆肾上腺皮质“球、束、网”三层结构分别对应的激素种类。",
+      "id": 12
+    },
+    {
+      "c": "13",
+      "type": "single_choice",
+      "question": "糖皮质激素对血液中不同细胞成分的数量有显著影响。临床上大量使用糖皮质激素后，检测外周血常会出现：",
+      "prompt": "糖皮质激素对血液中不同细胞成分的数量有显著影响。临床上大量使用糖皮质激素后，检测外周血常会出现：",
+      "answerOptions": [
+        {
+          "text": "所有血细胞成分数量均普遍下降",
+          "isCorrect": false,
+          "rationale": "糖皮质激素对血细胞具有差异化影响，红细胞和血小板数量是增加的。"
+        },
+        {
+          "text": "红细胞和中性粒细胞减少，淋巴细胞增加",
+          "isCorrect": false,
+          "rationale": "糖皮质激素会抑制淋巴细胞，导致淋巴细胞数量下降而非增加。"
+        },
+        {
+          "text": "红细胞、血小板和中性粒细胞增加，淋巴细胞和嗜酸性粒细胞减少",
+          "isCorrect": true,
+          "rationale": "糖皮质激素可使外周血中的红细胞、血小板和中性粒细胞增多，同时使淋巴细胞、单核细胞和嗜酸性粒细胞减少。"
+        },
+        {
+          "text": "淋巴细胞和单核细胞显著增加",
+          "isCorrect": false,
+          "rationale": "淋巴细胞和单核细胞数量在糖皮质激素作用下会减少，这是其免疫抑制作用机制之一。"
+        }
+      ],
+      "options": [
+        {
+          "text": "所有血细胞成分数量均普遍下降",
+          "isCorrect": false,
+          "rationale": "糖皮质激素对血细胞具有差异化影响，红细胞和血小板数量是增加的。"
+        },
+        {
+          "text": "红细胞和中性粒细胞减少，淋巴细胞增加",
+          "isCorrect": false,
+          "rationale": "糖皮质激素会抑制淋巴细胞，导致淋巴细胞数量下降而非增加。"
+        },
+        {
+          "text": "红细胞、血小板和中性粒细胞增加，淋巴细胞和嗜酸性粒细胞减少",
+          "isCorrect": true,
+          "rationale": "糖皮质激素可使外周血中的红细胞、血小板和中性粒细胞增多，同时使淋巴细胞、单核细胞和嗜酸性粒细胞减少。"
+        },
+        {
+          "text": "淋巴细胞和单核细胞显著增加",
+          "isCorrect": false,
+          "rationale": "淋巴细胞和单核细胞数量在糖皮质激素作用下会减少，这是其免疫抑制作用机制之一。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考糖皮质激素抑制免疫反应时对淋巴细胞的影响，以及对红细胞和中性粒细胞的作用。",
+      "id": 13
+    },
+    {
+      "c": "14",
+      "type": "single_choice",
+      "question": "醛固酮（Aldosterone）的主要靶器官是肾脏，其最核心的调节水盐平衡的作用是：",
+      "prompt": "醛固酮（Aldosterone）的主要靶器官是肾脏，其最核心的调节水盐平衡的作用是：",
+      "answerOptions": [
+        {
+          "text": "排钠排水，保钾",
+          "isCorrect": false,
+          "rationale": "排钠排水是心房钠尿肽（ANP）等的作用特点，与醛固酮相反。"
+        },
+        {
+          "text": "排钙排磷，保钠",
+          "isCorrect": false,
+          "rationale": "醛固酮主要调节 $Na^+$ 和 $K^+$ 离子，并非钙磷代谢的主导激素。"
+        },
+        {
+          "text": "保钠保水，排钾",
+          "isCorrect": true,
+          "rationale": "醛固酮作用于肾脏远曲小管和集合管，促进 $Na^+$ 和水分的重吸收，同时促进 $K^+$ 的排出（保钠保水排钾）。"
+        },
+        {
+          "text": "保钾保水，排钠",
+          "isCorrect": false,
+          "rationale": "醛固酮的作用是促进 $Na^+$ 重吸收而非排出。"
+        }
+      ],
+      "options": [
+        {
+          "text": "排钠排水，保钾",
+          "isCorrect": false,
+          "rationale": "排钠排水是心房钠尿肽（ANP）等的作用特点，与醛固酮相反。"
+        },
+        {
+          "text": "排钙排磷，保钠",
+          "isCorrect": false,
+          "rationale": "醛固酮主要调节 $Na^+$ 和 $K^+$ 离子，并非钙磷代谢的主导激素。"
+        },
+        {
+          "text": "保钠保水，排钾",
+          "isCorrect": true,
+          "rationale": "醛固酮作用于肾脏远曲小管和集合管，促进 $Na^+$ 和水分的重吸收，同时促进 $K^+$ 的排出（保钠保水排钾）。"
+        },
+        {
+          "text": "保钾保水，排钠",
+          "isCorrect": false,
+          "rationale": "醛固酮的作用是促进 $Na^+$ 重吸收而非排出。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "口诀“保钠排钾”有助于准确记忆醛固酮的作用。",
+      "id": 14
+    },
+    {
+      "c": "15",
+      "type": "single_choice",
+      "question": "在机体面临严重创伤、手术或精神紧张等有害刺激时，垂体-肾上腺皮质轴被激活，导致血液中显著增加的激素是：",
+      "prompt": "在机体面临严重创伤、手术或精神紧张等有害刺激时，垂体-肾上腺皮质轴被激活，导致血液中显著增加的激素是：",
+      "answerOptions": [
+        {
+          "text": "促肾上腺皮质激素和糖皮质激素",
+          "isCorrect": true,
+          "rationale": "应激反应中，下丘脑-垂体-肾上腺皮质轴被激活，CRH 促进 ACTH 释放，进而使糖皮质激素大量分泌以增强抗损害能力。"
+        },
+        {
+          "text": "胰岛素和降钙素",
+          "isCorrect": false,
+          "rationale": "应激状态下血糖升高，胰岛素分泌相对不足或受抑制，降钙素不参与应激核心反应。"
+        },
+        {
+          "text": "甲状旁腺素和抗利尿激素",
+          "isCorrect": false,
+          "rationale": "虽然某些应激可影响 ADH，但应激反应特指垂体-肾上腺皮质轴激活引起 ACTH 和糖皮质激素增加。"
+        },
+        {
+          "text": "褪黑素和生长抑素",
+          "isCorrect": false,
+          "rationale": "褪黑素和生长抑素不是应激反应中起主要机体保护作用的升高激素。"
+        }
+      ],
+      "options": [
+        {
+          "text": "促肾上腺皮质激素和糖皮质激素",
+          "isCorrect": true,
+          "rationale": "应激反应中，下丘脑-垂体-肾上腺皮质轴被激活，CRH 促进 ACTH 释放，进而使糖皮质激素大量分泌以增强抗损害能力。"
+        },
+        {
+          "text": "胰岛素和降钙素",
+          "isCorrect": false,
+          "rationale": "应激状态下血糖升高，胰岛素分泌相对不足或受抑制，降钙素不参与应激核心反应。"
+        },
+        {
+          "text": "甲状旁腺素和抗利尿激素",
+          "isCorrect": false,
+          "rationale": "虽然某些应激可影响 ADH，但应激反应特指垂体-肾上腺皮质轴激活引起 ACTH 和糖皮质激素增加。"
+        },
+        {
+          "text": "褪黑素和生长抑素",
+          "isCorrect": false,
+          "rationale": "褪黑素和生长抑素不是应激反应中起主要机体保护作用的升高激素。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "应激反应（Stress Reaction）的核心轴系是下丘脑-腺垂体-肾上腺皮质轴。",
+      "id": 15
+    },
+    {
+      "c": "16",
+      "type": "single_choice",
+      "question": "胰岛素是体内唯一能降低血糖的激素。关于胰岛素调节代谢的生理作用，下列说法错误的是：",
+      "prompt": "胰岛素是体内唯一能降低血糖的激素。关于胰岛素调节代谢的生理作用，下列说法错误的是：",
+      "answerOptions": [
+        {
+          "text": "促进葡萄糖转化为脂肪酸并合成脂肪储存",
+          "isCorrect": false,
+          "rationale": "胰岛素能将过多的葡萄糖转化为脂肪酸并储存在脂肪组织中。"
+        },
+        {
+          "text": "促进葡萄糖进入细胞内被利用",
+          "isCorrect": false,
+          "rationale": "胰岛素促进外周组织（肌肉、脂肪）对葡萄糖的摄取和利用，这是其降低血糖的重要途径。"
+        },
+        {
+          "text": "抑制脂肪和蛋白质合成，促进其分解",
+          "isCorrect": true,
+          "rationale": "胰岛素全面促进合成代谢；它促进脂肪和蛋白质的合成与储存，抑制它们的分解。"
+        },
+        {
+          "text": "促进糖原合成，抑制糖异生",
+          "isCorrect": false,
+          "rationale": "胰岛素通过促进肝糖原和肌糖原合成，同时减少肝脏糖异生来降低血糖。"
+        }
+      ],
+      "options": [
+        {
+          "text": "促进葡萄糖转化为脂肪酸并合成脂肪储存",
+          "isCorrect": false,
+          "rationale": "胰岛素能将过多的葡萄糖转化为脂肪酸并储存在脂肪组织中。"
+        },
+        {
+          "text": "促进葡萄糖进入细胞内被利用",
+          "isCorrect": false,
+          "rationale": "胰岛素促进外周组织（肌肉、脂肪）对葡萄糖的摄取和利用，这是其降低血糖的重要途径。"
+        },
+        {
+          "text": "抑制脂肪和蛋白质合成，促进其分解",
+          "isCorrect": true,
+          "rationale": "胰岛素全面促进合成代谢；它促进脂肪和蛋白质的合成与储存，抑制它们的分解。"
+        },
+        {
+          "text": "促进糖原合成，抑制糖异生",
+          "isCorrect": false,
+          "rationale": "胰岛素通过促进肝糖原和肌糖原合成，同时减少肝脏糖异生来降低血糖。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "胰岛素是典型的“合成代谢”激素，会促进物质合成与储存，抑制物质分解。",
+      "id": 16
+    },
+    {
+      "c": "17",
+      "type": "single_choice",
+      "question": "在调节胰岛素分泌的诸多生理因素中，最重要且最直接的刺激因素是：",
+      "prompt": "在调节胰岛素分泌的诸多生理因素中，最重要且最直接的刺激因素是：",
+      "answerOptions": [
+        {
+          "text": "血糖浓度升高",
+          "isCorrect": true,
+          "rationale": "血糖浓度是调节胰岛素分泌最重要、最直接的生理刺激因素。"
+        },
+        {
+          "text": "交感神经兴奋",
+          "isCorrect": false,
+          "rationale": "交感神经兴奋主要抑制胰岛素分泌，以保证运动或应激时血糖不至于过低。"
+        },
+        {
+          "text": "胃肠道激素（如促胃液素）",
+          "isCorrect": false,
+          "rationale": "胃肠道激素通过进食间接刺激胰岛素分泌，非最核心因素。"
+        },
+        {
+          "text": "血浆游离脂肪酸浓度升高",
+          "isCorrect": false,
+          "rationale": "脂肪酸升高能促进胰岛素分泌，但只是辅助和协同因素。"
+        }
+      ],
+      "options": [
+        {
+          "text": "血糖浓度升高",
+          "isCorrect": true,
+          "rationale": "血糖浓度是调节胰岛素分泌最重要、最直接的生理刺激因素。"
+        },
+        {
+          "text": "交感神经兴奋",
+          "isCorrect": false,
+          "rationale": "交感神经兴奋主要抑制胰岛素分泌，以保证运动或应激时血糖不至于过低。"
+        },
+        {
+          "text": "胃肠道激素（如促胃液素）",
+          "isCorrect": false,
+          "rationale": "胃肠道激素通过进食间接刺激胰岛素分泌，非最核心因素。"
+        },
+        {
+          "text": "血浆游离脂肪酸浓度升高",
+          "isCorrect": false,
+          "rationale": "脂肪酸升高能促进胰岛素分泌，但只是辅助和协同因素。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考身体在进食后血糖升高的即刻体液反馈反应。",
+      "id": 17
+    },
+    {
+      "c": "18",
+      "type": "single_choice",
+      "question": "胰岛 $\\alpha$ 细胞分泌的胰高血糖素在维持血糖稳态中起关键作用，其主要靶器官及代谢效应为：",
+      "prompt": "胰岛 $\\alpha$ 细胞分泌的胰高血糖素在维持血糖稳态中起关键作用，其主要靶器官及代谢效应为：",
+      "answerOptions": [
+        {
+          "text": "作用于肝脏，促进肝糖原分解和糖异生",
+          "isCorrect": true,
+          "rationale": "胰高血糖素主要作用于肝脏，通过促进肝糖原分解和非糖物质转化为糖（糖异生），使血糖升高。"
+        },
+        {
+          "text": "作用于肾脏，抑制葡萄糖重吸收",
+          "isCorrect": false,
+          "rationale": "肾脏葡萄糖重吸收主要受重吸收载体限制，并非胰高血糖素主要作用机制。"
+        },
+        {
+          "text": "作用于骨骼肌，促进肌糖原分解",
+          "isCorrect": false,
+          "rationale": "肌糖原缺乏将葡萄糖释放入血的酶，胰高血糖素主要作用于肝脏促进肝糖原分解。"
+        },
+        {
+          "text": "作用于脂肪组织，抑制脂肪分解",
+          "isCorrect": false,
+          "rationale": "胰高血糖素促进脂肪分解和脂肪酸氧化。"
+        }
+      ],
+      "options": [
+        {
+          "text": "作用于肝脏，促进肝糖原分解和糖异生",
+          "isCorrect": true,
+          "rationale": "胰高血糖素主要作用于肝脏，通过促进肝糖原分解和非糖物质转化为糖（糖异生），使血糖升高。"
+        },
+        {
+          "text": "作用于肾脏，抑制葡萄糖重吸收",
+          "isCorrect": false,
+          "rationale": "肾脏葡萄糖重吸收主要受重吸收载体限制，并非胰高血糖素主要作用机制。"
+        },
+        {
+          "text": "作用于骨骼肌，促进肌糖原分解",
+          "isCorrect": false,
+          "rationale": "肌糖原缺乏将葡萄糖释放入血的酶，胰高血糖素主要作用于肝脏促进肝糖原分解。"
+        },
+        {
+          "text": "作用于脂肪组织，抑制脂肪分解",
+          "isCorrect": false,
+          "rationale": "胰高血糖素促进脂肪分解和脂肪酸氧化。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考当血糖降低时，哪个器官能通过分解储存糖原及糖异生向血液输出葡萄糖。",
+      "id": 18
+    },
+    {
+      "c": "19",
+      "type": "single_choice",
+      "question": "松果体分泌的褪黑素（Melatonin）具有显著的昼夜节律。下列关于褪黑素生理特性的叙述，正确的是：",
+      "prompt": "松果体分泌的褪黑素（Melatonin）具有显著的昼夜节律。下列关于褪黑素生理特性的叙述，正确的是：",
+      "answerOptions": [
+        {
+          "text": "能使人体皮肤色素沉着显著变深",
+          "isCorrect": false,
+          "rationale": "褪黑素可使低等动物肤色变浅，但对人体肤色无此作用。"
+        },
+        {
+          "text": "在青春期前具有促进下丘脑-腺垂体-性腺轴的作用",
+          "isCorrect": false,
+          "rationale": "褪黑素在青春期前对下丘脑-腺垂体-性腺轴具有抗性腺（抑制）作用。"
+        },
+        {
+          "text": "分泌受光线抑制，与睡眠周期的形成密切相关",
+          "isCorrect": true,
+          "rationale": "光照会通过视网膜到下丘脑的途径抑制褪黑素分泌，黑夜分泌增加有助于诱导睡眠和形成睡眠周期。"
+        },
+        {
+          "text": "白天分泌增多，黑夜分泌减少",
+          "isCorrect": false,
+          "rationale": "褪黑素的分泌呈现黑夜多、白天少的特点。"
+        }
+      ],
+      "options": [
+        {
+          "text": "能使人体皮肤色素沉着显著变深",
+          "isCorrect": false,
+          "rationale": "褪黑素可使低等动物肤色变浅，但对人体肤色无此作用。"
+        },
+        {
+          "text": "在青春期前具有促进下丘脑-腺垂体-性腺轴的作用",
+          "isCorrect": false,
+          "rationale": "褪黑素在青春期前对下丘脑-腺垂体-性腺轴具有抗性腺（抑制）作用。"
+        },
+        {
+          "text": "分泌受光线抑制，与睡眠周期的形成密切相关",
+          "isCorrect": true,
+          "rationale": "光照会通过视网膜到下丘脑的途径抑制褪黑素分泌，黑夜分泌增加有助于诱导睡眠和形成睡眠周期。"
+        },
+        {
+          "text": "白天分泌增多，黑夜分泌减少",
+          "isCorrect": false,
+          "rationale": "褪黑素的分泌呈现黑夜多、白天少的特点。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "想想光照如何影响褪黑素的分泌，以及市面上补充褪黑素常用于改善什么问题。",
+      "id": 19
+    },
+    {
+      "c": "20",
+      "type": "single_choice",
+      "question": "下丘脑促垂体区分泌的催乳素释放抑制因子（PIH）对腺垂体催乳素（PRL）的分泌发挥什么样的主导作用？",
+      "prompt": "下丘脑促垂体区分泌的催乳素释放抑制因子（PIH）对腺垂体催乳素（PRL）的分泌发挥什么样的主导作用？",
+      "answerOptions": [
+        {
+          "text": "持续性的促进作用",
+          "isCorrect": false,
+          "rationale": "PIH 是抑制因子，起抑制作用而非促进。"
+        },
+        {
+          "text": "起主导和经常性的抑制作用",
+          "isCorrect": true,
+          "rationale": "在正常非妊娠/非哺乳生理状态下，下丘脑通过分泌 PIH 对催乳素的释放保持主导和经常性的抑制作用。"
+        },
+        {
+          "text": "仅在运动或应激状态下才起作用",
+          "isCorrect": false,
+          "rationale": "PIH 对催乳素的作用是基础性、经常性的，并不局限于应激状态。"
+        },
+        {
+          "text": "促进催乳素和生长激素同时过量释放",
+          "isCorrect": false,
+          "rationale": "PIH 专门针对催乳素且为抑制作用。"
+        }
+      ],
+      "options": [
+        {
+          "text": "持续性的促进作用",
+          "isCorrect": false,
+          "rationale": "PIH 是抑制因子，起抑制作用而非促进。"
+        },
+        {
+          "text": "起主导和经常性的抑制作用",
+          "isCorrect": true,
+          "rationale": "在正常非妊娠/非哺乳生理状态下，下丘脑通过分泌 PIH 对催乳素的释放保持主导和经常性的抑制作用。"
+        },
+        {
+          "text": "仅在运动或应激状态下才起作用",
+          "isCorrect": false,
+          "rationale": "PIH 对催乳素的作用是基础性、经常性的，并不局限于应激状态。"
+        },
+        {
+          "text": "促进催乳素和生长激素同时过量释放",
+          "isCorrect": false,
+          "rationale": "PIH 专门针对催乳素且为抑制作用。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意下丘脑对催乳素分泌的控制是以“抑制因子（PIH）”占优势和常态的。",
+      "id": 20
+    },
+    {
+      "c": "21",
+      "type": "single_choice",
+      "question": "临床上如果对患者长期大剂量使用糖皮质激素治疗，不能突然停药，必须逐渐减量。其主要原因是：",
+      "prompt": "临床上如果对患者长期大剂量使用糖皮质激素治疗，不能突然停药，必须逐渐减量。其主要原因是：",
+      "answerOptions": [
+        {
+          "text": "肾上腺髓质功能亢进导致危险的高血压",
+          "isCorrect": false,
+          "rationale": "糖皮质激素影响的是肾上腺皮质轴，而非导致髓质功能亢进。"
+        },
+        {
+          "text": "促甲状腺素过度分泌引起严重甲亢",
+          "isCorrect": false,
+          "rationale": "糖皮质激素撤药不直接引发促甲状腺素过度分泌或甲亢。"
+        },
+        {
+          "text": "靶细胞上的糖皮质激素受体彻底消失",
+          "isCorrect": false,
+          "rationale": "停药的主要危险在于自身腺体萎缩无法分泌足够激素，而非受体消失。"
+        },
+        {
+          "text": "外源性激素负反馈抑制了下丘脑-腺垂体-肾上腺皮质轴，导致肾上腺皮质萎缩",
+          "isCorrect": true,
+          "rationale": "长期外源性糖皮质激素会负反馈抑制下丘脑 CRH 和腺垂体 ACTH 的分泌，使内源性肾上腺皮质发生萎缩；突然停药会导致肾上腺皮质功能低下的危象。"
+        }
+      ],
+      "options": [
+        {
+          "text": "肾上腺髓质功能亢进导致危险的高血压",
+          "isCorrect": false,
+          "rationale": "糖皮质激素影响的是肾上腺皮质轴，而非导致髓质功能亢进。"
+        },
+        {
+          "text": "促甲状腺素过度分泌引起严重甲亢",
+          "isCorrect": false,
+          "rationale": "糖皮质激素撤药不直接引发促甲状腺素过度分泌或甲亢。"
+        },
+        {
+          "text": "靶细胞上的糖皮质激素受体彻底消失",
+          "isCorrect": false,
+          "rationale": "停药的主要危险在于自身腺体萎缩无法分泌足够激素，而非受体消失。"
+        },
+        {
+          "text": "外源性激素负反馈抑制了下丘脑-腺垂体-肾上腺皮质轴，导致肾上腺皮质萎缩",
+          "isCorrect": true,
+          "rationale": "长期外源性糖皮质激素会负反馈抑制下丘脑 CRH 和腺垂体 ACTH 的分泌，使内源性肾上腺皮质发生萎缩；突然停药会导致肾上腺皮质功能低下的危象。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "考虑长期外源性补充激素对“下丘脑-腺垂体-靶腺轴”的负反馈抑制效应。",
+      "id": 21
+    },
+    {
+      "c": "22",
+      "type": "multiple_select",
+      "question": "根据化学结构，下列哪些激素属于含氮类激素（包含肽类、蛋白质类及胺类激素）？",
+      "prompt": "根据化学结构，下列哪些激素属于含氮类激素（包含肽类、蛋白质类及胺类激素）？",
+      "answerOptions": [
+        {
+          "text": "促甲状腺素（TSH）",
+          "isCorrect": true,
+          "rationale": "促甲状腺素为腺垂体分泌的糖蛋白激素，属于含氮类激素。"
+        },
+        {
+          "text": "皮质醇",
+          "isCorrect": false,
+          "rationale": "皮质醇是肾上腺皮质束状带分泌的类固醇激素，属于脂类激素。"
+        },
+        {
+          "text": "甲状腺激素（$T_3$ / $T_4$）",
+          "isCorrect": true,
+          "rationale": "甲状腺激素属于氨基酸衍生物（胺类激素），归为含氮类激素。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": true,
+          "rationale": "胰岛素是由胰岛 $\\beta$ 细胞分泌的蛋白质类激素，属于含氮类激素。"
+        }
+      ],
+      "options": [
+        {
+          "text": "促甲状腺素（TSH）",
+          "isCorrect": true,
+          "rationale": "促甲状腺素为腺垂体分泌的糖蛋白激素，属于含氮类激素。"
+        },
+        {
+          "text": "皮质醇",
+          "isCorrect": false,
+          "rationale": "皮质醇是肾上腺皮质束状带分泌的类固醇激素，属于脂类激素。"
+        },
+        {
+          "text": "甲状腺激素（$T_3$ / $T_4$）",
+          "isCorrect": true,
+          "rationale": "甲状腺激素属于氨基酸衍生物（胺类激素），归为含氮类激素。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": true,
+          "rationale": "胰岛素是由胰岛 $\\beta$ 细胞分泌的蛋白质类激素，属于含氮类激素。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分脂类激素（类固醇和脂肪酸衍生物）与含氮类激素（胺类、肽类和蛋白质类）。",
+      "id": 22
+    },
+    {
+      "c": "23",
+      "type": "multiple_select",
+      "question": "当机体遇到饥饿或低血糖时，体内哪些激素的分泌会显著增加以促进血糖升高？",
+      "prompt": "当机体遇到饥饿或低血糖时，体内哪些激素的分泌会显著增加以促进血糖升高？",
+      "answerOptions": [
+        {
+          "text": "糖皮质激素",
+          "isCorrect": true,
+          "rationale": "糖皮质激素能促进糖异生并减少外周组织对葡萄糖的利用，从而升高血糖。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": false,
+          "rationale": "胰岛素是降血糖激素，低血糖时其分泌受到抑制。"
+        },
+        {
+          "text": "肾上腺素",
+          "isCorrect": true,
+          "rationale": "肾上腺素在低血糖或应激时迅速释放，加速肝糖原分解以升高血糖。"
+        },
+        {
+          "text": "胰高血糖素",
+          "isCorrect": true,
+          "rationale": "胰高血糖素能强效促进肝糖原分解和糖异生，是升高血糖的核心激素。"
+        }
+      ],
+      "options": [
+        {
+          "text": "糖皮质激素",
+          "isCorrect": true,
+          "rationale": "糖皮质激素能促进糖异生并减少外周组织对葡萄糖的利用，从而升高血糖。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": false,
+          "rationale": "胰岛素是降血糖激素，低血糖时其分泌受到抑制。"
+        },
+        {
+          "text": "肾上腺素",
+          "isCorrect": true,
+          "rationale": "肾上腺素在低血糖或应激时迅速释放，加速肝糖原分解以升高血糖。"
+        },
+        {
+          "text": "胰高血糖素",
+          "isCorrect": true,
+          "rationale": "胰高血糖素能强效促进肝糖原分解和糖异生，是升高血糖的核心激素。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "寻找体内能够促进糖原分解、糖异生或减少血糖利用的升高血糖激素。",
+      "id": 23
+    },
+    {
+      "c": "24",
+      "type": "multiple_select",
+      "question": "血钙浓度的稳态受到多种激素的精细调节。下列关于调节血钙激素及其作用的说法，正确的有：",
+      "prompt": "血钙浓度的稳态受到多种激素的精细调节。下列关于调节血钙激素及其作用的说法，正确的有：",
+      "answerOptions": [
+        {
+          "text": "活性 $1,25-(OH)_2VitD_3$ 能促进小肠粘膜对钙和磷的吸收",
+          "isCorrect": true,
+          "rationale": "活性 $VitD_3$ 作用于肠黏膜上皮细胞，显著增加小肠对钙、磷的吸收率。"
+        },
+        {
+          "text": "降钙素与甲状旁腺素对血钙水平起协同升高作用",
+          "isCorrect": false,
+          "rationale": "降钙素降低血钙，PTH 升高血钙，二者在血钙调节中呈现拮抗作用。"
+        },
+        {
+          "text": "甲状旁腺素（PTH）能够动员骨钙入血，使血钙升高",
+          "isCorrect": true,
+          "rationale": "PTH 促进骨钙释放并加强肾小管对钙的重吸收，起升高血钙的作用。"
+        },
+        {
+          "text": "降钙素通过抑制破骨细胞活动、加强成骨活动来降低血钙",
+          "isCorrect": true,
+          "rationale": "降钙素促进钙盐在骨骼中沉积并抑制骨吸收，从而降低血钙浓度。"
+        }
+      ],
+      "options": [
+        {
+          "text": "活性 $1,25-(OH)_2VitD_3$ 能促进小肠粘膜对钙和磷的吸收",
+          "isCorrect": true,
+          "rationale": "活性 $VitD_3$ 作用于肠黏膜上皮细胞，显著增加小肠对钙、磷的吸收率。"
+        },
+        {
+          "text": "降钙素与甲状旁腺素对血钙水平起协同升高作用",
+          "isCorrect": false,
+          "rationale": "降钙素降低血钙，PTH 升高血钙，二者在血钙调节中呈现拮抗作用。"
+        },
+        {
+          "text": "甲状旁腺素（PTH）能够动员骨钙入血，使血钙升高",
+          "isCorrect": true,
+          "rationale": "PTH 促进骨钙释放并加强肾小管对钙的重吸收，起升高血钙的作用。"
+        },
+        {
+          "text": "降钙素通过抑制破骨细胞活动、加强成骨活动来降低血钙",
+          "isCorrect": true,
+          "rationale": "降钙素促进钙盐在骨骼中沉积并抑制骨吸收，从而降低血钙浓度。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆调节血钙的“三大激素”（PTH、降钙素、活性 $VitD_3$）各自的靶器官和效应。",
+      "id": 24
+    },
+    {
+      "c": "25",
+      "type": "multiple_select",
+      "question": "腺垂体是体内最重要的内分泌腺之一。下列激素中，由腺垂体分泌且直接作用于靶腺体（靶腺）的有：",
+      "prompt": "腺垂体是体内最重要的内分泌腺之一。下列激素中，由腺垂体分泌且直接作用于靶腺体（靶腺）的有：",
+      "answerOptions": [
+        {
+          "text": "黄体生成素（LH）与促卵泡激素（FSH）",
+          "isCorrect": true,
+          "rationale": "LH 和 FSH 统称为促性腺激素，作用于靶腺性腺（睾丸/卵巢）。"
+        },
+        {
+          "text": "促甲状腺激素（TSH）",
+          "isCorrect": true,
+          "rationale": "TSH 作用于靶腺甲状腺，促进甲状腺激素的合成和释放。"
+        },
+        {
+          "text": "促肾上腺皮质激素（ACTH）",
+          "isCorrect": true,
+          "rationale": "ACTH 作用于靶腺肾上腺皮质，促进糖皮质激素的分泌。"
+        },
+        {
+          "text": "生长激素（GH）",
+          "isCorrect": false,
+          "rationale": "生长激素不作用于特定的经典靶腺，而是直接作用于全身软组织、骨骼及肝脏等靶细胞。"
+        }
+      ],
+      "options": [
+        {
+          "text": "黄体生成素（LH）与促卵泡激素（FSH）",
+          "isCorrect": true,
+          "rationale": "LH 和 FSH 统称为促性腺激素，作用于靶腺性腺（睾丸/卵巢）。"
+        },
+        {
+          "text": "促甲状腺激素（TSH）",
+          "isCorrect": true,
+          "rationale": "TSH 作用于靶腺甲状腺，促进甲状腺激素的合成和释放。"
+        },
+        {
+          "text": "促肾上腺皮质激素（ACTH）",
+          "isCorrect": true,
+          "rationale": "ACTH 作用于靶腺肾上腺皮质，促进糖皮质激素的分泌。"
+        },
+        {
+          "text": "生长激素（GH）",
+          "isCorrect": false,
+          "rationale": "生长激素不作用于特定的经典靶腺，而是直接作用于全身软组织、骨骼及肝脏等靶细胞。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分腺垂体分泌的“促激素”（作用于靶腺）与“直接作用于靶组织/细胞的激素”。",
+      "id": 25
+    },
+    {
+      "c": "26",
+      "type": "multiple_select",
+      "question": "甲状腺功能亢进（甲亢）患者常表现出基础代谢率显著升高、怕热多汗、消瘦及神经过敏等症状。这主要与甲状腺激素的哪些生理功能过强有关？",
+      "prompt": "甲状腺功能亢进（甲亢）患者常表现出基础代谢率显著升高、怕热多汗、消瘦及神经过敏等症状。这主要与甲状腺激素的哪些生理功能过强有关？",
+      "answerOptions": [
+        {
+          "text": "提高中枢神经系统和交感神经系统的兴奋性",
+          "isCorrect": true,
+          "rationale": "甲状腺激素能提高神经系统兴奋性，过量时引起情绪易激动、神经过敏、失眠等表现。"
+        },
+        {
+          "text": "显著降低心率、心输出量与心肌作功",
+          "isCorrect": false,
+          "rationale": "甲状腺激素会使心率加快、心输出量增加，而非降低。"
+        },
+        {
+          "text": "显著增加基础代谢率，产生显著的产热效应",
+          "isCorrect": true,
+          "rationale": "甲状腺激素能增强绝大多数组织的耗氧量和产热，过量时导致患者怕热多汗、基础代谢率升高。"
+        },
+        {
+          "text": "在大剂量时加速蛋白质分解",
+          "isCorrect": true,
+          "rationale": "甲状腺激素过量时加速肌肉等组织的蛋白质分解，导致患者消瘦和肌无力。"
+        }
+      ],
+      "options": [
+        {
+          "text": "提高中枢神经系统和交感神经系统的兴奋性",
+          "isCorrect": true,
+          "rationale": "甲状腺激素能提高神经系统兴奋性，过量时引起情绪易激动、神经过敏、失眠等表现。"
+        },
+        {
+          "text": "显著降低心率、心输出量与心肌作功",
+          "isCorrect": false,
+          "rationale": "甲状腺激素会使心率加快、心输出量增加，而非降低。"
+        },
+        {
+          "text": "显著增加基础代谢率，产生显著的产热效应",
+          "isCorrect": true,
+          "rationale": "甲状腺激素能增强绝大多数组织的耗氧量和产热，过量时导致患者怕热多汗、基础代谢率升高。"
+        },
+        {
+          "text": "在大剂量时加速蛋白质分解",
+          "isCorrect": true,
+          "rationale": "甲状腺激素过量时加速肌肉等组织的蛋白质分解，导致患者消瘦和肌无力。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "分析甲状腺激素对能量代谢、蛋白质代谢、神经系统及心血管系统的具体影响。",
+      "id": 26
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】肾上腺皮质网状带能够合成并分泌少量的雄激素，因此健康正常女性体内同样存在微量雄激素。",
+      "prompt": "【判断题】肾上腺皮质网状带能够合成并分泌少量的雄激素，因此健康正常女性体内同样存在微量雄激素。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "女性体内的雄激素主要由肾上腺皮质网状带分泌，对维持女性腋毛、阴毛生长及性欲有重要作用。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "女性体内的雄激素主要由肾上腺皮质网状带分泌，对维持女性腋毛、阴毛生长及性欲有重要作用。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "女性体内的雄激素主要由肾上腺皮质网状带分泌，对维持女性腋毛、阴毛生长及性欲有重要作用。",
+      "hint": "",
+      "c": "27",
+      "id": 27
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】腺垂体促性腺细胞分泌的卵泡刺激素（FSH）只对女性卵巢起作用，在男性体内完全无生理作用。",
+      "prompt": "【判断题】腺垂体促性腺细胞分泌的卵泡刺激素（FSH）只对女性卵巢起作用，在男性体内完全无生理作用。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "FSH在男性体内作用于睾丸曲细精管支持细胞，刺激雄激素结合蛋白（ABP）合成，促进精子发生。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "FSH在男性体内作用于睾丸曲细精管支持细胞，刺激雄激素结合蛋白（ABP）合成，促进精子发生。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "FSH在男性体内作用于睾丸曲细精管支持细胞，刺激雄激素结合蛋白（ABP）合成，促进精子发生。",
+      "hint": "",
+      "c": "28",
+      "id": 28
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】幼年儿童时期体内生长激素（GH）分泌严重不足将导致神经系统发育停滞而患呆小症。",
+      "prompt": "【判断题】幼年儿童时期体内生长激素（GH）分泌严重不足将导致神经系统发育停滞而患呆小症。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "生长激素缺乏导致身材矮小但智力正常的侏儒症；呆小症（克汀病）是由于甲状腺激素缺乏导致骨骼和大脑发育严重受阻。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "生长激素缺乏导致身材矮小但智力正常的侏儒症；呆小症（克汀病）是由于甲状腺激素缺乏导致骨骼和大脑发育严重受阻。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "生长激素缺乏导致身材矮小但智力正常的侏儒症；呆小症（克汀病）是由于甲状腺激素缺乏导致骨骼和大脑发育严重受阻。",
+      "hint": "",
+      "c": "29",
+      "id": 29
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】临床长期大剂量外源性给予糖皮质激素（如泼尼松），通过负反馈抑制下丘脑-垂体-肾上腺轴将导致自身肾上腺皮质萎缩。",
+      "prompt": "【判断题】临床长期大剂量外源性给予糖皮质激素（如泼尼松），通过负反馈抑制下丘脑-垂体-肾上腺轴将导致自身肾上腺皮质萎缩。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "外源激素强烈负反馈抑制CRH和ACTH分泌，使内源性皮质激素合成减少，突然停药极易诱发急性肾上腺皮质功能不全危象。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "外源激素强烈负反馈抑制CRH和ACTH分泌，使内源性皮质激素合成减少，突然停药极易诱发急性肾上腺皮质功能不全危象。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "外源激素强烈负反馈抑制CRH和ACTH分泌，使内源性皮质激素合成减少，突然停药极易诱发急性肾上腺皮质功能不全危象。",
+      "hint": "",
+      "c": "30",
+      "id": 30
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】临床2型糖尿病患者在发病初期，其根本病因主要是由于胰岛β细胞完全坏死导致胰岛素绝对缺乏。",
+      "prompt": "【判断题】临床2型糖尿病患者在发病初期，其根本病因主要是由于胰岛β细胞完全坏死导致胰岛素绝对缺乏。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "2型糖尿病早期以胰岛素抵抗（靶组织敏感性下降）为主，血中胰岛素可正常甚至代偿性增高；胰岛素绝对缺乏是1型糖尿病特征。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "2型糖尿病早期以胰岛素抵抗（靶组织敏感性下降）为主，血中胰岛素可正常甚至代偿性增高；胰岛素绝对缺乏是1型糖尿病特征。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "2型糖尿病早期以胰岛素抵抗（靶组织敏感性下降）为主，血中胰岛素可正常甚至代偿性增高；胰岛素绝对缺乏是1型糖尿病特征。",
+      "hint": "",
+      "c": "31",
+      "id": 31
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】成年人生长发育停止、骨骺已闭合之后，若腺垂体GH腺瘤导致生长激素持续分泌过剩，将发生肢端肥大症。",
+      "prompt": "【判断题】成年人生长发育停止、骨骺已闭合之后，若腺垂体GH腺瘤导致生长激素持续分泌过剩，将发生肢端肥大症。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "骨骺闭合前GH过剩表现为全身长骨线性过度生长（巨人症）；骨骺闭合后仅短骨、扁骨和软组织增生，表现为肢端肥大症。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "骨骺闭合前GH过剩表现为全身长骨线性过度生长（巨人症）；骨骺闭合后仅短骨、扁骨和软组织增生，表现为肢端肥大症。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "骨骺闭合前GH过剩表现为全身长骨线性过度生长（巨人症）；骨骺闭合后仅短骨、扁骨和软组织增生，表现为肢端肥大症。",
+      "hint": "",
+      "c": "32",
+      "id": 32
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】人体内所有种类激素的特异性受体，均镶嵌在靶细胞的细胞膜质膜表面上。",
+      "prompt": "【判断题】人体内所有种类激素的特异性受体，均镶嵌在靶细胞的细胞膜质膜表面上。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "含氮肽类与儿茶酚胺受体位于膜表面；类固醇激素（糖皮质激素、性激素等）和甲状腺素脂溶性高，其受体位于胞质或胞核内。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "含氮肽类与儿茶酚胺受体位于膜表面；类固醇激素（糖皮质激素、性激素等）和甲状腺素脂溶性高，其受体位于胞质或胞核内。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "含氮肽类与儿茶酚胺受体位于膜表面；类固醇激素（糖皮质激素、性激素等）和甲状腺素脂溶性高，其受体位于胞质或胞核内。",
+      "hint": "",
+      "c": "33",
+      "id": 33
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】甲状腺激素能够刺激全身多数细胞Na+-K+泵活性，提高基础代谢率并显著增加机体产热。",
+      "prompt": "【判断题】甲状腺激素能够刺激全身多数细胞Na+-K+泵活性，提高基础代谢率并显著增加机体产热。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "甲状腺素是体内最重要的代谢刺激激素，甲亢患者基础代谢率可升高20%~80%，畏热多汗。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "甲状腺素是体内最重要的代谢刺激激素，甲亢患者基础代谢率可升高20%~80%，畏热多汗。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "甲状腺素是体内最重要的代谢刺激激素，甲亢患者基础代谢率可升高20%~80%，畏热多汗。",
+      "hint": "",
+      "c": "34",
+      "id": 34
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】内分泌腺分泌的激素与外分泌腺不同，内分泌腺完全没有导管，分泌物直接弥散入毛细血管随血液循环运至全身。",
+      "prompt": "【判断题】内分泌腺分泌的激素与外分泌腺不同，内分泌腺完全没有导管，分泌物直接弥散入毛细血管随血液循环运至全身。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "内分泌腺又称无管腺，分泌物通过血液运送至远距离靶细胞发挥生物效应。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "内分泌腺又称无管腺，分泌物通过血液运送至远距离靶细胞发挥生物效应。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "内分泌腺又称无管腺，分泌物通过血液运送至远距离靶细胞发挥生物效应。",
+      "hint": "",
+      "c": "35",
+      "id": 35
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】甲状旁腺激素（PTH）是体内调节钙磷平衡的最核心升血钙激素，其主要靶器官是骨和肾脏。",
+      "prompt": "【判断题】甲状旁腺激素（PTH）是体内调节钙磷平衡的最核心升血钙激素，其主要靶器官是骨和肾脏。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "PTH动员骨钙入血、促进肾小管重吸收钙并排磷、激活1α-羟化酶促进肠道钙吸收，使血钙升高、血磷降低。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "PTH动员骨钙入血、促进肾小管重吸收钙并排磷、激活1α-羟化酶促进肠道钙吸收，使血钙升高、血磷降低。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "PTH动员骨钙入血、促进肾小管重吸收钙并排磷、激活1α-羟化酶促进肠道钙吸收，使血钙升高、血磷降低。",
+      "hint": "",
+      "c": "36",
+      "id": 36
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】胰岛素是人体内唯一能够降低血糖水平的激素，促进肝糖原合成并抑制糖异生。",
+      "prompt": "【判断题】胰岛素是人体内唯一能够降低血糖水平的激素，促进肝糖原合成并抑制糖异生。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "机体内升糖激素众多（胰高血糖素、肾上腺素、糖皮质激素、生长激素），但降血糖激素仅有胰岛素一种。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "机体内升糖激素众多（胰高血糖素、肾上腺素、糖皮质激素、生长激素），但降血糖激素仅有胰岛素一种。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "机体内升糖激素众多（胰高血糖素、肾上腺素、糖皮质激素、生长激素），但降血糖激素仅有胰岛素一种。",
+      "hint": "",
+      "c": "37",
+      "id": 37
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】降钙素（Calcitonin）由甲状腺滤泡旁细胞（C细胞）分泌，其主要生理效应是降低血钙和血磷浓度。",
+      "prompt": "【判断题】降钙素（Calcitonin）由甲状腺滤泡旁细胞（C细胞）分泌，其主要生理效应是降低血钙和血磷浓度。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "降钙素直接抑制破骨细胞活性并促进成骨，减少骨钙释放，与PTH相互拮抗维持血钙稳态。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "降钙素直接抑制破骨细胞活性并促进成骨，减少骨钙释放，与PTH相互拮抗维持血钙稳态。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "降钙素直接抑制破骨细胞活性并促进成骨，减少骨钙释放，与PTH相互拮抗维持血钙稳态。",
+      "hint": "",
+      "c": "38",
+      "id": 38
+    },
+    {
+      "c": "39",
+      "type": "fill_blank",
+      "question": "人体主要的内分泌腺包括（1）_______、（2）_______、胸腺、（3）_______ 和（4）_______等。",
+      "prompt": "人体主要的内分泌腺包括（1）_______、（2）_______、胸腺、（3）_______ 和（4）_______等。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "甲状腺",
+        "肾上腺",
+        "垂体",
+        "性腺"
+      ],
+      "blanks": [
+        "甲状腺",
+        "肾上腺",
+        "垂体",
+        "性腺"
+      ],
+      "rationale": "标准答案及考点解析：人体主要的内分泌腺包括 甲状腺  、 肾上腺  、胸腺、 垂体  和 性腺  等。",
+      "hint": "核心考点：共 4 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 39
+    },
+    {
+      "c": "40",
+      "type": "fill_blank",
+      "question": "甲状腺分泌的激素有（1）_______和（2）_______，甲状旁腺分泌的激素是（3）_______，其中参与调解血钙水平的是（4）_______和（5）_______。",
+      "prompt": "甲状腺分泌的激素有（1）_______和（2）_______，甲状旁腺分泌的激素是（3）_______，其中参与调解血钙水平的是（4）_______和（5）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "甲状腺激素",
+        "降钙素",
+        "甲状旁腺素",
+        "降钙素",
+        "甲状旁腺素"
+      ],
+      "blanks": [
+        "甲状腺激素",
+        "降钙素",
+        "甲状旁腺素",
+        "降钙素",
+        "甲状旁腺素"
+      ],
+      "rationale": "标准答案及考点解析：甲状腺分泌的激素有 甲状腺激素  和 降钙素 ，甲状旁腺分泌的激素是 甲状旁腺素 ，其中参与调解血钙水平的是 降钙素  和 甲状旁腺素  。",
+      "hint": "核心考点：共 5 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 40
+    },
+    {
+      "c": "41",
+      "type": "fill_blank",
+      "question": "激素分泌不足或过剩会导致不同的疾病，婴幼儿期甲状腺激素分泌不足会引发（1）_______，幼年时生长激素分泌不足会导致（2）_______，幼年时生长激素分泌过剩会导致（3）_______，成年时生长激素分泌过剩则出现（4）_______，胰岛素分泌不足会出现 （5）_______。",
+      "prompt": "激素分泌不足或过剩会导致不同的疾病，婴幼儿期甲状腺激素分泌不足会引发（1）_______，幼年时生长激素分泌不足会导致（2）_______，幼年时生长激素分泌过剩会导致（3）_______，成年时生长激素分泌过剩则出现（4）_______，胰岛素分泌不足会出现 （5）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "呆小症",
+        "侏儒症",
+        "巨人症",
+        "肢端肥大症",
+        "糖尿病"
+      ],
+      "blanks": [
+        "呆小症",
+        "侏儒症",
+        "巨人症",
+        "肢端肥大症",
+        "糖尿病"
+      ],
+      "rationale": "标准答案及考点解析：激素分泌不足或过剩会导致不同的疾病，婴幼儿期甲状腺激素分泌不足会引发 呆小症 ，幼年时生长激素分泌不足会导致 侏儒症 ，幼年时生长激素分泌过剩会导致 巨人症 ，成年时生长激素分泌过剩则出现 肢端肥大症  ，胰岛素分泌不足会出现  糖尿病 。",
+      "hint": "核心考点：共 5 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 41
+    },
+    {
+      "c": "42",
+      "type": "fill_blank",
+      "question": "垂体是人体重要的内分泌器官，根据其功能及解剖结构不同分为（1）_______垂体和",
+      "prompt": "垂体是人体重要的内分泌器官，根据其功能及解剖结构不同分为（1）_______垂体和",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "神经"
+      ],
+      "blanks": [
+        "神经"
+      ],
+      "rationale": "标准答案及考点解析：垂体是人体重要的内分泌器官，根据其功能及解剖结构不同分为 神经  垂体和",
+      "hint": "核心考点：共 1 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 42
+    },
+    {
+      "c": "43",
+      "type": "fill_blank",
+      "question": "腺垂体，腺垂体分泌以下的激素（1）_______、（2）_______、（3）_______、（4）_______、（5）_______和促性腺激素等。",
+      "prompt": "腺垂体，腺垂体分泌以下的激素（1）_______、（2）_______、（3）_______、（4）_______、（5）_______和促性腺激素等。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "生长激素",
+        "促甲状腺激素",
+        "促肾上腺皮质激素",
+        "催乳素",
+        "促黑激素"
+      ],
+      "blanks": [
+        "生长激素",
+        "促甲状腺激素",
+        "促肾上腺皮质激素",
+        "催乳素",
+        "促黑激素"
+      ],
+      "rationale": "标准答案及考点解析：腺垂体，腺垂体分泌以下的激素 生长激素  、 促甲状腺激素  、 促肾上腺皮质激素 、 催乳素  、 促黑激素  和促性腺激素等。",
+      "hint": "核心考点：共 5 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 43
+    },
+    {
+      "c": "44",
+      "type": "fill_blank",
+      "question": "肾上腺皮质分泌的激素主要包括（1）_______、（2）_______和（3）_______。",
+      "prompt": "肾上腺皮质分泌的激素主要包括（1）_______、（2）_______和（3）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "盐皮质激素",
+        "糖皮质激素",
+        "雄激素"
+      ],
+      "blanks": [
+        "盐皮质激素",
+        "糖皮质激素",
+        "雄激素"
+      ],
+      "rationale": "标准答案及考点解析：肾上腺皮质分泌的激素主要包括 盐皮质激素、 糖皮质激素    和 雄激素  。",
+      "hint": "核心考点：共 3 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 44
+    },
+    {
+      "c": "45",
+      "type": "fill_blank",
+      "question": "胰岛分泌的可调节血糖水平的激素为（1）_______和（2）_______，其中（3）_______",
+      "prompt": "胰岛分泌的可调节血糖水平的激素为（1）_______和（2）_______，其中（3）_______",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "胰岛素",
+        "胰高血糖素",
+        "胰岛素"
+      ],
+      "blanks": [
+        "胰岛素",
+        "胰高血糖素",
+        "胰岛素"
+      ],
+      "rationale": "标准答案及考点解析：胰岛分泌的可调节血糖水平的激素为 胰岛素 和 胰高血糖素 ，其中 胰岛素",
+      "hint": "核心考点：共 3 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 45
+    },
+    {
+      "c": "46",
+      "type": "fill_blank",
+      "question": "下调血糖水平而（1）_______则升高血糖。",
+      "prompt": "下调血糖水平而（1）_______则升高血糖。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "胰高血糖素"
+      ],
+      "blanks": [
+        "胰高血糖素"
+      ],
+      "rationale": "标准答案及考点解析：下调血糖水平而 胰高血糖素 则升高血糖。",
+      "hint": "核心考点：共 1 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 46
+    },
+    {
+      "c": "47",
+      "type": "fill_blank",
+      "question": "参与血钙水平调节的激素有（1）_______、（2）_______和（3）_______，其中（4）_______降低血钙浓度。",
+      "prompt": "参与血钙水平调节的激素有（1）_______、（2）_______和（3）_______，其中（4）_______降低血钙浓度。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "降钙素",
+        "甲状旁腺素",
+        "活性VitD3",
+        "降钙素"
+      ],
+      "blanks": [
+        "降钙素",
+        "甲状旁腺素",
+        "活性VitD3",
+        "降钙素"
+      ],
+      "rationale": "标准答案及考点解析：参与血钙水平调节的激素有 降钙素、 甲状旁腺素和 活性VitD3 ，其中 降钙素  降低血钙浓度。",
+      "hint": "核心考点：共 4 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 47
+    },
+    {
+      "c": "48",
+      "type": "fill_blank",
+      "question": "下丘脑生成的（1）_______和肾上腺皮质分泌的（2）_______促进肾小管重吸收水分，使尿量减少。",
+      "prompt": "下丘脑生成的（1）_______和肾上腺皮质分泌的（2）_______促进肾小管重吸收水分，使尿量减少。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "抗利尿激素",
+        "醛固酮"
+      ],
+      "blanks": [
+        "抗利尿激素",
+        "醛固酮"
+      ],
+      "rationale": "标准答案及考点解析：下丘脑生成的 抗利尿激素 和肾上腺皮质分泌的  醛固酮  促进肾小管重吸收水分，使尿量减少。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 48
+    },
+    {
+      "c": "49",
+      "type": "fill_blank",
+      "question": "促进乳汁合成和分泌的是（1）_______，促进子宫平滑肌和乳腺导管收缩的是（2）_______。",
+      "prompt": "促进乳汁合成和分泌的是（1）_______，促进子宫平滑肌和乳腺导管收缩的是（2）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "催乳素",
+        "催产素"
+      ],
+      "blanks": [
+        "催乳素",
+        "催产素"
+      ],
+      "rationale": "标准答案及考点解析：促进乳汁合成和分泌的是 催乳素 ，促进子宫平滑肌和乳腺导管收缩的是 催产素 。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 49
+    },
+    {
+      "c": "50",
+      "type": "fill_blank",
+      "question": "肾上腺髓质分泌（1）_______和（2）_______，其中（3）_______也能自交感N节后纤维释放。",
+      "prompt": "肾上腺髓质分泌（1）_______和（2）_______，其中（3）_______也能自交感N节后纤维释放。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "肾上腺素",
+        "去甲肾上腺素",
+        "去甲肾上腺素"
+      ],
+      "blanks": [
+        "肾上腺素",
+        "去甲肾上腺素",
+        "去甲肾上腺素"
+      ],
+      "rationale": "标准答案及考点解析：肾上腺髓质分泌 肾上腺素 和 去甲肾上腺素 ，其中 去甲肾上腺素 也能自交感N节后纤维释放。",
+      "hint": "核心考点：共 3 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 50
+    },
+    {
+      "c": "51",
+      "type": "fill_blank",
+      "question": "类固醇激素主要与（1）_______受体结合发挥作用，肽类激素主要与（2）_______受体结合发挥作用。",
+      "prompt": "类固醇激素主要与（1）_______受体结合发挥作用，肽类激素主要与（2）_______受体结合发挥作用。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "核",
+        "膜"
+      ],
+      "blanks": [
+        "核",
+        "膜"
+      ],
+      "rationale": "标准答案及考点解析：类固醇激素主要与 核 受体结合发挥作用，肽类激素主要与 膜 受体结合发挥作用。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 51
+    }
+  ],
+  "topics": {
+    "covered": [
+      "内分泌系统的基本概念与分泌方式",
+      "激素的化学分类与作用机制",
+      "下丘脑与垂体功能单位（ADH、GH、PRL等）",
+      "甲状腺激素的生理功能与调节机制",
+      "血钙浓度的体液调节（PTH、降钙素、活性VitD3）",
+      "肾上腺皮质与髓质激素（糖皮质激素、醛固酮、应激反应）",
+      "胰岛激素与血糖稳态调节"
+    ],
+    "followUp": [
+      "下丘脑-腺垂体-靶腺轴（甲状腺轴、皮质轴、性腺轴）负反馈调节机制",
+      "糖皮质激素对儿茶酚胺允许作用的分子机制",
+      "1型与2型糖尿病中胰岛素受体及信号转导异常分析",
+      "长期使用糖皮质激素导致肾上腺皮质萎缩的撤药反应及防治"
+    ]
+  },
+  "id": "endocrine_system",
+  "title": "内分泌系统 测验",
+  "questions": [
+    {
+      "c": "1",
+      "type": "single_choice",
+      "question": "某化学物质由内分泌细胞分泌后，不进入血液循环，而是通过组织液扩散作用于邻近的靶细胞。这种体液调节的分泌方式属于：",
+      "prompt": "某化学物质由内分泌细胞分泌后，不进入血液循环，而是通过组织液扩散作用于邻近的靶细胞。这种体液调节的分泌方式属于：",
+      "answerOptions": [
+        {
+          "text": "自分泌",
+          "isCorrect": false,
+          "rationale": "自分泌是指细胞分泌的激素作用于自身或同类细胞。"
+        },
+        {
+          "text": "旁分泌",
+          "isCorrect": true,
+          "rationale": "旁分泌是指内分泌细胞分泌的激素通过组织液直接扩散，作用于邻近靶细胞的调节方式。"
+        },
+        {
+          "text": "神经内分泌",
+          "isCorrect": false,
+          "rationale": "神经内分泌是指神经元合成的激素沿轴突运输并释放入血。"
+        },
+        {
+          "text": "远距分泌",
+          "isCorrect": false,
+          "rationale": "远距分泌要求激素经由血液循环运输至远隔的靶器官或靶细胞。"
+        }
+      ],
+      "options": [
+        {
+          "text": "自分泌",
+          "isCorrect": false,
+          "rationale": "自分泌是指细胞分泌的激素作用于自身或同类细胞。"
+        },
+        {
+          "text": "旁分泌",
+          "isCorrect": true,
+          "rationale": "旁分泌是指内分泌细胞分泌的激素通过组织液直接扩散，作用于邻近靶细胞的调节方式。"
+        },
+        {
+          "text": "神经内分泌",
+          "isCorrect": false,
+          "rationale": "神经内分泌是指神经元合成的激素沿轴突运输并释放入血。"
+        },
+        {
+          "text": "远距分泌",
+          "isCorrect": false,
+          "rationale": "远距分泌要求激素经由血液循环运输至远隔的靶器官或靶细胞。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意区分激素进入血液运输还是仅通过局部的组织液扩散。",
+      "id": 1
+    },
+    {
+      "c": "2",
+      "type": "single_choice",
+      "question": "下列哪种激素的受体位于细胞内部（胞内受体），且其化学本质属于脂溶性类固醇激素？",
+      "prompt": "下列哪种激素的受体位于细胞内部（胞内受体），且其化学本质属于脂溶性类固醇激素？",
+      "answerOptions": [
+        {
+          "text": "促甲状腺素",
+          "isCorrect": false,
+          "rationale": "促甲状腺素属于肽类和蛋白质类激素，作用于膜受体。"
+        },
+        {
+          "text": "肾上腺素",
+          "isCorrect": false,
+          "rationale": "肾上腺素属于胺类激素，结合细胞膜上的 G 蛋白耦联受体。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": false,
+          "rationale": "胰岛素属于蛋白质类激素，水溶性，通过结合细胞膜受体发挥作用。"
+        },
+        {
+          "text": "皮质醇",
+          "isCorrect": true,
+          "rationale": "皮质醇是肾上腺皮质分泌的类固醇激素，为脂溶性，能透过细胞膜结合胞内受体。"
+        }
+      ],
+      "options": [
+        {
+          "text": "促甲状腺素",
+          "isCorrect": false,
+          "rationale": "促甲状腺素属于肽类和蛋白质类激素，作用于膜受体。"
+        },
+        {
+          "text": "肾上腺素",
+          "isCorrect": false,
+          "rationale": "肾上腺素属于胺类激素，结合细胞膜上的 G 蛋白耦联受体。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": false,
+          "rationale": "胰岛素属于蛋白质类激素，水溶性，通过结合细胞膜受体发挥作用。"
+        },
+        {
+          "text": "皮质醇",
+          "isCorrect": true,
+          "rationale": "皮质醇是肾上腺皮质分泌的类固醇激素，为脂溶性，能透过细胞膜结合胞内受体。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆肾上腺皮质和性腺所分泌激素的化学分类及跨膜作用机制。",
+      "id": 2
+    },
+    {
+      "c": "3",
+      "type": "single_choice",
+      "question": "当机体缺乏糖皮质激素时，儿茶酚胺的血管收缩作用显著减弱；而补给适脑糖皮质激素后，儿茶酚胺的血管收缩效应得以恢复。这种激素间的相互作用称为：",
+      "prompt": "当机体缺乏糖皮质激素时，儿茶酚胺的血管收缩作用显著减弱；而补给适脑糖皮质激素后，儿茶酚胺的血管收缩效应得以恢复。这种激素间的相互作用称为：",
+      "answerOptions": [
+        {
+          "text": "拮抗作用",
+          "isCorrect": false,
+          "rationale": "拮抗作用是指一种激素的作用抵消或削弱另一种激素的作用。"
+        },
+        {
+          "text": "竞争作用",
+          "isCorrect": false,
+          "rationale": "竞争作用是指结构相似的激素竞争结合同一受体。"
+        },
+        {
+          "text": "允许作用",
+          "isCorrect": true,
+          "rationale": "允许作用是指某种激素本身不直接引起某器官反应，但它的存在能使另一种激素的生理效应显著增强或得以表达。"
+        },
+        {
+          "text": "协同作用",
+          "isCorrect": false,
+          "rationale": "协同作用是指两种激素均能产生某种效应且效应叠加（如生长激素和胰高血糖素均能升高血糖）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "拮抗作用",
+          "isCorrect": false,
+          "rationale": "拮抗作用是指一种激素的作用抵消或削弱另一种激素的作用。"
+        },
+        {
+          "text": "竞争作用",
+          "isCorrect": false,
+          "rationale": "竞争作用是指结构相似的激素竞争结合同一受体。"
+        },
+        {
+          "text": "允许作用",
+          "isCorrect": true,
+          "rationale": "允许作用是指某种激素本身不直接引起某器官反应，但它的存在能使另一种激素的生理效应显著增强或得以表达。"
+        },
+        {
+          "text": "协同作用",
+          "isCorrect": false,
+          "rationale": "协同作用是指两种激素均能产生某种效应且效应叠加（如生长激素和胰高血糖素均能升高血糖）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "这种作用形式强调某种激素为另一种激素“铺平道路”或提供发挥作用的前提条件。",
+      "id": 3
+    },
+    {
+      "c": "4",
+      "type": "single_choice",
+      "question": "抗利尿激素（ADH）主要在下丘脑的哪个核团合成，并储存于神经垂体？",
+      "prompt": "抗利尿激素（ADH）主要在下丘脑的哪个核团合成，并储存于神经垂体？",
+      "answerOptions": [
+        {
+          "text": "视上核",
+          "isCorrect": true,
+          "rationale": "抗利尿激素（ADH）主要在下丘脑视上核合成，沿下丘脑-垂体束运输至神经垂体储存。"
+        },
+        {
+          "text": "弓状核",
+          "isCorrect": false,
+          "rationale": "弓状核属于促垂体区，主要分泌调节性多肽进入垂体门脉系统。"
+        },
+        {
+          "text": "室旁核",
+          "isCorrect": false,
+          "rationale": "催产素（OXT）主要在下丘脑室旁核合成，而抗利尿激素主要在视上核合成。"
+        },
+        {
+          "text": "视交叉上核",
+          "isCorrect": false,
+          "rationale": "视交叉上核与生物节律控制有关，不是 ADH 主要合成的神经核团。"
+        }
+      ],
+      "options": [
+        {
+          "text": "视上核",
+          "isCorrect": true,
+          "rationale": "抗利尿激素（ADH）主要在下丘脑视上核合成，沿下丘脑-垂体束运输至神经垂体储存。"
+        },
+        {
+          "text": "弓状核",
+          "isCorrect": false,
+          "rationale": "弓状核属于促垂体区，主要分泌调节性多肽进入垂体门脉系统。"
+        },
+        {
+          "text": "室旁核",
+          "isCorrect": false,
+          "rationale": "催产素（OXT）主要在下丘脑室旁核合成，而抗利尿激素主要在视上核合成。"
+        },
+        {
+          "text": "视交叉上核",
+          "isCorrect": false,
+          "rationale": "视交叉上核与生物节律控制有关，不是 ADH 主要合成的神经核团。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "下丘脑有两个主要神经核团分别合成 ADH 和催产素，注意区分“视上”与“室旁”。",
+      "id": 4
+    },
+    {
+      "c": "5",
+      "type": "single_choice",
+      "question": "当机体严重失水导致血浆晶体渗透压升高时，下丘脑-神经垂体系统会发生什么改变？",
+      "prompt": "当机体严重失水导致血浆晶体渗透压升高时，下丘脑-神经垂体系统会发生什么改变？",
+      "answerOptions": [
+        {
+          "text": "ADH 分泌减少，肾小管对水的重吸收减少，尿量增加",
+          "isCorrect": false,
+          "rationale": "失水使血浆渗透压升高，此时机体需要保水，因此 ADH 分泌应当增加而非减少。"
+        },
+        {
+          "text": "催产素分泌增加，抑制肾脏排水",
+          "isCorrect": false,
+          "rationale": "催产素主要调节子宫平滑肌收缩和排乳，对晶体渗透压引起的尿量调节不起主要作用。"
+        },
+        {
+          "text": "醛固酮分泌减少，促进肾脏排水",
+          "isCorrect": false,
+          "rationale": "晶体渗透压升高主要刺激 ADH 分泌，且醛固酮的作用是保钠保水，不会在此状态下减少以促进排水。"
+        },
+        {
+          "text": "ADH 分泌增加，肾远曲小管和集合管对水的重吸收增加，尿量减少",
+          "isCorrect": true,
+          "rationale": "晶体渗透压升高会最有效且最早地刺激下丘脑渗透压感受器，使 ADH 分泌增加，促进远曲小管和集合管重吸收水。"
+        }
+      ],
+      "options": [
+        {
+          "text": "ADH 分泌减少，肾小管对水的重吸收减少，尿量增加",
+          "isCorrect": false,
+          "rationale": "失水使血浆渗透压升高，此时机体需要保水，因此 ADH 分泌应当增加而非减少。"
+        },
+        {
+          "text": "催产素分泌增加，抑制肾脏排水",
+          "isCorrect": false,
+          "rationale": "催产素主要调节子宫平滑肌收缩和排乳，对晶体渗透压引起的尿量调节不起主要作用。"
+        },
+        {
+          "text": "醛固酮分泌减少，促进肾脏排水",
+          "isCorrect": false,
+          "rationale": "晶体渗透压升高主要刺激 ADH 分泌，且醛固酮的作用是保钠保水，不会在此状态下减少以促进排水。"
+        },
+        {
+          "text": "ADH 分泌增加，肾远曲小管和集合管对水的重吸收增加，尿量减少",
+          "isCorrect": true,
+          "rationale": "晶体渗透压升高会最有效且最早地刺激下丘脑渗透压感受器，使 ADH 分泌增加，促进远曲小管和集合管重吸收水。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考晶体渗透压变化对感受器的刺激以及 ADH 对肾脏重吸收水分的作用部位。",
+      "id": 5
+    },
+    {
+      "c": "6",
+      "type": "single_choice",
+      "question": "生长激素（GH）促进骨骼和软组织生长的作用主要依赖于诱导靶细胞产生下列哪种介质？",
+      "prompt": "生长激素（GH）促进骨骼和软组织生长的作用主要依赖于诱导靶细胞产生下列哪种介质？",
+      "answerOptions": [
+        {
+          "text": "胰岛素样生长因子-1（IGF-1）",
+          "isCorrect": true,
+          "rationale": "生长激素诱导肝脏及其他靶细胞产生胰岛素样生长因子（IGF-1），后者介导 GH 促进骨骼和肌肉生长的生理效应。"
+        },
+        {
+          "text": "去甲肾上腺素",
+          "isCorrect": false,
+          "rationale": "去甲肾上腺素是交感神经递质和肾上腺髓质激素，不参与生长激素介导的生长效应。"
+        },
+        {
+          "text": "促肾上腺皮质激素（ACTH）",
+          "isCorrect": false,
+          "rationale": "ACTH 是腺垂体分泌刺激肾上腺皮质的促激素。"
+        },
+        {
+          "text": "促甲状腺素释放激素（TRH）",
+          "isCorrect": false,
+          "rationale": "TRH 是下丘脑分泌用于调节促甲状腺素的调节性多肽。"
+        }
+      ],
+      "options": [
+        {
+          "text": "胰岛素样生长因子-1（IGF-1）",
+          "isCorrect": true,
+          "rationale": "生长激素诱导肝脏及其他靶细胞产生胰岛素样生长因子（IGF-1），后者介导 GH 促进骨骼和肌肉生长的生理效应。"
+        },
+        {
+          "text": "去甲肾上腺素",
+          "isCorrect": false,
+          "rationale": "去甲肾上腺素是交感神经递质和肾上腺髓质激素，不参与生长激素介导的生长效应。"
+        },
+        {
+          "text": "促肾上腺皮质激素（ACTH）",
+          "isCorrect": false,
+          "rationale": "ACTH 是腺垂体分泌刺激肾上腺皮质的促激素。"
+        },
+        {
+          "text": "促甲状腺素释放激素（TRH）",
+          "isCorrect": false,
+          "rationale": "TRH 是下丘脑分泌用于调节促甲状腺素的调节性多肽。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "考虑生长激素作用于靶器官时产生的生长介质名称。",
+      "id": 6
+    },
+    {
+      "c": "7",
+      "type": "single_choice",
+      "question": "一名成年患者出现手足增大、面容改变、颅骨增厚等症状，临床诊断为肢端肥大症。该病症通常是由于：",
+      "prompt": "一名成年患者出现手足增大、面容改变、颅骨增厚等症状，临床诊断为肢端肥大症。该病症通常是由于：",
+      "answerOptions": [
+        {
+          "text": "幼年时期甲状腺激素缺乏",
+          "isCorrect": false,
+          "rationale": "幼年时期甲状腺激素缺乏会导致呆小症。"
+        },
+        {
+          "text": "成年期生长激素分泌过多",
+          "isCorrect": true,
+          "rationale": "成年期长骨骨骺已闭合，GH 过多无法再使身长增加，只能引起肢端短骨、软组织及内脏过度生长，表现为肢端肥大症。"
+        },
+        {
+          "text": "幼年时期生长激素分泌过多",
+          "isCorrect": false,
+          "rationale": "幼年期骨骺未闭合，生长激素过多会导致巨人症。"
+        },
+        {
+          "text": "成年期糖皮质激素分泌过多",
+          "isCorrect": false,
+          "rationale": "成年期糖皮质激素过多会导致柯兴氏病（库欣综合征），表现满月脸、向心性肥胖等。"
+        }
+      ],
+      "options": [
+        {
+          "text": "幼年时期甲状腺激素缺乏",
+          "isCorrect": false,
+          "rationale": "幼年时期甲状腺激素缺乏会导致呆小症。"
+        },
+        {
+          "text": "成年期生长激素分泌过多",
+          "isCorrect": true,
+          "rationale": "成年期长骨骨骺已闭合，GH 过多无法再使身长增加，只能引起肢端短骨、软组织及内脏过度生长，表现为肢端肥大症。"
+        },
+        {
+          "text": "幼年时期生长激素分泌过多",
+          "isCorrect": false,
+          "rationale": "幼年期骨骺未闭合，生长激素过多会导致巨人症。"
+        },
+        {
+          "text": "成年期糖皮质激素分泌过多",
+          "isCorrect": false,
+          "rationale": "成年期糖皮质激素过多会导致柯兴氏病（库欣综合征），表现满月脸、向心性肥胖等。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "结合骨骺闭合的时机，区分幼年期与成年期生长激素异常产生的不同后果。",
+      "id": 7
+    },
+    {
+      "c": "8",
+      "type": "single_choice",
+      "question": "关于甲状腺激素对蛋白质代谢的影响，生理剂量与大剂量的效应有何显著区别？",
+      "prompt": "关于甲状腺激素对蛋白质代谢的影响，生理剂量与大剂量的效应有何显著区别？",
+      "answerOptions": [
+        {
+          "text": "生理剂量促进蛋白质合成，大剂量加速蛋白质分解",
+          "isCorrect": true,
+          "rationale": "生理剂量的甲状腺激素促进蛋白质合成（正氮平衡），而大剂量或过量时则转为促进蛋白质分解，导致肌肉消瘦与无力。"
+        },
+        {
+          "text": "生理剂量与大剂量均无明显改变",
+          "isCorrect": false,
+          "rationale": "甲状腺激素对蛋白质代谢有着剂量依赖性的双相调节作用。"
+        },
+        {
+          "text": "生理剂量促进蛋白质分解，大剂量促进蛋白质合成",
+          "isCorrect": false,
+          "rationale": "此选项颠倒了生理剂量与大剂量对蛋白质代谢的作用机制。"
+        },
+        {
+          "text": "生理剂量与大剂量均抑制蛋白质合成",
+          "isCorrect": false,
+          "rationale": "生理剂量是促进蛋白质合成以维持生长发育。"
+        }
+      ],
+      "options": [
+        {
+          "text": "生理剂量促进蛋白质合成，大剂量加速蛋白质分解",
+          "isCorrect": true,
+          "rationale": "生理剂量的甲状腺激素促进蛋白质合成（正氮平衡），而大剂量或过量时则转为促进蛋白质分解，导致肌肉消瘦与无力。"
+        },
+        {
+          "text": "生理剂量与大剂量均无明显改变",
+          "isCorrect": false,
+          "rationale": "甲状腺激素对蛋白质代谢有着剂量依赖性的双相调节作用。"
+        },
+        {
+          "text": "生理剂量促进蛋白质分解，大剂量促进蛋白质合成",
+          "isCorrect": false,
+          "rationale": "此选项颠倒了生理剂量与大剂量对蛋白质代谢的作用机制。"
+        },
+        {
+          "text": "生理剂量与大剂量均抑制蛋白质合成",
+          "isCorrect": false,
+          "rationale": "生理剂量是促进蛋白质合成以维持生长发育。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考正常生理浓度促进生长，与甲亢（激素过量）时肌肉消瘦无力的现象。",
+      "id": 8
+    },
+    {
+      "c": "9",
+      "type": "single_choice",
+      "question": "呆小症（克汀病）与侏儒症患者均表现为身材矮小，但呆小症患者还伴有明显的智力低下。这是因为呆小症是由于在幼年时期缺乏：",
+      "prompt": "呆小症（克汀病）与侏儒症患者均表现为身材矮小，但呆小症患者还伴有明显的智力低下。这是因为呆小症是由于在幼年时期缺乏：",
+      "answerOptions": [
+        {
+          "text": "生长激素",
+          "isCorrect": false,
+          "rationale": "幼年缺乏生长激素导致侏儒症，患者身材矮小但智力发育正常。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": false,
+          "rationale": "幼年缺乏胰岛素表现为 1 型糖尿病，而非呆小症。"
+        },
+        {
+          "text": "甲状腺激素",
+          "isCorrect": true,
+          "rationale": "甲状腺激素对中枢神经系统的发育成熟和骨骼生长至关重要，幼年缺乏会导致身材矮小且智力发育严重障碍（呆小症）。"
+        },
+        {
+          "text": "降钙素",
+          "isCorrect": false,
+          "rationale": "降钙素缺乏主要影响钙磷代谢，不直接导致身材矮小和智力障碍。"
+        }
+      ],
+      "options": [
+        {
+          "text": "生长激素",
+          "isCorrect": false,
+          "rationale": "幼年缺乏生长激素导致侏儒症，患者身材矮小但智力发育正常。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": false,
+          "rationale": "幼年缺乏胰岛素表现为 1 型糖尿病，而非呆小症。"
+        },
+        {
+          "text": "甲状腺激素",
+          "isCorrect": true,
+          "rationale": "甲状腺激素对中枢神经系统的发育成熟和骨骼生长至关重要，幼年缺乏会导致身材矮小且智力发育严重障碍（呆小症）。"
+        },
+        {
+          "text": "降钙素",
+          "isCorrect": false,
+          "rationale": "降钙素缺乏主要影响钙磷代谢，不直接导致身材矮小和智力障碍。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "关注哪种激素在幼年期对脑和中枢神经系统的发育成熟起决定性作用。",
+      "id": 9
+    },
+    {
+      "c": "10",
+      "type": "single_choice",
+      "question": "降钙素（Calcitonin）由甲状腺内的哪种细胞分泌，其对血钙的主要生理效应是什么？",
+      "prompt": "降钙素（Calcitonin）由甲状腺内的哪种细胞分泌，其对血钙的主要生理效应是什么？",
+      "answerOptions": [
+        {
+          "text": "主细胞；升高血钙",
+          "isCorrect": false,
+          "rationale": "甲状旁腺主细胞分泌甲状旁腺素（PTH），起升高血钙作用。"
+        },
+        {
+          "text": "束状带细胞；降低血钙",
+          "isCorrect": false,
+          "rationale": "束状带细胞属于肾上腺皮质，分泌糖皮质激素。"
+        },
+        {
+          "text": "滤泡上皮细胞；升高血钙",
+          "isCorrect": false,
+          "rationale": "滤泡上皮细胞分泌的是 $T_3$ 和 $T_4$。"
+        },
+        {
+          "text": "滤泡旁细胞（C细胞）；降低血钙",
+          "isCorrect": true,
+          "rationale": "降钙素由甲状腺滤泡旁细胞（C细胞）分泌，通过抑制破骨细胞活动、加强成骨细胞活动来降低血钙。"
+        }
+      ],
+      "options": [
+        {
+          "text": "主细胞；升高血钙",
+          "isCorrect": false,
+          "rationale": "甲状旁腺主细胞分泌甲状旁腺素（PTH），起升高血钙作用。"
+        },
+        {
+          "text": "束状带细胞；降低血钙",
+          "isCorrect": false,
+          "rationale": "束状带细胞属于肾上腺皮质，分泌糖皮质激素。"
+        },
+        {
+          "text": "滤泡上皮细胞；升高血钙",
+          "isCorrect": false,
+          "rationale": "滤泡上皮细胞分泌的是 $T_3$ 和 $T_4$。"
+        },
+        {
+          "text": "滤泡旁细胞（C细胞）；降低血钙",
+          "isCorrect": true,
+          "rationale": "降钙素由甲状腺滤泡旁细胞（C细胞）分泌，通过抑制破骨细胞活动、加强成骨细胞活动来降低血钙。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意甲状腺中滤泡细胞与滤泡旁细胞（C细胞）所分泌激素的不同及降钙素的名称含义。",
+      "id": 10
+    },
+    {
+      "c": "11",
+      "type": "single_choice",
+      "question": "甲状旁腺素（PTH）在调节机体钙磷代谢中发挥重要作用，下列关于 PTH 生理作用的描述，正确的是：",
+      "prompt": "甲状旁腺素（PTH）在调节机体钙磷代谢中发挥重要作用，下列关于 PTH 生理作用的描述，正确的是：",
+      "answerOptions": [
+        {
+          "text": "抑制小肠对钙、磷的吸收",
+          "isCorrect": false,
+          "rationale": "PTH 能促进活性 $1,25-(OH)_2VitD_3$ 的生成，从而间接促进小肠对钙、磷的吸收。"
+        },
+        {
+          "text": "动员骨钙入血，促进肾小管重吸收 $Ca^{2+}$，抑制磷的重吸收",
+          "isCorrect": true,
+          "rationale": "PTH 的主要作用是升高血钙、降低血磷，主要通过动员骨钙、促进肾重吸收 $Ca^{2+}$ 和排磷来实现。"
+        },
+        {
+          "text": "促进成骨细胞活动，使骨盐沉积",
+          "isCorrect": false,
+          "rationale": "促进成骨细胞活动和骨盐沉积是降钙素的生理效应。"
+        },
+        {
+          "text": "抑制破骨细胞活动，促进肾小管排钙保磷",
+          "isCorrect": false,
+          "rationale": "PTH 动员骨钙入血（激活破骨细胞），促进肾小管重吸收钙并抑制磷的重吸收。"
+        }
+      ],
+      "options": [
+        {
+          "text": "抑制小肠对钙、磷的吸收",
+          "isCorrect": false,
+          "rationale": "PTH 能促进活性 $1,25-(OH)_2VitD_3$ 的生成，从而间接促进小肠对钙、磷的吸收。"
+        },
+        {
+          "text": "动员骨钙入血，促进肾小管重吸收 $Ca^{2+}$，抑制磷的重吸收",
+          "isCorrect": true,
+          "rationale": "PTH 的主要作用是升高血钙、降低血磷，主要通过动员骨钙、促进肾重吸收 $Ca^{2+}$ 和排磷来实现。"
+        },
+        {
+          "text": "促进成骨细胞活动，使骨盐沉积",
+          "isCorrect": false,
+          "rationale": "促进成骨细胞活动和骨盐沉积是降钙素的生理效应。"
+        },
+        {
+          "text": "抑制破骨细胞活动，促进肾小管排钙保磷",
+          "isCorrect": false,
+          "rationale": "PTH 动员骨钙入血（激活破骨细胞），促进肾小管重吸收钙并抑制磷的重吸收。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "锁定 PTH 的核心目标：升高血钙、降低血磷。",
+      "id": 11
+    },
+    {
+      "c": "12",
+      "type": "single_choice",
+      "question": "肾上腺皮质由外向内可分为三层，其中束状带细胞主要分泌：",
+      "prompt": "肾上腺皮质由外向内可分为三层，其中束状带细胞主要分泌：",
+      "answerOptions": [
+        {
+          "text": "肾上腺素",
+          "isCorrect": false,
+          "rationale": "肾上腺素是由肾上腺髓质分泌，而非皮质。"
+        },
+        {
+          "text": "性激素（雄激素）",
+          "isCorrect": false,
+          "rationale": "性激素主要由肾上腺皮质最内层的网状带分泌。"
+        },
+        {
+          "text": "糖皮质激素（皮质醇）",
+          "isCorrect": true,
+          "rationale": "肾上腺皮质中间的束状带主要分泌糖皮质激素（以皮质醇为主）。"
+        },
+        {
+          "text": "盐皮质激素（醛固酮）",
+          "isCorrect": false,
+          "rationale": "醛固酮等盐皮质激素由肾上腺皮质最外层的球状带分泌。"
+        }
+      ],
+      "options": [
+        {
+          "text": "肾上腺素",
+          "isCorrect": false,
+          "rationale": "肾上腺素是由肾上腺髓质分泌，而非皮质。"
+        },
+        {
+          "text": "性激素（雄激素）",
+          "isCorrect": false,
+          "rationale": "性激素主要由肾上腺皮质最内层的网状带分泌。"
+        },
+        {
+          "text": "糖皮质激素（皮质醇）",
+          "isCorrect": true,
+          "rationale": "肾上腺皮质中间的束状带主要分泌糖皮质激素（以皮质醇为主）。"
+        },
+        {
+          "text": "盐皮质激素（醛固酮）",
+          "isCorrect": false,
+          "rationale": "醛固酮等盐皮质激素由肾上腺皮质最外层的球状带分泌。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆肾上腺皮质“球、束、网”三层结构分别对应的激素种类。",
+      "id": 12
+    },
+    {
+      "c": "13",
+      "type": "single_choice",
+      "question": "糖皮质激素对血液中不同细胞成分的数量有显著影响。临床上大量使用糖皮质激素后，检测外周血常会出现：",
+      "prompt": "糖皮质激素对血液中不同细胞成分的数量有显著影响。临床上大量使用糖皮质激素后，检测外周血常会出现：",
+      "answerOptions": [
+        {
+          "text": "所有血细胞成分数量均普遍下降",
+          "isCorrect": false,
+          "rationale": "糖皮质激素对血细胞具有差异化影响，红细胞和血小板数量是增加的。"
+        },
+        {
+          "text": "红细胞和中性粒细胞减少，淋巴细胞增加",
+          "isCorrect": false,
+          "rationale": "糖皮质激素会抑制淋巴细胞，导致淋巴细胞数量下降而非增加。"
+        },
+        {
+          "text": "红细胞、血小板和中性粒细胞增加，淋巴细胞和嗜酸性粒细胞减少",
+          "isCorrect": true,
+          "rationale": "糖皮质激素可使外周血中的红细胞、血小板和中性粒细胞增多，同时使淋巴细胞、单核细胞和嗜酸性粒细胞减少。"
+        },
+        {
+          "text": "淋巴细胞和单核细胞显著增加",
+          "isCorrect": false,
+          "rationale": "淋巴细胞和单核细胞数量在糖皮质激素作用下会减少，这是其免疫抑制作用机制之一。"
+        }
+      ],
+      "options": [
+        {
+          "text": "所有血细胞成分数量均普遍下降",
+          "isCorrect": false,
+          "rationale": "糖皮质激素对血细胞具有差异化影响，红细胞和血小板数量是增加的。"
+        },
+        {
+          "text": "红细胞和中性粒细胞减少，淋巴细胞增加",
+          "isCorrect": false,
+          "rationale": "糖皮质激素会抑制淋巴细胞，导致淋巴细胞数量下降而非增加。"
+        },
+        {
+          "text": "红细胞、血小板和中性粒细胞增加，淋巴细胞和嗜酸性粒细胞减少",
+          "isCorrect": true,
+          "rationale": "糖皮质激素可使外周血中的红细胞、血小板和中性粒细胞增多，同时使淋巴细胞、单核细胞和嗜酸性粒细胞减少。"
+        },
+        {
+          "text": "淋巴细胞和单核细胞显著增加",
+          "isCorrect": false,
+          "rationale": "淋巴细胞和单核细胞数量在糖皮质激素作用下会减少，这是其免疫抑制作用机制之一。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考糖皮质激素抑制免疫反应时对淋巴细胞的影响，以及对红细胞和中性粒细胞的作用。",
+      "id": 13
+    },
+    {
+      "c": "14",
+      "type": "single_choice",
+      "question": "醛固酮（Aldosterone）的主要靶器官是肾脏，其最核心的调节水盐平衡的作用是：",
+      "prompt": "醛固酮（Aldosterone）的主要靶器官是肾脏，其最核心的调节水盐平衡的作用是：",
+      "answerOptions": [
+        {
+          "text": "排钠排水，保钾",
+          "isCorrect": false,
+          "rationale": "排钠排水是心房钠尿肽（ANP）等的作用特点，与醛固酮相反。"
+        },
+        {
+          "text": "排钙排磷，保钠",
+          "isCorrect": false,
+          "rationale": "醛固酮主要调节 $Na^+$ 和 $K^+$ 离子，并非钙磷代谢的主导激素。"
+        },
+        {
+          "text": "保钠保水，排钾",
+          "isCorrect": true,
+          "rationale": "醛固酮作用于肾脏远曲小管和集合管，促进 $Na^+$ 和水分的重吸收，同时促进 $K^+$ 的排出（保钠保水排钾）。"
+        },
+        {
+          "text": "保钾保水，排钠",
+          "isCorrect": false,
+          "rationale": "醛固酮的作用是促进 $Na^+$ 重吸收而非排出。"
+        }
+      ],
+      "options": [
+        {
+          "text": "排钠排水，保钾",
+          "isCorrect": false,
+          "rationale": "排钠排水是心房钠尿肽（ANP）等的作用特点，与醛固酮相反。"
+        },
+        {
+          "text": "排钙排磷，保钠",
+          "isCorrect": false,
+          "rationale": "醛固酮主要调节 $Na^+$ 和 $K^+$ 离子，并非钙磷代谢的主导激素。"
+        },
+        {
+          "text": "保钠保水，排钾",
+          "isCorrect": true,
+          "rationale": "醛固酮作用于肾脏远曲小管和集合管，促进 $Na^+$ 和水分的重吸收，同时促进 $K^+$ 的排出（保钠保水排钾）。"
+        },
+        {
+          "text": "保钾保水，排钠",
+          "isCorrect": false,
+          "rationale": "醛固酮的作用是促进 $Na^+$ 重吸收而非排出。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "口诀“保钠排钾”有助于准确记忆醛固酮的作用。",
+      "id": 14
+    },
+    {
+      "c": "15",
+      "type": "single_choice",
+      "question": "在机体面临严重创伤、手术或精神紧张等有害刺激时，垂体-肾上腺皮质轴被激活，导致血液中显著增加的激素是：",
+      "prompt": "在机体面临严重创伤、手术或精神紧张等有害刺激时，垂体-肾上腺皮质轴被激活，导致血液中显著增加的激素是：",
+      "answerOptions": [
+        {
+          "text": "促肾上腺皮质激素和糖皮质激素",
+          "isCorrect": true,
+          "rationale": "应激反应中，下丘脑-垂体-肾上腺皮质轴被激活，CRH 促进 ACTH 释放，进而使糖皮质激素大量分泌以增强抗损害能力。"
+        },
+        {
+          "text": "胰岛素和降钙素",
+          "isCorrect": false,
+          "rationale": "应激状态下血糖升高，胰岛素分泌相对不足或受抑制，降钙素不参与应激核心反应。"
+        },
+        {
+          "text": "甲状旁腺素和抗利尿激素",
+          "isCorrect": false,
+          "rationale": "虽然某些应激可影响 ADH，但应激反应特指垂体-肾上腺皮质轴激活引起 ACTH 和糖皮质激素增加。"
+        },
+        {
+          "text": "褪黑素和生长抑素",
+          "isCorrect": false,
+          "rationale": "褪黑素和生长抑素不是应激反应中起主要机体保护作用的升高激素。"
+        }
+      ],
+      "options": [
+        {
+          "text": "促肾上腺皮质激素和糖皮质激素",
+          "isCorrect": true,
+          "rationale": "应激反应中，下丘脑-垂体-肾上腺皮质轴被激活，CRH 促进 ACTH 释放，进而使糖皮质激素大量分泌以增强抗损害能力。"
+        },
+        {
+          "text": "胰岛素和降钙素",
+          "isCorrect": false,
+          "rationale": "应激状态下血糖升高，胰岛素分泌相对不足或受抑制，降钙素不参与应激核心反应。"
+        },
+        {
+          "text": "甲状旁腺素和抗利尿激素",
+          "isCorrect": false,
+          "rationale": "虽然某些应激可影响 ADH，但应激反应特指垂体-肾上腺皮质轴激活引起 ACTH 和糖皮质激素增加。"
+        },
+        {
+          "text": "褪黑素和生长抑素",
+          "isCorrect": false,
+          "rationale": "褪黑素和生长抑素不是应激反应中起主要机体保护作用的升高激素。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "应激反应（Stress Reaction）的核心轴系是下丘脑-腺垂体-肾上腺皮质轴。",
+      "id": 15
+    },
+    {
+      "c": "16",
+      "type": "single_choice",
+      "question": "胰岛素是体内唯一能降低血糖的激素。关于胰岛素调节代谢的生理作用，下列说法错误的是：",
+      "prompt": "胰岛素是体内唯一能降低血糖的激素。关于胰岛素调节代谢的生理作用，下列说法错误的是：",
+      "answerOptions": [
+        {
+          "text": "促进葡萄糖转化为脂肪酸并合成脂肪储存",
+          "isCorrect": false,
+          "rationale": "胰岛素能将过多的葡萄糖转化为脂肪酸并储存在脂肪组织中。"
+        },
+        {
+          "text": "促进葡萄糖进入细胞内被利用",
+          "isCorrect": false,
+          "rationale": "胰岛素促进外周组织（肌肉、脂肪）对葡萄糖的摄取和利用，这是其降低血糖的重要途径。"
+        },
+        {
+          "text": "抑制脂肪和蛋白质合成，促进其分解",
+          "isCorrect": true,
+          "rationale": "胰岛素全面促进合成代谢；它促进脂肪和蛋白质的合成与储存，抑制它们的分解。"
+        },
+        {
+          "text": "促进糖原合成，抑制糖异生",
+          "isCorrect": false,
+          "rationale": "胰岛素通过促进肝糖原和肌糖原合成，同时减少肝脏糖异生来降低血糖。"
+        }
+      ],
+      "options": [
+        {
+          "text": "促进葡萄糖转化为脂肪酸并合成脂肪储存",
+          "isCorrect": false,
+          "rationale": "胰岛素能将过多的葡萄糖转化为脂肪酸并储存在脂肪组织中。"
+        },
+        {
+          "text": "促进葡萄糖进入细胞内被利用",
+          "isCorrect": false,
+          "rationale": "胰岛素促进外周组织（肌肉、脂肪）对葡萄糖的摄取和利用，这是其降低血糖的重要途径。"
+        },
+        {
+          "text": "抑制脂肪和蛋白质合成，促进其分解",
+          "isCorrect": true,
+          "rationale": "胰岛素全面促进合成代谢；它促进脂肪和蛋白质的合成与储存，抑制它们的分解。"
+        },
+        {
+          "text": "促进糖原合成，抑制糖异生",
+          "isCorrect": false,
+          "rationale": "胰岛素通过促进肝糖原和肌糖原合成，同时减少肝脏糖异生来降低血糖。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "胰岛素是典型的“合成代谢”激素，会促进物质合成与储存，抑制物质分解。",
+      "id": 16
+    },
+    {
+      "c": "17",
+      "type": "single_choice",
+      "question": "在调节胰岛素分泌的诸多生理因素中，最重要且最直接的刺激因素是：",
+      "prompt": "在调节胰岛素分泌的诸多生理因素中，最重要且最直接的刺激因素是：",
+      "answerOptions": [
+        {
+          "text": "血糖浓度升高",
+          "isCorrect": true,
+          "rationale": "血糖浓度是调节胰岛素分泌最重要、最直接的生理刺激因素。"
+        },
+        {
+          "text": "交感神经兴奋",
+          "isCorrect": false,
+          "rationale": "交感神经兴奋主要抑制胰岛素分泌，以保证运动或应激时血糖不至于过低。"
+        },
+        {
+          "text": "胃肠道激素（如促胃液素）",
+          "isCorrect": false,
+          "rationale": "胃肠道激素通过进食间接刺激胰岛素分泌，非最核心因素。"
+        },
+        {
+          "text": "血浆游离脂肪酸浓度升高",
+          "isCorrect": false,
+          "rationale": "脂肪酸升高能促进胰岛素分泌，但只是辅助和协同因素。"
+        }
+      ],
+      "options": [
+        {
+          "text": "血糖浓度升高",
+          "isCorrect": true,
+          "rationale": "血糖浓度是调节胰岛素分泌最重要、最直接的生理刺激因素。"
+        },
+        {
+          "text": "交感神经兴奋",
+          "isCorrect": false,
+          "rationale": "交感神经兴奋主要抑制胰岛素分泌，以保证运动或应激时血糖不至于过低。"
+        },
+        {
+          "text": "胃肠道激素（如促胃液素）",
+          "isCorrect": false,
+          "rationale": "胃肠道激素通过进食间接刺激胰岛素分泌，非最核心因素。"
+        },
+        {
+          "text": "血浆游离脂肪酸浓度升高",
+          "isCorrect": false,
+          "rationale": "脂肪酸升高能促进胰岛素分泌，但只是辅助和协同因素。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考身体在进食后血糖升高的即刻体液反馈反应。",
+      "id": 17
+    },
+    {
+      "c": "18",
+      "type": "single_choice",
+      "question": "胰岛 $\\alpha$ 细胞分泌的胰高血糖素在维持血糖稳态中起关键作用，其主要靶器官及代谢效应为：",
+      "prompt": "胰岛 $\\alpha$ 细胞分泌的胰高血糖素在维持血糖稳态中起关键作用，其主要靶器官及代谢效应为：",
+      "answerOptions": [
+        {
+          "text": "作用于肝脏，促进肝糖原分解和糖异生",
+          "isCorrect": true,
+          "rationale": "胰高血糖素主要作用于肝脏，通过促进肝糖原分解和非糖物质转化为糖（糖异生），使血糖升高。"
+        },
+        {
+          "text": "作用于肾脏，抑制葡萄糖重吸收",
+          "isCorrect": false,
+          "rationale": "肾脏葡萄糖重吸收主要受重吸收载体限制，并非胰高血糖素主要作用机制。"
+        },
+        {
+          "text": "作用于骨骼肌，促进肌糖原分解",
+          "isCorrect": false,
+          "rationale": "肌糖原缺乏将葡萄糖释放入血的酶，胰高血糖素主要作用于肝脏促进肝糖原分解。"
+        },
+        {
+          "text": "作用于脂肪组织，抑制脂肪分解",
+          "isCorrect": false,
+          "rationale": "胰高血糖素促进脂肪分解和脂肪酸氧化。"
+        }
+      ],
+      "options": [
+        {
+          "text": "作用于肝脏，促进肝糖原分解和糖异生",
+          "isCorrect": true,
+          "rationale": "胰高血糖素主要作用于肝脏，通过促进肝糖原分解和非糖物质转化为糖（糖异生），使血糖升高。"
+        },
+        {
+          "text": "作用于肾脏，抑制葡萄糖重吸收",
+          "isCorrect": false,
+          "rationale": "肾脏葡萄糖重吸收主要受重吸收载体限制，并非胰高血糖素主要作用机制。"
+        },
+        {
+          "text": "作用于骨骼肌，促进肌糖原分解",
+          "isCorrect": false,
+          "rationale": "肌糖原缺乏将葡萄糖释放入血的酶，胰高血糖素主要作用于肝脏促进肝糖原分解。"
+        },
+        {
+          "text": "作用于脂肪组织，抑制脂肪分解",
+          "isCorrect": false,
+          "rationale": "胰高血糖素促进脂肪分解和脂肪酸氧化。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "思考当血糖降低时，哪个器官能通过分解储存糖原及糖异生向血液输出葡萄糖。",
+      "id": 18
+    },
+    {
+      "c": "19",
+      "type": "single_choice",
+      "question": "松果体分泌的褪黑素（Melatonin）具有显著的昼夜节律。下列关于褪黑素生理特性的叙述，正确的是：",
+      "prompt": "松果体分泌的褪黑素（Melatonin）具有显著的昼夜节律。下列关于褪黑素生理特性的叙述，正确的是：",
+      "answerOptions": [
+        {
+          "text": "能使人体皮肤色素沉着显著变深",
+          "isCorrect": false,
+          "rationale": "褪黑素可使低等动物肤色变浅，但对人体肤色无此作用。"
+        },
+        {
+          "text": "在青春期前具有促进下丘脑-腺垂体-性腺轴的作用",
+          "isCorrect": false,
+          "rationale": "褪黑素在青春期前对下丘脑-腺垂体-性腺轴具有抗性腺（抑制）作用。"
+        },
+        {
+          "text": "分泌受光线抑制，与睡眠周期的形成密切相关",
+          "isCorrect": true,
+          "rationale": "光照会通过视网膜到下丘脑的途径抑制褪黑素分泌，黑夜分泌增加有助于诱导睡眠和形成睡眠周期。"
+        },
+        {
+          "text": "白天分泌增多，黑夜分泌减少",
+          "isCorrect": false,
+          "rationale": "褪黑素的分泌呈现黑夜多、白天少的特点。"
+        }
+      ],
+      "options": [
+        {
+          "text": "能使人体皮肤色素沉着显著变深",
+          "isCorrect": false,
+          "rationale": "褪黑素可使低等动物肤色变浅，但对人体肤色无此作用。"
+        },
+        {
+          "text": "在青春期前具有促进下丘脑-腺垂体-性腺轴的作用",
+          "isCorrect": false,
+          "rationale": "褪黑素在青春期前对下丘脑-腺垂体-性腺轴具有抗性腺（抑制）作用。"
+        },
+        {
+          "text": "分泌受光线抑制，与睡眠周期的形成密切相关",
+          "isCorrect": true,
+          "rationale": "光照会通过视网膜到下丘脑的途径抑制褪黑素分泌，黑夜分泌增加有助于诱导睡眠和形成睡眠周期。"
+        },
+        {
+          "text": "白天分泌增多，黑夜分泌减少",
+          "isCorrect": false,
+          "rationale": "褪黑素的分泌呈现黑夜多、白天少的特点。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "想想光照如何影响褪黑素的分泌，以及市面上补充褪黑素常用于改善什么问题。",
+      "id": 19
+    },
+    {
+      "c": "20",
+      "type": "single_choice",
+      "question": "下丘脑促垂体区分泌的催乳素释放抑制因子（PIH）对腺垂体催乳素（PRL）的分泌发挥什么样的主导作用？",
+      "prompt": "下丘脑促垂体区分泌的催乳素释放抑制因子（PIH）对腺垂体催乳素（PRL）的分泌发挥什么样的主导作用？",
+      "answerOptions": [
+        {
+          "text": "持续性的促进作用",
+          "isCorrect": false,
+          "rationale": "PIH 是抑制因子，起抑制作用而非促进。"
+        },
+        {
+          "text": "起主导和经常性的抑制作用",
+          "isCorrect": true,
+          "rationale": "在正常非妊娠/非哺乳生理状态下，下丘脑通过分泌 PIH 对催乳素的释放保持主导和经常性的抑制作用。"
+        },
+        {
+          "text": "仅在运动或应激状态下才起作用",
+          "isCorrect": false,
+          "rationale": "PIH 对催乳素的作用是基础性、经常性的，并不局限于应激状态。"
+        },
+        {
+          "text": "促进催乳素和生长激素同时过量释放",
+          "isCorrect": false,
+          "rationale": "PIH 专门针对催乳素且为抑制作用。"
+        }
+      ],
+      "options": [
+        {
+          "text": "持续性的促进作用",
+          "isCorrect": false,
+          "rationale": "PIH 是抑制因子，起抑制作用而非促进。"
+        },
+        {
+          "text": "起主导和经常性的抑制作用",
+          "isCorrect": true,
+          "rationale": "在正常非妊娠/非哺乳生理状态下，下丘脑通过分泌 PIH 对催乳素的释放保持主导和经常性的抑制作用。"
+        },
+        {
+          "text": "仅在运动或应激状态下才起作用",
+          "isCorrect": false,
+          "rationale": "PIH 对催乳素的作用是基础性、经常性的，并不局限于应激状态。"
+        },
+        {
+          "text": "促进催乳素和生长激素同时过量释放",
+          "isCorrect": false,
+          "rationale": "PIH 专门针对催乳素且为抑制作用。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "注意下丘脑对催乳素分泌的控制是以“抑制因子（PIH）”占优势和常态的。",
+      "id": 20
+    },
+    {
+      "c": "21",
+      "type": "single_choice",
+      "question": "临床上如果对患者长期大剂量使用糖皮质激素治疗，不能突然停药，必须逐渐减量。其主要原因是：",
+      "prompt": "临床上如果对患者长期大剂量使用糖皮质激素治疗，不能突然停药，必须逐渐减量。其主要原因是：",
+      "answerOptions": [
+        {
+          "text": "肾上腺髓质功能亢进导致危险的高血压",
+          "isCorrect": false,
+          "rationale": "糖皮质激素影响的是肾上腺皮质轴，而非导致髓质功能亢进。"
+        },
+        {
+          "text": "促甲状腺素过度分泌引起严重甲亢",
+          "isCorrect": false,
+          "rationale": "糖皮质激素撤药不直接引发促甲状腺素过度分泌或甲亢。"
+        },
+        {
+          "text": "靶细胞上的糖皮质激素受体彻底消失",
+          "isCorrect": false,
+          "rationale": "停药的主要危险在于自身腺体萎缩无法分泌足够激素，而非受体消失。"
+        },
+        {
+          "text": "外源性激素负反馈抑制了下丘脑-腺垂体-肾上腺皮质轴，导致肾上腺皮质萎缩",
+          "isCorrect": true,
+          "rationale": "长期外源性糖皮质激素会负反馈抑制下丘脑 CRH 和腺垂体 ACTH 的分泌，使内源性肾上腺皮质发生萎缩；突然停药会导致肾上腺皮质功能低下的危象。"
+        }
+      ],
+      "options": [
+        {
+          "text": "肾上腺髓质功能亢进导致危险的高血压",
+          "isCorrect": false,
+          "rationale": "糖皮质激素影响的是肾上腺皮质轴，而非导致髓质功能亢进。"
+        },
+        {
+          "text": "促甲状腺素过度分泌引起严重甲亢",
+          "isCorrect": false,
+          "rationale": "糖皮质激素撤药不直接引发促甲状腺素过度分泌或甲亢。"
+        },
+        {
+          "text": "靶细胞上的糖皮质激素受体彻底消失",
+          "isCorrect": false,
+          "rationale": "停药的主要危险在于自身腺体萎缩无法分泌足够激素，而非受体消失。"
+        },
+        {
+          "text": "外源性激素负反馈抑制了下丘脑-腺垂体-肾上腺皮质轴，导致肾上腺皮质萎缩",
+          "isCorrect": true,
+          "rationale": "长期外源性糖皮质激素会负反馈抑制下丘脑 CRH 和腺垂体 ACTH 的分泌，使内源性肾上腺皮质发生萎缩；突然停药会导致肾上腺皮质功能低下的危象。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "考虑长期外源性补充激素对“下丘脑-腺垂体-靶腺轴”的负反馈抑制效应。",
+      "id": 21
+    },
+    {
+      "c": "22",
+      "type": "multiple_select",
+      "question": "根据化学结构，下列哪些激素属于含氮类激素（包含肽类、蛋白质类及胺类激素）？",
+      "prompt": "根据化学结构，下列哪些激素属于含氮类激素（包含肽类、蛋白质类及胺类激素）？",
+      "answerOptions": [
+        {
+          "text": "促甲状腺素（TSH）",
+          "isCorrect": true,
+          "rationale": "促甲状腺素为腺垂体分泌的糖蛋白激素，属于含氮类激素。"
+        },
+        {
+          "text": "皮质醇",
+          "isCorrect": false,
+          "rationale": "皮质醇是肾上腺皮质束状带分泌的类固醇激素，属于脂类激素。"
+        },
+        {
+          "text": "甲状腺激素（$T_3$ / $T_4$）",
+          "isCorrect": true,
+          "rationale": "甲状腺激素属于氨基酸衍生物（胺类激素），归为含氮类激素。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": true,
+          "rationale": "胰岛素是由胰岛 $\\beta$ 细胞分泌的蛋白质类激素，属于含氮类激素。"
+        }
+      ],
+      "options": [
+        {
+          "text": "促甲状腺素（TSH）",
+          "isCorrect": true,
+          "rationale": "促甲状腺素为腺垂体分泌的糖蛋白激素，属于含氮类激素。"
+        },
+        {
+          "text": "皮质醇",
+          "isCorrect": false,
+          "rationale": "皮质醇是肾上腺皮质束状带分泌的类固醇激素，属于脂类激素。"
+        },
+        {
+          "text": "甲状腺激素（$T_3$ / $T_4$）",
+          "isCorrect": true,
+          "rationale": "甲状腺激素属于氨基酸衍生物（胺类激素），归为含氮类激素。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": true,
+          "rationale": "胰岛素是由胰岛 $\\beta$ 细胞分泌的蛋白质类激素，属于含氮类激素。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分脂类激素（类固醇和脂肪酸衍生物）与含氮类激素（胺类、肽类和蛋白质类）。",
+      "id": 22
+    },
+    {
+      "c": "23",
+      "type": "multiple_select",
+      "question": "当机体遇到饥饿或低血糖时，体内哪些激素的分泌会显著增加以促进血糖升高？",
+      "prompt": "当机体遇到饥饿或低血糖时，体内哪些激素的分泌会显著增加以促进血糖升高？",
+      "answerOptions": [
+        {
+          "text": "糖皮质激素",
+          "isCorrect": true,
+          "rationale": "糖皮质激素能促进糖异生并减少外周组织对葡萄糖的利用，从而升高血糖。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": false,
+          "rationale": "胰岛素是降血糖激素，低血糖时其分泌受到抑制。"
+        },
+        {
+          "text": "肾上腺素",
+          "isCorrect": true,
+          "rationale": "肾上腺素在低血糖或应激时迅速释放，加速肝糖原分解以升高血糖。"
+        },
+        {
+          "text": "胰高血糖素",
+          "isCorrect": true,
+          "rationale": "胰高血糖素能强效促进肝糖原分解和糖异生，是升高血糖的核心激素。"
+        }
+      ],
+      "options": [
+        {
+          "text": "糖皮质激素",
+          "isCorrect": true,
+          "rationale": "糖皮质激素能促进糖异生并减少外周组织对葡萄糖的利用，从而升高血糖。"
+        },
+        {
+          "text": "胰岛素",
+          "isCorrect": false,
+          "rationale": "胰岛素是降血糖激素，低血糖时其分泌受到抑制。"
+        },
+        {
+          "text": "肾上腺素",
+          "isCorrect": true,
+          "rationale": "肾上腺素在低血糖或应激时迅速释放，加速肝糖原分解以升高血糖。"
+        },
+        {
+          "text": "胰高血糖素",
+          "isCorrect": true,
+          "rationale": "胰高血糖素能强效促进肝糖原分解和糖异生，是升高血糖的核心激素。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "寻找体内能够促进糖原分解、糖异生或减少血糖利用的升高血糖激素。",
+      "id": 23
+    },
+    {
+      "c": "24",
+      "type": "multiple_select",
+      "question": "血钙浓度的稳态受到多种激素的精细调节。下列关于调节血钙激素及其作用的说法，正确的有：",
+      "prompt": "血钙浓度的稳态受到多种激素的精细调节。下列关于调节血钙激素及其作用的说法，正确的有：",
+      "answerOptions": [
+        {
+          "text": "活性 $1,25-(OH)_2VitD_3$ 能促进小肠粘膜对钙和磷的吸收",
+          "isCorrect": true,
+          "rationale": "活性 $VitD_3$ 作用于肠黏膜上皮细胞，显著增加小肠对钙、磷的吸收率。"
+        },
+        {
+          "text": "降钙素与甲状旁腺素对血钙水平起协同升高作用",
+          "isCorrect": false,
+          "rationale": "降钙素降低血钙，PTH 升高血钙，二者在血钙调节中呈现拮抗作用。"
+        },
+        {
+          "text": "甲状旁腺素（PTH）能够动员骨钙入血，使血钙升高",
+          "isCorrect": true,
+          "rationale": "PTH 促进骨钙释放并加强肾小管对钙的重吸收，起升高血钙的作用。"
+        },
+        {
+          "text": "降钙素通过抑制破骨细胞活动、加强成骨活动来降低血钙",
+          "isCorrect": true,
+          "rationale": "降钙素促进钙盐在骨骼中沉积并抑制骨吸收，从而降低血钙浓度。"
+        }
+      ],
+      "options": [
+        {
+          "text": "活性 $1,25-(OH)_2VitD_3$ 能促进小肠粘膜对钙和磷的吸收",
+          "isCorrect": true,
+          "rationale": "活性 $VitD_3$ 作用于肠黏膜上皮细胞，显著增加小肠对钙、磷的吸收率。"
+        },
+        {
+          "text": "降钙素与甲状旁腺素对血钙水平起协同升高作用",
+          "isCorrect": false,
+          "rationale": "降钙素降低血钙，PTH 升高血钙，二者在血钙调节中呈现拮抗作用。"
+        },
+        {
+          "text": "甲状旁腺素（PTH）能够动员骨钙入血，使血钙升高",
+          "isCorrect": true,
+          "rationale": "PTH 促进骨钙释放并加强肾小管对钙的重吸收，起升高血钙的作用。"
+        },
+        {
+          "text": "降钙素通过抑制破骨细胞活动、加强成骨活动来降低血钙",
+          "isCorrect": true,
+          "rationale": "降钙素促进钙盐在骨骼中沉积并抑制骨吸收，从而降低血钙浓度。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "回忆调节血钙的“三大激素”（PTH、降钙素、活性 $VitD_3$）各自的靶器官和效应。",
+      "id": 24
+    },
+    {
+      "c": "25",
+      "type": "multiple_select",
+      "question": "腺垂体是体内最重要的内分泌腺之一。下列激素中，由腺垂体分泌且直接作用于靶腺体（靶腺）的有：",
+      "prompt": "腺垂体是体内最重要的内分泌腺之一。下列激素中，由腺垂体分泌且直接作用于靶腺体（靶腺）的有：",
+      "answerOptions": [
+        {
+          "text": "黄体生成素（LH）与促卵泡激素（FSH）",
+          "isCorrect": true,
+          "rationale": "LH 和 FSH 统称为促性腺激素，作用于靶腺性腺（睾丸/卵巢）。"
+        },
+        {
+          "text": "促甲状腺激素（TSH）",
+          "isCorrect": true,
+          "rationale": "TSH 作用于靶腺甲状腺，促进甲状腺激素的合成和释放。"
+        },
+        {
+          "text": "促肾上腺皮质激素（ACTH）",
+          "isCorrect": true,
+          "rationale": "ACTH 作用于靶腺肾上腺皮质，促进糖皮质激素的分泌。"
+        },
+        {
+          "text": "生长激素（GH）",
+          "isCorrect": false,
+          "rationale": "生长激素不作用于特定的经典靶腺，而是直接作用于全身软组织、骨骼及肝脏等靶细胞。"
+        }
+      ],
+      "options": [
+        {
+          "text": "黄体生成素（LH）与促卵泡激素（FSH）",
+          "isCorrect": true,
+          "rationale": "LH 和 FSH 统称为促性腺激素，作用于靶腺性腺（睾丸/卵巢）。"
+        },
+        {
+          "text": "促甲状腺激素（TSH）",
+          "isCorrect": true,
+          "rationale": "TSH 作用于靶腺甲状腺，促进甲状腺激素的合成和释放。"
+        },
+        {
+          "text": "促肾上腺皮质激素（ACTH）",
+          "isCorrect": true,
+          "rationale": "ACTH 作用于靶腺肾上腺皮质，促进糖皮质激素的分泌。"
+        },
+        {
+          "text": "生长激素（GH）",
+          "isCorrect": false,
+          "rationale": "生长激素不作用于特定的经典靶腺，而是直接作用于全身软组织、骨骼及肝脏等靶细胞。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "区分腺垂体分泌的“促激素”（作用于靶腺）与“直接作用于靶组织/细胞的激素”。",
+      "id": 25
+    },
+    {
+      "c": "26",
+      "type": "multiple_select",
+      "question": "甲状腺功能亢进（甲亢）患者常表现出基础代谢率显著升高、怕热多汗、消瘦及神经过敏等症状。这主要与甲状腺激素的哪些生理功能过强有关？",
+      "prompt": "甲状腺功能亢进（甲亢）患者常表现出基础代谢率显著升高、怕热多汗、消瘦及神经过敏等症状。这主要与甲状腺激素的哪些生理功能过强有关？",
+      "answerOptions": [
+        {
+          "text": "提高中枢神经系统和交感神经系统的兴奋性",
+          "isCorrect": true,
+          "rationale": "甲状腺激素能提高神经系统兴奋性，过量时引起情绪易激动、神经过敏、失眠等表现。"
+        },
+        {
+          "text": "显著降低心率、心输出量与心肌作功",
+          "isCorrect": false,
+          "rationale": "甲状腺激素会使心率加快、心输出量增加，而非降低。"
+        },
+        {
+          "text": "显著增加基础代谢率，产生显著的产热效应",
+          "isCorrect": true,
+          "rationale": "甲状腺激素能增强绝大多数组织的耗氧量和产热，过量时导致患者怕热多汗、基础代谢率升高。"
+        },
+        {
+          "text": "在大剂量时加速蛋白质分解",
+          "isCorrect": true,
+          "rationale": "甲状腺激素过量时加速肌肉等组织的蛋白质分解，导致患者消瘦和肌无力。"
+        }
+      ],
+      "options": [
+        {
+          "text": "提高中枢神经系统和交感神经系统的兴奋性",
+          "isCorrect": true,
+          "rationale": "甲状腺激素能提高神经系统兴奋性，过量时引起情绪易激动、神经过敏、失眠等表现。"
+        },
+        {
+          "text": "显著降低心率、心输出量与心肌作功",
+          "isCorrect": false,
+          "rationale": "甲状腺激素会使心率加快、心输出量增加，而非降低。"
+        },
+        {
+          "text": "显著增加基础代谢率，产生显著的产热效应",
+          "isCorrect": true,
+          "rationale": "甲状腺激素能增强绝大多数组织的耗氧量和产热，过量时导致患者怕热多汗、基础代谢率升高。"
+        },
+        {
+          "text": "在大剂量时加速蛋白质分解",
+          "isCorrect": true,
+          "rationale": "甲状腺激素过量时加速肌肉等组织的蛋白质分解，导致患者消瘦和肌无力。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "",
+      "hint": "分析甲状腺激素对能量代谢、蛋白质代谢、神经系统及心血管系统的具体影响。",
+      "id": 26
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】肾上腺皮质网状带能够合成并分泌少量的雄激素，因此健康正常女性体内同样存在微量雄激素。",
+      "prompt": "【判断题】肾上腺皮质网状带能够合成并分泌少量的雄激素，因此健康正常女性体内同样存在微量雄激素。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "女性体内的雄激素主要由肾上腺皮质网状带分泌，对维持女性腋毛、阴毛生长及性欲有重要作用。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "女性体内的雄激素主要由肾上腺皮质网状带分泌，对维持女性腋毛、阴毛生长及性欲有重要作用。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "女性体内的雄激素主要由肾上腺皮质网状带分泌，对维持女性腋毛、阴毛生长及性欲有重要作用。",
+      "hint": "",
+      "c": "27",
+      "id": 27
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】腺垂体促性腺细胞分泌的卵泡刺激素（FSH）只对女性卵巢起作用，在男性体内完全无生理作用。",
+      "prompt": "【判断题】腺垂体促性腺细胞分泌的卵泡刺激素（FSH）只对女性卵巢起作用，在男性体内完全无生理作用。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "FSH在男性体内作用于睾丸曲细精管支持细胞，刺激雄激素结合蛋白（ABP）合成，促进精子发生。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "FSH在男性体内作用于睾丸曲细精管支持细胞，刺激雄激素结合蛋白（ABP）合成，促进精子发生。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "FSH在男性体内作用于睾丸曲细精管支持细胞，刺激雄激素结合蛋白（ABP）合成，促进精子发生。",
+      "hint": "",
+      "c": "28",
+      "id": 28
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】幼年儿童时期体内生长激素（GH）分泌严重不足将导致神经系统发育停滞而患呆小症。",
+      "prompt": "【判断题】幼年儿童时期体内生长激素（GH）分泌严重不足将导致神经系统发育停滞而患呆小症。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "生长激素缺乏导致身材矮小但智力正常的侏儒症；呆小症（克汀病）是由于甲状腺激素缺乏导致骨骼和大脑发育严重受阻。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "生长激素缺乏导致身材矮小但智力正常的侏儒症；呆小症（克汀病）是由于甲状腺激素缺乏导致骨骼和大脑发育严重受阻。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "生长激素缺乏导致身材矮小但智力正常的侏儒症；呆小症（克汀病）是由于甲状腺激素缺乏导致骨骼和大脑发育严重受阻。",
+      "hint": "",
+      "c": "29",
+      "id": 29
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】临床长期大剂量外源性给予糖皮质激素（如泼尼松），通过负反馈抑制下丘脑-垂体-肾上腺轴将导致自身肾上腺皮质萎缩。",
+      "prompt": "【判断题】临床长期大剂量外源性给予糖皮质激素（如泼尼松），通过负反馈抑制下丘脑-垂体-肾上腺轴将导致自身肾上腺皮质萎缩。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "外源激素强烈负反馈抑制CRH和ACTH分泌，使内源性皮质激素合成减少，突然停药极易诱发急性肾上腺皮质功能不全危象。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "外源激素强烈负反馈抑制CRH和ACTH分泌，使内源性皮质激素合成减少，突然停药极易诱发急性肾上腺皮质功能不全危象。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "外源激素强烈负反馈抑制CRH和ACTH分泌，使内源性皮质激素合成减少，突然停药极易诱发急性肾上腺皮质功能不全危象。",
+      "hint": "",
+      "c": "30",
+      "id": 30
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】临床2型糖尿病患者在发病初期，其根本病因主要是由于胰岛β细胞完全坏死导致胰岛素绝对缺乏。",
+      "prompt": "【判断题】临床2型糖尿病患者在发病初期，其根本病因主要是由于胰岛β细胞完全坏死导致胰岛素绝对缺乏。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "2型糖尿病早期以胰岛素抵抗（靶组织敏感性下降）为主，血中胰岛素可正常甚至代偿性增高；胰岛素绝对缺乏是1型糖尿病特征。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "2型糖尿病早期以胰岛素抵抗（靶组织敏感性下降）为主，血中胰岛素可正常甚至代偿性增高；胰岛素绝对缺乏是1型糖尿病特征。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "2型糖尿病早期以胰岛素抵抗（靶组织敏感性下降）为主，血中胰岛素可正常甚至代偿性增高；胰岛素绝对缺乏是1型糖尿病特征。",
+      "hint": "",
+      "c": "31",
+      "id": 31
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】成年人生长发育停止、骨骺已闭合之后，若腺垂体GH腺瘤导致生长激素持续分泌过剩，将发生肢端肥大症。",
+      "prompt": "【判断题】成年人生长发育停止、骨骺已闭合之后，若腺垂体GH腺瘤导致生长激素持续分泌过剩，将发生肢端肥大症。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "骨骺闭合前GH过剩表现为全身长骨线性过度生长（巨人症）；骨骺闭合后仅短骨、扁骨和软组织增生，表现为肢端肥大症。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "骨骺闭合前GH过剩表现为全身长骨线性过度生长（巨人症）；骨骺闭合后仅短骨、扁骨和软组织增生，表现为肢端肥大症。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "骨骺闭合前GH过剩表现为全身长骨线性过度生长（巨人症）；骨骺闭合后仅短骨、扁骨和软组织增生，表现为肢端肥大症。",
+      "hint": "",
+      "c": "32",
+      "id": 32
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】人体内所有种类激素的特异性受体，均镶嵌在靶细胞的细胞膜质膜表面上。",
+      "prompt": "【判断题】人体内所有种类激素的特异性受体，均镶嵌在靶细胞的细胞膜质膜表面上。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "含氮肽类与儿茶酚胺受体位于膜表面；类固醇激素（糖皮质激素、性激素等）和甲状腺素脂溶性高，其受体位于胞质或胞核内。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "含氮肽类与儿茶酚胺受体位于膜表面；类固醇激素（糖皮质激素、性激素等）和甲状腺素脂溶性高，其受体位于胞质或胞核内。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "含氮肽类与儿茶酚胺受体位于膜表面；类固醇激素（糖皮质激素、性激素等）和甲状腺素脂溶性高，其受体位于胞质或胞核内。",
+      "hint": "",
+      "c": "33",
+      "id": 33
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】甲状腺激素能够刺激全身多数细胞Na+-K+泵活性，提高基础代谢率并显著增加机体产热。",
+      "prompt": "【判断题】甲状腺激素能够刺激全身多数细胞Na+-K+泵活性，提高基础代谢率并显著增加机体产热。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "甲状腺素是体内最重要的代谢刺激激素，甲亢患者基础代谢率可升高20%~80%，畏热多汗。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "甲状腺素是体内最重要的代谢刺激激素，甲亢患者基础代谢率可升高20%~80%，畏热多汗。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "甲状腺素是体内最重要的代谢刺激激素，甲亢患者基础代谢率可升高20%~80%，畏热多汗。",
+      "hint": "",
+      "c": "34",
+      "id": 34
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】内分泌腺分泌的激素与外分泌腺不同，内分泌腺完全没有导管，分泌物直接弥散入毛细血管随血液循环运至全身。",
+      "prompt": "【判断题】内分泌腺分泌的激素与外分泌腺不同，内分泌腺完全没有导管，分泌物直接弥散入毛细血管随血液循环运至全身。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "内分泌腺又称无管腺，分泌物通过血液运送至远距离靶细胞发挥生物效应。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "内分泌腺又称无管腺，分泌物通过血液运送至远距离靶细胞发挥生物效应。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "内分泌腺又称无管腺，分泌物通过血液运送至远距离靶细胞发挥生物效应。",
+      "hint": "",
+      "c": "35",
+      "id": 35
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】甲状旁腺激素（PTH）是体内调节钙磷平衡的最核心升血钙激素，其主要靶器官是骨和肾脏。",
+      "prompt": "【判断题】甲状旁腺激素（PTH）是体内调节钙磷平衡的最核心升血钙激素，其主要靶器官是骨和肾脏。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "PTH动员骨钙入血、促进肾小管重吸收钙并排磷、激活1α-羟化酶促进肠道钙吸收，使血钙升高、血磷降低。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "PTH动员骨钙入血、促进肾小管重吸收钙并排磷、激活1α-羟化酶促进肠道钙吸收，使血钙升高、血磷降低。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "PTH动员骨钙入血、促进肾小管重吸收钙并排磷、激活1α-羟化酶促进肠道钙吸收，使血钙升高、血磷降低。",
+      "hint": "",
+      "c": "36",
+      "id": 36
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】胰岛素是人体内唯一能够降低血糖水平的激素，促进肝糖原合成并抑制糖异生。",
+      "prompt": "【判断题】胰岛素是人体内唯一能够降低血糖水平的激素，促进肝糖原合成并抑制糖异生。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "机体内升糖激素众多（胰高血糖素、肾上腺素、糖皮质激素、生长激素），但降血糖激素仅有胰岛素一种。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "机体内升糖激素众多（胰高血糖素、肾上腺素、糖皮质激素、生长激素），但降血糖激素仅有胰岛素一种。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "机体内升糖激素众多（胰高血糖素、肾上腺素、糖皮质激素、生长激素），但降血糖激素仅有胰岛素一种。",
+      "hint": "",
+      "c": "37",
+      "id": 37
+    },
+    {
+      "type": "judge",
+      "question": "【判断题】降钙素（Calcitonin）由甲状腺滤泡旁细胞（C细胞）分泌，其主要生理效应是降低血钙和血磷浓度。",
+      "prompt": "【判断题】降钙素（Calcitonin）由甲状腺滤泡旁细胞（C细胞）分泌，其主要生理效应是降低血钙和血磷浓度。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "降钙素直接抑制破骨细胞活性并促进成骨，减少骨钙释放，与PTH相互拮抗维持血钙稳态。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "降钙素直接抑制破骨细胞活性并促进成骨，减少骨钙释放，与PTH相互拮抗维持血钙稳态。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "降钙素直接抑制破骨细胞活性并促进成骨，减少骨钙释放，与PTH相互拮抗维持血钙稳态。",
+      "hint": "",
+      "c": "38",
+      "id": 38
+    },
+    {
+      "c": "39",
+      "type": "fill_blank",
+      "question": "人体主要的内分泌腺包括（1）_______、（2）_______、胸腺、（3）_______ 和（4）_______等。",
+      "prompt": "人体主要的内分泌腺包括（1）_______、（2）_______、胸腺、（3）_______ 和（4）_______等。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "甲状腺",
+        "肾上腺",
+        "垂体",
+        "性腺"
+      ],
+      "blanks": [
+        "甲状腺",
+        "肾上腺",
+        "垂体",
+        "性腺"
+      ],
+      "rationale": "标准答案及考点解析：人体主要的内分泌腺包括 甲状腺  、 肾上腺  、胸腺、 垂体  和 性腺  等。",
+      "hint": "核心考点：共 4 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 39
+    },
+    {
+      "c": "40",
+      "type": "fill_blank",
+      "question": "甲状腺分泌的激素有（1）_______和（2）_______，甲状旁腺分泌的激素是（3）_______，其中参与调解血钙水平的是（4）_______和（5）_______。",
+      "prompt": "甲状腺分泌的激素有（1）_______和（2）_______，甲状旁腺分泌的激素是（3）_______，其中参与调解血钙水平的是（4）_______和（5）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "甲状腺激素",
+        "降钙素",
+        "甲状旁腺素",
+        "降钙素",
+        "甲状旁腺素"
+      ],
+      "blanks": [
+        "甲状腺激素",
+        "降钙素",
+        "甲状旁腺素",
+        "降钙素",
+        "甲状旁腺素"
+      ],
+      "rationale": "标准答案及考点解析：甲状腺分泌的激素有 甲状腺激素  和 降钙素 ，甲状旁腺分泌的激素是 甲状旁腺素 ，其中参与调解血钙水平的是 降钙素  和 甲状旁腺素  。",
+      "hint": "核心考点：共 5 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 40
+    },
+    {
+      "c": "41",
+      "type": "fill_blank",
+      "question": "激素分泌不足或过剩会导致不同的疾病，婴幼儿期甲状腺激素分泌不足会引发（1）_______，幼年时生长激素分泌不足会导致（2）_______，幼年时生长激素分泌过剩会导致（3）_______，成年时生长激素分泌过剩则出现（4）_______，胰岛素分泌不足会出现 （5）_______。",
+      "prompt": "激素分泌不足或过剩会导致不同的疾病，婴幼儿期甲状腺激素分泌不足会引发（1）_______，幼年时生长激素分泌不足会导致（2）_______，幼年时生长激素分泌过剩会导致（3）_______，成年时生长激素分泌过剩则出现（4）_______，胰岛素分泌不足会出现 （5）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "呆小症",
+        "侏儒症",
+        "巨人症",
+        "肢端肥大症",
+        "糖尿病"
+      ],
+      "blanks": [
+        "呆小症",
+        "侏儒症",
+        "巨人症",
+        "肢端肥大症",
+        "糖尿病"
+      ],
+      "rationale": "标准答案及考点解析：激素分泌不足或过剩会导致不同的疾病，婴幼儿期甲状腺激素分泌不足会引发 呆小症 ，幼年时生长激素分泌不足会导致 侏儒症 ，幼年时生长激素分泌过剩会导致 巨人症 ，成年时生长激素分泌过剩则出现 肢端肥大症  ，胰岛素分泌不足会出现  糖尿病 。",
+      "hint": "核心考点：共 5 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 41
+    },
+    {
+      "c": "42",
+      "type": "fill_blank",
+      "question": "垂体是人体重要的内分泌器官，根据其功能及解剖结构不同分为（1）_______垂体和",
+      "prompt": "垂体是人体重要的内分泌器官，根据其功能及解剖结构不同分为（1）_______垂体和",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "神经"
+      ],
+      "blanks": [
+        "神经"
+      ],
+      "rationale": "标准答案及考点解析：垂体是人体重要的内分泌器官，根据其功能及解剖结构不同分为 神经  垂体和",
+      "hint": "核心考点：共 1 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 42
+    },
+    {
+      "c": "43",
+      "type": "fill_blank",
+      "question": "腺垂体，腺垂体分泌以下的激素（1）_______、（2）_______、（3）_______、（4）_______、（5）_______和促性腺激素等。",
+      "prompt": "腺垂体，腺垂体分泌以下的激素（1）_______、（2）_______、（3）_______、（4）_______、（5）_______和促性腺激素等。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "生长激素",
+        "促甲状腺激素",
+        "促肾上腺皮质激素",
+        "催乳素",
+        "促黑激素"
+      ],
+      "blanks": [
+        "生长激素",
+        "促甲状腺激素",
+        "促肾上腺皮质激素",
+        "催乳素",
+        "促黑激素"
+      ],
+      "rationale": "标准答案及考点解析：腺垂体，腺垂体分泌以下的激素 生长激素  、 促甲状腺激素  、 促肾上腺皮质激素 、 催乳素  、 促黑激素  和促性腺激素等。",
+      "hint": "核心考点：共 5 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 43
+    },
+    {
+      "c": "44",
+      "type": "fill_blank",
+      "question": "肾上腺皮质分泌的激素主要包括（1）_______、（2）_______和（3）_______。",
+      "prompt": "肾上腺皮质分泌的激素主要包括（1）_______、（2）_______和（3）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "盐皮质激素",
+        "糖皮质激素",
+        "雄激素"
+      ],
+      "blanks": [
+        "盐皮质激素",
+        "糖皮质激素",
+        "雄激素"
+      ],
+      "rationale": "标准答案及考点解析：肾上腺皮质分泌的激素主要包括 盐皮质激素、 糖皮质激素    和 雄激素  。",
+      "hint": "核心考点：共 3 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 44
+    },
+    {
+      "c": "45",
+      "type": "fill_blank",
+      "question": "胰岛分泌的可调节血糖水平的激素为（1）_______和（2）_______，其中（3）_______",
+      "prompt": "胰岛分泌的可调节血糖水平的激素为（1）_______和（2）_______，其中（3）_______",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "胰岛素",
+        "胰高血糖素",
+        "胰岛素"
+      ],
+      "blanks": [
+        "胰岛素",
+        "胰高血糖素",
+        "胰岛素"
+      ],
+      "rationale": "标准答案及考点解析：胰岛分泌的可调节血糖水平的激素为 胰岛素 和 胰高血糖素 ，其中 胰岛素",
+      "hint": "核心考点：共 3 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 45
+    },
+    {
+      "c": "46",
+      "type": "fill_blank",
+      "question": "下调血糖水平而（1）_______则升高血糖。",
+      "prompt": "下调血糖水平而（1）_______则升高血糖。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "胰高血糖素"
+      ],
+      "blanks": [
+        "胰高血糖素"
+      ],
+      "rationale": "标准答案及考点解析：下调血糖水平而 胰高血糖素 则升高血糖。",
+      "hint": "核心考点：共 1 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 46
+    },
+    {
+      "c": "47",
+      "type": "fill_blank",
+      "question": "参与血钙水平调节的激素有（1）_______、（2）_______和（3）_______，其中（4）_______降低血钙浓度。",
+      "prompt": "参与血钙水平调节的激素有（1）_______、（2）_______和（3）_______，其中（4）_______降低血钙浓度。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "降钙素",
+        "甲状旁腺素",
+        "活性VitD3",
+        "降钙素"
+      ],
+      "blanks": [
+        "降钙素",
+        "甲状旁腺素",
+        "活性VitD3",
+        "降钙素"
+      ],
+      "rationale": "标准答案及考点解析：参与血钙水平调节的激素有 降钙素、 甲状旁腺素和 活性VitD3 ，其中 降钙素  降低血钙浓度。",
+      "hint": "核心考点：共 4 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 47
+    },
+    {
+      "c": "48",
+      "type": "fill_blank",
+      "question": "下丘脑生成的（1）_______和肾上腺皮质分泌的（2）_______促进肾小管重吸收水分，使尿量减少。",
+      "prompt": "下丘脑生成的（1）_______和肾上腺皮质分泌的（2）_______促进肾小管重吸收水分，使尿量减少。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "抗利尿激素",
+        "醛固酮"
+      ],
+      "blanks": [
+        "抗利尿激素",
+        "醛固酮"
+      ],
+      "rationale": "标准答案及考点解析：下丘脑生成的 抗利尿激素 和肾上腺皮质分泌的  醛固酮  促进肾小管重吸收水分，使尿量减少。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 48
+    },
+    {
+      "c": "49",
+      "type": "fill_blank",
+      "question": "促进乳汁合成和分泌的是（1）_______，促进子宫平滑肌和乳腺导管收缩的是（2）_______。",
+      "prompt": "促进乳汁合成和分泌的是（1）_______，促进子宫平滑肌和乳腺导管收缩的是（2）_______。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "催乳素",
+        "催产素"
+      ],
+      "blanks": [
+        "催乳素",
+        "催产素"
+      ],
+      "rationale": "标准答案及考点解析：促进乳汁合成和分泌的是 催乳素 ，促进子宫平滑肌和乳腺导管收缩的是 催产素 。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 49
+    },
+    {
+      "c": "50",
+      "type": "fill_blank",
+      "question": "肾上腺髓质分泌（1）_______和（2）_______，其中（3）_______也能自交感N节后纤维释放。",
+      "prompt": "肾上腺髓质分泌（1）_______和（2）_______，其中（3）_______也能自交感N节后纤维释放。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "肾上腺素",
+        "去甲肾上腺素",
+        "去甲肾上腺素"
+      ],
+      "blanks": [
+        "肾上腺素",
+        "去甲肾上腺素",
+        "去甲肾上腺素"
+      ],
+      "rationale": "标准答案及考点解析：肾上腺髓质分泌 肾上腺素 和 去甲肾上腺素 ，其中 去甲肾上腺素 也能自交感N节后纤维释放。",
+      "hint": "核心考点：共 3 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 50
+    },
+    {
+      "c": "51",
+      "type": "fill_blank",
+      "question": "类固醇激素主要与（1）_______受体结合发挥作用，肽类激素主要与（2）_______受体结合发挥作用。",
+      "prompt": "类固醇激素主要与（1）_______受体结合发挥作用，肽类激素主要与（2）_______受体结合发挥作用。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "核",
+        "膜"
+      ],
+      "blanks": [
+        "核",
+        "膜"
+      ],
+      "rationale": "标准答案及考点解析：类固醇激素主要与 核 受体结合发挥作用，肽类激素主要与 膜 受体结合发挥作用。",
+      "hint": "核心考点：共 2 处填空，注意医学专业名词与解剖学方位的准确书写。",
+      "id": 51
+    }
+  ]
+}

@@ -1,0 +1,774 @@
+{
+  "quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "T细胞在胸腺内发育成熟需经历核心的选择过程，其中使T细胞获得自身MHC限制性的是：",
+      "answerOptions": [
+        {
+          "text": "阴性选择",
+          "isCorrect": false,
+          "rationale": "阴性选择主要用于清除对自身抗原具有高亲和力的T细胞，从而确立机体的自身免疫耐受，而非赋予MHC限制性。"
+        },
+        {
+          "text": "TCR基因重排",
+          "isCorrect": false,
+          "rationale": "TCR基因重排的目的是产生受体表达的多样性，而非决定T细胞对自身MHC的限制性识别。"
+        },
+        {
+          "text": "阳性选择",
+          "isCorrect": true,
+          "rationale": "胸腺皮质中的阳性选择筛选出能与自身MHC分子结合的DP细胞，从而保留了识别自身MHC的能力，赋予T细胞自身MHC限制性。"
+        },
+        {
+          "text": "外周克隆扩增",
+          "isCorrect": false,
+          "rationale": "克隆扩增发生在成熟T细胞进入外周受抗原刺激之后，不属于胸腺内获得自身MHC限制性的发育选择机制。"
+        }
+      ],
+      "hint": "思考在胸腺皮质中发生、决定T细胞能否与胸腺上皮细胞MHC结合的选择阶段。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于T细胞缺陷对机体免疫功能的影响，下列描述最准确的是：",
+      "answerOptions": [
+        {
+          "text": "仅影响体液免疫中的抗体类别转换",
+          "isCorrect": false,
+          "rationale": "T细胞缺陷会导致细胞免疫应答和体液免疫应答整体受损，不仅限于抗体类别转换。"
+        },
+        {
+          "text": "仅损害细胞免疫应答，不影响体液免疫应答",
+          "isCorrect": false,
+          "rationale": "T细胞在TD抗原诱导的体液免疫中扮演关键辅助角色，因此T细胞缺陷也会间接损害体液免疫应答。"
+        },
+        {
+          "text": "增加对条件致病菌的易感性，但抗肿瘤效应保持正常",
+          "isCorrect": false,
+          "rationale": "T细胞是抗肿瘤免疫的核心细胞，其缺陷会导致机体抗肿瘤效应明显减弱。"
+        },
+        {
+          "text": "既影响细胞免疫应答，也因辅助作用受损而影响TD抗原诱导的体液免疫应答",
+          "isCorrect": true,
+          "rationale": "成熟T细胞不仅介导细胞免疫应答，还通过$T_H$细胞辅助B细胞活化，故T细胞缺陷会使细胞和体液免疫应答均受到严重影响。"
+        }
+      ],
+      "hint": "考虑辅助性T细胞（$T_H$）在协助B细胞产生抗体过程中的作用。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "根据CD4和CD8分子的表达状态，胸腺中T细胞发育分化经历的阶段包括：",
+      "answerOptions": [
+        {
+          "text": "$CD4^+CD8^-$或$CD4^-CD8^+$单阳性（SP）细胞阶段",
+          "isCorrect": true,
+          "rationale": "经过阳性选择后，DP细胞根据识别MHC类别分化为仅表达CD4或仅表达CD8的单阳性细胞。"
+        },
+        {
+          "text": "$CD4^-CD8^-$双阴性（DN）细胞阶段",
+          "isCorrect": true,
+          "rationale": "早期胸腺细胞未表达CD4和CD8分子，处于双阴性阶段，并在此阶段开始TCR $\\beta$链的基因重排。"
+        },
+        {
+          "text": "$CD4^+CD8^+$双阳性（DP）细胞阶段",
+          "isCorrect": true,
+          "rationale": "在前T细胞增殖并表达CD4和CD8后，细胞进入双阳性阶段，并进行TCR $\\alpha$链基因重排与阳性选择。"
+        },
+        {
+          "text": "$CD4^-CD8^-$成熟表面Ig表达阶段",
+          "isCorrect": false,
+          "rationale": "表面Ig（免疫球蛋白）是B细胞的特征性受体，并非T细胞发育分化阶段的标记。"
+        }
+      ],
+      "hint": "回顾T细胞在胸腺皮质和髓质中根据CD4/CD8表达划分的三个连续发育时期。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在$\\alpha\\beta$ T细胞发育过程中，TCR基因重排发生的正确顺序是：",
+      "answerOptions": [
+        {
+          "text": "$\\alpha$链与$\\beta$链在祖T细胞阶段同时完成基因重排",
+          "isCorrect": false,
+          "rationale": "$\\alpha$链和$\\beta$链的重排发生在不同发育阶段，分别对应DN和DP阶段，并非同时发生。"
+        },
+        {
+          "text": "先发生$\\beta$链的VJ重排，再发生$\\alpha$链的VDJ重排",
+          "isCorrect": false,
+          "rationale": "$\\beta$链基因群包含D基因片段，进行的是VDJ重排；而$\\alpha$链基因群不含D片段，进行的是VJ重排。"
+        },
+        {
+          "text": "先发生$\\beta$链的VDJ重排，成功表达后再发生$\\alpha$链的VJ重排",
+          "isCorrect": true,
+          "rationale": "祖T细胞/前T细胞首先进行$\\beta$链基因（V、D、J）重排与前TCR表达，随后在DP阶段启动$\\alpha$链基因（V、J）重排。"
+        },
+        {
+          "text": "先发生$\\alpha$链的VJ重排，成功后再发生$\\beta$链的VDJ重排",
+          "isCorrect": false,
+          "rationale": "TCR基因重排遵循严格的先后顺序，首先发生的是含D片段的$\\beta$链重排，而非$\\alpha$链。"
+        }
+      ],
+      "hint": "注意区分TCR $\\beta$链（含V、D、J片段）与$\\alpha$链（含V、J片段）在基因结构和重排阶段上的先后顺序。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "TCR $\\beta$链基因重排完成后，在$\\alpha$链基因尚未重排前，$\\beta$链需要与哪种分子结合组装成前TCR（pre-TCR）？",
+      "answerOptions": [
+        {
+          "text": "$pT\\alpha$链",
+          "isCorrect": true,
+          "rationale": "重排成功的$\\beta$链与替代亚基$pT\\alpha$链结合形成前TCR，表达于前T细胞表面并介导其增殖。"
+        },
+        {
+          "text": "CD4分子",
+          "isCorrect": false,
+          "rationale": "CD4是后续发育阶段表达的辅助受体，不参与前TCR异二聚体本身的构象组成。"
+        },
+        {
+          "text": "CD8分子",
+          "isCorrect": false,
+          "rationale": "CD8属于T细胞表面共受体，不与$\\beta$链共价或非共价结合组成前受体复合物的肽链。"
+        },
+        {
+          "text": "CD3 $\\zeta$链",
+          "isCorrect": false,
+          "rationale": "CD3 $\\zeta$链是信号转导分子，并非与$\\beta$链配对形成异二聚体受体链的结构替代亚基。"
+        }
+      ],
+      "hint": "寻找充当“替代$\\alpha$链”功能的暂时性蛋白质分子。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "T细胞形成庞大且多样化的TCR表达谱系，其多样性形成的主要机制包括：",
+      "answerOptions": [
+        {
+          "text": "体细胞高频突变",
+          "isCorrect": false,
+          "rationale": "体细胞高频突变主要发生在成熟B细胞受抗原刺激后的生发中心，不属于TCR多样性形成机制。"
+        },
+        {
+          "text": "组合多样性",
+          "isCorrect": true,
+          "rationale": "不同V、D、J基因片段之间的随机组合提供了极其丰富的基因重排组合方式。"
+        },
+        {
+          "text": "RNA选择性剪接产生不同恒定区",
+          "isCorrect": false,
+          "rationale": "剪接恒定区影响分子的膜结合或分泌状态，并不增加识别抗原的可变区（V区）多样性。"
+        },
+        {
+          "text": "连接多样性",
+          "isCorrect": true,
+          "rationale": "基因片段连接处的碱基随机插入与缺失进一步增加了TCR可变区编码的序列多样性。"
+        }
+      ],
+      "hint": "思考在胸腺内TCR基因片段重排及拼接过程中产生多样性的两个核心机制。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在阳性选择过程中，DP细胞的生存与分化取决于其TCR与胸腺上皮细胞表面pMHC的结合亲和力，能够存活并继续发育的细胞是：",
+      "answerOptions": [
+        {
+          "text": "能以适当亲和力结合pMHC的DP细胞",
+          "isCorrect": true,
+          "rationale": "阳性选择保留了能够以适当（中等）亲和力识别自身MHC分子的DP细胞，使其接受抗凋亡信号并存活。"
+        },
+        {
+          "text": "高亲和力结合自身pMHC的DP细胞",
+          "isCorrect": false,
+          "rationale": "高亲和力识别自身抗原肽-MHC复合物的细胞会在选择过程中被诱导凋亡，以防止自身免疫反应。"
+        },
+        {
+          "text": "未表达TCR分子的早期DN细胞",
+          "isCorrect": false,
+          "rationale": "阳性选择的作用对象是已经成功表达TCR的DP细胞，而非未表达TCR的DN细胞。"
+        },
+        {
+          "text": "不能识别或结合pMHC的DP细胞",
+          "isCorrect": false,
+          "rationale": "不能识别自身MHC的细胞因无法获得生存信号而发生无用凋亡（apoptosis by neglect）。"
+        }
+      ],
+      "hint": "结合“金发姑娘原则”（亲和力不能过高也不能无结合），选择能获得生存信号的亲和力范围。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在阳性选择期间，DP细胞分化为CD4单阳性（SP）细胞的决定因素是：",
+      "answerOptions": [
+        {
+          "text": "前TCR与$pT\\alpha$链的高强度交联",
+          "isCorrect": false,
+          "rationale": "前TCR发生在DN阶段，仅促进细胞增殖和进入DP阶段，不直接决定CD4/CD8单阳性的分化方向。"
+        },
+        {
+          "text": "胸腺髓质树突状细胞呈递高浓度自身抗原",
+          "isCorrect": false,
+          "rationale": "髓质树突状细胞呈递自身抗原主要参与髓质中的阴性选择，而非皮质中的 lineage 辅助选择。"
+        },
+        {
+          "text": "DP细胞的TCR与胸腺基质细胞表面的MHC I类分子结合",
+          "isCorrect": false,
+          "rationale": "识别MHC I类分子会引导细胞保留CD8分子并终止CD4表达，分化为CD8单阳性细胞。"
+        },
+        {
+          "text": "DP细胞的TCR与胸腺基质细胞表面的MHC II类分子适当结合",
+          "isCorrect": true,
+          "rationale": "当TCR识别MHC II类分子时，CD4分子与MHC II结合并结合后续信号，导致CD8表达终止，分化为CD4单阳性细胞。"
+        }
+      ],
+      "hint": "联想CD4分子所对应的MHC限制性类别（MHC I类还是MHC II类）。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "胸腺内阴性选择的主要发生部位以及该过程带来的重要免疫学后果是：",
+      "answerOptions": [
+        {
+          "text": "发生于胸腺皮质，使T细胞获得自身MHC限制性",
+          "isCorrect": false,
+          "rationale": "胸腺皮质是发生阳性选择并赋予MHC限制性的场所，而非阴性选择的主要功能。"
+        },
+        {
+          "text": "主要发生于胸腺髓质（及皮髓交界区），使T细胞获得自身免疫耐受性",
+          "isCorrect": true,
+          "rationale": "SP细胞在髓质与树突状细胞/巨噬细胞表面自身抗原-MHC高亲和力结合后被清除，防止自身免疫病发生，确立自身免疫耐受。"
+        },
+        {
+          "text": "发生于外周淋巴结，促进成熟T细胞发生活化与增殖",
+          "isCorrect": false,
+          "rationale": "阴性选择属于胸腺内的中枢免疫耐受建立过程，不发生于外周淋巴结。"
+        },
+        {
+          "text": "发生于骨髓，诱导多能干细胞向祖T细胞定向分化",
+          "isCorrect": false,
+          "rationale": "骨髓是造血干细胞产生和早期分化的场所，阴性选择是胸腺特有的选择机制。"
+        }
+      ],
+      "hint": "区分皮质与髓质的功能差异，思考防止自身免疫病发生的耐受机制。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "关于TCR-CD3复合物的结构与功能特点，下列表述正确的有：",
+      "answerOptions": [
+        {
+          "text": "CD3分子的胞内段含有ITAM结构，负责将抗原识别信号传导至细胞内",
+          "isCorrect": true,
+          "rationale": "TCR胞质区极短，依赖CD3链胞内区免疫受体酪氨酸活化基序（ITAM）传导第一活化信号。"
+        },
+        {
+          "text": "TCR是由$\\alpha\\beta$或$\\gamma\\delta$肽链组成的跨膜异二聚体",
+          "isCorrect": true,
+          "rationale": "TCR以双链异二聚体形式存在于细胞膜上，分为$\\alpha\\beta$ TCR和$\\gamma\\delta$ TCR两大类。"
+        },
+        {
+          "text": "TCR可以独立结合天然游离的蛋白质抗原表位",
+          "isCorrect": false,
+          "rationale": "TCR不能直接识别游离抗原，必须识别由MHC分子加工提呈的抗原肽。"
+        },
+        {
+          "text": "TCR的可变区（V区）含有3个互补决定区（CDR），是特异性识别抗原的关键区域",
+          "isCorrect": true,
+          "rationale": "V区的CDR区通过空间构象特异性地结合抗原肽-MHC复合物。"
+        }
+      ],
+      "hint": "注意TCR识别抗原的约束条件以及胞内信号转导的责任分子。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "TCR识别抗原肽-MHC分子复合物（pMHC）具有“双重特异性”，这意味着TCR在识别时必须同时结合：",
+      "answerOptions": [
+        {
+          "text": "APC表面的B7分子和CD58分子",
+          "isCorrect": false,
+          "rationale": "B7和CD58是共刺激分子或黏附分子，不属于TCR双重特异性识别的直接结构配体。"
+        },
+        {
+          "text": "游离的病毒颗粒和靶细胞膜上的脂多糖（LPS）",
+          "isCorrect": false,
+          "rationale": "TCR无法直接识别游离病毒颗粒，且LPS是TLR4的配体而非TCR的识别对象。"
+        },
+        {
+          "text": "加工后的抗原肽和提呈它的自身MHC分子的多态性区",
+          "isCorrect": true,
+          "rationale": "TCR既要特异性识别抗原肽的表位，又要识别自身MHC分子的结合槽与多态性残基，即表现为MHC限制性。"
+        },
+        {
+          "text": "CD3分子的ITAM基序和CD4/CD8分子",
+          "isCorrect": false,
+          "rationale": "ITAM和CD4/CD8胞内段参与信号转导，并非TCR胞外区特异性识别的抗原复合物对象。"
+        }
+      ],
+      "hint": "回忆“MHC限制性”的概念，即TCR同时辨认“非己”肽段与“自己”MHC。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "CD4分子作为$T_H$细胞活化的共受体，其胞外区结合的稳定结构区域是：",
+      "answerOptions": [
+        {
+          "text": "辅助性T细胞表面的TCR可变区",
+          "isCorrect": false,
+          "rationale": "CD4与TCR顺式分布于同一T细胞表面，但CD4的配体是APC上的MHC II类分子。"
+        },
+        {
+          "text": "靶细胞表面的MHC I类分子的$\\alpha_3$结构域",
+          "isCorrect": false,
+          "rationale": "结合MHC I类分子非多态区（$\\alpha_3$结构域）的是CD8分子，而非CD4分子。"
+        },
+        {
+          "text": "APC表面的MHC II类分子的非多态区",
+          "isCorrect": true,
+          "rationale": "CD4胞外段结合MHC II类分子的$\\beta_2$结构域（非多态区），辅助TCR稳定识别并增强信号传导。"
+        },
+        {
+          "text": "T细胞自身表面的CD28受体分子",
+          "isCorrect": false,
+          "rationale": "CD28与CD4均表达在T细胞表面，二者不互相结合；CD28的配体是APC上的B7分子。"
+        }
+      ],
+      "hint": "区分CD4与CD8分别对应的MHC分子类别及其非多态结合部位。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "CD8分子主要表达于细胞毒性T细胞（CTL），它作为共受体在识别抗原时的结合配体是：",
+      "answerOptions": [
+        {
+          "text": "靶细胞表面的CD58分子",
+          "isCorrect": false,
+          "rationale": "CD58是CD2分子的配体，不与CD8结合。"
+        },
+        {
+          "text": "树突状细胞表面的B7.1/B7.2分子",
+          "isCorrect": false,
+          "rationale": "B7分子是CD28和CTLA-4的配体，与CD8无直接结合关系。"
+        },
+        {
+          "text": "靶细胞或APC表面的MHC I类分子非多态区",
+          "isCorrect": true,
+          "rationale": "CD8分子的胞外区结合MHC I类分子的$\\alpha_3$非多态区域，参与CTL第一活化信号的产生。"
+        },
+        {
+          "text": "APC表面的MHC II类分子非多态区",
+          "isCorrect": false,
+          "rationale": "MHC II类分子的非多态区是CD4分子的结合靶点。"
+        }
+      ],
+      "hint": "CTL通常识别内源性抗原肽提呈分子，思考该提呈分子的类别。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "成熟T细胞表面表达的CD2分子在体外可与绵羊红细胞（SRBC）结合，这一现象可用于在实验中形成：",
+      "answerOptions": [
+        {
+          "text": "血凝抑制圈",
+          "isCorrect": false,
+          "rationale": "血凝抑制圈用于检测病毒与抗体的中和反应，并非T细胞与红细胞形成的玫瑰花环结构。"
+        },
+        {
+          "text": "E花环（E-rosette）",
+          "isCorrect": true,
+          "rationale": "CD2又称SRBC受体，成熟T细胞通过CD2结合绵羊红细胞可在显微镜下形成经典的E花环，用于T细胞的鉴定与分离。"
+        },
+        {
+          "text": "溶血环",
+          "isCorrect": false,
+          "rationale": "溶血环通常与补体激活或溶血素释放有关，并非CD2与SRBC直接结合形成的细胞集聚现象。"
+        },
+        {
+          "text": "沉淀线",
+          "isCorrect": false,
+          "rationale": "沉淀线是可溶性抗原与抗体在凝胶中扩散结合形成的反应，与细胞表面受体结合SRBC无关。"
+        }
+      ],
+      "hint": "联想CD2分子的别称“SRBC受体”及经典淋巴细胞鉴定实验名称。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "T细胞完全活化需要双信号刺激，下列分子对的相互作用中能够提供“第二信号（共刺激信号）”的是：",
+      "answerOptions": [
+        {
+          "text": "TCR与抗原肽-MHC分子复合物（pMHC）",
+          "isCorrect": false,
+          "rationale": "TCR特异性识别pMHC提供的是T细胞活化的第一信号（抗原识别信号）。"
+        },
+        {
+          "text": "CD28与B7.1（CD80）",
+          "isCorrect": true,
+          "rationale": "T细胞表面的CD28与APC表面的CD80结合，向T细胞传导主要的阳性共刺激信号（第二信号）。"
+        },
+        {
+          "text": "CD28与B7.2（CD86）",
+          "isCorrect": true,
+          "rationale": "B7.2（CD86）是CD28的另一个重要配体，同样能有效介导T细胞活化的共刺激信号。"
+        },
+        {
+          "text": "CD4与MHC II类分子",
+          "isCorrect": false,
+          "rationale": "CD4作为共受体结合MHC II类分子，辅助增强第一信号的传导，不独立提供第二信号。"
+        }
+      ],
+      "hint": "区分抗原特异性识别的第一信号与由共刺激受体及其配体介导的第二信号。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "下列分子中属于免疫检查点分子，与其配体结合后可传递抑制性信号、诱导T细胞耗竭并维持免疫稳态的是：",
+      "answerOptions": [
+        {
+          "text": "CD25",
+          "isCorrect": false,
+          "rationale": "CD25是IL-2受体的$\\alpha$链，结合细胞因子IL-2以促进T细胞克隆扩增。"
+        },
+        {
+          "text": "CD28",
+          "isCorrect": false,
+          "rationale": "CD28是主要传导活化与增殖信号的正向共刺激受体，而非检查点抑制分子。"
+        },
+        {
+          "text": "CD2",
+          "isCorrect": false,
+          "rationale": "CD2属于黏附分子和辅助活化分子，参与介导T细胞与APC/靶细胞的相互作用。"
+        },
+        {
+          "text": "PD-1（CD279）",
+          "isCorrect": true,
+          "rationale": "PD-1是关键的免疫检查点受体，与其配体（PD-L1/PD-L2）结合可抑制T细胞应答并诱导T细胞耗竭。"
+        }
+      ],
+      "hint": "思考肿瘤免疫治疗中常被阻断以解除T细胞抑制状态的“刹车”分子。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "组成高亲和力IL-2受体（IL-2R）复合物的三条肽链包括：",
+      "answerOptions": [
+        {
+          "text": "CD132（$\\gamma_c$链）",
+          "isCorrect": true,
+          "rationale": "CD132是公共$\\gamma$链（$\\gamma_c$），为多种细胞因子受体共有且必需。"
+        },
+        {
+          "text": "CD3 $\\epsilon$链",
+          "isCorrect": false,
+          "rationale": "CD3 $\\epsilon$链属于TCR-CD3复合物的组分，不属于细胞因子IL-2受体。"
+        },
+        {
+          "text": "CD25（IL-2R$\\alpha$链）",
+          "isCorrect": true,
+          "rationale": "CD25作为$\\alpha$链，是高亲和力IL-2受体复合物的关键组成部分。"
+        },
+        {
+          "text": "CD122（IL-2R$\\beta$链）",
+          "isCorrect": true,
+          "rationale": "CD122是受体复合物中的$\\beta$链，参与信号跨膜转导。"
+        }
+      ],
+      "hint": "包含CD25（$\\alpha$链）、CD122（$\\beta$链）以及公共$\\gamma$链（$\\gamma_c$）。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "TCR $\\alpha$链基因的VJ重排主要发生在T细胞发育的哪一个阶段？",
+      "answerOptions": [
+        {
+          "text": "单阳性（SP）成熟T细胞阶段",
+          "isCorrect": false,
+          "rationale": "单阳性细胞已经完成了TCR基因重排并通过了阳性选择，不再发生TCR链的基因重排。"
+        },
+        {
+          "text": "外周免疫器官活化阶段",
+          "isCorrect": false,
+          "rationale": "基因重排是中枢免疫器官（胸腺）内的发育事件，外周活化阶段不进行TCR基因重排。"
+        },
+        {
+          "text": "祖T细胞（DN1/DN2）阶段",
+          "isCorrect": false,
+          "rationale": "祖T细胞阶段仅开始进行TCR $\\beta$链基因的重排，此时$\\alpha$链基因尚未开始重排。"
+        },
+        {
+          "text": "双阳性（DP）细胞阶段",
+          "isCorrect": true,
+          "rationale": "在前T细胞（DN阶段）完成$\\beta$链重排并表达前TCR后，细胞停止增殖并启动$\\alpha$链基因的VJ重排，进入DP阶段。"
+        }
+      ],
+      "hint": "回忆表达$CD4^+CD8^+$且组装出完整$\\alpha\\beta$ TCR分子的发育时期。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "人类免疫缺陷病毒（HIV）主要利用T细胞表面的哪种分子作为攻击靶细胞的主要受体？",
+      "answerOptions": [
+        {
+          "text": "CD8分子",
+          "isCorrect": false,
+          "rationale": "CD8是CTL的表面标志，HIV并不直接以CD8分子作为其入侵的主要受体。"
+        },
+        {
+          "text": "CD28分子",
+          "isCorrect": false,
+          "rationale": "CD28是共刺激受体，不作为HIV吸附和侵入的主要受体。"
+        },
+        {
+          "text": "CD4分子",
+          "isCorrect": true,
+          "rationale": "HIV的包膜蛋白gp120能特异性结合$T_H$细胞表面的CD4分子，因此CD4是HIV入侵的主要受体。"
+        },
+        {
+          "text": "CD3分子",
+          "isCorrect": false,
+          "rationale": "CD3参与TCR信号传导，不是HIV病毒结合的主要受体。"
+        }
+      ],
+      "hint": "导致艾滋病患者免疫缺陷的根本原因是该分子阳性的辅助性T细胞被大量破坏。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "CD2分子（又称LFA-2或SRBC受体）表达于下列哪些细胞表面？",
+      "answerOptions": [
+        {
+          "text": "成熟T细胞",
+          "isCorrect": true,
+          "rationale": "CD2几乎表达于所有外周成熟T细胞表面，参与其与APC或靶细胞的黏附与活化。"
+        },
+        {
+          "text": "NK细胞",
+          "isCorrect": true,
+          "rationale": "除了T系细胞外，自然杀伤细胞（NK细胞）表面也表达CD2分子。"
+        },
+        {
+          "text": "成熟B细胞",
+          "isCorrect": false,
+          "rationale": "成熟B细胞通常不表达CD2分子，CD2是T细胞和NK细胞的共有标志。"
+        },
+        {
+          "text": "胸腺细胞",
+          "isCorrect": true,
+          "rationale": "胸腺内发育各阶段的胸腺细胞普遍表达CD2分子。"
+        }
+      ],
+      "hint": "CD2主要分布在介导细胞免疫及天然杀伤功能的淋巴细胞系上。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "CD28分子在T细胞免疫应答中的主要功能是：",
+      "answerOptions": [
+        {
+          "text": "结合靶细胞表面的MHC I类分子以介导杀伤作用",
+          "isCorrect": false,
+          "rationale": "结合MHC I类分子是CD8分子的功能，非CD28所介导。"
+        },
+        {
+          "text": "直接特异性识别APC呈递的抗原肽",
+          "isCorrect": false,
+          "rationale": "特异性识别抗原肽是TCR的功能，CD28不直接识别抗原肽。"
+        },
+        {
+          "text": "诱导活化的T细胞发生凋亡以终止免疫应答",
+          "isCorrect": false,
+          "rationale": "CD28提供正向活化信号，传导抑制/凋亡信号的主要是免疫检查点分子（如CTLA-4或PD-1）。"
+        },
+        {
+          "text": "与APC表面的B7分子结合，提供T细胞活化所必需的共刺激信号",
+          "isCorrect": true,
+          "rationale": "CD28结合B7.1/B7.2后，启动胞内信号途径，促进IL-2产生与T细胞克隆扩增。"
+        }
+      ],
+      "hint": "关注T细胞完全活化时“双信号模型”中的第二信号通路。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在胸腺髓质中，单阳性（SP）T细胞如果与树突状细胞呈递的自身抗原肽-自身MHC复合物发生“高亲和力结合”，其结局是：",
+      "answerOptions": [
+        {
+          "text": "获得生存信号并大量分化为记忆T细胞",
+          "isCorrect": false,
+          "rationale": "高亲和力识别自身抗原会导致克隆清除（凋亡），而非促进其生存与记忆分化。"
+        },
+        {
+          "text": "直接分泌高浓度IgG抗体",
+          "isCorrect": false,
+          "rationale": "抗体由浆细胞（分化成熟的B细胞）产生，T细胞不分泌抗体。"
+        },
+        {
+          "text": "重新启动TCR $\\beta$链基因重排",
+          "isCorrect": false,
+          "rationale": "SP细胞已完成重排与阳性选择，不会在髓质因结合自身抗原而重新启动$\\beta$链重排。"
+        },
+        {
+          "text": "发生细胞凋亡（被阴性选择清除）",
+          "isCorrect": true,
+          "rationale": "阴性选择过程中，高亲和力结合自身抗原的SP细胞会被诱导凋亡，从而防止自身免疫性T细胞进入外周。"
+        }
+      ],
+      "hint": "阴性选择旨在清除具有自身反应性的潜在危险T细胞克隆。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "成熟T细胞进入外周免疫器官后，其主要的生物学功能包括：",
+      "answerOptions": [
+        {
+          "text": "定居于外周免疫器官的胸腺依赖区",
+          "isCorrect": true,
+          "rationale": "成熟T细胞通过血液循环进入淋巴结、脾脏等外周免疫器官的胸腺依赖区（如淋巴结副皮质区）定居。"
+        },
+        {
+          "text": "在TD抗原诱导的体液免疫应答中发挥辅助作用",
+          "isCorrect": true,
+          "rationale": "$T_H$细胞通过表达膜分子和释放细胞因子，协助B细胞发生活化、增殖及抗体类别转换。"
+        },
+        {
+          "text": "通过吞噬作用直接清除体内的病原微生物",
+          "isCorrect": false,
+          "rationale": "吞噬作用是巨噬细胞、中性粒细胞等固有免疫细胞的功能，T细胞不具备直接吞噬病原体能力。"
+        },
+        {
+          "text": "介导适应性细胞免疫应答",
+          "isCorrect": true,
+          "rationale": "活化的T细胞（如CTL和$T_H1$）直接参与细胞介导的适应性免疫应答。"
+        }
+      ],
+      "hint": "总结成熟T细胞在体液免疫与细胞免疫两大适应性免疫支柱中的作用。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "抗原提呈细胞（APC）表面的B7分子（CD80/CD86）与T细胞表面的CD28分子结合，对于T细胞活化而言：",
+      "answerOptions": [
+        {
+          "text": "诱导T细胞直接分化为调节性T细胞（Treg）",
+          "isCorrect": false,
+          "rationale": "CD28共刺激主要促使常规T细胞活化与增殖，而非直接诱导其分化为Treg。"
+        },
+        {
+          "text": "提供了第一信号，诱导TCR复合物的构象改变",
+          "isCorrect": false,
+          "rationale": "第一信号由TCR特异性结合pMHC提供，B7-CD28相互作用属于第二信号。"
+        },
+        {
+          "text": "传导抑制性信号，导致T细胞进入无应答（anergy）状态",
+          "isCorrect": false,
+          "rationale": "无应答通常发生在仅有第一信号而缺乏B7-CD28共刺激信号时，或者由CTLA-4/PD-1等抑制性受体介导。"
+        },
+        {
+          "text": "提供了第二信号（共刺激信号），促使T细胞完全活化与增殖",
+          "isCorrect": true,
+          "rationale": "B7-CD28相互作用是目前已知最强效的正向共刺激信号通路，诱导T细胞表达IL-2并进入细胞周期。"
+        }
+      ],
+      "hint": "缺乏此信号时，即使TCR识别了抗原，T细胞也可能陷入免疫无应答状态。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "关于T细胞在胸腺内经历的选择过程及其生理意义，下列说法正确的有：",
+      "answerOptions": [
+        {
+          "text": "阳性选择发生在胸腺皮质",
+          "isCorrect": true,
+          "rationale": "皮质中的胸腺上皮细胞向DP细胞呈递自身抗原肽-MHC复合物，介导阳性选择。"
+        },
+        {
+          "text": "阴性选择使T细胞获得自身免疫耐受性",
+          "isCorrect": true,
+          "rationale": "高亲和力结合自身抗原的细胞在阴性选择中被清除，防止机体发生自身免疫应答。"
+        },
+        {
+          "text": "阴性选择发生在胸腺髓质（及皮髓交界区）",
+          "isCorrect": true,
+          "rationale": "髓质中的树突状细胞和巨噬细胞呈递自身抗原，对SP细胞进行阴性筛选。"
+        },
+        {
+          "text": "阳性选择使T细胞获得自身MHC限制性",
+          "isCorrect": true,
+          "rationale": "通过阳性选择的T细胞保留了能够识别自身MHC分子的TCR结构。"
+        }
+      ],
+      "hint": "分别从发生的解剖部位（皮质/髓质）和获得的免疫学特性（限制性/耐受性）进行梳理。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "CD2分子在体内的天然配体主要是广泛分布于多种细胞表面的：",
+      "answerOptions": [
+        {
+          "text": "CD25",
+          "isCorrect": false,
+          "rationale": "CD25是IL-2受体$\\alpha$链，结合细胞因子IL-2，不作为CD2的配体。"
+        },
+        {
+          "text": "CD58（LFA-3）",
+          "isCorrect": true,
+          "rationale": "CD2与CD58（LFA-3）相互作用，介导T细胞与APC或靶细胞之间的黏附，促进信号传导。"
+        },
+        {
+          "text": "CD86（B7.2）",
+          "isCorrect": false,
+          "rationale": "CD86同样是CD28和CTLA-4的受体结合配体。"
+        },
+        {
+          "text": "CD80（B7.1）",
+          "isCorrect": false,
+          "rationale": "CD80是CD28及CTLA-4分子的结合配体。"
+        }
+      ],
+      "hint": "寻找也被称为淋巴细胞功能相关抗原3（LFA-3）的膜分子。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在前T细胞（DN阶段）发育过程中，首先完成重排并表达于细胞膜上的TCR链是：",
+      "answerOptions": [
+        {
+          "text": "TCR $\\alpha$链",
+          "isCorrect": false,
+          "rationale": "TCR $\\alpha$链在后期的DP阶段才启动重排与表达。"
+        },
+        {
+          "text": "pT$\\alpha$链",
+          "isCorrect": false,
+          "rationale": "pT$\\alpha$链是单态性的替代链，不需要发生基因重排即可直接表达。"
+        },
+        {
+          "text": "TCR $\\beta$链",
+          "isCorrect": true,
+          "rationale": "DN阶段的祖T细胞首先启动TCR $\\beta$链基因重排，成功表达的$\\beta$链与$pT\\alpha$链结合形成前TCR。"
+        },
+        {
+          "text": "CD3 $\\zeta$链",
+          "isCorrect": false,
+          "rationale": "CD3 $\\zeta$链属于恒定的信号转导分子，不发生基因随机重排。"
+        }
+      ],
+      "hint": "重排时依次经历D-J拼接和V-DJ拼接的抗原受体链。"
+    },
+    {
+      "type": "fill_in_blank",
+      "question": "成熟T细胞表面的特异性抗原识别受体是（1）_______（TCR），其辅助受体中，辅助性T细胞表达（2）_______，细胞毒性T细胞表达（3）_______。",
+      "blankAnswers": [
+        "T细胞受体",
+        "CD4",
+        "CD8"
+      ],
+      "rationale": "标准答案及考点解析：T细胞受体为TCR；CD4分子与MHC-II类分子的非多态区结合，表达于Th细胞；CD8分子与MHC-I类分子非多态区结合，表达于CTL细胞。",
+      "hint": "核心考点：TCR及CD4/CD8表面标志。"
+    }
+  ],
+  "topics": {
+    "covered": [
+      "T淋巴细胞在胸腺内的发育阶段（DN, DP, SP）",
+      "TCR基因重排机制与多样性形成",
+      "胸腺内阳性选择与阴性选择的机制与意义",
+      "T细胞表面重要膜分子（TCR-CD3, CD4, CD8, CD2, CD28, PD-1）及功能"
+    ],
+    "followUp": [
+      "T细胞活化的双信号模型与信号转导通路",
+      "辅助性T细胞（Th）亚群分化与效应机制",
+      "细胞毒性T细胞（CTL）杀伤靶细胞的机制",
+      "免疫检查点抑制剂在肿瘤免疫治疗中的应用"
+    ]
+  }
+}

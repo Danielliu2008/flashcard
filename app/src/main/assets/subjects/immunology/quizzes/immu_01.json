@@ -1,0 +1,766 @@
+{
+  "quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "现代免疫学概念将“免疫”定义为机体产生的一种什么生理性反应？",
+      "answerOptions": [
+        {
+          "text": "无差别抵御一切外来微生物入侵",
+          "isCorrect": false,
+          "rationale": "免疫反应具有高度的选择性和识别机制，并非无差别地抵抗所有微生物。"
+        },
+        {
+          "text": "识别“自己”与“非己”、清除抗原性异物",
+          "isCorrect": true,
+          "rationale": "现代免疫概念强调机体通过区分自我与非自我成分，从而维持自身稳态并清除异物。"
+        },
+        {
+          "text": "对所有物理性损伤产生的急性局部炎症",
+          "isCorrect": false,
+          "rationale": "局部物理损伤引发的炎症属于非特异性损伤修复反应，不能完整概括免疫系统识别与清除抗原的功能。"
+        },
+        {
+          "text": "仅针对自身衰老死亡细胞的清除反应",
+          "isCorrect": false,
+          "rationale": "清除自身衰老细胞只是免疫维持稳态的一部分，免疫更核心的功能在于识别与消除外来抗原性异物。"
+        }
+      ],
+      "hint": "考虑机体如何区分自身组织与外来抗原物质。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "爱德华·詹纳（Edward Jenner）被尊称为“免疫学之父”，其主要历史贡献是发现并应用了什么？",
+      "answerOptions": [
+        {
+          "text": "接种牛痘预防天花",
+          "isCorrect": true,
+          "rationale": "詹纳通过接种牛痘成功诱导了对天花病毒的交叉保护力，从而开创了现代疫苗学。"
+        },
+        {
+          "text": "提纯了世界上第一种抗体分子",
+          "isCorrect": false,
+          "rationale": "抗体分子的提纯与结构解析是在20世纪现代生物化学发展后才实现的。"
+        },
+        {
+          "text": "提出了T细胞与B细胞的双协同理论",
+          "isCorrect": false,
+          "rationale": "淋巴细胞亚群及其协同作用机制是20世纪中叶细胞免疫学确立后的成果。"
+        },
+        {
+          "text": "发现并命名了模式识别受体",
+          "isCorrect": false,
+          "rationale": "模式识别受体是近代固有免疫研究的重要发现，远晚于詹纳的牛痘接种实验。"
+        }
+      ],
+      "hint": "联想人类克服天花病毒过程中最早使用的接种方法。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "詹姆斯·艾利森（James Allison）与本庶佑（Tasuku Honjo）获得2018年诺贝尔生理学或医学奖，是因为他们在以下哪个领域的突破？",
+      "answerOptions": [
+        {
+          "text": "固有免疫模式识别受体的发现",
+          "isCorrect": false,
+          "rationale": "模式识别受体（如TLR）的发现获奖于2011年诺贝尔生理学或医学奖。"
+        },
+        {
+          "text": "人类肿瘤免疫治疗",
+          "isCorrect": true,
+          "rationale": "两位科学家通过揭示免疫检查点抑制机制，开启了利用机体自身免疫系统对抗肿瘤的新时代。"
+        },
+        {
+          "text": "传染病传播途径的切断技术",
+          "isCorrect": false,
+          "rationale": "流行病学中切断传播途径的理论建立已久，并非该诺贝尔奖获奖成果的主题。"
+        },
+        {
+          "text": "单克隆抗体的大规模制备技术",
+          "isCorrect": false,
+          "rationale": "单克隆抗体杂交瘤技术是由科勒和米尔斯坦在1984年获得诺贝尔奖的成果。"
+        }
+      ],
+      "hint": "关注通过解除免疫抑制来攻击癌细胞的治疗方向。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在免疫系统的演化过程中，适应性免疫功能的完善以及5种免疫球蛋白（Ig）亚类的出现，主要体现在下列哪类生物中？",
+      "answerOptions": [
+        {
+          "text": "单细胞原核生物",
+          "isCorrect": false,
+          "rationale": "单细胞生物仅具备极原始的非特异性防护或吞噬能力，缺乏专门的淋巴器官和抗体。"
+        },
+        {
+          "text": "哺乳类及灵长类动物",
+          "isCorrect": true,
+          "rationale": "随着演化阶梯的上升，高等哺乳动物和灵长类具备了极其完善的适应性免疫器官及多样化的抗体亚类。"
+        },
+        {
+          "text": "仅限于两栖类动物",
+          "isCorrect": false,
+          "rationale": "两栖类动物免疫系统虽然比无脊椎动物发达，但尚未演化出极其完善的适应性免疫和全部5种Ig亚类。"
+        },
+        {
+          "text": "无脊椎动物",
+          "isCorrect": false,
+          "rationale": "无脊椎动物主要依赖固有免疫机制，不具备高度分化的适应性免疫系统与5种Ig亚类。"
+        }
+      ],
+      "hint": "考虑系统发育树上最高等、免疫器官和抗体种类最丰富的动物类群。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "适应性免疫能够特异性识别抗原，主要依赖于下列哪组受体？",
+      "answerOptions": [
+        {
+          "text": "补体受体与Fc受体",
+          "isCorrect": false,
+          "rationale": "补体受体与Fc受体主要参与效应阶段的结合与调理吞噬，并非适应性抗原特异性识别受体。"
+        },
+        {
+          "text": "模式识别受体（PRR）",
+          "isCorrect": false,
+          "rationale": "模式识别受体是固有免疫细胞用于识别病原体共有模式分子的受体。"
+        },
+        {
+          "text": "T细胞受体（TCR）和B细胞受体（BCR）",
+          "isCorrect": true,
+          "rationale": "TCR和BCR是T、B淋巴细胞表面特有的特异性抗原识别受体。"
+        },
+        {
+          "text": "细胞因子受体与趋化因子受体",
+          "isCorrect": false,
+          "rationale": "此类受体主要介导细胞间信号传导和定向迁移，不直接承担抗原特异性识别功能。"
+        }
+      ],
+      "hint": "思考T细胞和B细胞表面专门用于识别特异性抗原结构的分子。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于固有免疫与适应性免疫在“免疫记忆”特性上的比较，下列说法正确的是？",
+      "answerOptions": [
+        {
+          "text": "固有免疫和适应性免疫均不具备免疫记忆",
+          "isCorrect": false,
+          "rationale": "适应性免疫形成免疫记忆是疫苗接种能够产生长期保护力的生物学基础。"
+        },
+        {
+          "text": "固有免疫有免疫记忆，适应性免疫无免疫记忆",
+          "isCorrect": false,
+          "rationale": "这颠倒了两种免疫方式的核心生理特征。"
+        },
+        {
+          "text": "固有免疫和适应性免疫均具备长效特异性免疫记忆",
+          "isCorrect": false,
+          "rationale": "固有免疫不依赖基因重排产生特异性受体，因此无法形成抗原特异性的长效免疫记忆。"
+        },
+        {
+          "text": "固有免疫无免疫记忆，适应性免疫有免疫记忆",
+          "isCorrect": true,
+          "rationale": "固有免疫反应不产生长效特异性记忆细胞，而适应性免疫在首次应答后会形成免疫记忆。"
+        }
+      ],
+      "hint": "想想为什么接种一次疫苗后再次遇到相同病原体能迅速产生强大保护。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "辅助性T细胞亚群中的 $T_H1$ 细胞，其主要功能是？",
+      "answerOptions": [
+        {
+          "text": "直接释放溶孔蛋白杀伤靶细胞",
+          "isCorrect": false,
+          "rationale": "直接杀伤靶细胞主要是细胞毒性T细胞（CTL）或NK细胞的功能。"
+        },
+        {
+          "text": "定向招募中性粒细胞至感染局部",
+          "isCorrect": false,
+          "rationale": "招募中性粒细胞主要由 $T_H17$ 细胞介导。"
+        },
+        {
+          "text": "激活巨噬细胞以参与炎症与细胞免疫应答",
+          "isCorrect": true,
+          "rationale": "$T_H1$ 细胞通过分泌特定细胞因子激活巨噬细胞，增强机体清除胞内异物的能力。"
+        },
+        {
+          "text": "直接激活B细胞增殖并分化为浆细胞",
+          "isCorrect": false,
+          "rationale": "激活B细胞产生抗体主要是 $T_H2$ 细胞的核心功能。"
+        }
+      ],
+      "hint": "区分 $T_H1$、 $T_H2$ 和 $T_H17$ 的主要下游效应细胞。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "辅助性T细胞亚群中的 $T_H2$ 细胞在体液免疫中发挥关键作用，其核心功能是？",
+      "answerOptions": [
+        {
+          "text": "特异性裂解病毒感染细胞",
+          "isCorrect": false,
+          "rationale": "裂解感染靶细胞属于细胞毒性T细胞（CTL）的作用。"
+        },
+        {
+          "text": "招募中性粒细胞",
+          "isCorrect": false,
+          "rationale": "招募中性粒细胞主要归因于 $T_H17$ 细胞的功能。"
+        },
+        {
+          "text": "激活巨噬细胞",
+          "isCorrect": false,
+          "rationale": "激活巨噬细胞是 $T_H1$ 细胞的主要职责。"
+        },
+        {
+          "text": "激活B细胞",
+          "isCorrect": true,
+          "rationale": "$T_H2$ 细胞通过表达协同刺激分子和分泌细胞因子辅助B细胞活化与抗体产生。"
+        }
+      ],
+      "hint": "联想体液免疫中产生抗体的前体细胞及其辅助机制。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "辅助性T细胞亚群 $T_H17$ 细胞在免疫应答中的特征性作用是？",
+      "answerOptions": [
+        {
+          "text": "诱导巨噬细胞分化为树突状细胞",
+          "isCorrect": false,
+          "rationale": "巨噬细胞与树突状细胞分化不受 $T_H17$ 的直接招募功能调控。"
+        },
+        {
+          "text": "抑制B细胞的抗体类别转换",
+          "isCorrect": false,
+          "rationale": "$T_H17$ 主要发挥促炎与粒细胞招募作用，而非抑制B细胞功能。"
+        },
+        {
+          "text": "招募中性粒细胞至感染部位",
+          "isCorrect": true,
+          "rationale": "$T_H17$ 细胞分泌细胞因子促进中性粒细胞的招募与聚集，参与抗真菌和胞外菌免疫。"
+        },
+        {
+          "text": "直接分泌特异性免疫球蛋白",
+          "isCorrect": false,
+          "rationale": "分泌免疫球蛋白（抗体）是浆细胞（分化的B细胞）的专属功能。"
+        }
+      ],
+      "hint": "思考哪种辅助T细胞亚群与粒细胞的定向招募密切相关。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "在免疫应答中，能够摄取、加工并将抗原信息递呈给T细胞的抗原递呈细胞（APC）包括哪些？",
+      "answerOptions": [
+        {
+          "text": "树突状细胞",
+          "isCorrect": true,
+          "rationale": "树突状细胞是功能最强的专职抗原递呈细胞，能高效摄取并加工抗原。"
+        },
+        {
+          "text": "巨噬细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞具备强大的吞噬功能，同时表达MHC分子将加工后的抗原递呈给T细胞。"
+        },
+        {
+          "text": "成熟红细胞",
+          "isCorrect": false,
+          "rationale": "成熟红细胞缺乏细胞核与MHC-II类分子，不具备抗原加工和递呈能力。"
+        },
+        {
+          "text": "B细胞",
+          "isCorrect": true,
+          "rationale": "B细胞可通过其表面的BCR特异性结合抗原，内化加工后递呈给辅助性T细胞。"
+        }
+      ],
+      "hint": "找出具备抗原摄取、加工及表达MHC分子递呈抗原能力的专职免疫细胞。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "根据免疫系统组成与功能的分类，下列哪些细胞既参与固有免疫应答，又在适应性免疫应答中发挥作用？",
+      "answerOptions": [
+        {
+          "text": "自然杀伤细胞（NK细胞）",
+          "isCorrect": false,
+          "rationale": "NK细胞主要通过非特异性机制杀伤靶细胞，归类为固有免疫细胞。"
+        },
+        {
+          "text": "单纯效应性B细胞",
+          "isCorrect": false,
+          "rationale": "B细胞及其分化产生的浆细胞属于适应性免疫的核心参与者。"
+        },
+        {
+          "text": "树突状细胞",
+          "isCorrect": true,
+          "rationale": "树突状细胞感知病原体属于固有免疫，同时作为APC启动T细胞活化属于适应性免疫。"
+        },
+        {
+          "text": "巨噬细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞直接吞噬病原体参与固有免疫，同时通过抗原递呈和效应阶段与适应性免疫密切互动。"
+        }
+      ],
+      "hint": "寻找跨越固有与适应性两道防线、承担连接与递呈桥梁作用的细胞。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列属于固有免疫（先天性免疫）主要特点的有哪些？",
+      "answerOptions": [
+        {
+          "text": "先天获得，无需预先接触抗原",
+          "isCorrect": true,
+          "rationale": "固有免疫是个体出生时即具备的种系遗传免疫防御机制。"
+        },
+        {
+          "text": "主要通过模式识别受体识别病原体共有成分",
+          "isCorrect": true,
+          "rationale": "固有免疫依赖生殖细胞编码的受体识别病原体高度保守的共有结构。"
+        },
+        {
+          "text": "作用时相较快，数小时至数天内即可发挥效应",
+          "isCorrect": true,
+          "rationale": "固有免疫细胞和分子无需经过克隆扩增，能对异物入侵做出快速反应。"
+        },
+        {
+          "text": "依靠基因重排形成高度多样化的特异性受体",
+          "isCorrect": false,
+          "rationale": "通过受体基因重排产生多样性识别受体是适应性免疫（T/B细胞）的独特特征。"
+        }
+      ],
+      "hint": "关注固有免疫的发生时间、识别机制及遗传特征。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "下列属于适应性免疫（获得性免疫）主要特点的有哪些？",
+      "answerOptions": [
+        {
+          "text": "针对病原体的特定抗原成分进行特异性识别",
+          "isCorrect": true,
+          "rationale": "适应性免疫细胞依靠TCR/BCR精确识别抗原决定簇（表位）。"
+        },
+        {
+          "text": "初次应答需要数天后才能充分发挥效应",
+          "isCorrect": true,
+          "rationale": "特异性淋巴细胞从识别抗原到完成增殖分化需要一定的时间过程。"
+        },
+        {
+          "text": "后天获得，需抗原诱导",
+          "isCorrect": true,
+          "rationale": "适应性免疫需要个体在接触特定抗原后，通过淋巴细胞活化与扩增而建立。"
+        },
+        {
+          "text": "能够形成免疫记忆细胞",
+          "isCorrect": true,
+          "rationale": "适应性应答消退后会留存记忆性T/B细胞，使再次应答更为迅速高效。"
+        }
+      ],
+      "hint": "思考后天免疫在识别精度、反应时相和长期记忆方面的独特表现。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于固有免疫与适应性免疫之间的相互关系，下列表述最准确的是？",
+      "answerOptions": [
+        {
+          "text": "固有免疫是适应性免疫的先决条件，适应性免疫效应也可影响和调节固有免疫",
+          "isCorrect": true,
+          "rationale": "固有免疫不仅为适应性免疫提供启动信号，其效应过程也与适应性免疫相互协同与反馈调控。"
+        },
+        {
+          "text": "固有免疫与适应性免疫完全独立，在体内无任何交集",
+          "isCorrect": false,
+          "rationale": "两者在抗原递呈、细胞因子协同和效应消除等阶段均存在密不可分的相互作用。"
+        },
+        {
+          "text": "适应性免疫总是先于固有免疫发生并指导固有免疫活化",
+          "isCorrect": false,
+          "rationale": "在时间顺序上，固有免疫构成了第一道防线并最先被激活。"
+        },
+        {
+          "text": "固有免疫在发育成熟后会被适应性免疫完全取代",
+          "isCorrect": false,
+          "rationale": "固有免疫终生存在，且是维护机体基础防御和组织屏障不可或缺的部分。"
+        }
+      ],
+      "hint": "考虑两者在反应顺序上的先后关系以及效应阶段的相互调节。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "传染病流行包含三个基本环节。针对这些环节采取的控制策略及对应关系正确的有哪些？",
+      "answerOptions": [
+        {
+          "text": "针对易感人群：要保护！",
+          "isCorrect": true,
+          "rationale": "保护易感人群（如接种疫苗、提升免疫力）能降低人群对病原体的易感性。"
+        },
+        {
+          "text": "针对易感人群：要隔离！",
+          "isCorrect": false,
+          "rationale": "隔离措施主要是针对传染源（如患病或携带病原体者），而非无症状的健康易感人群。"
+        },
+        {
+          "text": "针对传染源：要控制！",
+          "isCorrect": true,
+          "rationale": "控制传染源（如隔离患者、治疗带菌者）可阻止病原体向外散播。"
+        },
+        {
+          "text": "针对传播途径：要切断！",
+          "isCorrect": true,
+          "rationale": "切断传播途径（如消毒、阻断飞沫与媒介）可阻断病原体从源头到达易感者的通道。"
+        }
+      ],
+      "hint": "回顾传染病防范的三大要素及其分别对应的处理原则。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_select",
+      "question": "病原体可通过多种途径在人群中传播。下列哪些属于常见的传染病传播途径？",
+      "answerOptions": [
+        {
+          "text": "体液、接触",
+          "isCorrect": true,
+          "rationale": "直接或间接接触病原体体液及受污染物体表面可导致疾病传播。"
+        },
+        {
+          "text": "饮水、食物",
+          "isCorrect": true,
+          "rationale": "消化道传染病主要通过污染的饮用水和食物造成病原体经口传播。"
+        },
+        {
+          "text": "生物媒介（如蚊虫）",
+          "isCorrect": true,
+          "rationale": "蚊子、蜱虫等节肢动物可作为生物媒介叮咬传播特定的血液或体液病原体。"
+        },
+        {
+          "text": "空气、飞沫",
+          "isCorrect": true,
+          "rationale": "呼吸道传染病常通过咳嗽、喷嚏产生的飞沫或空气气溶胶进行传播。"
+        }
+      ],
+      "hint": "结合日常公共卫生知识，选择病原体进入宿主体内的各种物理与生物通道。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "“免疫”（Immunity）一词源于拉丁语，其原始概念含义是？",
+      "answerOptions": [
+        {
+          "text": "免除瘟疫",
+          "isCorrect": true,
+          "rationale": "拉丁语原意指免除赋税或免除疾病/瘟疫，体现了人们对传染病抵抗力的最早认识。"
+        },
+        {
+          "text": "识别异己",
+          "isCorrect": false,
+          "rationale": "识别异己是现代免疫学对免疫生理功能的抽象概括，非原始词源含义。"
+        },
+        {
+          "text": "消除肿瘤",
+          "isCorrect": false,
+          "rationale": "肿瘤免疫学是现代科学发展后的分支，古代词源并未涉及肿瘤概念。"
+        },
+        {
+          "text": "组织修复",
+          "isCorrect": false,
+          "rationale": "组织修复属于免疫反应的后期后果或生理功能之一，非“Immunity”的古词源定义。"
+        }
+      ],
+      "hint": "想想古代人们面对爆发性传染病时对该词汇的最直观理解。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "自然杀伤细胞（NK细胞）在免疫分类中属于哪类细胞？",
+      "answerOptions": [
+        {
+          "text": "适应性免疫中的专属B淋巴细胞",
+          "isCorrect": false,
+          "rationale": "NK细胞不表达BCR，也不分化为浆细胞产生抗体。"
+        },
+        {
+          "text": "固有免疫细胞",
+          "isCorrect": true,
+          "rationale": "NK细胞无需抗原预先致敏即可直接杀伤靶细胞，属于固有免疫系统的组成部分。"
+        },
+        {
+          "text": "依赖基因重排活化的T细胞",
+          "isCorrect": false,
+          "rationale": "NK细胞表面受体不需要发生基因重排即可识别异常细胞。"
+        },
+        {
+          "text": "专职抗原递呈细胞",
+          "isCorrect": false,
+          "rationale": "NK细胞的核心功能是杀伤靶细胞和分泌细胞因子，而非摄取加工抗原。"
+        }
+      ],
+      "hint": "根据其杀伤机制是否需要预先抗原致敏和基因重排来判断其归属。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在动物免疫器官的演化历程中，原始胸腺和脾脏的出现标志着什么？",
+      "answerOptions": [
+        {
+          "text": "5种Ig亚类抗体同时在一瞬间全部形成",
+          "isCorrect": false,
+          "rationale": "Ig亚类的多样化是随脊椎动物演化逐步丰富起来的，而非随器官出现瞬间完成。"
+        },
+        {
+          "text": "免疫系统不再依赖任何体液因子",
+          "isCorrect": false,
+          "rationale": "体液因子（如补体、细胞因子）在演化中始终与细胞免疫紧密配合。"
+        },
+        {
+          "text": "单细胞吞噬功能的完全退化",
+          "isCorrect": false,
+          "rationale": "吞噬功能在高等生物中依然保留并构成了固有免疫的核心。"
+        },
+        {
+          "text": "T、B淋巴细胞逐渐易于分辨并建立中枢/外周免疫器官体系",
+          "isCorrect": true,
+          "rationale": "胸腺和脾脏的出现为淋巴细胞的分化、成熟和定居提供了专门的微环境。"
+        }
+      ],
+      "hint": "关注胸腺和脾脏作为免疫器官对淋巴细胞分化成熟的场所意义。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在适应性体液免疫的演化早期，最先出现的抗体类型（Ig）是？",
+      "answerOptions": [
+        {
+          "text": "IgM",
+          "isCorrect": true,
+          "rationale": "IgM是演化史上最早出现、也是个体发育过程中最早合成的免疫球蛋白类型。"
+        },
+        {
+          "text": "IgG",
+          "isCorrect": false,
+          "rationale": "IgG是种系演化和个体体液免疫应答后期（类别转换后）的主要高亲和力抗体。"
+        },
+        {
+          "text": "IgE",
+          "isCorrect": false,
+          "rationale": "IgE与型超敏反应和抗寄生虫免疫相关，是演化上较晚出现的Ig类别。"
+        },
+        {
+          "text": "IgA",
+          "isCorrect": false,
+          "rationale": "IgA主要参与黏膜局部免疫，出现时间晚于IgM。"
+        }
+      ],
+      "hint": "思考个体发育和种系发生中最原始、分子体积较大的初次应答抗体。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "固有免疫与适应性免疫在诱发因素上的本质区别在于？",
+      "answerOptions": [
+        {
+          "text": "固有免疫由自身细胞分泌物诱发，适应性免疫由外来菌群诱发",
+          "isCorrect": false,
+          "rationale": "两种免疫均旨在应对外来异物入侵或自身异常改变。"
+        },
+        {
+          "text": "固有免疫由病原体共有成分诱发，适应性免疫由特异性抗原成分诱发",
+          "isCorrect": true,
+          "rationale": "固有免疫识别病原体相关的保守共有结构，适应性免疫识别特定病原体的独特抗原决定簇。"
+        },
+        {
+          "text": "固有免疫仅由物理损伤诱发，适应性免疫由化学毒素诱发",
+          "isCorrect": false,
+          "rationale": "两者的主要诱发因素均包含生物性病原体，并非由物理或化学属性区分。"
+        },
+        {
+          "text": "固有免疫由特异性蛋白质诱发，适应性免疫由非特异性脂类诱发",
+          "isCorrect": false,
+          "rationale": "适应性免疫主要针对蛋白质决定簇等特异性抗原成分。"
+        }
+      ],
+      "hint": "区分“病原体共有模式成分”与“独特特异性抗原表位”。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "肿瘤免疫治疗（Immuno-Oncology, I-O）与传统针对肿瘤本体的治疗（如化疗、放疗、手术）最根本的区别是？",
+      "answerOptions": [
+        {
+          "text": "I-O使用高能射线直接摧毁肿瘤细胞的染色体",
+          "isCorrect": false,
+          "rationale": "利用高能射线摧毁癌细胞是放射治疗（Radiation）的作用方式。"
+        },
+        {
+          "text": "I-O通过外科手术完整切除肿瘤病灶",
+          "isCorrect": false,
+          "rationale": "外科切除属于手术治疗（Surgery）范畴。"
+        },
+        {
+          "text": "I-O通过激活和利用机体自身的免疫系统来对抗癌症",
+          "isCorrect": true,
+          "rationale": "肿瘤免疫治疗不直接杀伤肿瘤，而是通过调动宿主免疫系统的抗肿瘤应答来消除癌细胞。"
+        },
+        {
+          "text": "I-O依靠细胞毒性化学药物阻断癌细胞DNA复制",
+          "isCorrect": false,
+          "rationale": "依靠化学药物阻断细胞增殖属于化学治疗（Chemotherapy）的作用机制。"
+        }
+      ],
+      "hint": "关注治疗作用的靶点是“肿瘤细胞本身”还是“宿主的防御体系”。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "辅助性T细胞（ $T_H$ 细胞）在识别特异性抗原后会分泌不同的细胞因子。下列关于 $T_H$ 细胞亚群及其对应功能的描述正确的有哪些？",
+      "answerOptions": [
+        {
+          "text": "$T_H1$ 细胞能够激活巨噬细胞",
+          "isCorrect": true,
+          "rationale": "$T_H1$ 分泌的细胞因子（如IFN-$\\gamma$）是激活巨噬细胞的重要信号。"
+        },
+        {
+          "text": "$T_H2$ 细胞能够激活B细胞",
+          "isCorrect": true,
+          "rationale": "$T_H2$ 分泌IL-4等细胞因子促进B细胞增殖和抗体类别转换。"
+        },
+        {
+          "text": "$T_H1$ 细胞的主要功能是直接裂解靶细胞膜",
+          "isCorrect": false,
+          "rationale": "直接打孔裂解靶细胞主要是细胞毒性T细胞（CTL）通过穿孔素/颗粒酶完成的。"
+        },
+        {
+          "text": "$T_H17$ 细胞倾向于招募中性粒细胞",
+          "isCorrect": true,
+          "rationale": "$T_H17$ 分泌IL-17等因子引导中性粒细胞向炎症部位趋化聚集。"
+        }
+      ],
+      "hint": "分别对应 $T_H1$ 、 $T_H2$ 和 $T_H17$ 亚群的核心下游靶细胞。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "组织屏障（如皮肤、黏膜）以及多种固有免疫细胞和分子在机体防御中充当什么角色？",
+      "answerOptions": [
+        {
+          "text": "通过受体基因重排识别特定抗原表位",
+          "isCorrect": false,
+          "rationale": "屏障及固有免疫成分不依赖基因重排，其识别缺乏高度特异性。"
+        },
+        {
+          "text": "仅在适应性免疫消退后用于清除残留抗原",
+          "isCorrect": false,
+          "rationale": "屏障与固有分子在感染早期即发挥阻挡与杀灭作用，而非仅在后期工作。"
+        },
+        {
+          "text": "专门负责产生高亲和力特异性抗体的效应单元",
+          "isCorrect": false,
+          "rationale": "产生特异性抗体依赖适应性免疫中B细胞分化产生的浆细胞。"
+        },
+        {
+          "text": "构筑固有免疫的第一道和第二道防线，发挥非特异性防护作用",
+          "isCorrect": true,
+          "rationale": "物理屏障与固有免疫细胞/分子共同建立了阻止和清除异物的第一线稳固城墙。"
+        }
+      ],
+      "hint": "形象比喻为抵御外敌入侵的第一道“稳固城墙”。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "在传染病防控中，下列做法属于控制“传染源”或保护“易感人群”的有哪些？",
+      "answerOptions": [
+        {
+          "text": "对高危群体接种疫苗属于保护易感人群",
+          "isCorrect": true,
+          "rationale": "接种疫苗可使易感个体获得特异性免疫力，降低感染风险。"
+        },
+        {
+          "text": "对传染病患者进行隔离治疗属于控制传染源",
+          "isCorrect": true,
+          "rationale": "隔离和治疗患病个体能直接减少病原体向外散播的机会。"
+        },
+        {
+          "text": "对室内空气进行定期通风消毒属于保护易感人群",
+          "isCorrect": false,
+          "rationale": "空气消毒和通风是通过消除环境中的病原体来切断传播途径。"
+        },
+        {
+          "text": "消灭蚊子、苍蝇等害虫属于控制传染源",
+          "isCorrect": false,
+          "rationale": "消灭传病昆虫媒介属于切断传播途径，而非控制传染源本体。"
+        }
+      ],
+      "hint": "注意区分“针对患病/带菌个体”、“针对介质环境”与“针对健康未免疫个体”的措施。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "辅助性T细胞（$T_H$ 细胞）被激活并分泌细胞因子的前提条件是？",
+      "answerOptions": [
+        {
+          "text": "接收到未受感染正常细胞的凋亡信号",
+          "isCorrect": false,
+          "rationale": "正常细胞凋亡通常维持免疫耐受或抑制炎症，不会引发$T_H$细胞特异性活化。"
+        },
+        {
+          "text": "直接结合游离的病原体共有脂多糖",
+          "isCorrect": false,
+          "rationale": "直接结合脂多糖（LPS）主要是固有免疫受体（如TLR4）的功能，$T_H$细胞需要结合加工后的抗原肽。"
+        },
+        {
+          "text": "特异性识别抗原",
+          "isCorrect": true,
+          "rationale": "$T_H$ 细胞需通过TCR精确结合APC递呈的特异性抗原肽-MHC复合物后方可活化并分泌因子。"
+        },
+        {
+          "text": "非特异性结合补体C3b",
+          "isCorrect": false,
+          "rationale": "补体结合主要参与调理吞噬和补体激活，并非T细胞活化分泌因子的特异性前置条件。"
+        }
+      ],
+      "hint": "联想T细胞受体（TCR）在识别抗原时的专一性要求。"
+    },
+    {
+      "type": "fill_in_blank",
+      "question": "人类中枢免疫器官由（1）_______和（2）_______组成，是免疫细胞分化成熟的场所。",
+      "blankAnswers": [
+        "骨髓",
+        "胸腺"
+      ],
+      "rationale": "标准答案及考点解析：人类中枢免疫器官由骨髓和胸腺组成。骨髓是B细胞发育成熟的场所，胸腺是T细胞发育成熟的场所。",
+      "hint": "核心考点：中枢免疫器官与外周免疫器官的区别与组成。"
+    },
+    {
+      "type": "fill_in_blank",
+      "question": "外周免疫器官包括淋巴结、（1）_______和（2）_______（MALT）。",
+      "blankAnswers": [
+        "脾脏",
+        "黏膜相关淋巴组织"
+      ],
+      "rationale": "标准答案及考点解析：外周免疫器官包括淋巴结、脾脏和黏膜相关淋巴组织（MALT），是免疫细胞定居和发生免疫应答的场所。",
+      "hint": "核心考点：外周免疫器官的组成及功能。"
+    },
+    {
+      "type": "fill_in_blank",
+      "question": "B淋巴细胞和T淋巴细胞分化成熟的场所分别是（1）_______和（2）_______。",
+      "blankAnswers": [
+        "骨髓",
+        "胸腺"
+      ],
+      "rationale": "标准答案及考点解析：B细胞在骨髓中经历阴性选择分化成熟；前T细胞迁移至胸腺，在胸腺微环境中经历阳性选择与阴性选择分化成熟。",
+      "hint": "核心考点：T/B细胞中枢分化成熟的器官。"
+    }
+  ],
+  "topics": {
+    "covered": [
+      "免疫的概念与历史发展",
+      "固有免疫与适应性免疫的特征比较",
+      "免疫系统的进化与免疫细胞功能",
+      "传染病流行环节与控制策略"
+    ],
+    "followUp": [
+      "肿瘤免疫治疗（I-O）与免疫检查点机制",
+      "辅助性T细胞（TH1/TH2/TH17）的分化与功能调控",
+      "抗原递呈细胞（APC）的抗原加工与递呈途径",
+      "免疫球蛋白（Ig）的结构与功能演化"
+    ]
+  }
+}

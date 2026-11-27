@@ -1,0 +1,663 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "缓激肽对平滑肌和毛细血管有哪些主要作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "刺激平滑肌收缩引起支气管痉挛，并导致毛细血管扩张、通透性增强。"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "I型超敏反应对机体造成的损伤程度通常有何特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "常引起生理功能紊乱，几乎不发生严重的组织细胞损伤。"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肥大细胞上 $H_4$ 受体的主要生理功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "具有趋化作用。"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "II型超敏反应属于何种类型，主要由哪些抗体介导？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞毒型，主要由 IgM 和 IgG 介导。"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在I型超敏反应中，变应原（过敏原）主要激活哪些免疫细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$CD4^+$ Th2 细胞和 B 细胞"
+          }
+        ]
+      },
+      "c": 9
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "缓激肽能够向局部吸引哪些炎症细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "嗜酸性粒细胞和中性粒细胞。"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是超敏反应（Hypersensitivity）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "机体对某抗原初次应答后，再次接受相同抗原刺激时发生的一种以机体生理功能紊乱或组织细胞损伤为主的特异性免疫应答。"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "白三烯对支气管平滑肌的作用特点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "引起支气管平滑肌强烈且持久地收缩。"
+          }
+        ]
+      },
+      "c": 25
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "自身免疫病机制中的“分子模拟机制”是如何引发免疫损伤的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病原体抗原与自身抗原结构相似时，错误激活针对自身组织的 B 细胞克隆并产生交叉反应。"
+          }
+        ]
+      },
+      "c": 33
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "组胺结合 $H_1$ 受体对杯状细胞有何作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "促进杯状细胞黏液分泌增多。"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是自身免疫病（Autoimmune Disease, AID）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "自身抗体或自身致敏淋巴细胞攻击表达自身靶抗原的细胞和组织，导致细胞组织损伤或功能障碍，并出现相应临床症状的疾病。"
+          }
+        ]
+      },
+      "c": 31
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "I型超敏反应主要由哪种免疫球蛋白介导？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IgE"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "组胺结合 $H_1$ 受体后对平滑肌和血管通透性产生什么效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "使肠道和支气管平滑肌收缩，小静脉通透性增加。"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "激肽原酶如何参与产生具有生物活性的激肽？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "催化血浆中的激肽原转化为具有生物活性的激肽（如缓激肽）。"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为什么单个 IgE 分子结合 $Fc\\varepsilon RI$ 不能激活致敏细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "因为激活活化信号需要多个 $Fc\\varepsilon RI$ 受体发生交联，单分子结合无法形成受体交联。"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肥大细胞和嗜碱性粒细胞上的 $H_2$ 受体在脱颗粒中扮演什么调节角色？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "发挥负反馈调节作用，抑制细胞脱颗粒。"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "白三烯（LTs）是I型超敏反应中哪一相反应的主要介质？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "迟发相反应"
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "I型超敏反应中的“变应素”是指什么？主要由何处产生？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "指 IgE 抗体，主要由粘膜下固有层的 B 细胞产生。"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "I型超敏反应在发生和消退速度上有何临床特征？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "发生快，消退快。"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "接触性皮炎和结核性损伤属于哪一型超敏反应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IV型超敏反应（迟发型超敏反应）"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Arthus反应和血清病属于哪一型超敏反应疾病？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "III型超敏反应（抗原抗体复合物型）"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "引发致敏肥大细胞或嗜碱性粒细胞脱颗粒的关键分子信号是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "变应原与细胞表面的 IgE 结合并导致 $Fc\\varepsilon RI$ 受体发生交叉连接（交联）。"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "III型超敏反应的发生机制类型是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗原抗体复合物型，主要由 IgM 和 IgG 介导。"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血小板活化因子（PAF）如何通过血小板增强I型超敏反应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "引发血小板凝聚和活化，使其释放组胺和 5-羟色胺等介质。"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "前列腺素 $D_2$（$PGD_2$）在I型超敏反应中的主要作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "刺激支气管平滑肌收缩，促进血管扩张和通透性增加。"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "I型超敏反应在发病人群分布上呈现出什么倾向？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "具有明显的个体差异和遗传倾向。"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是自身免疫（Autoimmunity）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "机体免疫系统对自身抗原产生应答，诱生自身抗体和（或）自身致敏淋巴细胞的现象。"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "白三烯（LTs）主要由哪些分子组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$LTC_4$、$LTD_4$ 和 $LTE_4$"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IV型超敏反应由哪种免疫应答类型介导？主要效应细胞是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞免疫介导（迟发型超敏反应），主要效应细胞为 Th1 细胞和 CTL。"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "自身免疫病机制中的“克隆清除缺陷”是指什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "正常情况下自身反应性 B 细胞克隆在发育中应被消除，若阴性选择机制失效，这些异常克隆存活并攻击自身组织。"
+          }
+        ]
+      },
+      "c": 32
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "组胺结合 $H_2$ 受体对血管和外分泌腺有何效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "导致血管扩张和通透性增强，刺激外分泌腺分泌。"
+          }
+        ]
+      },
+      "c": 16
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "链球菌感染后引发风湿热属于哪种自身免疫发病机制？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "分子模拟机制（针对链球菌抗原的抗体与心肌细胞发生交叉反应）。"
+          }
+        ]
+      },
+      "c": 34
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "除了变应原交联外，还有哪些人工手段可以直接刺激肥大细胞脱颗粒？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "使用抗 IgE 抗体交联膜 IgE，或使用抗 $Fc\\varepsilon RI$ 抗体直接连接 $Fc\\varepsilon RI$。"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "请列举两种常见的皮肤或呼吸道I型超敏反应临床表现/疾病。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "湿疹、荨麻疹（或哮喘、过敏性鼻炎）。"
+          }
+        ]
+      },
+      "c": 27
+    }
+  ],
+  "topics": {
+    "covered": [
+      "超敏反应的分型与机制",
+      "I型超敏反应的效应介质与生理作用",
+      "超敏反应相关疾病分类",
+      "自身免疫与自身免疫病发病机制"
+    ],
+    "followUp": [
+      "II型和III型超敏反应的具体免疫损伤通路",
+      "系统性红斑狼疮与类风湿关节炎的免疫学诊断",
+      "过敏性疾病的脱敏治疗原理"
+    ]
+  }
+}

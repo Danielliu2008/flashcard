@@ -1,0 +1,355 @@
+{
+  "id": "micro_04",
+  "title": "04 细菌的遗传与变异 闪卡",
+  "description": "医学微生物学·变异现象（L型/卡介苗/耐药）、质粒特性、噬菌体（溶菌/溶原/溶原性转换）、基因转移四大方式（转化/接合/转导/溶原性转换）核心考点",
+  "topics": {
+    "covered": [
+      "细菌表型变异与基因型变异的本质差异",
+      "细菌变异的形态、毒力（卡介苗BCG）与菌落变异（S-R）",
+      "质粒（Plasmid）的双链环状特性、分类及非生命必需性",
+      "可移动遗传元件（插入序列IS、转座子Tn）",
+      "噬菌体分类：毒性噬菌体（溶菌周期/噬斑PFU）与温和噬菌体",
+      "前噬菌体、溶原性细菌与溶原性转换经典实例（白喉外毒素）",
+      "基因转移四大机制横向深度对比（转化、接合、转导、溶原性转换）",
+      "接合作用与性菌毛（F质粒/R质粒扩散）",
+      "普遍性转导与局限性转导的机制区别",
+      "细菌遗传变异在医学耐药防控与疫苗研发中的意义"
+    ],
+    "followUp": [
+      "细菌外毒素与内毒素的毒力基因调控机制",
+      "病毒的基因重组与抗原漂移/抗原转变"
+    ]
+  },
+  "flashcards": [
+    {
+      "c": 1,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【核心对比】表型变异（饰变）与基因型变异有何本质区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **表型变异**：基因型未变，外界诱导引起的暂时形态改变，**不可遗传，可逆**（如抗生素诱导 L 型）。\n• **基因型变异**：基因结构改变，**可稳定遗传**，不可逆（如耐药突变）。"
+          }
+        ]
+      },
+      "pointType": "概念辨析",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 2,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【毒力变异】卡介苗（BCG）是如何研制成功的？属于何种变异？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **研制历程**：牛型结核杆菌在胆汁、甘油、马铃薯培养基上历经 13 年、传代 230 代获得。\n• **变异类型**：属于细菌的**毒力减毒变异（基因型变异）**，用于人工主动免疫预防结核。"
+          }
+        ]
+      },
+      "pointType": "经典疫苗",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 3,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【大纲重点】什么是质粒（Plasmid）？具备哪些关键特性？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **定义**：染色体外的双链共价闭合环状 DNA。\n• **四大特性**：\n  ① **自主复制**；\n  ② **非生命必需**；\n  ③ 编码特定表型（耐药 R、性菌毛 F、毒力 Vi）；\n  ④ 可接合转移，可被溴化乙锭等人工消除。"
+          }
+        ]
+      },
+      "pointType": "物质基础",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 4,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【耐药扩散】什么是耐药质粒（R质粒）？其结构与危害是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **结构**：耐药传递因子（RTF，编码性菌毛）+ 耐药决定子（编码抗药酶）。\n• **危害**：通过**接合作用**在同种及异种细菌间高效水平转移，导致临床多重耐药超级细菌扩散。"
+          }
+        ]
+      },
+      "pointType": "耐药机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 5,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【噬菌体分类】毒性噬菌体与温和噬菌体的结局有何不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **毒性噬菌体**：仅有溶菌周期，迅速增殖并**裂解细菌**，平板上形成透明**噬斑（PFU）**。\n• **温和噬菌体**：侵入后**不裂解细菌**，DNA 整合于宿主染色体，随细菌分裂同步传代。"
+          }
+        ]
+      },
+      "pointType": "噬菌体分类",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 6,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【核心名词】什么是前噬菌体与溶原性细菌？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **前噬菌体（Prophage）**：整合到宿主菌染色体上的温和噬菌体基因组 DNA。\n• **溶原性细菌**：染色体上带有前噬菌体的细菌。"
+          }
+        ]
+      },
+      "pointType": "核心名词",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 7,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【黄金考点】什么是溶原性转换？白喉杆菌产毒机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **溶原性转换**：前噬菌体自身基因表达，使宿主菌获得新的生物学性状。\n• **经典实例**：无毒白喉棒状杆菌受 **$\beta$-棒状噬菌体** 感染整合后，表达 tox 基因产生致命的**白喉外毒素**。"
+          }
+        ]
+      },
+      "pointType": "黄金考点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 8,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基因转移方式】什么是细菌的“转化”（Transformation）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **定义**：受体菌在**感受态**下直接摄取外源供体菌释放的**游离裸露 DNA** 片段实现重组。\n• **特征**：**不需要细胞接触**，不需要噬菌体，**能被 DNA 酶阻断水解**。"
+          }
+        ]
+      },
+      "pointType": "基因重组",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 9,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基因转移方式】什么是细菌的“接合”（Conjugation）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **定义**：供受体细菌通过**性菌毛直接物理接触**，单向传递质粒 DNA 的过程。\n• **特征**：**必须直接物理接触**，DNA 在密封管道转移，**不受 DNA 酶影响**。"
+          }
+        ]
+      },
+      "pointType": "基因重组",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 10,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基因转移方式】什么是细菌的“转导”（Transduction）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **定义**：以**噬菌体为媒介载体**，将供体菌 DNA 片段包裹并转入受体菌中实现基因重组。\n• **特征**：不需细胞接触，DNA 被衣壳保护，不受 DNA 酶破坏。"
+          }
+        ]
+      },
+      "pointType": "基因重组",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 11,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【机制对比】普遍性转导与局限性转导有何本质区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **普遍性转导**：子代装配时发生“误包”，可转导供体染色体的**任意基因片段**。\n• **局限性转导**：温和噬菌体不正常切离，仅能转导整合位点**两侧特定邻近基因**（如 gal/bio）。"
+          }
+        ]
+      },
+      "pointType": "机制对比",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 12,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【全景总结】四大基因转移重组机制横向对比速查。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **转化**：游离裸露 DNA + 感受态（被 DNA 酶水解）。\n• **接合**：性菌毛直接接触传递质粒（不受 DNA 酶影响）。\n• **转导**：噬菌体做载体包装转运供体基因。\n• **溶原性转换**：前噬菌体 DNA 整合表达自身基因（产毒素）。"
+          }
+        ]
+      },
+      "pointType": "四大机制总结",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 13,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【跳跃基因】什么是转座子（Tn）？与插入序列（IS）有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **插入序列（IS）**：仅编码转座酶和反向重复序列。\n• **转座子（Tn）**：除转座酶外，还**携带有抗生素耐药基因**等表型基因，可在染色体与质粒间跳跃转移耐药性。"
+          }
+        ]
+      },
+      "pointType": "分子结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 14,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【菌落变异】什么是 S-R 变异？毒力有何对应变化？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **S-R 变异**：光滑型菌落（S型）变异为粗糙型（R型）。\n• **毒力变化**：常伴随表面特异抗原（荚膜或外膜 LPS）缺失，致病力与**毒力显著减弱甚至消失**。"
+          }
+        ]
+      },
+      "pointType": "变异表现",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "c": 15,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【耐药防控】抗生素与细菌耐药性筛选是什么关系？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• 抗生素**不直接诱导定向突变**，耐药突变是自发随机产生的。\n• 抗生素充当**环境选择压力**，杀死敏感菌并定向筛选保留耐药突变株，导致耐药菌成为优势群。"
+          }
+        ]
+      },
+      "pointType": "临床用药",
+      "starRating": "★★★",
+      "importance": 3
+    }
+  ]
+}

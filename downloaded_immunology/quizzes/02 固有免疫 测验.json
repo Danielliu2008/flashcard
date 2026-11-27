@@ -1,0 +1,741 @@
+{
+  "quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "固有免疫与获得性免疫在形成过程上有本质区别。下列关于固有免疫特性的表述，正确的是？",
+      "answerOptions": [
+        {
+          "text": "机体在种系发育和进化过程中形成的天然防御功能",
+          "isCorrect": true,
+          "rationale": "固有免疫是种系进化过程中建立的天然防御体系，与生俱来且无需预先接触抗原即可发挥作用。"
+        },
+        {
+          "text": "出生后通过与特定抗原接触而后天获得的特异性防御",
+          "isCorrect": false,
+          "rationale": "通过后天接触抗原产生的特异性防御属于获得性（适应性）免疫的定义特征。"
+        },
+        {
+          "text": "依赖于 T 细胞和 B 细胞的特异性受体基因重排",
+          "isCorrect": false,
+          "rationale": "特异性受体基因重排是适应性免疫细胞生成多样性抗原受体的机制，而非固有免疫的过程。"
+        },
+        {
+          "text": "仅在病原体入侵超过 96 小时后才被激活",
+          "isCorrect": false,
+          "rationale": "固有免疫在病原体入侵后立即至 96 小时内即可发挥效应，96 小时之后主要是获得性免疫起主导作用。"
+        }
+      ],
+      "hint": "思考个体出生时即具备的防御机制与后天接触抗原产生的应答有何不同。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "天然免疫（固有免疫）与获得性免疫相比，具有许多独特的免疫应答特征。下列属于天然免疫特征的有？",
+      "answerOptions": [
+        {
+          "text": "可以在病原体入侵后立即至 96 小时内迅速发挥作用",
+          "isCorrect": true,
+          "rationale": "天然免疫作为机体第一道防线，反应迅速，无需经历漫长的细胞克隆扩增过程。"
+        },
+        {
+          "text": "识别病原体表达的特有模式分子（PAMP/DAMP）",
+          "isCorrect": true,
+          "rationale": "天然免疫依靠生来具备的受体识别病原体共有的泛化模式结构，而非针对特定抗原决定簇。"
+        },
+        {
+          "text": "应答过程不需要抗原提呈细胞（APC）的加工提呈",
+          "isCorrect": true,
+          "rationale": "固有免疫效应细胞可以直接通过表面的模式识别受体辨识靶目标，不依赖 APC 的复杂加工提呈。"
+        },
+        {
+          "text": "免疫应答后能形成长效的特异性免疫记忆",
+          "isCorrect": false,
+          "rationale": "长效免疫记忆是获得性免疫的典型特征，天然免疫通常不具备这种长效记忆能力。"
+        }
+      ],
+      "hint": "考虑天然免疫在反应速度、识别目标类型以及是否依赖免疫记忆方面的特点。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在病原体侵入人体后，固有免疫与获得性免疫起效的时间节点不同。固有免疫发挥防线作用的主要时间窗口是？",
+      "answerOptions": [
+        {
+          "text": "立即至 96 小时内",
+          "isCorrect": true,
+          "rationale": "固有免疫能够在病原体入侵的即刻至 96 小时内迅速做出防卫响应。"
+        },
+        {
+          "text": "96 小时之后",
+          "isCorrect": false,
+          "rationale": "入侵 96 小时之后通常是获得性免疫细胞完成克隆扩增并发挥效应的时间段。"
+        },
+        {
+          "text": "接触抗原 2 周之后",
+          "isCorrect": false,
+          "rationale": "2 周属于获得性免疫建立高效体液或细胞免疫的迟发阶段，而非早期固有防线。"
+        },
+        {
+          "text": "仅在感染后的前 1 小时内",
+          "isCorrect": false,
+          "rationale": "固有免疫不仅在前 1 小时发挥作用，其效应可持续至感染后约 96 小时。"
+        }
+      ],
+      "hint": "对比早期无需克隆扩增的快速响应与晚期依赖克隆扩增的应答的时间节点。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "皮肤和粘膜屏障是固有免疫的第一道防线，由物理、化学和微生物屏障共同组成。下列哪些属于物理屏障的机制或结构？",
+      "answerOptions": [
+        {
+          "text": "上皮细胞之间通过紧密连接结合形成连续结构",
+          "isCorrect": true,
+          "rationale": "紧密连接构建了连续的细胞机械屏障，防止病原体从细胞间隙穿透入侵。"
+        },
+        {
+          "text": "呼吸道黏膜上皮细胞纤毛的定向摆动",
+          "isCorrect": true,
+          "rationale": "纤毛的定向摆动能够以物理机械运动的方式将粘附的病原体和异物推向体外。"
+        },
+        {
+          "text": "泪液和唾液等体液对黏膜表面的冲洗与流动",
+          "isCorrect": true,
+          "rationale": "体液的纵向流动与冲洗属于物理清除机制，可阻止病原体在黏膜表面定植。"
+        },
+        {
+          "text": "皮脂腺分泌的不饱和脂肪酸破坏细菌膜结构",
+          "isCorrect": false,
+          "rationale": "不饱和脂肪酸通过化学抑菌作用发挥效能，归属于化学屏障而非物理屏障。"
+        }
+      ],
+      "hint": "注意区分依靠结构结合、液体冲洗和机械运动的物理机制与依靠分泌物杀菌的化学机制。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "化学屏障通过分泌多种抑菌或杀菌物质抵抗外来病原体。下列关于化学屏障成分及其分布的对应关系，正确的是？",
+      "answerOptions": [
+        {
+          "text": "胃液中的胃酸提供低 $pH$ 环境抑制杀灭微生物",
+          "isCorrect": true,
+          "rationale": "胃酸造成的极低 $pH$ 强酸性环境是消化道极具代表性的化学杀菌屏障。"
+        },
+        {
+          "text": "皮肤皮脂腺主要分泌溶菌酶来降解细菌细胞壁",
+          "isCorrect": false,
+          "rationale": "皮脂腺的主要抑菌成分是不饱和脂肪酸，而溶菌酶主要存在于眼泪、唾液及多种分泌液中。"
+        },
+        {
+          "text": "泪液和唾液中富含肺泡表面活性物质",
+          "isCorrect": false,
+          "rationale": "肺泡表面活性物质特异性存在于肺部，泪液和唾液中主要是溶菌酶和防御素等。"
+        },
+        {
+          "text": "汗液主要通过不饱和脂肪酸来维持酸性屏障",
+          "isCorrect": false,
+          "rationale": "汗液中的酸性成分主要是乳酸，不饱和脂肪酸主要是皮脂腺的分泌物。"
+        }
+      ],
+      "hint": "回忆不同解剖部位（如胃部、皮肤、汗腺）所特有的杀菌分子及其化学特性。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "寄居在人体皮肤和黏膜表面的正常菌群构成了微生物屏障。正常菌群抵抗致病病原体感染的方式包括？",
+      "answerOptions": [
+        {
+          "text": "竞争结合上皮细胞表面受体",
+          "isCorrect": true,
+          "rationale": "正常菌群抢先占据上皮结合位点，能阻断致病菌在黏膜和皮肤上的黏附与定植。"
+        },
+        {
+          "text": "竞争消耗局部的营养物质",
+          "isCorrect": true,
+          "rationale": "共生菌群的大量存在消耗了环境中的关键营养，抑制了外来病原菌的繁殖。"
+        },
+        {
+          "text": "分泌抑菌肽或杀菌物质抑制病原菌生长",
+          "isCorrect": true,
+          "rationale": "正常菌群可产生细菌素等化学成分，直接拮抗和杀灭外来致病微生物。"
+        },
+        {
+          "text": "诱导局部上皮细胞发生细胞凋亡",
+          "isCorrect": false,
+          "rationale": "破坏上皮细胞完整性会损伤物理屏障，正常菌群旨在维护屏障功能而非破坏宿主细胞。"
+        }
+      ],
+      "hint": "想想共生菌群与外来病原菌在生存空间、营养资源及抑菌物质分泌上的占位竞争效应。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "血脑屏障（Blood-brain barrier）是体内重要的组织屏障，能阻挡血液中病原体和大分子物质进入脑组织。下列不属于血脑屏障组成结构的是？",
+      "answerOptions": [
+        {
+          "text": "胎儿绒毛膜滋养层细胞",
+          "isCorrect": true,
+          "rationale": "绒毛膜滋养层细胞属于血胎屏障的结构组成，并非血脑屏障的成分。"
+        },
+        {
+          "text": "软脑膜",
+          "isCorrect": false,
+          "rationale": "软脑膜参与构成了脑组织的解剖防护，是血脑屏障的组成部分之一。"
+        },
+        {
+          "text": "脉络丛毛细血管壁",
+          "isCorrect": false,
+          "rationale": "脉络丛毛细血管壁是限制血液成分向脑脊液扩散的关键物理结构。"
+        },
+        {
+          "text": "星形胶质细胞",
+          "isCorrect": false,
+          "rationale": "星形胶质细胞的突起（终足）包裹毛细血管壁，是血脑屏障的重要细胞屏障成分。"
+        }
+      ],
+      "hint": "注意区分中枢神经系统的防线结构与胎儿发育相关的母胎隔离结构。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于血胎屏障的结构与功能，下列说法正确的是？",
+      "answerOptions": [
+        {
+          "text": "由母体子宫内膜基蜕膜和胎儿绒毛膜滋养层细胞共同组成",
+          "isCorrect": true,
+          "rationale": "血胎屏障由母体基蜕膜与胎儿绒毛膜滋养层细胞共同构建，分隔母体与胎儿血液循环。"
+        },
+        {
+          "text": "完全阻断母体与胎儿之间的所有物质交换",
+          "isCorrect": false,
+          "rationale": "血胎屏障不妨碍营养物质和氧气的交换，仅阻挡有害物质和病原体。"
+        },
+        {
+          "text": "仅由胎儿毛细血管内皮细胞单层构成",
+          "isCorrect": false,
+          "rationale": "血胎屏障由包含母体基蜕膜和胎儿滋养层在内的多层复合结构组成。"
+        },
+        {
+          "text": "允许母体内的病原体自由通过以建立胎儿免疫力",
+          "isCorrect": false,
+          "rationale": "血胎屏障的主要生理功能就是防止母体内的病原体侵入胎儿体内。"
+        }
+      ],
+      "hint": "考虑血胎屏障在阻挡病原体的同时如何保障胎儿生长所需的营养供给。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "髓系免疫细胞（Myeloid immune cells）来源于骨髓中的髓系祖细胞。下列细胞类型中，属于髓系免疫细胞的有？",
+      "answerOptions": [
+        {
+          "text": "单核细胞与巨噬细胞",
+          "isCorrect": true,
+          "rationale": "单核细胞及其分化形成的巨噬细胞均来源于髓系祖细胞。"
+        },
+        {
+          "text": "树突状细胞（DC）",
+          "isCorrect": true,
+          "rationale": "经典树突状细胞及单核细胞来源的 DC 均属于髓系免疫细胞范畴。"
+        },
+        {
+          "text": "中性粒细胞与肥大细胞",
+          "isCorrect": true,
+          "rationale": "粒细胞系（中性、嗜酸、嗜碱性粒细胞）以及肥大细胞均由髓系祖细胞发育分化而来。"
+        },
+        {
+          "text": "自然杀伤细胞（NK 细胞）",
+          "isCorrect": false,
+          "rationale": "NK 细胞来源于淋巴系祖细胞，属于固有淋巴样细胞，而非髓系细胞。"
+        }
+      ],
+      "hint": "区分起源于髓系祖细胞的各类吞噬/粒细胞与起源于淋巴系祖细胞的淋巴样细胞。\" supplement: \"",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "固有淋巴样细胞（ILCs）在形态上具有淋巴细胞特征，但其与经典 T/B 淋巴细胞的关键区别在于？",
+      "answerOptions": [
+        {
+          "text": "不表达特异性抗原受体",
+          "isCorrect": true,
+          "rationale": "ILCs 虽然具有淋巴细胞的形态和细胞因子分泌特征，但不表达由基因重排生成的特异性抗原受体（如 TCR 或 BCR）。"
+        },
+        {
+          "text": "不来源于造血干细胞",
+          "isCorrect": false,
+          "rationale": "ILCs 与经典淋巴细胞一样，均起源于骨髓造血干细胞。"
+        },
+        {
+          "text": "缺乏细胞杀伤和分泌细胞因子的能力",
+          "isCorrect": false,
+          "rationale": "ILCs（例如 NK 细胞或 ILC1-3）具备强大的细胞因子分泌或靶细胞杀伤能力。"
+        },
+        {
+          "text": "仅分布于外周血液而不在组织中留存",
+          "isCorrect": false,
+          "rationale": "ILCs 广泛定居于皮肤、黏膜等外周组织中发挥免疫监视作用。"
+        }
+      ],
+      "hint": "关注经典 T/B 细胞进行基因重排所特有的表面受体结构。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "固有样淋巴细胞（如 $\\gamma\\delta$ T细胞和 B1 细胞）兼具固有免疫和适应性免疫的某些特征。下列关于固有样淋巴细胞特性的描述，正确的有？",
+      "answerOptions": [
+        {
+          "text": "细胞表面识别抗原的 TCR 或 BCR 多样性有限",
+          "isCorrect": true,
+          "rationale": "固有样淋巴细胞表达的抗原受体谱系相对受限，倾向于识别常见的保守分子特征。"
+        },
+        {
+          "text": "能够迅速响应抗原刺激并发挥效应",
+          "isCorrect": true,
+          "rationale": "由于无需经历复杂的克隆选择过程，这类细胞受到刺激后能够极快地做出应答。"
+        },
+        {
+          "text": "免疫应答过程不依赖于细胞克隆扩增",
+          "isCorrect": true,
+          "rationale": "固有样淋巴细胞的激活直接触发效应功能，不依赖大规模的细胞克隆扩增。"
+        },
+        {
+          "text": "需要经过漫长的抗原提呈与克隆选择过程",
+          "isCorrect": false,
+          "rationale": "漫长的抗原提呈与克隆选择是经典适应性淋巴细胞（如 B2 细胞、普通 $\\alpha\\beta$ T 细胞）的应答特征。"
+        }
+      ],
+      "hint": "注意这类“固有样”淋巴细胞在抗原受体多样性、应答速度及克隆扩增需求上的特殊表现。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "树突状细胞（DC）在免疫系统中扮演着连接固有免疫与适应性免疫的桥梁角色。其最核心的功能是？",
+      "answerOptions": [
+        {
+          "text": "吞噬、加工并提呈抗原，启动特异性免疫应答",
+          "isCorrect": true,
+          "rationale": "DC 具有最强的抗原摄取与提呈能力，能将固有免疫捕获的抗原加工后提呈给初始 T 细胞，从而启动特异性免疫。"
+        },
+        {
+          "text": "通过 ADCC 作用直接杀伤肿瘤靶细胞",
+          "isCorrect": false,
+          "rationale": "ADCC 作用主要由 NK 细胞等具有 IgG Fc 受体的效应细胞介导，非 DC 核心功能。"
+        },
+        {
+          "text": "分泌特异性抗体以中和游离的毒素",
+          "isCorrect": false,
+          "rationale": "分泌特异性抗体是浆细胞（B 细胞分化终末状态）的功用。"
+        },
+        {
+          "text": "形成膜攻击复合物（MAC）溶解病原体",
+          "isCorrect": false,
+          "rationale": "MAC 是补体系统终末级联反应形成的终末产物，而非细胞直接分泌或形成的结构。"
+        }
+      ],
+      "hint": "思考哪种固有免疫细胞能够将病原体信息传递给初始 T 细胞并开启特异性应答。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "$\\gamma\\delta$ T细胞主要分布于皮肤和黏膜局部。关于 $\\gamma\\delta$ T细胞的生理特性，下列表述正确的是？",
+      "answerOptions": [
+        {
+          "text": "在胸腺中分化发育成熟，是皮肤黏膜局部早期抗感染和抗肿瘤的主要效应细胞",
+          "isCorrect": true,
+          "rationale": "$\\gamma\\delta$ T细胞在胸腺内分化，随后定居于皮肤和黏膜，作为固有样效应细胞参与早期抗感染与抗肿瘤过程。"
+        },
+        {
+          "text": "识别抗原受 MHC 分子的严格限制",
+          "isCorrect": false,
+          "rationale": "经典 $\\alpha\\beta$ T细胞受 MHC 限制，而 $\\gamma\\delta$ T细胞识别抗原通常不需要 MHC 分子的提呈。"
+        },
+        {
+          "text": "属于髓系祖细胞分化发育产生的效应细胞",
+          "isCorrect": false,
+          "rationale": "$\\gamma\\delta$ T细胞属于淋巴系来源的 T 淋巴细胞亚群，非髓系来源。"
+        },
+        {
+          "text": "必须经过克隆扩增后才能在感染晚期发挥作用",
+          "isCorrect": false,
+          "rationale": "$\\gamma\\delta$ T细胞作为固有样细胞，可在感染早期快速响应，不依赖长时间的克隆扩增。"
+        }
+      ],
+      "hint": "回想该细胞的分化场所、解剖分布以及其作为早期效应细胞对 MHC 限制性的要求。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "自然杀伤细胞（NK 细胞）是固有免疫系统的重要组成成分。NK 细胞的主要效应功能包括？",
+      "answerOptions": [
+        {
+          "text": "直接杀伤肿瘤细胞和病毒感染的靶细胞",
+          "isCorrect": true,
+          "rationale": "NK 细胞能够无需预先致敏即可直接识别并释放穿孔素/颗粒酶杀伤异样或受损细胞。"
+        },
+        {
+          "text": "通过抗体依赖性细胞介导的细胞毒作用（ADCC）杀伤靶细胞",
+          "isCorrect": true,
+          "rationale": "NK 细胞表面表达 $CD16$（Fc受体），能结合结合在靶细胞表面抗体，触发 ADCC 效应杀伤靶细胞。"
+        },
+        {
+          "text": "分泌细胞因子激活巨噬细胞以增强其杀伤能力",
+          "isCorrect": true,
+          "rationale": "NK 细胞可产生 $IFN-\\gamma$ 等细胞因子，激活巨噬细胞以增强其吞噬和杀菌活性。"
+        },
+        {
+          "text": "加工并提呈病原体抗原给初始 T 细胞",
+          "isCorrect": false,
+          "rationale": "抗原加工与提呈给初始 T 细胞是抗原提呈细胞（如 DC、巨噬细胞）的功能，非 NK 细胞的主要职责。"
+        }
+      ],
+      "hint": "回忆 NK 细胞的三大主要机制：直接毒性、ADCC 效应以及与巨噬细胞的细胞因子相互作用。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "肥大细胞主要分布于黏膜和结缔组织中，在局部免疫和炎症中发挥重要作用。其主要功能是？",
+      "answerOptions": [
+        {
+          "text": "参与抗感染并分泌细胞因子促进局部炎症反应",
+          "isCorrect": true,
+          "rationale": "肥大细胞分布于组织边界，通过释放组胺、细胞因子等介质促进局部血管通透性增加与炎症反应。"
+        },
+        {
+          "text": "分泌特异性免疫球蛋白中和病原体",
+          "isCorrect": false,
+          "rationale": "免疫球蛋白（抗体）是由浆细胞分泌的，肥大细胞脱颗粒释放的是炎性介质。"
+        },
+        {
+          "text": "作为主要抗原提呈细胞激活初始 B 细胞",
+          "isCorrect": false,
+          "rationale": "激活初始细胞的专职 APC 主要是 DC，且初始 B 细胞通常直接识别原生抗原。"
+        },
+        {
+          "text": "形成血脑屏障防止大分子进入神经系统",
+          "isCorrect": false,
+          "rationale": "血脑屏障由软脑膜、脉络丛毛细血管壁及星形胶质细胞构建，与肥大细胞无关。"
+        }
+      ],
+      "hint": "考虑该细胞主要分布的部位（黏膜与结缔组织）及其脱颗粒释放介质对局部血管和炎症的影响。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "补体系统激活后会产生多种效应分子，发挥广泛的生物学功能。补体激活的主要效应包括？",
+      "answerOptions": [
+        {
+          "text": "形成膜攻击复合物（MAC）导致靶细胞溶解",
+          "isCorrect": true,
+          "rationale": "补体级联反应终末产物 MAC 可打孔插入病原体膜结构导致细胞溶裂。"
+        },
+        {
+          "text": "释放 $C3a$ 和 $C5a$ 介导局部炎症反应",
+          "isCorrect": true,
+          "rationale": "$C3a$ 和 $C5a$ 作为过敏毒素能够增加血管通透性并招募免疫细胞，促进炎症发生。"
+        },
+        {
+          "text": "产生 $C3b$ 等成分结合病原体促进调理吞噬",
+          "isCorrect": true,
+          "rationale": "$C3b$ 结合于病原体表面可作为调理素，显著增强吞噬细胞对病原体的摄取。"
+        },
+        {
+          "text": "抑制中性粒细胞向炎症部位的渗出",
+          "isCorrect": false,
+          "rationale": "补体激活产物（如 $C5a$）是强大的趋化因子，会吸引而非抑制中性粒细胞向炎症区域渗出。"
+        }
+      ],
+      "hint": "回顾补体激活的三大效应：靶细胞溶解、过敏毒素/炎症介导以及调理吞噬作用。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "补体激活级联反应最终形成的膜攻击复合物（MAC），其主要的生物学效应是？",
+      "answerOptions": [
+        {
+          "text": "在靶细胞膜上形成孔道，导致细胞溶解",
+          "isCorrect": true,
+          "rationale": "MAC 由终末补体成分打孔聚合成跨膜通道，破坏细胞渗透压平衡导致细胞溶解。"
+        },
+        {
+          "text": "作为趋化因子吸引巨噬细胞聚集",
+          "isCorrect": false,
+          "rationale": "趋化细胞聚集主要是小片段裂解产物如 $C5a$ 的功能。"
+        },
+        {
+          "text": "与病原体结合并直接阻断其结合上皮受体",
+          "isCorrect": false,
+          "rationale": "直接封堵中和主要是中和抗体的作用，MAC 主要是通过膜穿孔进行物理破坏。"
+        },
+        {
+          "text": "结合肥大细胞表面受体触发脱颗粒",
+          "isCorrect": false,
+          "rationale": "触发肥大细胞脱颗粒主要是过敏毒素（$C3a$、$C5a$）的作用。"
+        }
+      ],
+      "hint": "联想 MAC 在靶细胞脂质双分子层上构建的打孔复合体结构。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在补体激活过程中产生的片段 $C3a$ 和 $C5a$，在免疫应答中承担的主要角色是？",
+      "answerOptions": [
+        {
+          "text": "作为过敏毒素和趋化因子，介导和促进炎症反应",
+          "isCorrect": true,
+          "rationale": "$C3a$ 和 $C5a$ 能够刺激肥大细胞脱颗粒并招募中性粒细胞，是强效的炎症介质与趋化因子。"
+        },
+        {
+          "text": "作为酶促复合体进一步裂解 $C5$ 蛋白",
+          "isCorrect": false,
+          "rationale": "裂解 $C5$ 的是 $C5$ 转化酶，而非释放到液相中的小片段 $C3a$ 或 $C5a$。"
+        },
+        {
+          "text": "直接插入病原体脂质双分子层形成膜孔道",
+          "isCorrect": false,
+          "rationale": "组装膜孔道的是由 $C5b-C9$ 组成的膜攻击复合物（MAC）。"
+        },
+        {
+          "text": "结合于红细胞表面清除免疫复合物",
+          "isCorrect": false,
+          "rationale": "结合红细胞清除免疫复合物主要依赖沉积在复合物上的 $C3b$。"
+        }
+      ],
+      "hint": "思考这些裂解产生的小分子片段如何影响血管通透性和免疫细胞的趋化定向移动。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "补体裂解片段 $C3b$ 覆盖在病原体表面时，能够极大地增强吞噬细胞对该病原体的识别和吞噬。这种现象被称为？",
+      "answerOptions": [
+        {
+          "text": "调理作用（Opsonization）",
+          "isCorrect": true,
+          "rationale": "$C3b$ 作为调理素结合在病原体表面，与吞噬细胞上的补体受体结合，可促进吞噬过程，即调理作用。"
+        },
+        {
+          "text": "抗体依赖性细胞毒作用（ADCC）",
+          "isCorrect": false,
+          "rationale": "ADCC 依赖于 IgG 抗体结合靶细胞后被具有 Fc 受体的 NK 细胞等杀伤，非 $C3b$ 介导。"
+        },
+        {
+          "text": "细胞克隆扩增（Clonal expansion）",
+          "isCorrect": false,
+          "rationale": "克隆扩增指特异性淋巴细胞受刺激后的大量增殖现象。"
+        },
+        {
+          "text": "免疫记忆（Immunological memory）",
+          "isCorrect": false,
+          "rationale": "免疫记忆是适应性免疫系统在初次抗原刺激后对再次接触做出的加速应答机制。"
+        }
+      ],
+      "hint": "该术语描述了某些分子像“蘸料”一样涂覆病原体以吸引吞噬细胞包饮食入的过程。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "病原相关分子模式（PAMP）是固有免疫系统识别外来病原体的关键对象。下列分子中，属于 PAMP 的有？",
+      "answerOptions": [
+        {
+          "text": "革兰氏阴性菌细胞壁的脂多糖（LPS）",
+          "isCorrect": true,
+          "rationale": "脂多糖是革兰氏阴性菌外膜特有的结构成分，属于典型的病原相关分子模式。"
+        },
+        {
+          "text": "革兰氏阳性菌细胞壁的磷壁酸（LTA）",
+          "isCorrect": true,
+          "rationale": "磷壁酸专属于革兰氏阳性菌细胞壁，是固有免疫受体识别的重要外源模式分子。"
+        },
+        {
+          "text": "细菌及真菌胞壁共有的肽聚糖（PGN）",
+          "isCorrect": true,
+          "rationale": "肽聚糖广泛存在于细菌和真菌胞壁中，符合宿主不表达而病原体共有的 PAMP 特征。"
+        },
+        {
+          "text": "宿主受损细胞释放的线粒体 DNA",
+          "isCorrect": false,
+          "rationale": "宿主自身坏死或受损细胞释放的分子归类为损伤相关分子模式（DAMP），而非 PAMP。"
+        }
+      ],
+      "hint": "筛选由外源病原微生物表达、而宿主正常细胞不表达的结构分子成分。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "脂多糖（Lipopolysaccharide, LPS）是固有免疫识别的重要 PAMP 之一。LPS 主要分布于？",
+      "answerOptions": [
+        {
+          "text": "革兰氏阴性（$\\text{G}^-$）菌的细胞壁外膜",
+          "isCorrect": true,
+          "rationale": "LPS（内毒素）是革兰氏阴性菌细胞壁外膜的核心结构组成。"
+        },
+        {
+          "text": "革兰氏阳性（$\\text{G}^+$）菌的细胞壁深层",
+          "isCorrect": false,
+          "rationale": "革兰氏阳性菌细胞壁缺乏外膜结构，其特征性 PAMP 为磷壁酸（LTA）。"
+        },
+        {
+          "text": "真菌细胞壁的交联骨架中",
+          "isCorrect": false,
+          "rationale": "真菌细胞壁的特征性成分是葡聚糖、甘露聚糖和酵母多糖等，非 LPS。"
+        },
+        {
+          "text": "所有无包膜病毒的衣壳表面",
+          "isCorrect": false,
+          "rationale": "LPS 属于细菌细胞壁的脂质/碳水化合物复合物，病毒不含有 LPS。"
+        }
+      ],
+      "hint": "回忆该毒素分子（又称内毒素）特异性存在的细菌类别及细胞壁层位。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "磷壁酸（Lipoteichoic acid, LTA）是另一种常见的病原相关分子模式。LTA 特异性存在于哪类微生物的细胞壁中？",
+      "answerOptions": [
+        {
+          "text": "革兰氏阳性（$\\text{G}^+$）菌",
+          "isCorrect": true,
+          "rationale": "磷壁酸（LTA）是革兰氏阳性菌胞壁特有的重要模式分子成分。"
+        },
+        {
+          "text": "革兰氏阴性（$\\text{G}^-$）菌",
+          "isCorrect": false,
+          "rationale": "革兰氏阴性菌的特征性外膜成分是脂多糖（LPS）。"
+        },
+        {
+          "text": "支原体",
+          "isCorrect": false,
+          "rationale": "支原体没有细胞壁结构，因此不具备磷壁酸。"
+        },
+        {
+          "text": "包裹有脂质包膜的病毒",
+          "isCorrect": false,
+          "rationale": "LTA 属于细菌胞壁成分，病毒不具备此类化学结构。"
+        }
+      ],
+      "hint": "将其与革兰氏阴性菌的 LPS 进行对比，定位与其对应的细菌类别。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "革兰氏阴性菌（$\\text{G}^-$菌）的细胞壁结构相对复杂。下列结构成分中，属于 $\\text{G}^-$菌细胞壁组成的有？",
+      "answerOptions": [
+        {
+          "text": "脂多糖（LPS）",
+          "isCorrect": true,
+          "rationale": "脂多糖位于 $\\text{G}^-$菌细胞壁的最外层，是其外膜的标志性成分。"
+        },
+        {
+          "text": "外膜磷脂与脂蛋白",
+          "isCorrect": true,
+          "rationale": "$\\text{G}^-$菌拥有特有的外膜结构，由磷脂双分子层和脂蛋白构成。"
+        },
+        {
+          "text": "肽聚糖层",
+          "isCorrect": true,
+          "rationale": "$\\text{G}^-$菌外膜下方包含薄层的肽聚糖结构。"
+        },
+        {
+          "text": "磷壁酸（LTA）",
+          "isCorrect": false,
+          "rationale": "磷壁酸是 $\\text{G}^+$菌细胞壁特有的成分，不属于 $\\text{G}^-$菌。"
+        }
+      ],
+      "hint": "对照 $\\text{G}^-$菌的细胞壁图解，分析其外膜、脂多糖及肽聚糖的存在形态。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "固有免疫系统既能识别病原相关分子模式（PAMP），也能识别损伤相关分子模式（DAMP）。这两类模式分子最根本的区别在于？",
+      "answerOptions": [
+        {
+          "text": "PAMP 来自外源性病原微生物，而 DAMP 来自宿主自身受损或应激的细胞",
+          "isCorrect": true,
+          "rationale": "PAMP 为病原体特有的外源性结构；DAMP 则是宿主细胞受到损伤或处于应激状态时释放的内源性分子。"
+        },
+        {
+          "text": "PAMP 只能被补体激活，而 DAMP 只能被 T 细胞识别",
+          "isCorrect": false,
+          "rationale": "两类模式分子均能被固有免疫细胞表面的模式识别受体（PRRs）识别。"
+        },
+        {
+          "text": "PAMP 不包含碳水化合物，而 DAMP 仅由蛋白质组成",
+          "isCorrect": false,
+          "rationale": "PAMP 包含多种碳水化合物（如聚糖、甘露糖），DAMP 也包含核酸等非蛋白质成分。"
+        },
+        {
+          "text": "PAMP 触发获得性免疫，而 DAMP 仅触发固有免疫",
+          "isCorrect": false,
+          "rationale": "PAMP 和 DAMP 均首先激活固有免疫应答，随后可间接影响适应性免疫。"
+        }
+      ],
+      "hint": "重点关注这两类分子的来源：是外来的病原体，还是宿主自身的受损组织细胞。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "巨噬细胞是固有免疫中极具代表性的髓系效应细胞。巨噬细胞在抗感染免疫中承担的功能包括？",
+      "answerOptions": [
+        {
+          "text": "吞噬并杀伤侵入的病原微生物",
+          "isCorrect": true,
+          "rationale": "巨噬细胞具备强大的吞噬功能，可通过溶酶体酶和活性氧等杀灭病原体。"
+        },
+        {
+          "text": "分泌多种细胞因子以调节炎症和免疫应答",
+          "isCorrect": true,
+          "rationale": "激活的巨噬细胞能够释放多种细胞因子，招募其他免疫细胞并促进炎症反应。"
+        },
+        {
+          "text": "清除体内衰老或损伤的自身细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞担当“清道夫”角色，负责吞噬并清除体内凋亡、损伤的细胞。"
+        },
+        {
+          "text": "产生高度特异性的 IgG 抗体",
+          "isCorrect": false,
+          "rationale": "产生特异性抗体是浆细胞（来自 B 淋巴细胞）的功能，巨噬细胞不能合成抗体。"
+        }
+      ],
+      "hint": "结合巨噬细胞的吞噬杀菌、细胞因子分泌以及机体内部清道夫作用进行考察。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在补体系统的激活途径中，甘露糖结合凝集素（MBL）途径的启动依赖于？",
+      "answerOptions": [
+        {
+          "text": "MBL 识别并结合微生物表面特有的甘露糖等糖类结构",
+          "isCorrect": true,
+          "rationale": "MBL 途径由血清中的 MBL 识别微生物表面的甘露糖残基直接启动，无需依赖抗体。"
+        },
+        {
+          "text": "抗体与病原体表面抗原形成特异性免疫复合物",
+          "isCorrect": false,
+          "rationale": "免疫复合物（抗原-抗体复合物）激活的是补体系统的经典途径。"
+        },
+        {
+          "text": "病原体表面成分直接引发 $C3$ 的自发性水解",
+          "isCorrect": false,
+          "rationale": "$C3$ 自发水解并结合病原体表面是补体替代激活途径的触发机制。"
+        },
+        {
+          "text": "吞噬细胞释放溶菌酶裂解细胞壁",
+          "isCorrect": false,
+          "rationale": "溶菌酶裂解细胞壁是化学屏障机制，不属于补体 MBL 途径的激活起始。"
+        }
+      ],
+      "hint": "注意该途径名称中的“甘露糖结合凝集素”，思考其特异性识别的目标化学基团。"
+    }
+  ],
+  "topics": {
+    "covered": [
+      "固有免疫与获得性免疫的基本特征与比较",
+      "固有免疫的组织屏障结构与功能",
+      "固有免疫细胞的分类与效应机制",
+      "补体系统的激活与生物学效应",
+      "固有免疫识别模式分子（PAMP与DAMP）"
+    ],
+    "followUp": [
+      "模式识别受体（PRR）如 Toll 样受体的作用机制",
+      "补体三条激活途径的级联酶切与调控分子",
+      "固有淋巴细胞（ILC1/ILC2/ILC3）的分化与免疫调节",
+      "固有免疫在局部炎症反应中的细胞与分子事件"
+    ]
+  }
+}

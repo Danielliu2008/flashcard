@@ -1,0 +1,741 @@
+{
+  "quiz": [
+    {
+      "type": "multiple_choice",
+      "question": "细菌的遗传与变异是其基本属性。关于遗传与变异在细菌生存与演化中的作用，下列说法正确的是：",
+      "answerOptions": [
+        {
+          "text": "遗传保证了细菌物种特性的相对稳定性，而变异使其能适应环境变化并促成物种进化。",
+          "rationale": "遗传通过传递遗传物质维持物种特征，变异则产生性状差异以适应选择压力，二者共同维持细菌种群的生存与演化。",
+          "isCorrect": true
+        },
+        {
+          "text": "遗传促进细菌不断产生新的变种，而变异确保子代与亲代生物学特性完全一致。",
+          "rationale": "该表述颠倒了遗传与变异的功能，遗传的作用是保持性状稳定而非产生新变种。",
+          "isCorrect": false
+        },
+        {
+          "text": "细菌的变异现象仅发生于人工培养条件，在自然界宿体内极其罕见。",
+          "rationale": "细菌繁殖迅速且基数庞大，无论是在自然环境还是宿体内，变异都非常普遍。",
+          "isCorrect": false
+        },
+        {
+          "text": "细菌变异会导致遗传信息的改变，因此所有的变异都会降低细菌对环境的适应能力。",
+          "rationale": "变异为自然选择提供了原料，许多变异（如耐药性变异）反而显著增强了细菌在特定环境下的生存能力。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "思考亲代与子代性状传递（保持稳定）以及适应环境（产生多样性）的机制区别。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "将有毒力的炭疽芽孢杆菌在 $42^\\circ\\text{C}$ 的培养基中连续培养数十天后，细菌会发生何种变化？",
+      "answerOptions": [
+        {
+          "text": "失去形成芽孢的能力，且毒力相应减弱。",
+          "rationale": "长期高温（$42^\\circ\\text{C}$）环境会诱导炭疽芽孢杆菌丢失形成芽孢的能力，并伴随毒力的减弱。",
+          "isCorrect": true
+        },
+        {
+          "text": "丢失鞭毛结构，使其迁徙生长现象消失。",
+          "rationale": "普通变形杆菌在含苯酚培养基上生长会失去鞭毛，而非炭疽杆菌在高温培养条件下的改变。",
+          "isCorrect": false
+        },
+        {
+          "text": "细胞壁发生缺陷，变为抗酸染色阳性的球形变异体。",
+          "rationale": "细胞壁缺陷变异通常由针对细胞壁的抗生素或溶菌酶诱导，且与抗酸染色特性无关。",
+          "isCorrect": false
+        },
+        {
+          "text": "菌落由光滑型（S型）转变为粗糙型（R型），致病性显著增强。",
+          "rationale": "炭疽芽孢杆菌失去芽孢和毒力的变化不属于典型S-R菌落变异，且毒力是减弱而非增强。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "关注特定高温培养条件对炭疽杆菌特有结构及毒力的物理诱导影响。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "将具有鞭毛的普通变形杆菌接种在含有 $1\\%$ 苯酚的培养基上培养，细菌形态结构发生的变异是：",
+      "answerOptions": [
+        {
+          "text": "失去鞭毛，且迁徙生长现象消失。",
+          "rationale": "苯酚能抑制普通变形杆菌鞭毛的形成，使其失去迁徙扩散的能力（即H-O变异）。",
+          "isCorrect": true
+        },
+        {
+          "text": "失去荚膜，致病性完全消失。",
+          "rationale": "肺炎链球菌多次传代可失去荚膜，而非普通变形杆菌在苯酚作用下的变化。",
+          "isCorrect": false
+        },
+        {
+          "text": "细胞壁缺陷，变为球形或多形性的 $L$ 型细菌。",
+          "rationale": "细胞壁缺陷（$L$ 型变异）是由作用于细胞壁合成的药物或抗体/补体诱导，非苯酚对鞭毛的抑制作用。",
+          "isCorrect": false
+        },
+        {
+          "text": "形成芽孢，耐热性显著提高。",
+          "rationale": "变形杆菌不属于芽孢菌，苯酚不会诱导其产生芽孢。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "苯酚抑菌培养基常用于抑制变形杆菌特定运动器官的发育。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "卡介苗（BCG）是用于预防结核病的减毒活疫苗。法国学者卡-介二人获得该减毒变异株的培养条件是：",
+      "answerOptions": [
+        {
+          "text": "将牛分枝杆菌在含胆汁、甘油、马铃薯的培养基上连续传代 $230$ 代（历时 $13$ 年）。",
+          "rationale": "卡介苗是利用牛分枝杆菌在特定特制培养基中经长达13年的连续多代培养获得的高度减弱但保持免疫原性的变异株。",
+          "isCorrect": true
+        },
+        {
+          "text": "将人型结核分枝杆菌在含青霉素的高渗培养基中培养传代。",
+          "rationale": "卡介苗的原始菌株是牛分枝杆菌，且培养基不依赖青霉素高渗筛选。",
+          "isCorrect": false
+        },
+        {
+          "text": "将鼠疫耶尔森菌在 $42^\\circ\\text{C}$ 高温培养基中培养数十天。",
+          "rationale": "高温培养用于炭疽杆菌减毒，并非卡介苗的制备过程。",
+          "isCorrect": false
+        },
+        {
+          "text": "将白喉棒状杆菌用温和噬菌体进行诱导并多次纯化。",
+          "rationale": "白喉棒状杆菌感染温和噬菌体获得的是白喉毒素（毒力增强），并非卡介苗的减毒过程。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "回想牛分枝杆菌在特制培养基中经长达13年的连续传代过程。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "在细菌的 $S\\text{-}R$（光滑/粗糙）菌落变异中，通常 $S$ 型菌落致病性较强。但在下列细菌中， $R$ 型菌落致病性反而比 $S$ 型更强的有：",
+      "answerOptions": [
+        {
+          "text": "结核分枝杆菌",
+          "rationale": "结核分枝杆菌属于少数 $R$ 型菌落比 $S$ 型致病性更强的特例菌种之一。",
+          "isCorrect": true
+        },
+        {
+          "text": "炭疽芽孢杆菌",
+          "rationale": "炭疽芽孢杆菌的 $R$ 型菌落具有更强的致病力，不符合常规细菌 $S$ 型强毒的规律。",
+          "isCorrect": true
+        },
+        {
+          "text": "鼠疫耶尔森菌",
+          "rationale": "鼠疫耶尔森菌也是 $R$ 型菌落呈强致病性的代表细菌之一。",
+          "isCorrect": true
+        },
+        {
+          "text": "肺炎链球菌",
+          "rationale": "肺炎链球菌的 $S$ 型含有荚膜且致病性强，失去了荚膜变为 $R$ 型后致病性减弱或消失。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "绝大多数细菌以S型为主，但少数具有特殊致病机制的菌种R型毒力更强。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "细菌基因组具有独特的结构特点。下列关于大多数细菌染色体 $\\text{DNA}$ 特征的描述，正确的是：",
+      "answerOptions": [
+        {
+          "text": "为单条环状双链 $\\text{DNA}$，长度约为 $580\\sim 5220\\text{ kb}$。",
+          "rationale": "超过 $90\\%$ 的细菌基因组是由单条环状双链 $\\text{DNA}$ 分子构成的单倍体，大小在该范围内。",
+          "isCorrect": true
+        },
+        {
+          "text": "为多条线状单链 $\\text{DNA}$，长度约为 $100\\sim 500\\text{ kb}$。",
+          "rationale": "绝大多数细菌染色体是双链且环状的，并非单链或线状结构。",
+          "isCorrect": false
+        },
+        {
+          "text": "含有大量的内含子，转录后的 $\\text{RNA}$ 需要复杂的剪接加工。",
+          "rationale": "细菌基因通常是连续的，一般不含内含子，转录后的 $\\text{RNA}$ 无需剪接即可翻译。",
+          "isCorrect": false
+        },
+        {
+          "text": "基因绝大多数为多拷贝，非编码序列占基因组的 $90\\%$ 以上。",
+          "rationale": "细菌基因组多为单拷贝（仅 rRNA 基因等多拷贝），且非编码序列较少，编码序列占 $90\\%$ 左右。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "细菌作为原核生物，其基因组通常紧凑且多为单拷贝、无内含子。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "绝大多数细菌仅含有一条环状双链 $\\text{DNA}$ 染色体，但少数细菌基因组由两条或多条环状双链 $\\text{DNA}$ 分子组成。下列细菌中染色体由多条环状 $\\text{dsDNA}$ 组成的有：",
+      "answerOptions": [
+        {
+          "text": "霍乱弧菌",
+          "rationale": "霍乱弧菌是少数基因组由两条环状双链 $\\text{DNA}$ 组成的细菌之一。",
+          "isCorrect": true
+        },
+        {
+          "text": "问号钩端螺旋体",
+          "rationale": "问号钩端螺旋体的染色体也是由两条环状双链 $\\text{DNA}$ 分子构成的。",
+          "isCorrect": true
+        },
+        {
+          "text": "马耳他布鲁菌",
+          "rationale": "马耳他布鲁菌基因组同样含有两条环状双链 $\\text{DNA}$。",
+          "isCorrect": true
+        },
+        {
+          "text": "伯道疏螺旋体",
+          "rationale": "伯道疏螺旋体属于疏螺旋体属，其染色体为线性双链 $\\text{DNA}$，而非环状。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "区分多条“环状”双链DNA细菌与以“线性”双链DNA为染色体的疏螺旋体属细菌。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "细菌致病岛（Pathogenicity Island, PAI）是基因组中编码毒力因子的外源 $\\text{DNA}$ 片段。下列不符合致病岛结构与功能特征的是：",
+      "answerOptions": [
+        {
+          "text": "其 $G+C$ 百分比和密码子使用偏向性与细菌染色体主体区域高度一致。",
+          "rationale": "致病岛源于水平基因转移，其 $G+C$ 百分比和密码子偏向性与染色体主体区域存在明显差异。",
+          "isCorrect": true
+        },
+        {
+          "text": "片段两侧常含有重复序列、插入序列或 $\\text{tRNA}$ 基因。",
+          "rationale": "这些侧翼结构是外源片段通过重组整合入细菌染色体时的典型序列特征。",
+          "isCorrect": false
+        },
+        {
+          "text": "片段中间携带编码黏附因子、毒素等毒力相关的基因。",
+          "rationale": "编码毒力因子是致病岛（PAI）核心的功能定义属性。",
+          "isCorrect": false
+        },
+        {
+          "text": "可通过细菌种间或种内的水平基因转移（HGT）而获得。",
+          "rationale": "致病岛正是跨物种或种内基因水平转移的重要产物。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "考虑基因岛作为外源基因水平转移产物在碱基组成上的异质性。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "关于质粒的不相容性（Incompatibility），下列解释正确的是：",
+      "answerOptions": [
+        {
+          "text": "两种序列结构相似、复制调控机制密切相关的质粒不能稳定共存于同一宿主菌中。",
+          "rationale": "亲缘关系密切、复制与分配机制相同的质粒在同一宿主菌内会产生竞争，导致其中一种无法稳定遗传而丢失。",
+          "isCorrect": true
+        },
+        {
+          "text": "质粒无法在宿主细菌内部独立进行自我复制。",
+          "rationale": "质粒均属于自我复制子，能够独立于染色体进行复制。",
+          "isCorrect": false
+        },
+        {
+          "text": "宿主细菌的染色体组会特异性识别并降解任何入侵细胞的质粒。",
+          "rationale": "不相容性是指不同质粒之间的共存关系，而非细菌染色体对质粒的降解现象。",
+          "isCorrect": false
+        },
+        {
+          "text": "接合性质粒与非接合性质粒无法在同一个菌株内同时存在。",
+          "rationale": "不同同源群或不相容群的质粒（如接合与非接合质粒）通常是互相相容的，可以共存。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "不相容性与不同质粒之间竞争相同的复制位点或调控机制有关。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "根据是否可通过接合作用传递，质粒可分为接合性质粒和非接合性质粒。下列关于接合性质粒的特征描述，正确的有：",
+      "answerOptions": [
+        {
+          "text": "带有与接合传递及性菌毛形成相关的基因。",
+          "rationale": "接合性质粒编码性菌毛和传递相关蛋白质，从而介导质粒的转移。",
+          "isCorrect": true
+        },
+        {
+          "text": "分子量通常较大，约为 $40\\sim 100\\text{ kb}$。",
+          "rationale": "接合性质粒为了容纳复杂的转移基因集，其分子量相对较大。",
+          "isCorrect": true
+        },
+        {
+          "text": "$F$ 质粒和接合性 $R$ 质粒均属于接合性质粒。",
+          "rationale": "$F$ 质粒（致育质粒）与接合性 $R$ 质粒均可通过性菌毛在细菌间接合传递。",
+          "isCorrect": true
+        },
+        {
+          "text": "分子量一般低于 $15\\text{ kb}$，无法编码性菌毛。",
+          "rationale": "分子量小于 $15\\text{ kb}$ 且无性菌毛基因是非接合性质粒的典型特征。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "接合性质粒需要足够的基因空间来编码复杂的接合转移系统（如性菌毛）。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "细菌质粒按在宿主菌中的复制控制方式可分为严紧型和松弛型。关于严紧型质粒（Stringent plasmid），下列说法正确的是：",
+      "answerOptions": [
+        {
+          "text": "质粒复制与染色体同步，细菌内拷贝数低（仅为数个）。",
+          "rationale": "严紧型质粒受宿主染色体复制严格调控，保持低拷贝数，分子量往往较大。",
+          "isCorrect": true
+        },
+        {
+          "text": "质粒复制与染色体不同步，每个细胞可含有 $20\\sim 60$ 个或更多拷贝。",
+          "rationale": "自主控制复制且达到几十个高拷贝数是松弛型质粒（Relaxed plasmid）的特点。",
+          "isCorrect": false
+        },
+        {
+          "text": "分子量非常小，极易通过人工处理（如吖啶橙）特异性消除。",
+          "rationale": "严紧型质粒分子量通常较大，并非以极小分子量和易消退为特征。",
+          "isCorrect": false
+        },
+        {
+          "text": "只能通过噬菌体转导的方式进行基因传递，不能通过接合转移。",
+          "rationale": "质粒的复制调控类型（严紧/松弛）与其传递方式（接合/非接合）无必然的绝对限制关系。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "“严紧”体现在质粒的复制受宿主染色体复制调控严格约束，保持低拷贝。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "接合性耐药质粒（R质粒）通常由耐药传递因子（RTF）和耐药决定因子组成。下列属于耐药传递因子（RTF）功能的有：",
+      "answerOptions": [
+        {
+          "text": "编码性菌毛的表达",
+          "rationale": "RTF 区域含有编码性菌毛的基因，为质粒传递建立物理通道。",
+          "isCorrect": true
+        },
+        {
+          "text": "调控质粒在细菌间的接合转移过程",
+          "rationale": "RTF 包含转移（tra）基因集，介导质粒自身的复制与接合传递。",
+          "isCorrect": true
+        },
+        {
+          "text": "编码针对抗菌药物的灭活酶或靶点修饰蛋白",
+          "rationale": "直接赋予细菌对药物抗性的基因属于耐药决定因子，而非耐药传递因子。",
+          "isCorrect": false
+        },
+        {
+          "text": "以转座子（Tn）形式在质粒与染色体间进行跳跃转座",
+          "rationale": "耐药决定因子常以转座子形式存在，属于耐药决定区而非 RTF 本身。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "注意区分控制传递（性菌毛等）的基因与直接赋予抗菌药物抗性的决定因子。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "转座元件（Transposable Element）可在基因组内部或不同基因组之间改变自身位置。转座元件插入新位点时所依赖的重组方式是：",
+      "answerOptions": [
+        {
+          "text": "位点专一重组（非同源重组），不需要插入位点与转座元件存在同源序列。",
+          "rationale": "转座过程依靠转座元件自身编码的位点专一重组酶进行，不需要片段间的同源核苷酸序列。",
+          "isCorrect": true
+        },
+        {
+          "text": "同源重组，依赖受体菌 Rec 基因编码的重组酶及长段同源序列。",
+          "rationale": "同源重组必须依赖广泛的序列同源性，而转座元件是不依赖同源重组的特异重组方式。",
+          "isCorrect": false
+        },
+        {
+          "text": "限制性核酸内切酶介导的随机剪接与连接。",
+          "rationale": "转座是由转座酶催化的重组过程，并非由宿主限制性内切酶完成。",
+          "isCorrect": false
+        },
+        {
+          "text": "溶原性转换，需通过温和噬菌体衣壳蛋白进行识别与整合。",
+          "rationale": "溶原性转换是由温和噬菌体介导的，转座元件是独立于噬菌体衣壳的分子组件。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "转座插入不依赖供受体DNA片段的同源序列，而是由自身编码的特异重组酶催化。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "在细菌间基因转移与重组中，同源重组（Homologous Recombination）的关键机制特征是：",
+      "answerOptions": [
+        {
+          "text": "发生在起源相同、序列相同或相近的供体和受体 $\\text{DNA}$ 片段之间，并在重组酶作用下完成。",
+          "rationale": "同源重组要求参与重组的DNA分子具有同源性，由细菌 rec 基因编码的重组酶催化交换。",
+          "isCorrect": true
+        },
+        {
+          "text": "仅依赖转座子自身编码的转座酶完成片段拼接，无需同源序列。",
+          "rationale": "无需同源序列的拼接属于非同源重组（或位点专一重组），而非同源重组。",
+          "isCorrect": false
+        },
+        {
+          "text": "必然导致供体菌与受体菌之间发生双向完全等量的基因互换。",
+          "rationale": "同源重组既可以双向交换，也可以单向转移单链片段（基因转换）。",
+          "isCorrect": false
+        },
+        {
+          "text": "特指前噬菌体基因组整合入细菌染色体特定位点的过程。",
+          "rationale": "前噬菌体的整合属于由位点专一重组酶催化的非同源重组。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "同源重组要求DNA序列具有高度相似性或相同起源。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "细菌基因水平转移（Horizontal Gene Transfer, HGT）打破了亲缘关系的界限。细菌间发生 HGT 的常见方式包括：",
+      "answerOptions": [
+        {
+          "text": "转化（Transformation）",
+          "rationale": "转化是感受态受体菌直接摄入环境游离供体 $\\text{DNA}$ 的 HGT 方式。",
+          "isCorrect": true
+        },
+        {
+          "text": "接合（Conjugation）",
+          "rationale": "接合是通过性菌毛建立通道传递遗传物质的 HGT 方式。",
+          "isCorrect": true
+        },
+        {
+          "text": "转导（Transduction）",
+          "rationale": "转导是以噬菌体为媒介包裹供体菌 $\\text{DNA}$ 转移至受体菌的 HGT 方式。",
+          "isCorrect": true
+        },
+        {
+          "text": "溶原性转换（Lysogenic Conversion）",
+          "rationale": "溶原性转换是温和噬菌体基因组整合入宿主染色体使其获得新性状的 HGT 机制。",
+          "isCorrect": true
+        }
+      ],
+      "hint": "HGT包含了供体DNA直接摄入、菌体接触转移、噬菌体介导及噬菌体整合改变性状等多种机制。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "细菌转化（Transformation）是指受体菌直接摄入供体菌游离 $\\text{DNA}$ 片段的过程。下列关于转化的叙述，正确的是：",
+      "answerOptions": [
+        {
+          "text": "受体菌必须处于感受态（Competence）才能有效摄入外源同源 $\\text{DNA}$ 片段。",
+          "rationale": "感受态是细菌能够捕获并吸收外源双链或单链基因片段的生理状态。",
+          "isCorrect": true
+        },
+        {
+          "text": "必须依赖供受体细菌间通过性菌毛建立直接接触通道。",
+          "rationale": "依赖性菌毛接触是接合（Conjugation）的特征，转化仅吸收环境游离 $\\text{DNA}$。",
+          "isCorrect": false
+        },
+        {
+          "text": "转移的遗传物质必须被完整包裹在毒性噬菌体的衣壳内。",
+          "rationale": "噬菌体衣壳包裹DNA传递属于转导（Transduction）。",
+          "isCorrect": false
+        },
+        {
+          "text": "摄入的外源基因必然以独立游离质粒的形式存在，不发生重组。",
+          "rationale": "转化摄入的同源DNA片段常需与受体染色体进行同源重组才能稳定遗传。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "细菌吸收环境中的游离DNA需要生理状态上的准备（感受态）。"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "细菌接合（Conjugation）是基因转移的重要方式之一。在其传递过程中，供体菌（$F^+$）与受体菌（$F^-$）建立直接接触所必需的结构是：",
+      "answerOptions": [
+        {
+          "text": "性菌毛（Sex pilus）",
+          "rationale": "接合性质粒编码产生性菌毛，用于拉近并连接供受体细菌以传递遗传物质。",
+          "isCorrect": true
+        },
+        {
+          "text": "普通菌毛",
+          "rationale": "普通菌毛介导细菌对宿主细胞的黏附，不参与遗传物质的接合传递。",
+          "isCorrect": false
+        },
+        {
+          "text": "荚膜",
+          "rationale": "荚膜具有抗吞噬和保护作用，阻碍菌体直接接触而非介导接合。",
+          "isCorrect": false
+        },
+        {
+          "text": "鞭毛",
+          "rationale": "鞭毛是细菌的运动器官，不参与性菌毛形成的接合管道。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "F质粒等接合性质粒编码的特异性表型结构用于拉近供受体细菌。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "关于温和噬菌体（Temperate Phage）及其介导的遗传变异，下列说法正确的有：",
+      "answerOptions": [
+        {
+          "text": "温和噬菌体的基因组可整合到宿主菌染色体上成为前噬菌体（Prophage）。",
+          "rationale": "温和噬菌体不立即溶菌，而是可将基因组整合至宿主染色体形成前噬菌体状态。",
+          "isCorrect": true
+        },
+        {
+          "text": "前噬菌体可随细菌染色体复制而同步传递给子代细菌。",
+          "rationale": "溶原状态下前噬菌体作为宿主基因组的一部分稳定遗传给子代。",
+          "isCorrect": true
+        },
+        {
+          "text": "前噬菌体可赋予宿主菌新的生物学性状，即溶原性转换。",
+          "rationale": "前噬菌体携带的基因表达可导致宿主表型改变（如产生外毒素）。",
+          "isCorrect": true
+        },
+        {
+          "text": "温和噬菌体感染细菌后只能进入溶菌性周期并迅速裂解宿主。",
+          "rationale": "只能进入溶菌周期裂解细菌的是毒性噬菌体，温和噬菌体兼具溶原性周期。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "温和噬菌体不同于毒性噬菌体，具有将基因整合进宿主染色体的溶原性周期。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "白喉棒状杆菌只有在感染了特定的温和噬菌体后才能产生白喉毒素并致病。这种细菌获得致病毒素基因的遗传学机制称为：",
+      "answerOptions": [
+        {
+          "text": "溶原性转换（Lysogenic conversion）",
+          "rationale": "白喉棒状杆菌产生毒素是由于温和噬菌体整合为前噬菌体后表达毒素基因导致的溶原性转换现象。",
+          "isCorrect": true
+        },
+        {
+          "text": "普遍性转导（Generalized transduction）",
+          "rationale": "普遍性转导是噬菌体误包供体菌任意基因片段进行转移，而非前噬菌体基因直接表达。",
+          "isCorrect": false
+        },
+        {
+          "text": "局限性转导（Specialized transduction）",
+          "rationale": "局限性转导只转移前噬菌体整合位点两侧的特定宿主基因，而非毒素基因由噬菌体自身携带。",
+          "isCorrect": false
+        },
+        {
+          "text": "接合（Conjugation）",
+          "rationale": "接合是细菌间通过性菌毛进行的质粒转移，不涉及噬菌体感染。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "此现象是由前噬菌体（温和噬菌体整合状态）直接赋予细菌新的毒力表型特征。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "细菌在 $\\beta$-内酰胺类抗生素、抗体或溶菌酶的作用下发生细胞壁缺陷，形成 $L$ 型变异。关于 $L$ 型细菌的特征，正确的有：",
+      "answerOptions": [
+        {
+          "text": "细胞壁受损或缺失，形态呈高度多形性。",
+          "rationale": "失去了肽聚糖细胞壁的固定形态作用，$L$ 型细菌呈现多形性。",
+          "isCorrect": true
+        },
+        {
+          "text": "常规细菌分离培养容易出现假阴性结果。",
+          "rationale": "$L$ 型细菌在高渗环境中才能生长，普通培养基中难以形成典型菌落导致检测阴性。",
+          "isCorrect": true
+        },
+        {
+          "text": "分离培养时必须使用含有血清的高渗培养基。",
+          "rationale": "缺失细胞壁的细菌易在渗透压改变时胀破，高渗血清培养基能维持其稳定性。",
+          "isCorrect": true
+        },
+        {
+          "text": "对青霉素和头孢菌素等作用于细胞壁的药物依然高度敏感。",
+          "rationale": "$L$ 型细菌已丢失细胞壁靶点，因此对作用于细胞壁合成的抗生素具有耐受性。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "L型细菌丢失了细胞壁，因此抵抗作用于细胞壁的药物，且低渗下易胀破。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "细菌基因组具有紧凑的操纵子（Operon）结构。下列关于细菌操纵子组成的描述，正确的是：",
+      "answerOptions": [
+        {
+          "text": "许多功能相关的基因串联排列，与上游启动子和调控信号序列共同构成一个转录单位。",
+          "rationale": "操纵子是原核生物基因表达调控的基本结构单位，多基因协同受统一调控元件控制。",
+          "isCorrect": true
+        },
+        {
+          "text": "每个编码基因均独立配备专属启动子，基因之间被长段非编码 DNA 严格隔开。",
+          "rationale": "细菌操纵子是多个基因共用上游启动子进行多顺反子转录，非各自独立调控。",
+          "isCorrect": false
+        },
+        {
+          "text": "由多拷贝的 rRNA 基因与内含子剪接位点串联组成。",
+          "rationale": "操纵子主要调控功能性编码蛋白基因，且细菌基因一般不含内含子剪接位点。",
+          "isCorrect": false
+        },
+        {
+          "text": "仅存在于质粒和转座元件中，细菌染色体上不存在操纵子结构。",
+          "rationale": "操纵子大量存在于细菌染色体基因组中，用于代谢和生理功能的协同调控。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "原核生物将功能相关的基因集中在一起由同一个启动子统一调控转录。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "质粒可从宿主菌中自行丢失，也可通过人工处理消除（Curing）。下列可用于人工消除质粒的物理或化学因素有：",
+      "answerOptions": [
+        {
+          "text": "吖啶橙（Acridine orange）",
+          "rationale": "吖啶橙等嵌入剂染料可选择性干扰质粒复制导致质粒消除。",
+          "isCorrect": true
+        },
+        {
+          "text": "溴乙锭（Ethidium bromide）",
+          "rationale": "溴乙锭能够特异性影响质粒DNA超螺旋结构与复制，常用于质粒消除。",
+          "isCorrect": true
+        },
+        {
+          "text": "高温培养",
+          "rationale": "高于适温的物理热应激可使质粒复制与染色体分离脱节，促进质粒丢失。",
+          "isCorrect": true
+        },
+        {
+          "text": "紫外线照射",
+          "rationale": "适度紫外线处理可用于人工诱导质粒从细菌宿主中消除。",
+          "isCorrect": true
+        }
+      ],
+      "hint": "破坏质粒复制或选择性干扰质粒遗传的化学染料及物理应激手段。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "绝大多数细菌染色体为环状双链 $\\text{DNA}$，但疏螺旋体属（如伯道疏螺旋体）细菌染色体的分子结构特点是：",
+      "answerOptions": [
+        {
+          "text": "线性双链 $\\text{DNA}$（Linear dsDNA）。",
+          "rationale": "疏螺旋体属（Borrelia）细菌是原核生物中的特例，其染色体呈现线状双链 $\\text{DNA}$ 结构。",
+          "isCorrect": true
+        },
+        {
+          "text": "单链 $\\text{RNA}$ 基因组。",
+          "rationale": "细菌遗传物质均是以 $\\text{DNA}$ 为载体，某些病毒才以 $\\text{RNA}$ 为基因组。",
+          "isCorrect": false
+        },
+        {
+          "text": "三条环状双链 $\\text{DNA}$。",
+          "rationale": "仅个别细菌含有三条环状 $\\text{DNA}$，疏螺旋体属染色体特指线性结构。",
+          "isCorrect": false
+        },
+        {
+          "text": "单链闭合环状 $\\text{DNA}$。",
+          "rationale": "细菌基因组为双链 $\\text{DNA}$，不存在单链环状的染色体。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "注意疏螺旋体在细菌界中罕见的非环状染色体形态。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "细菌在生长或环境压力下常发生变异，这为临床微生物学诊断带来困难。下列属于变异导致诊断困难的情形有：",
+      "answerOptions": [
+        {
+          "text": "细菌发生 $L$ 型变异，常规血培养和鉴定出现假阴性。",
+          "rationale": "细胞壁缺失的 $L$ 型细菌在普通培养基上不生长，极易造成漏诊。",
+          "isCorrect": true
+        },
+        {
+          "text": "变异丢失鞭毛的菌株不与针对抗原的特异性血清发生凝集。",
+          "rationale": "无鞭毛变异株失去了表面H抗原，无法进行血清学凝集鉴定。",
+          "isCorrect": true
+        },
+        {
+          "text": "伤寒沙门菌获得乳糖发酵基因，在鉴别培养基上呈现乳糖阳性。",
+          "rationale": "常规鉴定依赖沙门菌不分解乳糖的特性，基因获得变异会干扰鉴别结果。",
+          "isCorrect": true
+        },
+        {
+          "text": "突变导致某种发酵酶缺陷，出现乳糖发酵阴性表型。",
+          "rationale": "发酵能力缺陷变异改变了细菌传统的生化反应特征，易导致菌种误判。",
+          "isCorrect": true
+        }
+      ],
+      "hint": "结构丢损（如细胞壁、鞭毛）或代谢酶获得/缺失都会干扰常规鉴定流程。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    },
+    {
+      "type": "multiple_choice",
+      "question": "耐甲氧西林金黄色葡萄球菌（MRSA）是医院感染的重要病原菌。关于我国 MRSA 的发生现状及耐药特性，下列表述正确的是：",
+      "answerOptions": [
+        {
+          "text": "MRSA 分离率高（我国已达 $70\\%$ 以上），常表现为对多种抗菌药物多重耐药（MDR）。",
+          "rationale": "由于抗生素的选择压力及耐药基因的水平传递，MRSA 分离率居高不下且呈多重耐药特点。",
+          "isCorrect": true
+        },
+        {
+          "text": "MRSA 变异是由于失去了耐药质粒，使其致病力大幅减弱。",
+          "rationale": "MRSA 是获得了耐药基因（如 mecA）而产生耐药，并非质粒丢失变异。",
+          "isCorrect": false
+        },
+        {
+          "text": "我国 MRSA 的分离率极低，目前临床上低于 $5\\%$。",
+          "rationale": "我国临床 MRSA 分离率已上升至 $70\\%$ 以上，耐药形势严峻。",
+          "isCorrect": false
+        },
+        {
+          "text": "MRSA 仅对甲氧西林耐药，对青霉素和磺胺类药物依然高度敏感。",
+          "rationale": "MRSA 通常对青霉素类、磺胺类等多种常见抗菌药物同时耐药（MDR）。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "临床上抗生素滥用促使耐药株筛选并广泛流行。"
+    },
+    {
+      "type": "multiple_select",
+      "question": "与真核生物相比，细菌基因组具有紧凑且高效的表达特征。下列关于细菌基因组序列及表达特征的说法，正确的有：",
+      "answerOptions": [
+        {
+          "text": "非编码序列较少，约 $90\\%$ 的序列均用于编码基因。",
+          "rationale": "细菌基因组功能密度高，非编码区比例远低于真核生物。",
+          "isCorrect": true
+        },
+        {
+          "text": "基因通常是连续的，一般无内含子（Intron）。",
+          "rationale": "原核生物基因缺乏剪接结构，编码序列基本连续。",
+          "isCorrect": true
+        },
+        {
+          "text": "转录产生的 $\\text{RNA}$ 无需复杂剪接加工即可直接用于翻译。",
+          "rationale": "因无内含子，细菌转录与翻译过程高度偶联，mRNA 无需剪接。",
+          "isCorrect": true
+        },
+        {
+          "text": "所有的基因（包括编码蛋白基因与 rRNA 基因）均严格保持单拷贝。",
+          "rationale": "虽然大多数编码基因是单拷贝的，但 rRNA 基因为多拷贝以满足快速生长的需要。",
+          "isCorrect": false
+        }
+      ],
+      "hint": "细菌RNA转录与翻译几乎偶联，基因紧凑无剪接；但rRNA基因为多拷贝以满足快速生长。",
+      "hasAllOfTheAbove": false,
+      "hasNoneOfTheAbove": false
+    }
+  ],
+  "topics": {
+    "covered": [
+      "细菌遗传与变异的基本属性与表型变异",
+      "细菌基因组结构与特殊元件",
+      "质粒的特征与分类",
+      "细菌基因水平转移与重组机制",
+      "细菌变异的微生物学诊断与临床意义"
+    ],
+    "followUp": [
+      "细菌转座子与耐药基因整合子机制",
+      "普遍性转导与局限性转导的对比",
+      "细菌感受态的分子形成机制",
+      "细菌抗生素耐药性的分子流行病学监测"
+    ]
+  }
+}

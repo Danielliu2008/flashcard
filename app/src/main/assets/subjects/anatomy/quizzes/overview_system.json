@@ -1,0 +1,5721 @@
+{
+  "id": "quiz_overview_system",
+  "systemType": "OVERVIEW",
+  "title": "概论与组织皮肤 单元测验",
+  "description": "基于官方复习题与答案，涵盖解剖学切面与方位、细胞结构与跨膜转运、四大基本组织、血液成分与血型、皮肤组织学结构",
+  "coveredTopics": [
+    "解剖学方位、轴与切面术语",
+    "细胞器功能与物质跨膜转运机制",
+    "四大基本组织特征（上皮、结缔、肌肉、神经）",
+    "血液基本成分、血细胞分类与血型系统",
+    "皮肤表皮真皮层次、皮肤附属器与生理功能"
+  ],
+  "questions": [
+    {
+      "c": "1",
+      "type": "single_choice",
+      "question": "下列关于人体解剖学方位的描述，错误的是（ ）。",
+      "prompt": "下列关于人体解剖学方位的描述，错误的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "距人体正中矢状面近者为内侧，远者为外侧",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "近前腹面者为腹侧，近后背面者为背侧",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "以体表为准，靠近表面者为近端，远离表面者为远端",
+          "isCorrect": true,
+          "rationale": "近表面者为浅（Superficial），远离表面者为深（Deep）；近端与远端专用于描述四肢器官靠近或远离躯干。"
+        },
+        {
+          "text": "近头侧者为上、近足底者为下",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "距人体正中矢状面近者为内侧，远者为外侧",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "近前腹面者为腹侧，近后背面者为背侧",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "以体表为准，靠近表面者为近端，远离表面者为远端",
+          "isCorrect": true,
+          "rationale": "近表面者为浅（Superficial），远离表面者为深（Deep）；近端与远端专用于描述四肢器官靠近或远离躯干。"
+        },
+        {
+          "text": "近头侧者为上、近足底者为下",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "近表面者为浅（Superficial），远离表面者为深（Deep）；近端与远端专用于描述四肢器官靠近或远离躯干。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 1
+    },
+    {
+      "c": "2",
+      "type": "single_choice",
+      "question": "下列物质中，主要以单纯扩散（自由扩散）方式跨越细胞膜的是（ ）。",
+      "prompt": "下列物质中，主要以单纯扩散（自由扩散）方式跨越细胞膜的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "葡萄糖分子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "氨基酸分子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "O2 和 CO2",
+          "isCorrect": true,
+          "rationale": "脂溶性小分子气体（O2, CO2）以单纯扩散跨膜；离子需要通道蛋白；氨基酸与葡萄糖需转运载体协助。"
+        },
+        {
+          "text": "Ca2+ 离子",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "葡萄糖分子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "氨基酸分子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "O2 和 CO2",
+          "isCorrect": true,
+          "rationale": "脂溶性小分子气体（O2, CO2）以单纯扩散跨膜；离子需要通道蛋白；氨基酸与葡萄糖需转运载体协助。"
+        },
+        {
+          "text": "Ca2+ 离子",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "脂溶性小分子气体（O2, CO2）以单纯扩散跨膜；离子需要通道蛋白；氨基酸与葡萄糖需转运载体协助。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 2
+    },
+    {
+      "c": "3",
+      "type": "single_choice",
+      "question": "下列物质跨膜转运过程中，必须直接或间接消耗能量（主动转运）的是（ ）。",
+      "prompt": "下列物质跨膜转运过程中，必须直接或间接消耗能量（主动转运）的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "K+ 顺浓度梯度由细胞内转运至细胞外",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "类固醇激素顺梯度由细胞外自由进入细胞内",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "O2 顺分压差由细胞外进入细胞内",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Na+ 逆浓度梯度由细胞内转运至细胞外",
+          "isCorrect": true,
+          "rationale": "Na+-K+泵逆浓度差将 Na+ 泵出、K+ 泵入，直接水解 ATP 消耗能量。"
+        }
+      ],
+      "options": [
+        {
+          "text": "K+ 顺浓度梯度由细胞内转运至细胞外",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "类固醇激素顺梯度由细胞外自由进入细胞内",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "O2 顺分压差由细胞外进入细胞内",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Na+ 逆浓度梯度由细胞内转运至细胞外",
+          "isCorrect": true,
+          "rationale": "Na+-K+泵逆浓度差将 Na+ 泵出、K+ 泵入，直接水解 ATP 消耗能量。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "Na+-K+泵逆浓度差将 Na+ 泵出、K+ 泵入，直接水解 ATP 消耗能量。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 3
+    },
+    {
+      "c": "4",
+      "type": "single_choice",
+      "question": "下列关于机体内环境概念的叙述，正确的是（ ）。",
+      "prompt": "下列关于机体内环境概念的叙述，正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "内环境理化性质随外界剧烈变化而发生巨大改变",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆、组织液等细胞外液是体内的内环境",
+          "isCorrect": true,
+          "rationale": "内环境专指细胞外液（组织液、血浆、淋巴等）。消化道管腔与外界相通，不属于内环境。"
+        },
+        {
+          "text": "胃肠道消化腔属于机体内环境",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "内环境由细胞内液与细胞外液共同组成",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "内环境理化性质随外界剧烈变化而发生巨大改变",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆、组织液等细胞外液是体内的内环境",
+          "isCorrect": true,
+          "rationale": "内环境专指细胞外液（组织液、血浆、淋巴等）。消化道管腔与外界相通，不属于内环境。"
+        },
+        {
+          "text": "胃肠道消化腔属于机体内环境",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "内环境由细胞内液与细胞外液共同组成",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "内环境专指细胞外液（组织液、血浆、淋巴等）。消化道管腔与外界相通，不属于内环境。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 4
+    },
+    {
+      "c": "5",
+      "type": "single_choice",
+      "question": "主动转运与被动转运的本质根本区别是（ ）。",
+      "prompt": "主动转运与被动转运的本质根本区别是（ ）。",
+      "answerOptions": [
+        {
+          "text": "转运过程是否能产生跨膜动作电位",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "转运过程是否需要细胞膜上的特异性蛋白参与",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "转运过程是否会改变细胞内环境",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "转运过程是否需要消耗机体代谢能量（ATP）",
+          "isCorrect": true,
+          "rationale": "主动转运逆电化学梯度且消耗能量；被动转运顺电化学梯度且不消耗代谢能量。"
+        }
+      ],
+      "options": [
+        {
+          "text": "转运过程是否能产生跨膜动作电位",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "转运过程是否需要细胞膜上的特异性蛋白参与",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "转运过程是否会改变细胞内环境",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "转运过程是否需要消耗机体代谢能量（ATP）",
+          "isCorrect": true,
+          "rationale": "主动转运逆电化学梯度且消耗能量；被动转运顺电化学梯度且不消耗代谢能量。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "主动转运逆电化学梯度且消耗能量；被动转运顺电化学梯度且不消耗代谢能量。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 5
+    },
+    {
+      "c": "6",
+      "type": "single_choice",
+      "question": "下列人体结构中，不属于上皮组织来源的是（ ）。",
+      "prompt": "下列人体结构中，不属于上皮组织来源的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "血管腔面的内皮",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "皮肤毛囊旁的皮脂腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "骨与骨连接的韧带",
+          "isCorrect": true,
+          "rationale": "韧带属于致密结缔组织；皮脂腺是外分泌腺上皮；表皮为复层扁平上皮；内皮为单层扁平上皮。"
+        },
+        {
+          "text": "皮肤表皮",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "血管腔面的内皮",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "皮肤毛囊旁的皮脂腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "骨与骨连接的韧带",
+          "isCorrect": true,
+          "rationale": "韧带属于致密结缔组织；皮脂腺是外分泌腺上皮；表皮为复层扁平上皮；内皮为单层扁平上皮。"
+        },
+        {
+          "text": "皮肤表皮",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "韧带属于致密结缔组织；皮脂腺是外分泌腺上皮；表皮为复层扁平上皮；内皮为单层扁平上皮。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 6
+    },
+    {
+      "c": "7",
+      "type": "single_choice",
+      "question": "下列真核细胞的亚细胞器中，自身含有独立遗传物质（DNA）的是（ ）。",
+      "prompt": "下列真核细胞的亚细胞器中，自身含有独立遗传物质（DNA）的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "高尔基体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "线粒体",
+          "isCorrect": true,
+          "rationale": "线粒体含有独立的双链环状 mtDNA，具有半自主遗传性。"
+        },
+        {
+          "text": "滑面内质网",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "溶酶体",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "高尔基体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "线粒体",
+          "isCorrect": true,
+          "rationale": "线粒体含有独立的双链环状 mtDNA，具有半自主遗传性。"
+        },
+        {
+          "text": "滑面内质网",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "溶酶体",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "线粒体含有独立的双链环状 mtDNA，具有半自主遗传性。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 7
+    },
+    {
+      "c": "8",
+      "type": "single_choice",
+      "question": "按照人体形态与结构层次，由微观到宏观排列正确的是（ ）。",
+      "prompt": "按照人体形态与结构层次，由微观到宏观排列正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "细胞 → 组织 → 器官 → 系统",
+          "isCorrect": true,
+          "rationale": "生命系统的结构层次：细胞（基本结构单位）→ 组织 → 器官 → 系统 → 人体。"
+        },
+        {
+          "text": "组织 → 细胞 → 器官 → 系统",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "细胞 → 组织 → 系统 → 器官",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "细胞 → 器官 → 系统 → 组织",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "细胞 → 组织 → 器官 → 系统",
+          "isCorrect": true,
+          "rationale": "生命系统的结构层次：细胞（基本结构单位）→ 组织 → 器官 → 系统 → 人体。"
+        },
+        {
+          "text": "组织 → 细胞 → 器官 → 系统",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "细胞 → 组织 → 系统 → 器官",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "细胞 → 器官 → 系统 → 组织",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "生命系统的结构层次：细胞（基本结构单位）→ 组织 → 器官 → 系统 → 人体。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 8
+    },
+    {
+      "c": "9",
+      "type": "single_choice",
+      "question": "关于细胞凋亡（Apoptosis）与细胞坏死（Necrosis）的区别，叙述正确的是（ ）。",
+      "prompt": "关于细胞凋亡（Apoptosis）与细胞坏死（Necrosis）的区别，叙述正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "细胞坏死是受基因严格调控的主动死亡程序",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "两者均伴随细胞膜破裂和剧烈的局部炎症反应",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "细胞凋亡是由细胞内预定程序启动的主动死亡，不引起急性炎症反应",
+          "isCorrect": true,
+          "rationale": "凋亡为生理性程序化死亡，形成凋亡小体并被吞噬，不引发炎症；坏死常伴随细胞肿胀裂解与炎症。"
+        },
+        {
+          "text": "细胞凋亡常导致细胞溶酶体破裂和组织大面积坏死",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "细胞坏死是受基因严格调控的主动死亡程序",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "两者均伴随细胞膜破裂和剧烈的局部炎症反应",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "细胞凋亡是由细胞内预定程序启动的主动死亡，不引起急性炎症反应",
+          "isCorrect": true,
+          "rationale": "凋亡为生理性程序化死亡，形成凋亡小体并被吞噬，不引发炎症；坏死常伴随细胞肿胀裂解与炎症。"
+        },
+        {
+          "text": "细胞凋亡常导致细胞溶酶体破裂和组织大面积坏死",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "凋亡为生理性程序化死亡，形成凋亡小体并被吞噬，不引发炎症；坏死常伴随细胞肿胀裂解与炎症。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 9
+    },
+    {
+      "c": "10",
+      "type": "single_choice",
+      "question": "关于红细胞（RBC）的微细结构与生理特征，叙述错误的是（ ）。",
+      "prompt": "关于红细胞（RBC）的微细结构与生理特征，叙述错误的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "由于缺乏细胞核与内质网，成熟红细胞自身具有极强的蛋白质合成修复能力",
+          "isCorrect": true,
+          "rationale": "成熟哺乳动物红细胞无核无细胞器，无法再合成新的蛋白质与酶类，故损伤后不能自我修复。"
+        },
+        {
+          "text": "红细胞寿命约为 120 天，衰老后主要在脾脏和肝脏被吞噬清除",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "成熟红细胞呈双凹圆盘状，无细胞核和细胞器",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胞质内充满血红蛋白，专司运输氧气和二氧化碳",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "由于缺乏细胞核与内质网，成熟红细胞自身具有极强的蛋白质合成修复能力",
+          "isCorrect": true,
+          "rationale": "成熟哺乳动物红细胞无核无细胞器，无法再合成新的蛋白质与酶类，故损伤后不能自我修复。"
+        },
+        {
+          "text": "红细胞寿命约为 120 天，衰老后主要在脾脏和肝脏被吞噬清除",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "成熟红细胞呈双凹圆盘状，无细胞核和细胞器",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胞质内充满血红蛋白，专司运输氧气和二氧化碳",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "成熟哺乳动物红细胞无核无细胞器，无法再合成新的蛋白质与酶类，故损伤后不能自我修复。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 10
+    },
+    {
+      "c": "11",
+      "type": "single_choice",
+      "question": "人体四种基本组织中，细胞排列紧密、细胞间质极少的是（ ）。",
+      "prompt": "人体四种基本组织中，细胞排列紧密、细胞间质极少的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "肌肉组织",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "上皮组织",
+          "isCorrect": true,
+          "rationale": "上皮组织细胞多而紧密，细胞间质极少，覆盖于体表或衬贴于管腔内面。"
+        },
+        {
+          "text": "神经组织",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "结缔组织",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肌肉组织",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "上皮组织",
+          "isCorrect": true,
+          "rationale": "上皮组织细胞多而紧密，细胞间质极少，覆盖于体表或衬贴于管腔内面。"
+        },
+        {
+          "text": "神经组织",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "结缔组织",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "上皮组织细胞多而紧密，细胞间质极少，覆盖于体表或衬贴于管腔内面。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 11
+    },
+    {
+      "c": "12",
+      "type": "single_choice",
+      "question": "下列疏松结缔组织细胞中，在发生过敏反应时能释放组胺和白三烯的是（ ）。",
+      "prompt": "下列疏松结缔组织细胞中，在发生过敏反应时能释放组胺和白三烯的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "脂肪细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "浆细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肥大细胞",
+          "isCorrect": true,
+          "rationale": "肥大细胞胞质内含嗜碱性颗粒，遇抗原刺激释放组胺、肝素等过敏活性介质。"
+        },
+        {
+          "text": "成纤维细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "脂肪细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "浆细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肥大细胞",
+          "isCorrect": true,
+          "rationale": "肥大细胞胞质内含嗜碱性颗粒，遇抗原刺激释放组胺、肝素等过敏活性介质。"
+        },
+        {
+          "text": "成纤维细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肥大细胞胞质内含嗜碱性颗粒，遇抗原刺激释放组胺、肝素等过敏活性介质。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 12
+    },
+    {
+      "c": "13",
+      "type": "single_choice",
+      "question": "临床上常用的 ABO 血型分类，属于下列哪类细胞的表面特异抗原？（ ）",
+      "prompt": "临床上常用的 ABO 血型分类，属于下列哪类细胞的表面特异抗原？（ ）",
+      "answerOptions": [
+        {
+          "text": "血管内皮细胞血型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞血型",
+          "isCorrect": true,
+          "rationale": "ABO 和 Rh 血型均以红细胞膜上的凝集原（糖蛋白或多肽抗原）为判定依据。"
+        },
+        {
+          "text": "白细胞血型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血小板血型",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "血管内皮细胞血型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞血型",
+          "isCorrect": true,
+          "rationale": "ABO 和 Rh 血型均以红细胞膜上的凝集原（糖蛋白或多肽抗原）为判定依据。"
+        },
+        {
+          "text": "白细胞血型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血小板血型",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "ABO 和 Rh 血型均以红细胞膜上的凝集原（糖蛋白或多肽抗原）为判定依据。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 13
+    },
+    {
+      "c": "14",
+      "type": "single_choice",
+      "question": "关于 AB 型、Rh 阴性（AB-）血液的描述，下列叙述错误的是（ ）。",
+      "prompt": "关于 AB 型、Rh 阴性（AB-）血液的描述，下列叙述错误的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "其红细胞表面不表达 Rh 血型系统的 D 抗原",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "其血清中天生必然存在高滴度的抗 D 抗体",
+          "isCorrect": true,
+          "rationale": "Rh血型系统中，Rh阴性者血清中天生没有抗D抗体，只有在接触Rh阳性红细胞（如输血或怀孕）免疫后才会产生抗D抗体。"
+        },
+        {
+          "text": "其血清中既不存在天然抗 A 抗体，也不存在天然抗 B 抗体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "其红细胞表面同时表达有 A 抗原和 B 抗原",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "其红细胞表面不表达 Rh 血型系统的 D 抗原",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "其血清中天生必然存在高滴度的抗 D 抗体",
+          "isCorrect": true,
+          "rationale": "Rh血型系统中，Rh阴性者血清中天生没有抗D抗体，只有在接触Rh阳性红细胞（如输血或怀孕）免疫后才会产生抗D抗体。"
+        },
+        {
+          "text": "其血清中既不存在天然抗 A 抗体，也不存在天然抗 B 抗体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "其红细胞表面同时表达有 A 抗原和 B 抗原",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "Rh血型系统中，Rh阴性者血清中天生没有抗D抗体，只有在接触Rh阳性红细胞（如输血或怀孕）免疫后才会产生抗D抗体。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 14
+    },
+    {
+      "c": "15",
+      "type": "single_choice",
+      "question": "关于 Rh 血型系统的特征描述，下列不正确的是（ ）。",
+      "prompt": "关于 Rh 血型系统的特征描述，下列不正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "Rh 血型属于红细胞凝集原系统",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "我国汉族人群中绝大多数（99%以上）均为 Rh 阳性血型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "临床输血必须同时进行 ABO 与 Rh 两种血型的配型检测",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Rh 阴性者血清中天生就存在天然抗 Rh 抗体",
+          "isCorrect": true,
+          "rationale": "人血清中无天然抗Rh抗体，该抗体为后天免疫产生。"
+        }
+      ],
+      "options": [
+        {
+          "text": "Rh 血型属于红细胞凝集原系统",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "我国汉族人群中绝大多数（99%以上）均为 Rh 阳性血型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "临床输血必须同时进行 ABO 与 Rh 两种血型的配型检测",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Rh 阴性者血清中天生就存在天然抗 Rh 抗体",
+          "isCorrect": true,
+          "rationale": "人血清中无天然抗Rh抗体，该抗体为后天免疫产生。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "人血清中无天然抗Rh抗体，该抗体为后天免疫产生。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 15
+    },
+    {
+      "c": "16",
+      "type": "single_choice",
+      "question": "在疏松结缔组织中，负责合成胶原纤维、弹性纤维及细胞外基质的主要细胞是（ ）。",
+      "prompt": "在疏松结缔组织中，负责合成胶原纤维、弹性纤维及细胞外基质的主要细胞是（ ）。",
+      "answerOptions": [
+        {
+          "text": "单核细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "巨噬细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肥大细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "成纤维细胞",
+          "isCorrect": true,
+          "rationale": "成纤维细胞是结缔组织的核心功能细胞，具有旺盛的分泌胶原蛋白和基质分子的能力。"
+        }
+      ],
+      "options": [
+        {
+          "text": "单核细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "巨噬细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肥大细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "成纤维细胞",
+          "isCorrect": true,
+          "rationale": "成纤维细胞是结缔组织的核心功能细胞，具有旺盛的分泌胶原蛋白和基质分子的能力。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "成纤维细胞是结缔组织的核心功能细胞，具有旺盛的分泌胶原蛋白和基质分子的能力。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 16
+    },
+    {
+      "c": "17",
+      "type": "single_choice",
+      "question": "结缔组织中的巨噬细胞主要由外周血中的哪种白细胞穿出血管壁后分化发育而来？（ ）",
+      "prompt": "结缔组织中的巨噬细胞主要由外周血中的哪种白细胞穿出血管壁后分化发育而来？（ ）",
+      "answerOptions": [
+        {
+          "text": "中性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "嗜碱性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "单核细胞",
+          "isCorrect": true,
+          "rationale": "外周血单核细胞在血管内存留 1~3 天后迁入组织，体积增大演变为巨噬细胞。"
+        }
+      ],
+      "options": [
+        {
+          "text": "中性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "嗜碱性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "单核细胞",
+          "isCorrect": true,
+          "rationale": "外周血单核细胞在血管内存留 1~3 天后迁入组织，体积增大演变为巨噬细胞。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "外周血单核细胞在血管内存留 1~3 天后迁入组织，体积增大演变为巨噬细胞。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 17
+    },
+    {
+      "c": "18",
+      "type": "single_choice",
+      "question": "下列人体细胞类型中，不属于传统生理学定义的“可兴奋细胞”的是（ ）。",
+      "prompt": "下列人体细胞类型中，不属于传统生理学定义的“可兴奋细胞”的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "骨骼肌细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血管内皮细胞",
+          "isCorrect": true,
+          "rationale": "可兴奋细胞特指受刺激后能产生动作电位的细胞（神经细胞、肌细胞、内分泌腺细胞）。内皮细胞无此特性。"
+        },
+        {
+          "text": "神经细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃肠道平滑肌细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "骨骼肌细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血管内皮细胞",
+          "isCorrect": true,
+          "rationale": "可兴奋细胞特指受刺激后能产生动作电位的细胞（神经细胞、肌细胞、内分泌腺细胞）。内皮细胞无此特性。"
+        },
+        {
+          "text": "神经细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃肠道平滑肌细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "可兴奋细胞特指受刺激后能产生动作电位的细胞（神经细胞、肌细胞、内分泌腺细胞）。内皮细胞无此特性。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 18
+    },
+    {
+      "c": "19",
+      "type": "single_choice",
+      "question": "【配伍题】红细胞表面存在 A 抗原，血清中能够检测到抗-B 抗体的血型是（ ）。",
+      "prompt": "【配伍题】红细胞表面存在 A 抗原，血清中能够检测到抗-B 抗体的血型是（ ）。",
+      "answerOptions": [
+        {
+          "text": "O 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "AB 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "B 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "A 型",
+          "isCorrect": true,
+          "rationale": "A型血红细胞带A抗原，血清含抗B抗体。"
+        }
+      ],
+      "options": [
+        {
+          "text": "O 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "AB 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "B 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "A 型",
+          "isCorrect": true,
+          "rationale": "A型血红细胞带A抗原，血清含抗B抗体。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "A型血红细胞带A抗原，血清含抗B抗体。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 19
+    },
+    {
+      "c": "20",
+      "type": "single_choice",
+      "question": "【配伍题】红细胞表面同时检测到 A 抗原和 B 抗原，血清中无抗-A 和抗-B 抗体的血型是（ ）。",
+      "prompt": "【配伍题】红细胞表面同时检测到 A 抗原和 B 抗原，血清中无抗-A 和抗-B 抗体的血型是（ ）。",
+      "answerOptions": [
+        {
+          "text": "A 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "B 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "AB 型",
+          "isCorrect": true,
+          "rationale": "AB型血红细胞带A和B抗原，血清无天然凝集素。"
+        },
+        {
+          "text": "O 型",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "A 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "B 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "AB 型",
+          "isCorrect": true,
+          "rationale": "AB型血红细胞带A和B抗原，血清无天然凝集素。"
+        },
+        {
+          "text": "O 型",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "AB型血红细胞带A和B抗原，血清无天然凝集素。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 20
+    },
+    {
+      "c": "21",
+      "type": "single_choice",
+      "question": "【配伍题】红细胞表面能够检测到 Rh 系统特异性 D 抗原的血型是（ ）。",
+      "prompt": "【配伍题】红细胞表面能够检测到 Rh 系统特异性 D 抗原的血型是（ ）。",
+      "answerOptions": [
+        {
+          "text": "Rh 阳性（Rh+）",
+          "isCorrect": true,
+          "rationale": "红细胞表面有D抗原即为Rh阳性。"
+        },
+        {
+          "text": "ABO 阴性",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "O 型血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Rh 阴性（Rh-）",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "Rh 阳性（Rh+）",
+          "isCorrect": true,
+          "rationale": "红细胞表面有D抗原即为Rh阳性。"
+        },
+        {
+          "text": "ABO 阴性",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "O 型血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Rh 阴性（Rh-）",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "红细胞表面有D抗原即为Rh阳性。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 21
+    },
+    {
+      "c": "22",
+      "type": "single_choice",
+      "question": "【配伍题】健康成年人外周血中，数量最多的血细胞成分是（ ）。",
+      "prompt": "【配伍题】健康成年人外周血中，数量最多的血细胞成分是（ ）。",
+      "answerOptions": [
+        {
+          "text": "红细胞",
+          "isCorrect": true,
+          "rationale": "红细胞每微升血液约 400~550 万个，数量远超白细胞与血小板。"
+        },
+        {
+          "text": "血小板",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "红细胞",
+          "isCorrect": true,
+          "rationale": "红细胞每微升血液约 400~550 万个，数量远超白细胞与血小板。"
+        },
+        {
+          "text": "血小板",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "红细胞每微升血液约 400~550 万个，数量远超白细胞与血小板。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 22
+    },
+    {
+      "c": "23",
+      "type": "single_choice",
+      "question": "【配伍题】外周血白细胞分类计数中，所占百分比最高（50%~70%）的细胞是（ ）。",
+      "prompt": "【配伍题】外周血白细胞分类计数中，所占百分比最高（50%~70%）的细胞是（ ）。",
+      "answerOptions": [
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "中性分叶核粒细胞是机体抵御化脓性细菌感染的第一道防线。"
+        },
+        {
+          "text": "单核细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "中性分叶核粒细胞是机体抵御化脓性细菌感染的第一道防线。"
+        },
+        {
+          "text": "单核细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "中性分叶核粒细胞是机体抵御化脓性细菌感染的第一道防线。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 23
+    },
+    {
+      "c": "24",
+      "type": "single_choice",
+      "question": "【配伍题】在生理性止血、形成血栓以及维持毛细血管壁完整性中发挥核心作用的是（ ）。",
+      "prompt": "【配伍题】在生理性止血、形成血栓以及维持毛细血管壁完整性中发挥核心作用的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "血小板",
+          "isCorrect": true,
+          "rationale": "血小板黏附、聚集形成止血栓并释放促凝介质。"
+        },
+        {
+          "text": "血浆白蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "白细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "血小板",
+          "isCorrect": true,
+          "rationale": "血小板黏附、聚集形成止血栓并释放促凝介质。"
+        },
+        {
+          "text": "血浆白蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "白细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "血小板黏附、聚集形成止血栓并释放促凝介质。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 24
+    },
+    {
+      "c": "25",
+      "type": "single_choice",
+      "question": "【配伍题】显微镜下细胞核呈多分叶状（通常分为 2~5 叶）的白细胞是（ ）。",
+      "prompt": "【配伍题】显微镜下细胞核呈多分叶状（通常分为 2~5 叶）的白细胞是（ ）。",
+      "answerOptions": [
+        {
+          "text": "单核细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "中性粒细胞成熟过程中核分叶，叶数随老化而增多。"
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "单核细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "中性粒细胞成熟过程中核分叶，叶数随老化而增多。"
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "中性粒细胞成熟过程中核分叶，叶数随老化而增多。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 25
+    },
+    {
+      "c": "26",
+      "type": "single_choice",
+      "question": "【配伍题】在体内介导细胞免疫与体液免疫，属于特异性适应性免疫的核心细胞是（ ）。",
+      "prompt": "【配伍题】在体内介导细胞免疫与体液免疫，属于特异性适应性免疫的核心细胞是（ ）。",
+      "answerOptions": [
+        {
+          "text": "中性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血小板",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": true,
+          "rationale": "T淋巴细胞介导细胞免疫，B淋巴细胞介导体液免疫。"
+        }
+      ],
+      "options": [
+        {
+          "text": "中性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血小板",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": true,
+          "rationale": "T淋巴细胞介导细胞免疫，B淋巴细胞介导体液免疫。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "T淋巴细胞介导细胞免疫，B淋巴细胞介导体液免疫。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 26
+    },
+    {
+      "c": "27",
+      "type": "single_choice",
+      "question": "【配伍题】在机体发生急性细菌感染或炎症反应时，能迅速穿出血管壁执行强吞噬杀菌功能的白细胞是（ ）。",
+      "prompt": "【配伍题】在机体发生急性细菌感染或炎症反应时，能迅速穿出血管壁执行强吞噬杀菌功能的白细胞是（ ）。",
+      "answerOptions": [
+        {
+          "text": "血小板",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "嗜酸性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "中性粒细胞具有强大的趋化运动与吞噬杀菌作用。"
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "血小板",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "嗜酸性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "中性粒细胞具有强大的趋化运动与吞噬杀菌作用。"
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "中性粒细胞具有强大的趋化运动与吞噬杀菌作用。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 27
+    },
+    {
+      "c": "28",
+      "type": "multiple_select",
+      "question": "下列人体器官或组织结构中，在组织学分类上属于结缔组织的有（ ）。",
+      "prompt": "下列人体器官或组织结构中，在组织学分类上属于结缔组织的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "连接骨骼的肌腱",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        },
+        {
+          "text": "弹性软骨",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        },
+        {
+          "text": "皮下浅筋膜组织",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        },
+        {
+          "text": "皮脂腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "循环血液",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        }
+      ],
+      "options": [
+        {
+          "text": "连接骨骼的肌腱",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        },
+        {
+          "text": "弹性软骨",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        },
+        {
+          "text": "皮下浅筋膜组织",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        },
+        {
+          "text": "皮脂腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "循环血液",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 28
+    },
+    {
+      "c": "29",
+      "type": "multiple_select",
+      "question": "下列物质中，能够以单纯扩散方式自由跨越细胞脂质双分子层的有（ ）。",
+      "prompt": "下列物质中，能够以单纯扩散方式自由跨越细胞脂质双分子层的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "O2 分子",
+          "isCorrect": true,
+          "rationale": "脂溶性非极性气体分子（O2, CO2）可自由扩散；带电离子与水溶性大分子必须依靠通道或转运体。"
+        },
+        {
+          "text": "Ca2+ 离子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆蛋白质",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "氨基酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "CO2 分子",
+          "isCorrect": true,
+          "rationale": "脂溶性非极性气体分子（O2, CO2）可自由扩散；带电离子与水溶性大分子必须依靠通道或转运体。"
+        }
+      ],
+      "options": [
+        {
+          "text": "O2 分子",
+          "isCorrect": true,
+          "rationale": "脂溶性非极性气体分子（O2, CO2）可自由扩散；带电离子与水溶性大分子必须依靠通道或转运体。"
+        },
+        {
+          "text": "Ca2+ 离子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆蛋白质",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "氨基酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "CO2 分子",
+          "isCorrect": true,
+          "rationale": "脂溶性非极性气体分子（O2, CO2）可自由扩散；带电离子与水溶性大分子必须依靠通道或转运体。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "脂溶性非极性气体分子（O2, CO2）可自由扩散；带电离子与水溶性大分子必须依靠通道或转运体。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 29
+    },
+    {
+      "c": "30",
+      "type": "multiple_select",
+      "question": "下列细胞器中，内部含有核酸（DNA 或 RNA）遗传或翻译物质的有（ ）。",
+      "prompt": "下列细胞器中，内部含有核酸（DNA 或 RNA）遗传或翻译物质的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "细胞核",
+          "isCorrect": true,
+          "rationale": "细胞核内富含染色质 DNA 与各种 RNA；线粒体基质含环状 mtDNA 与线粒体核糖体。"
+        },
+        {
+          "text": "高尔基体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "滑面内质网",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "溶酶体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "线粒体",
+          "isCorrect": true,
+          "rationale": "细胞核内富含染色质 DNA 与各种 RNA；线粒体基质含环状 mtDNA 与线粒体核糖体。"
+        }
+      ],
+      "options": [
+        {
+          "text": "细胞核",
+          "isCorrect": true,
+          "rationale": "细胞核内富含染色质 DNA 与各种 RNA；线粒体基质含环状 mtDNA 与线粒体核糖体。"
+        },
+        {
+          "text": "高尔基体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "滑面内质网",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "溶酶体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "线粒体",
+          "isCorrect": true,
+          "rationale": "细胞核内富含染色质 DNA 与各种 RNA；线粒体基质含环状 mtDNA 与线粒体核糖体。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "细胞核内富含染色质 DNA 与各种 RNA；线粒体基质含环状 mtDNA 与线粒体核糖体。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 30
+    },
+    {
+      "c": "31",
+      "type": "multiple_select",
+      "question": "血液中的细胞成分（有形成分）包括下列哪些？（ ）",
+      "prompt": "血液中的细胞成分（有形成分）包括下列哪些？（ ）",
+      "answerOptions": [
+        {
+          "text": "红细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。"
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。"
+        },
+        {
+          "text": "成熟巨噬细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "单核细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。"
+        },
+        {
+          "text": "血管内皮细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "红细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。"
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。"
+        },
+        {
+          "text": "成熟巨噬细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "单核细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。"
+        },
+        {
+          "text": "血管内皮细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 31
+    },
+    {
+      "c": "32",
+      "type": "multiple_select",
+      "question": "关于临床输血原则及交叉配血试验，下列叙述正确的有（ ）。",
+      "prompt": "关于临床输血原则及交叉配血试验，下列叙述正确的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "主侧交叉配血使用受血者血清与供血者红细胞进行凝集反应",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        },
+        {
+          "text": "只要供受者 ABO 血型相同，临床就无需再做交叉配血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "紧急极特殊情况下少量缓慢输入 O 型红细胞是因其红细胞不含 A、B 凝集原",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        },
+        {
+          "text": "主侧交叉配血发现凝集或溶血，绝对严禁输血",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        },
+        {
+          "text": "次侧配血使用供血者血清与受血者红细胞检验",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        }
+      ],
+      "options": [
+        {
+          "text": "主侧交叉配血使用受血者血清与供血者红细胞进行凝集反应",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        },
+        {
+          "text": "只要供受者 ABO 血型相同，临床就无需再做交叉配血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "紧急极特殊情况下少量缓慢输入 O 型红细胞是因其红细胞不含 A、B 凝集原",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        },
+        {
+          "text": "主侧交叉配血发现凝集或溶血，绝对严禁输血",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        },
+        {
+          "text": "次侧配血使用供血者血清与受血者红细胞检验",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 32
+    },
+    {
+      "c": "33",
+      "type": "multiple_select",
+      "question": "下列机体生理参数中，属于健康成年人安静状态下正常生命体征的有（ ）。",
+      "prompt": "下列机体生理参数中，属于健康成年人安静状态下正常生命体征的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "呼吸频率 30 次/分",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心率 80 次/分",
+          "isCorrect": true,
+          "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。"
+        },
+        {
+          "text": "收缩压 180 mmHg",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "舒张压 75 mmHg",
+          "isCorrect": true,
+          "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。"
+        },
+        {
+          "text": "体温 36.2 ℃",
+          "isCorrect": true,
+          "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。"
+        }
+      ],
+      "options": [
+        {
+          "text": "呼吸频率 30 次/分",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心率 80 次/分",
+          "isCorrect": true,
+          "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。"
+        },
+        {
+          "text": "收缩压 180 mmHg",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "舒张压 75 mmHg",
+          "isCorrect": true,
+          "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。"
+        },
+        {
+          "text": "体温 36.2 ℃",
+          "isCorrect": true,
+          "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 33
+    },
+    {
+      "c": "34",
+      "type": "multiple_select",
+      "question": "下列生理转运过程中，需要消耗细胞代谢能量（ATP）的主动跨膜过程有（ ）。",
+      "prompt": "下列生理转运过程中，需要消耗细胞代谢能量（ATP）的主动跨膜过程有（ ）。",
+      "answerOptions": [
+        {
+          "text": "O2 由组织间隙顺分压差进入组织细胞内",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "神经动作电位复极化相 K+ 顺浓度外流",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "神经动作电位复极化末期 Na+ 逆浓度泵出细胞外",
+          "isCorrect": true,
+          "rationale": "肌浆网钙泵逆浓度回收钙离子、钠钾泵逆浓度排出钠离子均属于原发性主动转运。"
+        },
+        {
+          "text": "水分子由低渗环境向高渗环境渗透",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Ca2+ 由肌浆逆浓度泵入肌浆网储存",
+          "isCorrect": true,
+          "rationale": "肌浆网钙泵逆浓度回收钙离子、钠钾泵逆浓度排出钠离子均属于原发性主动转运。"
+        }
+      ],
+      "options": [
+        {
+          "text": "O2 由组织间隙顺分压差进入组织细胞内",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "神经动作电位复极化相 K+ 顺浓度外流",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "神经动作电位复极化末期 Na+ 逆浓度泵出细胞外",
+          "isCorrect": true,
+          "rationale": "肌浆网钙泵逆浓度回收钙离子、钠钾泵逆浓度排出钠离子均属于原发性主动转运。"
+        },
+        {
+          "text": "水分子由低渗环境向高渗环境渗透",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Ca2+ 由肌浆逆浓度泵入肌浆网储存",
+          "isCorrect": true,
+          "rationale": "肌浆网钙泵逆浓度回收钙离子、钠钾泵逆浓度排出钠离子均属于原发性主动转运。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肌浆网钙泵逆浓度回收钙离子、钠钾泵逆浓度排出钠离子均属于原发性主动转运。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 34
+    },
+    {
+      "c": "35",
+      "type": "multiple_select",
+      "question": "关于人体皮肤系统的组织学解剖与生理功能，下列叙述正确的有（ ）。",
+      "prompt": "关于人体皮肤系统的组织学解剖与生理功能，下列叙述正确的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "表皮基底层细胞具有活跃的有丝分裂增殖能力",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        },
+        {
+          "text": "角质层细胞位于表皮最浅层，细胞核和细胞器已退化消失",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        },
+        {
+          "text": "黑色素细胞位于表皮基底层，合成黑色素防御紫外线损伤",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        },
+        {
+          "text": "表皮层与真皮层内均含有丰富的毛细血管网和痛觉神经末梢",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "在日光紫外线照射下，皮肤中的 7-脱氢胆固醇可转化为维生素 D3 原",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        }
+      ],
+      "options": [
+        {
+          "text": "表皮基底层细胞具有活跃的有丝分裂增殖能力",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        },
+        {
+          "text": "角质层细胞位于表皮最浅层，细胞核和细胞器已退化消失",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        },
+        {
+          "text": "黑色素细胞位于表皮基底层，合成黑色素防御紫外线损伤",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        },
+        {
+          "text": "表皮层与真皮层内均含有丰富的毛细血管网和痛觉神经末梢",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "在日光紫外线照射下，皮肤中的 7-脱氢胆固醇可转化为维生素 D3 原",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 35
+    },
+    {
+      "c": "36",
+      "type": "multiple_select",
+      "question": "关于人体结缔组织的多样性与结构特征，下列叙述正确的有（ ）。",
+      "prompt": "关于人体结缔组织的多样性与结构特征，下列叙述正确的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "关节软骨与流动的血液虽然物理形态迥异，但在组织学分类上均属于结缔组织",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        },
+        {
+          "text": "致密结缔组织中胶原纤维排列致密，细胞与基质相对较少",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        },
+        {
+          "text": "疏松结缔组织中细胞种类丰富（成纤维细胞、巨噬细胞、肥大细胞等）",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        },
+        {
+          "text": "皮脂腺和皮下浅筋膜均属于疏松结缔组织",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "网状结缔组织构成红骨髓、脾脏和淋巴结的网状支架，形成造血微环境",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        }
+      ],
+      "options": [
+        {
+          "text": "关节软骨与流动的血液虽然物理形态迥异，但在组织学分类上均属于结缔组织",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        },
+        {
+          "text": "致密结缔组织中胶原纤维排列致密，细胞与基质相对较少",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        },
+        {
+          "text": "疏松结缔组织中细胞种类丰富（成纤维细胞、巨噬细胞、肥大细胞等）",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        },
+        {
+          "text": "皮脂腺和皮下浅筋膜均属于疏松结缔组织",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "网状结缔组织构成红骨髓、脾脏和淋巴结的网状支架，形成造血微环境",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 36
+    },
+    {
+      "c": "37",
+      "type": "judge",
+      "question": "【判断题】氧气（O2）和二氧化碳（CO2）跨越细胞膜的转运方式是消耗 ATP 的主动运输。",
+      "prompt": "【判断题】氧气（O2）和二氧化碳（CO2）跨越细胞膜的转运方式是消耗 ATP 的主动运输。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。O2 与 CO2 是脂溶性分子，通过单纯扩散（自由扩散）顺浓度差被动跨膜。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。O2 与 CO2 是脂溶性分子，通过单纯扩散（自由扩散）顺浓度差被动跨膜。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。O2 与 CO2 是脂溶性分子，通过单纯扩散（自由扩散）顺浓度差被动跨膜。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 37
+    },
+    {
+      "c": "38",
+      "type": "judge",
+      "question": "【判断题】细胞内用于分泌到细胞外的蛋白质主要在滑面内质网内进行生物合成。",
+      "prompt": "【判断题】细胞内用于分泌到细胞外的蛋白质主要在滑面内质网内进行生物合成。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。分泌蛋白和膜蛋白主要在粗面内质网的结合核糖体上合成，滑面内质网主要合成脂质并参与解毒。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。分泌蛋白和膜蛋白主要在粗面内质网的结合核糖体上合成，滑面内质网主要合成脂质并参与解毒。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。分泌蛋白和膜蛋白主要在粗面内质网的结合核糖体上合成，滑面内质网主要合成脂质并参与解毒。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 38
+    },
+    {
+      "c": "39",
+      "type": "judge",
+      "question": "【判断题】溶酶体内部含有多种酸性水解酶，能够消化分解机体衰老变性的细胞器成分。",
+      "prompt": "【判断题】溶酶体内部含有多种酸性水解酶，能够消化分解机体衰老变性的细胞器成分。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。溶酶体是细胞的“消化器官”，负责自体吞噬和外来异物的降解。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。溶酶体是细胞的“消化器官”，负责自体吞噬和外来异物的降解。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。溶酶体是细胞的“消化器官”，负责自体吞噬和外来异物的降解。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 39
+    },
+    {
+      "c": "40",
+      "type": "judge",
+      "question": "【判断题】在组织学分类中，血液与淋巴液均属于结缔组织的特殊范畴。",
+      "prompt": "【判断题】在组织学分类中，血液与淋巴液均属于结缔组织的特殊范畴。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。血液由血细胞和大量液体基质（血浆）构成，起源于间充质，属于特殊结缔组织。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。血液由血细胞和大量液体基质（血浆）构成，起源于间充质，属于特殊结缔组织。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。血液由血细胞和大量液体基质（血浆）构成，起源于间充质，属于特殊结缔组织。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 40
+    },
+    {
+      "c": "41",
+      "type": "judge",
+      "question": "【判断题】骨组织和软骨组织虽然质地坚硬，但在组织学分类上均属于结缔组织。",
+      "prompt": "【判断题】骨组织和软骨组织虽然质地坚硬，但在组织学分类上均属于结缔组织。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。软骨与骨组织由细胞和大量钙化或固态的细胞外基质构成，属于支持性结缔组织。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。软骨与骨组织由细胞和大量钙化或固态的细胞外基质构成，属于支持性结缔组织。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。软骨与骨组织由细胞和大量钙化或固态的细胞外基质构成，属于支持性结缔组织。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 41
+    },
+    {
+      "c": "42",
+      "type": "judge",
+      "question": "【判断题】真核细胞内的全部遗传物质（DNA）无一例外全部存在于细胞核中。",
+      "prompt": "【判断题】真核细胞内的全部遗传物质（DNA）无一例外全部存在于细胞核中。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。线粒体基质中也含有独立的双链线粒体 DNA（mtDNA）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。线粒体基质中也含有独立的双链线粒体 DNA（mtDNA）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。线粒体基质中也含有独立的双链线粒体 DNA（mtDNA）。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 42
+    },
+    {
+      "c": "43",
+      "type": "judge",
+      "question": "【判断题】皮肤的表皮层内部不仅神经末梢分布极为丰富，而且血管网极为致密。",
+      "prompt": "【判断题】皮肤的表皮层内部不仅神经末梢分布极为丰富，而且血管网极为致密。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。表皮层属于复层扁平角化上皮，内部无任何毛细血管分布。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。表皮层属于复层扁平角化上皮，内部无任何毛细血管分布。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。表皮层属于复层扁平角化上皮，内部无任何毛细血管分布。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 43
+    },
+    {
+      "c": "44",
+      "type": "judge",
+      "question": "【判断题】人体生理学所定义的内环境，本质上是指机体细胞内部的液体环境（细胞内液）。",
+      "prompt": "【判断题】人体生理学所定义的内环境，本质上是指机体细胞内部的液体环境（细胞内液）。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。内环境是指细胞直接浸润和生存的细胞外液环境（组织液、血浆、淋巴等）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。内环境是指细胞直接浸润和生存的细胞外液环境（组织液、血浆、淋巴等）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。内环境是指细胞直接浸润和生存的细胞外液环境（组织液、血浆、淋巴等）。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 44
+    },
+    {
+      "c": "45",
+      "type": "judge",
+      "question": "【判断题】人体全身总水分中，细胞内液的容量显著大于细胞外液的容量。",
+      "prompt": "【判断题】人体全身总水分中，细胞内液的容量显著大于细胞外液的容量。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。体液占体重的 60%，其中细胞内液占 40%，细胞外液仅占 20%。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。体液占体重的 60%，其中细胞内液占 40%，细胞外液仅占 20%。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。体液占体重的 60%，其中细胞内液占 40%，细胞外液仅占 20%。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 45
+    },
+    {
+      "c": "46",
+      "type": "judge",
+      "question": "【判断题】皮肤在紫外线照射下合成的维生素 D3，无需经过肝、肾转化即可完全发挥促进钙吸收的作用。",
+      "prompt": "【判断题】皮肤在紫外线照射下合成的维生素 D3，无需经过肝、肾转化即可完全发挥促进钙吸收的作用。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。皮肤合成的维生素 D3 是无活性前体，必须经肝脏 25-羟化和肾脏 1α-羟化为 1,25-(OH)2-D3 后才具有完全活性。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。皮肤合成的维生素 D3 是无活性前体，必须经肝脏 25-羟化和肾脏 1α-羟化为 1,25-(OH)2-D3 后才具有完全活性。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。皮肤合成的维生素 D3 是无活性前体，必须经肝脏 25-羟化和肾脏 1α-羟化为 1,25-(OH)2-D3 后才具有完全活性。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 46
+    },
+    {
+      "c": "47",
+      "type": "judge",
+      "question": "【判断题】内皮（覆盖心血管管腔）与间皮（覆盖胸膜腹膜表面）在组织学分类上均属于单层扁平上皮。",
+      "prompt": "【判断题】内皮（覆盖心血管管腔）与间皮（覆盖胸膜腹膜表面）在组织学分类上均属于单层扁平上皮。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。内皮和间皮是单层扁平上皮在特定解剖部位的专门名称。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。内皮和间皮是单层扁平上皮在特定解剖部位的专门名称。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。内皮和间皮是单层扁平上皮在特定解剖部位的专门名称。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 47
+    },
+    {
+      "c": "48",
+      "type": "judge",
+      "question": "【判断题】细胞能量通货 ATP 主要在线粒体产生，个体的线粒体遗传物质等量继承自父亲与母亲双方。",
+      "prompt": "【判断题】细胞能量通货 ATP 主要在线粒体产生，个体的线粒体遗传物质等量继承自父亲与母亲双方。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。受精卵中的线粒体几乎全部来自卵细胞胞质，表现为严格的母系遗传。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。受精卵中的线粒体几乎全部来自卵细胞胞质，表现为严格的母系遗传。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。受精卵中的线粒体几乎全部来自卵细胞胞质，表现为严格的母系遗传。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 48
+    },
+    {
+      "c": "49",
+      "type": "judge",
+      "question": "【判断题】基因转录过程发生在细胞核，蛋白质翻译合成过程发生在高尔基体内部。",
+      "prompt": "【判断题】基因转录过程发生在细胞核，蛋白质翻译合成过程发生在高尔基体内部。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。转录在细胞核内进行，蛋白质翻译过程发生在细胞质基质中的核糖体上，高尔基体仅负责修饰加工和分选包装。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。转录在细胞核内进行，蛋白质翻译过程发生在细胞质基质中的核糖体上，高尔基体仅负责修饰加工和分选包装。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。转录在细胞核内进行，蛋白质翻译过程发生在细胞质基质中的核糖体上，高尔基体仅负责修饰加工和分选包装。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 49
+    },
+    {
+      "c": "50",
+      "type": "fill_blank",
+      "question": "解剖学上常用的切面指____、____和____。",
+      "prompt": "解剖学上常用的切面指____、____和____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "水平面（横断面）",
+        "矢状面（纵断面）",
+        "冠状面"
+      ],
+      "blanks": [
+        "水平面（横断面）",
+        "矢状面（纵断面）",
+        "冠状面"
+      ],
+      "rationale": "解剖学三大基本切面为矢状面、冠状面（额状面）和水平面（横断面）。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 50
+    },
+    {
+      "c": "51",
+      "type": "fill_blank",
+      "question": "将人体分为左右两部分的是____；将人体分为上下两部分的是____；将人体分为前后两部分的是____。将人体分为左右对称两半的称____。",
+      "prompt": "将人体分为左右两部分的是____；将人体分为上下两部分的是____；将人体分为前后两部分的是____。将人体分为左右对称两半的称____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "矢状面",
+        "水平面",
+        "冠状面",
+        "正中矢状面"
+      ],
+      "blanks": [
+        "矢状面",
+        "水平面",
+        "冠状面",
+        "正中矢状面"
+      ],
+      "rationale": "矢状面分左右，冠状面分前后，水平面分上下，正中矢状面分为对称左右。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 51
+    },
+    {
+      "c": "52",
+      "type": "fill_blank",
+      "question": "由头顶向足底的垂直于地面的轴称作____，腹背轴又称作____。",
+      "prompt": "由头顶向足底的垂直于地面的轴称作____，腹背轴又称作____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "垂直轴",
+        "前后轴"
+      ],
+      "blanks": [
+        "垂直轴",
+        "前后轴"
+      ],
+      "rationale": "人体解剖学三轴：垂直轴（上下）、矢状轴/前后轴（前后）、冠状轴/垂直于矢状轴（左右）。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 52
+    },
+    {
+      "c": "53",
+      "type": "fill_blank",
+      "question": "在人体的前面体腔中，膈肌之上的是____，膈肌之下的是____。心脏和肺位于____，肝脏和胃肠位于____，膀胱和卵巢位于____。",
+      "prompt": "在人体的前面体腔中，膈肌之上的是____，膈肌之下的是____。心脏和肺位于____，肝脏和胃肠位于____，膀胱和卵巢位于____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "胸腔",
+        "腹腔",
+        "胸腔",
+        "腹腔",
+        "盆腔"
+      ],
+      "blanks": [
+        "胸腔",
+        "腹腔",
+        "胸腔",
+        "腹腔",
+        "盆腔"
+      ],
+      "rationale": "前体腔以膈肌分为胸腔和腹盆腔，腹盆腔以界线分为腹腔和盆腔。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 53
+    },
+    {
+      "c": "54",
+      "type": "fill_blank",
+      "question": "物质由高浓度侧向低浓度侧转运，并且不消耗能量的两种方式为____和____。主动转运时物质由浓度梯度____侧向浓度梯度____侧转运，同时消耗能量。",
+      "prompt": "物质由高浓度侧向低浓度侧转运，并且不消耗能量的两种方式为____和____。主动转运时物质由浓度梯度____侧向浓度梯度____侧转运，同时消耗能量。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "单纯扩散",
+        "协助扩散",
+        "低",
+        "高"
+      ],
+      "blanks": [
+        "单纯扩散",
+        "协助扩散",
+        "低",
+        "高"
+      ],
+      "rationale": "被动转运顺浓度梯度且不耗能（单纯扩散和易化扩散）；主动转运逆浓度梯度且消耗 ATP。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 54
+    },
+    {
+      "c": "55",
+      "type": "fill_blank",
+      "question": "渗透指水分子由____侧向____侧的跨半透膜转移。",
+      "prompt": "渗透指水分子由____侧向____侧的跨半透膜转移。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "低渗",
+        "高渗"
+      ],
+      "blanks": [
+        "低渗",
+        "高渗"
+      ],
+      "rationale": "渗透指水分子由水势高（低溶质/低渗）向水势低（高溶质/高渗）方向扩散。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 55
+    },
+    {
+      "c": "56",
+      "type": "fill_blank",
+      "question": "人体的四种基本组织包括____、____、____和____。",
+      "prompt": "人体的四种基本组织包括____、____、____和____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "上皮组织",
+        "结缔组织",
+        "肌肉组织",
+        "神经组织"
+      ],
+      "blanks": [
+        "上皮组织",
+        "结缔组织",
+        "肌肉组织",
+        "神经组织"
+      ],
+      "rationale": "人体的四大基本组织结构，构成全部器官系统。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 56
+    },
+    {
+      "c": "57",
+      "type": "fill_blank",
+      "question": "结缔组织根据基质及细胞不同分为____、____、脂肪组织、____、骨组织、____和血液。",
+      "prompt": "结缔组织根据基质及细胞不同分为____、____、脂肪组织、____、骨组织、____和血液。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "疏松结缔组织",
+        "致密结缔组织",
+        "网状组织",
+        "软骨组织"
+      ],
+      "blanks": [
+        "疏松结缔组织",
+        "致密结缔组织",
+        "网状组织",
+        "软骨组织"
+      ],
+      "rationale": "固有结缔组织包括疏松、致密、脂肪和网状结缔组织；广义包括软骨、骨和血液。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 57
+    },
+    {
+      "c": "58",
+      "type": "fill_blank",
+      "question": "血液的基本成分包括____和____，血细胞由____、____和____三种成分组成，其中____在止血过程中发挥重要作用。",
+      "prompt": "血液的基本成分包括____和____，血细胞由____、____和____三种成分组成，其中____在止血过程中发挥重要作用。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "血浆",
+        "血细胞",
+        "红细胞",
+        "白细胞",
+        "血小板",
+        "血小板"
+      ],
+      "blanks": [
+        "血浆",
+        "血细胞",
+        "红细胞",
+        "白细胞",
+        "血小板",
+        "血小板"
+      ],
+      "rationale": "血液由血浆和有形成分血细胞组成；血小板参与生理止血与凝血。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 58
+    },
+    {
+      "c": "59",
+      "type": "fill_blank",
+      "question": "外周血中的白细胞包括中性粒细胞、嗜酸粒细胞、嗜碱粒细胞，单核细胞和淋巴细胞。数量最多的白细胞是____，单核细胞进入组织后分化为____。",
+      "prompt": "外周血中的白细胞包括中性粒细胞、嗜酸粒细胞、嗜碱粒细胞，单核细胞和淋巴细胞。数量最多的白细胞是____，单核细胞进入组织后分化为____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "中性粒细胞",
+        "巨噬细胞"
+      ],
+      "blanks": [
+        "中性粒细胞",
+        "巨噬细胞"
+      ],
+      "rationale": "中性粒细胞占白细胞 50%~70%；单核细胞在组织中发育为巨噬细胞发挥吞噬功能。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 59
+    },
+    {
+      "c": "60",
+      "type": "fill_blank",
+      "question": "描述肢体部位时，将靠近躯干侧称为____，远离躯干侧称为____。",
+      "prompt": "描述肢体部位时，将靠近躯干侧称为____，远离躯干侧称为____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "近端",
+        "远端"
+      ],
+      "blanks": [
+        "近端",
+        "远端"
+      ],
+      "rationale": "四肢方位术语中，近躯干端为近端（Proximal），远离端为远端（Distal）。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 60
+    },
+    {
+      "c": "61",
+      "type": "fill_blank",
+      "question": "ABO血型主要取决于____表面是否存在相应的血型抗原，A型血者血清中存在____抗体。Rh血型取决于红细胞表面是否存在____抗原。",
+      "prompt": "ABO血型主要取决于____表面是否存在相应的血型抗原，A型血者血清中存在____抗体。Rh血型取决于红细胞表面是否存在____抗原。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "红细胞",
+        "抗B",
+        "D"
+      ],
+      "blanks": [
+        "红细胞",
+        "抗B",
+        "D"
+      ],
+      "rationale": "红细胞膜上的凝集原决定血型；A型有A抗原，含抗B抗体；Rh阳性指含D抗原。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 61
+    },
+    {
+      "c": "62",
+      "type": "fill_blank",
+      "question": "皮肤包括____和____，其中仅有神经末梢分布而无血管的是____。朗格汉斯细胞相当于皮肤中的____。",
+      "prompt": "皮肤包括____和____，其中仅有神经末梢分布而无血管的是____。朗格汉斯细胞相当于皮肤中的____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "表皮",
+        "真皮",
+        "表皮",
+        "巨噬细胞"
+      ],
+      "blanks": [
+        "表皮",
+        "真皮",
+        "表皮",
+        "巨噬细胞"
+      ],
+      "rationale": "表皮无血管分布，由真皮乳头毛细血管提供营养；朗格汉斯细胞为抗原提呈细胞（巨噬细胞系统）。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 62
+    },
+    {
+      "c": "63",
+      "type": "fill_blank",
+      "question": "内环境指____，细胞内液、细胞外液中属于内环境的是____。",
+      "prompt": "内环境指____，细胞内液、细胞外液中属于内环境的是____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "细胞生存的液体环境",
+        "细胞外液"
+      ],
+      "blanks": [
+        "细胞生存的液体环境",
+        "细胞外液"
+      ],
+      "rationale": "细胞外液即内环境，是体内细胞赖以生存并进行物质交换的直接环境。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 63
+    },
+    {
+      "c": "64",
+      "type": "fill_blank",
+      "question": "细胞骨架包括____、____和____。在细胞有丝分裂时参与组装纺锤体的是____。",
+      "prompt": "细胞骨架包括____、____和____。在细胞有丝分裂时参与组装纺锤体的是____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "微丝",
+        "微管",
+        "中间丝",
+        "微管"
+      ],
+      "blanks": [
+        "微丝",
+        "微管",
+        "中间丝",
+        "微管"
+      ],
+      "rationale": "细胞骨架维持细胞形态；中心体与微管参与组装纺锤丝驱动染色体分离。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 64
+    }
+  ],
+  "quiz": [
+    {
+      "c": "1",
+      "type": "single_choice",
+      "question": "下列关于人体解剖学方位的描述，错误的是（ ）。",
+      "prompt": "下列关于人体解剖学方位的描述，错误的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "距人体正中矢状面近者为内侧，远者为外侧",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "近前腹面者为腹侧，近后背面者为背侧",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "以体表为准，靠近表面者为近端，远离表面者为远端",
+          "isCorrect": true,
+          "rationale": "近表面者为浅（Superficial），远离表面者为深（Deep）；近端与远端专用于描述四肢器官靠近或远离躯干。"
+        },
+        {
+          "text": "近头侧者为上、近足底者为下",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "距人体正中矢状面近者为内侧，远者为外侧",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "近前腹面者为腹侧，近后背面者为背侧",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "以体表为准，靠近表面者为近端，远离表面者为远端",
+          "isCorrect": true,
+          "rationale": "近表面者为浅（Superficial），远离表面者为深（Deep）；近端与远端专用于描述四肢器官靠近或远离躯干。"
+        },
+        {
+          "text": "近头侧者为上、近足底者为下",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "近表面者为浅（Superficial），远离表面者为深（Deep）；近端与远端专用于描述四肢器官靠近或远离躯干。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 1
+    },
+    {
+      "c": "2",
+      "type": "single_choice",
+      "question": "下列物质中，主要以单纯扩散（自由扩散）方式跨越细胞膜的是（ ）。",
+      "prompt": "下列物质中，主要以单纯扩散（自由扩散）方式跨越细胞膜的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "葡萄糖分子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "氨基酸分子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "O2 和 CO2",
+          "isCorrect": true,
+          "rationale": "脂溶性小分子气体（O2, CO2）以单纯扩散跨膜；离子需要通道蛋白；氨基酸与葡萄糖需转运载体协助。"
+        },
+        {
+          "text": "Ca2+ 离子",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "葡萄糖分子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "氨基酸分子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "O2 和 CO2",
+          "isCorrect": true,
+          "rationale": "脂溶性小分子气体（O2, CO2）以单纯扩散跨膜；离子需要通道蛋白；氨基酸与葡萄糖需转运载体协助。"
+        },
+        {
+          "text": "Ca2+ 离子",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "脂溶性小分子气体（O2, CO2）以单纯扩散跨膜；离子需要通道蛋白；氨基酸与葡萄糖需转运载体协助。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 2
+    },
+    {
+      "c": "3",
+      "type": "single_choice",
+      "question": "下列物质跨膜转运过程中，必须直接或间接消耗能量（主动转运）的是（ ）。",
+      "prompt": "下列物质跨膜转运过程中，必须直接或间接消耗能量（主动转运）的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "K+ 顺浓度梯度由细胞内转运至细胞外",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "类固醇激素顺梯度由细胞外自由进入细胞内",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "O2 顺分压差由细胞外进入细胞内",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Na+ 逆浓度梯度由细胞内转运至细胞外",
+          "isCorrect": true,
+          "rationale": "Na+-K+泵逆浓度差将 Na+ 泵出、K+ 泵入，直接水解 ATP 消耗能量。"
+        }
+      ],
+      "options": [
+        {
+          "text": "K+ 顺浓度梯度由细胞内转运至细胞外",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "类固醇激素顺梯度由细胞外自由进入细胞内",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "O2 顺分压差由细胞外进入细胞内",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Na+ 逆浓度梯度由细胞内转运至细胞外",
+          "isCorrect": true,
+          "rationale": "Na+-K+泵逆浓度差将 Na+ 泵出、K+ 泵入，直接水解 ATP 消耗能量。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "Na+-K+泵逆浓度差将 Na+ 泵出、K+ 泵入，直接水解 ATP 消耗能量。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 3
+    },
+    {
+      "c": "4",
+      "type": "single_choice",
+      "question": "下列关于机体内环境概念的叙述，正确的是（ ）。",
+      "prompt": "下列关于机体内环境概念的叙述，正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "内环境理化性质随外界剧烈变化而发生巨大改变",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆、组织液等细胞外液是体内的内环境",
+          "isCorrect": true,
+          "rationale": "内环境专指细胞外液（组织液、血浆、淋巴等）。消化道管腔与外界相通，不属于内环境。"
+        },
+        {
+          "text": "胃肠道消化腔属于机体内环境",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "内环境由细胞内液与细胞外液共同组成",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "内环境理化性质随外界剧烈变化而发生巨大改变",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆、组织液等细胞外液是体内的内环境",
+          "isCorrect": true,
+          "rationale": "内环境专指细胞外液（组织液、血浆、淋巴等）。消化道管腔与外界相通，不属于内环境。"
+        },
+        {
+          "text": "胃肠道消化腔属于机体内环境",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "内环境由细胞内液与细胞外液共同组成",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "内环境专指细胞外液（组织液、血浆、淋巴等）。消化道管腔与外界相通，不属于内环境。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 4
+    },
+    {
+      "c": "5",
+      "type": "single_choice",
+      "question": "主动转运与被动转运的本质根本区别是（ ）。",
+      "prompt": "主动转运与被动转运的本质根本区别是（ ）。",
+      "answerOptions": [
+        {
+          "text": "转运过程是否能产生跨膜动作电位",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "转运过程是否需要细胞膜上的特异性蛋白参与",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "转运过程是否会改变细胞内环境",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "转运过程是否需要消耗机体代谢能量（ATP）",
+          "isCorrect": true,
+          "rationale": "主动转运逆电化学梯度且消耗能量；被动转运顺电化学梯度且不消耗代谢能量。"
+        }
+      ],
+      "options": [
+        {
+          "text": "转运过程是否能产生跨膜动作电位",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "转运过程是否需要细胞膜上的特异性蛋白参与",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "转运过程是否会改变细胞内环境",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "转运过程是否需要消耗机体代谢能量（ATP）",
+          "isCorrect": true,
+          "rationale": "主动转运逆电化学梯度且消耗能量；被动转运顺电化学梯度且不消耗代谢能量。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "主动转运逆电化学梯度且消耗能量；被动转运顺电化学梯度且不消耗代谢能量。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 5
+    },
+    {
+      "c": "6",
+      "type": "single_choice",
+      "question": "下列人体结构中，不属于上皮组织来源的是（ ）。",
+      "prompt": "下列人体结构中，不属于上皮组织来源的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "血管腔面的内皮",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "皮肤毛囊旁的皮脂腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "骨与骨连接的韧带",
+          "isCorrect": true,
+          "rationale": "韧带属于致密结缔组织；皮脂腺是外分泌腺上皮；表皮为复层扁平上皮；内皮为单层扁平上皮。"
+        },
+        {
+          "text": "皮肤表皮",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "血管腔面的内皮",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "皮肤毛囊旁的皮脂腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "骨与骨连接的韧带",
+          "isCorrect": true,
+          "rationale": "韧带属于致密结缔组织；皮脂腺是外分泌腺上皮；表皮为复层扁平上皮；内皮为单层扁平上皮。"
+        },
+        {
+          "text": "皮肤表皮",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "韧带属于致密结缔组织；皮脂腺是外分泌腺上皮；表皮为复层扁平上皮；内皮为单层扁平上皮。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 6
+    },
+    {
+      "c": "7",
+      "type": "single_choice",
+      "question": "下列真核细胞的亚细胞器中，自身含有独立遗传物质（DNA）的是（ ）。",
+      "prompt": "下列真核细胞的亚细胞器中，自身含有独立遗传物质（DNA）的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "高尔基体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "线粒体",
+          "isCorrect": true,
+          "rationale": "线粒体含有独立的双链环状 mtDNA，具有半自主遗传性。"
+        },
+        {
+          "text": "滑面内质网",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "溶酶体",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "高尔基体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "线粒体",
+          "isCorrect": true,
+          "rationale": "线粒体含有独立的双链环状 mtDNA，具有半自主遗传性。"
+        },
+        {
+          "text": "滑面内质网",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "溶酶体",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "线粒体含有独立的双链环状 mtDNA，具有半自主遗传性。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 7
+    },
+    {
+      "c": "8",
+      "type": "single_choice",
+      "question": "按照人体形态与结构层次，由微观到宏观排列正确的是（ ）。",
+      "prompt": "按照人体形态与结构层次，由微观到宏观排列正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "细胞 → 组织 → 器官 → 系统",
+          "isCorrect": true,
+          "rationale": "生命系统的结构层次：细胞（基本结构单位）→ 组织 → 器官 → 系统 → 人体。"
+        },
+        {
+          "text": "组织 → 细胞 → 器官 → 系统",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "细胞 → 组织 → 系统 → 器官",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "细胞 → 器官 → 系统 → 组织",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "细胞 → 组织 → 器官 → 系统",
+          "isCorrect": true,
+          "rationale": "生命系统的结构层次：细胞（基本结构单位）→ 组织 → 器官 → 系统 → 人体。"
+        },
+        {
+          "text": "组织 → 细胞 → 器官 → 系统",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "细胞 → 组织 → 系统 → 器官",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "细胞 → 器官 → 系统 → 组织",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "生命系统的结构层次：细胞（基本结构单位）→ 组织 → 器官 → 系统 → 人体。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 8
+    },
+    {
+      "c": "9",
+      "type": "single_choice",
+      "question": "关于细胞凋亡（Apoptosis）与细胞坏死（Necrosis）的区别，叙述正确的是（ ）。",
+      "prompt": "关于细胞凋亡（Apoptosis）与细胞坏死（Necrosis）的区别，叙述正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "细胞坏死是受基因严格调控的主动死亡程序",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "两者均伴随细胞膜破裂和剧烈的局部炎症反应",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "细胞凋亡是由细胞内预定程序启动的主动死亡，不引起急性炎症反应",
+          "isCorrect": true,
+          "rationale": "凋亡为生理性程序化死亡，形成凋亡小体并被吞噬，不引发炎症；坏死常伴随细胞肿胀裂解与炎症。"
+        },
+        {
+          "text": "细胞凋亡常导致细胞溶酶体破裂和组织大面积坏死",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "细胞坏死是受基因严格调控的主动死亡程序",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "两者均伴随细胞膜破裂和剧烈的局部炎症反应",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "细胞凋亡是由细胞内预定程序启动的主动死亡，不引起急性炎症反应",
+          "isCorrect": true,
+          "rationale": "凋亡为生理性程序化死亡，形成凋亡小体并被吞噬，不引发炎症；坏死常伴随细胞肿胀裂解与炎症。"
+        },
+        {
+          "text": "细胞凋亡常导致细胞溶酶体破裂和组织大面积坏死",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "凋亡为生理性程序化死亡，形成凋亡小体并被吞噬，不引发炎症；坏死常伴随细胞肿胀裂解与炎症。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 9
+    },
+    {
+      "c": "10",
+      "type": "single_choice",
+      "question": "关于红细胞（RBC）的微细结构与生理特征，叙述错误的是（ ）。",
+      "prompt": "关于红细胞（RBC）的微细结构与生理特征，叙述错误的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "由于缺乏细胞核与内质网，成熟红细胞自身具有极强的蛋白质合成修复能力",
+          "isCorrect": true,
+          "rationale": "成熟哺乳动物红细胞无核无细胞器，无法再合成新的蛋白质与酶类，故损伤后不能自我修复。"
+        },
+        {
+          "text": "红细胞寿命约为 120 天，衰老后主要在脾脏和肝脏被吞噬清除",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "成熟红细胞呈双凹圆盘状，无细胞核和细胞器",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胞质内充满血红蛋白，专司运输氧气和二氧化碳",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "由于缺乏细胞核与内质网，成熟红细胞自身具有极强的蛋白质合成修复能力",
+          "isCorrect": true,
+          "rationale": "成熟哺乳动物红细胞无核无细胞器，无法再合成新的蛋白质与酶类，故损伤后不能自我修复。"
+        },
+        {
+          "text": "红细胞寿命约为 120 天，衰老后主要在脾脏和肝脏被吞噬清除",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "成熟红细胞呈双凹圆盘状，无细胞核和细胞器",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胞质内充满血红蛋白，专司运输氧气和二氧化碳",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "成熟哺乳动物红细胞无核无细胞器，无法再合成新的蛋白质与酶类，故损伤后不能自我修复。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 10
+    },
+    {
+      "c": "11",
+      "type": "single_choice",
+      "question": "人体四种基本组织中，细胞排列紧密、细胞间质极少的是（ ）。",
+      "prompt": "人体四种基本组织中，细胞排列紧密、细胞间质极少的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "肌肉组织",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "上皮组织",
+          "isCorrect": true,
+          "rationale": "上皮组织细胞多而紧密，细胞间质极少，覆盖于体表或衬贴于管腔内面。"
+        },
+        {
+          "text": "神经组织",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "结缔组织",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "肌肉组织",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "上皮组织",
+          "isCorrect": true,
+          "rationale": "上皮组织细胞多而紧密，细胞间质极少，覆盖于体表或衬贴于管腔内面。"
+        },
+        {
+          "text": "神经组织",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "结缔组织",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "上皮组织细胞多而紧密，细胞间质极少，覆盖于体表或衬贴于管腔内面。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 11
+    },
+    {
+      "c": "12",
+      "type": "single_choice",
+      "question": "下列疏松结缔组织细胞中，在发生过敏反应时能释放组胺和白三烯的是（ ）。",
+      "prompt": "下列疏松结缔组织细胞中，在发生过敏反应时能释放组胺和白三烯的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "脂肪细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "浆细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肥大细胞",
+          "isCorrect": true,
+          "rationale": "肥大细胞胞质内含嗜碱性颗粒，遇抗原刺激释放组胺、肝素等过敏活性介质。"
+        },
+        {
+          "text": "成纤维细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "脂肪细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "浆细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肥大细胞",
+          "isCorrect": true,
+          "rationale": "肥大细胞胞质内含嗜碱性颗粒，遇抗原刺激释放组胺、肝素等过敏活性介质。"
+        },
+        {
+          "text": "成纤维细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肥大细胞胞质内含嗜碱性颗粒，遇抗原刺激释放组胺、肝素等过敏活性介质。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 12
+    },
+    {
+      "c": "13",
+      "type": "single_choice",
+      "question": "临床上常用的 ABO 血型分类，属于下列哪类细胞的表面特异抗原？（ ）",
+      "prompt": "临床上常用的 ABO 血型分类，属于下列哪类细胞的表面特异抗原？（ ）",
+      "answerOptions": [
+        {
+          "text": "血管内皮细胞血型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞血型",
+          "isCorrect": true,
+          "rationale": "ABO 和 Rh 血型均以红细胞膜上的凝集原（糖蛋白或多肽抗原）为判定依据。"
+        },
+        {
+          "text": "白细胞血型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血小板血型",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "血管内皮细胞血型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞血型",
+          "isCorrect": true,
+          "rationale": "ABO 和 Rh 血型均以红细胞膜上的凝集原（糖蛋白或多肽抗原）为判定依据。"
+        },
+        {
+          "text": "白细胞血型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血小板血型",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "ABO 和 Rh 血型均以红细胞膜上的凝集原（糖蛋白或多肽抗原）为判定依据。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 13
+    },
+    {
+      "c": "14",
+      "type": "single_choice",
+      "question": "关于 AB 型、Rh 阴性（AB-）血液的描述，下列叙述错误的是（ ）。",
+      "prompt": "关于 AB 型、Rh 阴性（AB-）血液的描述，下列叙述错误的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "其红细胞表面不表达 Rh 血型系统的 D 抗原",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "其血清中天生必然存在高滴度的抗 D 抗体",
+          "isCorrect": true,
+          "rationale": "Rh血型系统中，Rh阴性者血清中天生没有抗D抗体，只有在接触Rh阳性红细胞（如输血或怀孕）免疫后才会产生抗D抗体。"
+        },
+        {
+          "text": "其血清中既不存在天然抗 A 抗体，也不存在天然抗 B 抗体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "其红细胞表面同时表达有 A 抗原和 B 抗原",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "其红细胞表面不表达 Rh 血型系统的 D 抗原",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "其血清中天生必然存在高滴度的抗 D 抗体",
+          "isCorrect": true,
+          "rationale": "Rh血型系统中，Rh阴性者血清中天生没有抗D抗体，只有在接触Rh阳性红细胞（如输血或怀孕）免疫后才会产生抗D抗体。"
+        },
+        {
+          "text": "其血清中既不存在天然抗 A 抗体，也不存在天然抗 B 抗体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "其红细胞表面同时表达有 A 抗原和 B 抗原",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "Rh血型系统中，Rh阴性者血清中天生没有抗D抗体，只有在接触Rh阳性红细胞（如输血或怀孕）免疫后才会产生抗D抗体。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 14
+    },
+    {
+      "c": "15",
+      "type": "single_choice",
+      "question": "关于 Rh 血型系统的特征描述，下列不正确的是（ ）。",
+      "prompt": "关于 Rh 血型系统的特征描述，下列不正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "Rh 血型属于红细胞凝集原系统",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "我国汉族人群中绝大多数（99%以上）均为 Rh 阳性血型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "临床输血必须同时进行 ABO 与 Rh 两种血型的配型检测",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Rh 阴性者血清中天生就存在天然抗 Rh 抗体",
+          "isCorrect": true,
+          "rationale": "人血清中无天然抗Rh抗体，该抗体为后天免疫产生。"
+        }
+      ],
+      "options": [
+        {
+          "text": "Rh 血型属于红细胞凝集原系统",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "我国汉族人群中绝大多数（99%以上）均为 Rh 阳性血型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "临床输血必须同时进行 ABO 与 Rh 两种血型的配型检测",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Rh 阴性者血清中天生就存在天然抗 Rh 抗体",
+          "isCorrect": true,
+          "rationale": "人血清中无天然抗Rh抗体，该抗体为后天免疫产生。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "人血清中无天然抗Rh抗体，该抗体为后天免疫产生。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 15
+    },
+    {
+      "c": "16",
+      "type": "single_choice",
+      "question": "在疏松结缔组织中，负责合成胶原纤维、弹性纤维及细胞外基质的主要细胞是（ ）。",
+      "prompt": "在疏松结缔组织中，负责合成胶原纤维、弹性纤维及细胞外基质的主要细胞是（ ）。",
+      "answerOptions": [
+        {
+          "text": "单核细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "巨噬细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肥大细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "成纤维细胞",
+          "isCorrect": true,
+          "rationale": "成纤维细胞是结缔组织的核心功能细胞，具有旺盛的分泌胶原蛋白和基质分子的能力。"
+        }
+      ],
+      "options": [
+        {
+          "text": "单核细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "巨噬细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肥大细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "成纤维细胞",
+          "isCorrect": true,
+          "rationale": "成纤维细胞是结缔组织的核心功能细胞，具有旺盛的分泌胶原蛋白和基质分子的能力。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "成纤维细胞是结缔组织的核心功能细胞，具有旺盛的分泌胶原蛋白和基质分子的能力。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 16
+    },
+    {
+      "c": "17",
+      "type": "single_choice",
+      "question": "结缔组织中的巨噬细胞主要由外周血中的哪种白细胞穿出血管壁后分化发育而来？（ ）",
+      "prompt": "结缔组织中的巨噬细胞主要由外周血中的哪种白细胞穿出血管壁后分化发育而来？（ ）",
+      "answerOptions": [
+        {
+          "text": "中性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "嗜碱性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "单核细胞",
+          "isCorrect": true,
+          "rationale": "外周血单核细胞在血管内存留 1~3 天后迁入组织，体积增大演变为巨噬细胞。"
+        }
+      ],
+      "options": [
+        {
+          "text": "中性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "嗜碱性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "单核细胞",
+          "isCorrect": true,
+          "rationale": "外周血单核细胞在血管内存留 1~3 天后迁入组织，体积增大演变为巨噬细胞。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "外周血单核细胞在血管内存留 1~3 天后迁入组织，体积增大演变为巨噬细胞。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 17
+    },
+    {
+      "c": "18",
+      "type": "single_choice",
+      "question": "下列人体细胞类型中，不属于传统生理学定义的“可兴奋细胞”的是（ ）。",
+      "prompt": "下列人体细胞类型中，不属于传统生理学定义的“可兴奋细胞”的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "骨骼肌细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血管内皮细胞",
+          "isCorrect": true,
+          "rationale": "可兴奋细胞特指受刺激后能产生动作电位的细胞（神经细胞、肌细胞、内分泌腺细胞）。内皮细胞无此特性。"
+        },
+        {
+          "text": "神经细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃肠道平滑肌细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "骨骼肌细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血管内皮细胞",
+          "isCorrect": true,
+          "rationale": "可兴奋细胞特指受刺激后能产生动作电位的细胞（神经细胞、肌细胞、内分泌腺细胞）。内皮细胞无此特性。"
+        },
+        {
+          "text": "神经细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胃肠道平滑肌细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "可兴奋细胞特指受刺激后能产生动作电位的细胞（神经细胞、肌细胞、内分泌腺细胞）。内皮细胞无此特性。",
+      "hint": "结合解剖方位定义与人体微观组织生理学规律分析",
+      "id": 18
+    },
+    {
+      "c": "19",
+      "type": "single_choice",
+      "question": "【配伍题】红细胞表面存在 A 抗原，血清中能够检测到抗-B 抗体的血型是（ ）。",
+      "prompt": "【配伍题】红细胞表面存在 A 抗原，血清中能够检测到抗-B 抗体的血型是（ ）。",
+      "answerOptions": [
+        {
+          "text": "O 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "AB 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "B 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "A 型",
+          "isCorrect": true,
+          "rationale": "A型血红细胞带A抗原，血清含抗B抗体。"
+        }
+      ],
+      "options": [
+        {
+          "text": "O 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "AB 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "B 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "A 型",
+          "isCorrect": true,
+          "rationale": "A型血红细胞带A抗原，血清含抗B抗体。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "A型血红细胞带A抗原，血清含抗B抗体。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 19
+    },
+    {
+      "c": "20",
+      "type": "single_choice",
+      "question": "【配伍题】红细胞表面同时检测到 A 抗原和 B 抗原，血清中无抗-A 和抗-B 抗体的血型是（ ）。",
+      "prompt": "【配伍题】红细胞表面同时检测到 A 抗原和 B 抗原，血清中无抗-A 和抗-B 抗体的血型是（ ）。",
+      "answerOptions": [
+        {
+          "text": "A 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "B 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "AB 型",
+          "isCorrect": true,
+          "rationale": "AB型血红细胞带A和B抗原，血清无天然凝集素。"
+        },
+        {
+          "text": "O 型",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "A 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "B 型",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "AB 型",
+          "isCorrect": true,
+          "rationale": "AB型血红细胞带A和B抗原，血清无天然凝集素。"
+        },
+        {
+          "text": "O 型",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "AB型血红细胞带A和B抗原，血清无天然凝集素。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 20
+    },
+    {
+      "c": "21",
+      "type": "single_choice",
+      "question": "【配伍题】红细胞表面能够检测到 Rh 系统特异性 D 抗原的血型是（ ）。",
+      "prompt": "【配伍题】红细胞表面能够检测到 Rh 系统特异性 D 抗原的血型是（ ）。",
+      "answerOptions": [
+        {
+          "text": "Rh 阳性（Rh+）",
+          "isCorrect": true,
+          "rationale": "红细胞表面有D抗原即为Rh阳性。"
+        },
+        {
+          "text": "ABO 阴性",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "O 型血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Rh 阴性（Rh-）",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "Rh 阳性（Rh+）",
+          "isCorrect": true,
+          "rationale": "红细胞表面有D抗原即为Rh阳性。"
+        },
+        {
+          "text": "ABO 阴性",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "O 型血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Rh 阴性（Rh-）",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "红细胞表面有D抗原即为Rh阳性。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 21
+    },
+    {
+      "c": "22",
+      "type": "single_choice",
+      "question": "【配伍题】健康成年人外周血中，数量最多的血细胞成分是（ ）。",
+      "prompt": "【配伍题】健康成年人外周血中，数量最多的血细胞成分是（ ）。",
+      "answerOptions": [
+        {
+          "text": "红细胞",
+          "isCorrect": true,
+          "rationale": "红细胞每微升血液约 400~550 万个，数量远超白细胞与血小板。"
+        },
+        {
+          "text": "血小板",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "红细胞",
+          "isCorrect": true,
+          "rationale": "红细胞每微升血液约 400~550 万个，数量远超白细胞与血小板。"
+        },
+        {
+          "text": "血小板",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "红细胞每微升血液约 400~550 万个，数量远超白细胞与血小板。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 22
+    },
+    {
+      "c": "23",
+      "type": "single_choice",
+      "question": "【配伍题】外周血白细胞分类计数中，所占百分比最高（50%~70%）的细胞是（ ）。",
+      "prompt": "【配伍题】外周血白细胞分类计数中，所占百分比最高（50%~70%）的细胞是（ ）。",
+      "answerOptions": [
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "中性分叶核粒细胞是机体抵御化脓性细菌感染的第一道防线。"
+        },
+        {
+          "text": "单核细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "中性分叶核粒细胞是机体抵御化脓性细菌感染的第一道防线。"
+        },
+        {
+          "text": "单核细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "中性分叶核粒细胞是机体抵御化脓性细菌感染的第一道防线。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 23
+    },
+    {
+      "c": "24",
+      "type": "single_choice",
+      "question": "【配伍题】在生理性止血、形成血栓以及维持毛细血管壁完整性中发挥核心作用的是（ ）。",
+      "prompt": "【配伍题】在生理性止血、形成血栓以及维持毛细血管壁完整性中发挥核心作用的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "血小板",
+          "isCorrect": true,
+          "rationale": "血小板黏附、聚集形成止血栓并释放促凝介质。"
+        },
+        {
+          "text": "血浆白蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "白细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "血小板",
+          "isCorrect": true,
+          "rationale": "血小板黏附、聚集形成止血栓并释放促凝介质。"
+        },
+        {
+          "text": "血浆白蛋白",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "白细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "血小板黏附、聚集形成止血栓并释放促凝介质。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 24
+    },
+    {
+      "c": "25",
+      "type": "single_choice",
+      "question": "【配伍题】显微镜下细胞核呈多分叶状（通常分为 2~5 叶）的白细胞是（ ）。",
+      "prompt": "【配伍题】显微镜下细胞核呈多分叶状（通常分为 2~5 叶）的白细胞是（ ）。",
+      "answerOptions": [
+        {
+          "text": "单核细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "中性粒细胞成熟过程中核分叶，叶数随老化而增多。"
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "单核细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "中性粒细胞成熟过程中核分叶，叶数随老化而增多。"
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "中性粒细胞成熟过程中核分叶，叶数随老化而增多。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 25
+    },
+    {
+      "c": "26",
+      "type": "single_choice",
+      "question": "【配伍题】在体内介导细胞免疫与体液免疫，属于特异性适应性免疫的核心细胞是（ ）。",
+      "prompt": "【配伍题】在体内介导细胞免疫与体液免疫，属于特异性适应性免疫的核心细胞是（ ）。",
+      "answerOptions": [
+        {
+          "text": "中性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血小板",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": true,
+          "rationale": "T淋巴细胞介导细胞免疫，B淋巴细胞介导体液免疫。"
+        }
+      ],
+      "options": [
+        {
+          "text": "中性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血小板",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "淋巴细胞",
+          "isCorrect": true,
+          "rationale": "T淋巴细胞介导细胞免疫，B淋巴细胞介导体液免疫。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "T淋巴细胞介导细胞免疫，B淋巴细胞介导体液免疫。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 26
+    },
+    {
+      "c": "27",
+      "type": "single_choice",
+      "question": "【配伍题】在机体发生急性细菌感染或炎症反应时，能迅速穿出血管壁执行强吞噬杀菌功能的白细胞是（ ）。",
+      "prompt": "【配伍题】在机体发生急性细菌感染或炎症反应时，能迅速穿出血管壁执行强吞噬杀菌功能的白细胞是（ ）。",
+      "answerOptions": [
+        {
+          "text": "血小板",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "嗜酸性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "中性粒细胞具有强大的趋化运动与吞噬杀菌作用。"
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "血小板",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "嗜酸性粒细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "中性粒细胞具有强大的趋化运动与吞噬杀菌作用。"
+        },
+        {
+          "text": "红细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "中性粒细胞具有强大的趋化运动与吞噬杀菌作用。",
+      "hint": "对照血液学各种血细胞的生理形态与功能差异",
+      "id": 27
+    },
+    {
+      "c": "28",
+      "type": "multiple_select",
+      "question": "下列人体器官或组织结构中，在组织学分类上属于结缔组织的有（ ）。",
+      "prompt": "下列人体器官或组织结构中，在组织学分类上属于结缔组织的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "连接骨骼的肌腱",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        },
+        {
+          "text": "弹性软骨",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        },
+        {
+          "text": "皮下浅筋膜组织",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        },
+        {
+          "text": "皮脂腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "循环血液",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        }
+      ],
+      "options": [
+        {
+          "text": "连接骨骼的肌腱",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        },
+        {
+          "text": "弹性软骨",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        },
+        {
+          "text": "皮下浅筋膜组织",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        },
+        {
+          "text": "皮脂腺",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "循环血液",
+          "isCorrect": true,
+          "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "软骨、血液、皮下疏松组织、肌腱（致密结缔组织）均属于结缔组织；皮脂腺属于上皮组织。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 28
+    },
+    {
+      "c": "29",
+      "type": "multiple_select",
+      "question": "下列物质中，能够以单纯扩散方式自由跨越细胞脂质双分子层的有（ ）。",
+      "prompt": "下列物质中，能够以单纯扩散方式自由跨越细胞脂质双分子层的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "O2 分子",
+          "isCorrect": true,
+          "rationale": "脂溶性非极性气体分子（O2, CO2）可自由扩散；带电离子与水溶性大分子必须依靠通道或转运体。"
+        },
+        {
+          "text": "Ca2+ 离子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆蛋白质",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "氨基酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "CO2 分子",
+          "isCorrect": true,
+          "rationale": "脂溶性非极性气体分子（O2, CO2）可自由扩散；带电离子与水溶性大分子必须依靠通道或转运体。"
+        }
+      ],
+      "options": [
+        {
+          "text": "O2 分子",
+          "isCorrect": true,
+          "rationale": "脂溶性非极性气体分子（O2, CO2）可自由扩散；带电离子与水溶性大分子必须依靠通道或转运体。"
+        },
+        {
+          "text": "Ca2+ 离子",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "血浆蛋白质",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "氨基酸",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "CO2 分子",
+          "isCorrect": true,
+          "rationale": "脂溶性非极性气体分子（O2, CO2）可自由扩散；带电离子与水溶性大分子必须依靠通道或转运体。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "脂溶性非极性气体分子（O2, CO2）可自由扩散；带电离子与水溶性大分子必须依靠通道或转运体。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 29
+    },
+    {
+      "c": "30",
+      "type": "multiple_select",
+      "question": "下列细胞器中，内部含有核酸（DNA 或 RNA）遗传或翻译物质的有（ ）。",
+      "prompt": "下列细胞器中，内部含有核酸（DNA 或 RNA）遗传或翻译物质的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "细胞核",
+          "isCorrect": true,
+          "rationale": "细胞核内富含染色质 DNA 与各种 RNA；线粒体基质含环状 mtDNA 与线粒体核糖体。"
+        },
+        {
+          "text": "高尔基体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "滑面内质网",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "溶酶体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "线粒体",
+          "isCorrect": true,
+          "rationale": "细胞核内富含染色质 DNA 与各种 RNA；线粒体基质含环状 mtDNA 与线粒体核糖体。"
+        }
+      ],
+      "options": [
+        {
+          "text": "细胞核",
+          "isCorrect": true,
+          "rationale": "细胞核内富含染色质 DNA 与各种 RNA；线粒体基质含环状 mtDNA 与线粒体核糖体。"
+        },
+        {
+          "text": "高尔基体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "滑面内质网",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "溶酶体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "线粒体",
+          "isCorrect": true,
+          "rationale": "细胞核内富含染色质 DNA 与各种 RNA；线粒体基质含环状 mtDNA 与线粒体核糖体。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "细胞核内富含染色质 DNA 与各种 RNA；线粒体基质含环状 mtDNA 与线粒体核糖体。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 30
+    },
+    {
+      "c": "31",
+      "type": "multiple_select",
+      "question": "血液中的细胞成分（有形成分）包括下列哪些？（ ）",
+      "prompt": "血液中的细胞成分（有形成分）包括下列哪些？（ ）",
+      "answerOptions": [
+        {
+          "text": "红细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。"
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。"
+        },
+        {
+          "text": "成熟巨噬细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "单核细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。"
+        },
+        {
+          "text": "血管内皮细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "红细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。"
+        },
+        {
+          "text": "中性粒细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。"
+        },
+        {
+          "text": "成熟巨噬细胞",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "单核细胞",
+          "isCorrect": true,
+          "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。"
+        },
+        {
+          "text": "血管内皮细胞",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "巨噬细胞定居于结缔组织中；内皮细胞为血管壁内层上皮；血液内有形成分为红细胞、各型白细胞及血小板。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 31
+    },
+    {
+      "c": "32",
+      "type": "multiple_select",
+      "question": "关于临床输血原则及交叉配血试验，下列叙述正确的有（ ）。",
+      "prompt": "关于临床输血原则及交叉配血试验，下列叙述正确的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "主侧交叉配血使用受血者血清与供血者红细胞进行凝集反应",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        },
+        {
+          "text": "只要供受者 ABO 血型相同，临床就无需再做交叉配血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "紧急极特殊情况下少量缓慢输入 O 型红细胞是因其红细胞不含 A、B 凝集原",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        },
+        {
+          "text": "主侧交叉配血发现凝集或溶血，绝对严禁输血",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        },
+        {
+          "text": "次侧配血使用供血者血清与受血者红细胞检验",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        }
+      ],
+      "options": [
+        {
+          "text": "主侧交叉配血使用受血者血清与供血者红细胞进行凝集反应",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        },
+        {
+          "text": "只要供受者 ABO 血型相同，临床就无需再做交叉配血",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "紧急极特殊情况下少量缓慢输入 O 型红细胞是因其红细胞不含 A、B 凝集原",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        },
+        {
+          "text": "主侧交叉配血发现凝集或溶血，绝对严禁输血",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        },
+        {
+          "text": "次侧配血使用供血者血清与受血者红细胞检验",
+          "isCorrect": true,
+          "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "同型输血也要做交叉配血试验；主侧（受血者血清 + 供血者红细胞）绝对不凝集为安全输血底线。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 32
+    },
+    {
+      "c": "33",
+      "type": "multiple_select",
+      "question": "下列机体生理参数中，属于健康成年人安静状态下正常生命体征的有（ ）。",
+      "prompt": "下列机体生理参数中，属于健康成年人安静状态下正常生命体征的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "呼吸频率 30 次/分",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心率 80 次/分",
+          "isCorrect": true,
+          "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。"
+        },
+        {
+          "text": "收缩压 180 mmHg",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "舒张压 75 mmHg",
+          "isCorrect": true,
+          "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。"
+        },
+        {
+          "text": "体温 36.2 ℃",
+          "isCorrect": true,
+          "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。"
+        }
+      ],
+      "options": [
+        {
+          "text": "呼吸频率 30 次/分",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心率 80 次/分",
+          "isCorrect": true,
+          "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。"
+        },
+        {
+          "text": "收缩压 180 mmHg",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "舒张压 75 mmHg",
+          "isCorrect": true,
+          "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。"
+        },
+        {
+          "text": "体温 36.2 ℃",
+          "isCorrect": true,
+          "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正常体温 36.0~37.0℃；安静心率 60~100 次/分；正常血压收缩压 90~139/舒张压 60~89 mmHg；安静呼吸 12~20 次/分。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 33
+    },
+    {
+      "c": "34",
+      "type": "multiple_select",
+      "question": "下列生理转运过程中，需要消耗细胞代谢能量（ATP）的主动跨膜过程有（ ）。",
+      "prompt": "下列生理转运过程中，需要消耗细胞代谢能量（ATP）的主动跨膜过程有（ ）。",
+      "answerOptions": [
+        {
+          "text": "O2 由组织间隙顺分压差进入组织细胞内",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "神经动作电位复极化相 K+ 顺浓度外流",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "神经动作电位复极化末期 Na+ 逆浓度泵出细胞外",
+          "isCorrect": true,
+          "rationale": "肌浆网钙泵逆浓度回收钙离子、钠钾泵逆浓度排出钠离子均属于原发性主动转运。"
+        },
+        {
+          "text": "水分子由低渗环境向高渗环境渗透",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Ca2+ 由肌浆逆浓度泵入肌浆网储存",
+          "isCorrect": true,
+          "rationale": "肌浆网钙泵逆浓度回收钙离子、钠钾泵逆浓度排出钠离子均属于原发性主动转运。"
+        }
+      ],
+      "options": [
+        {
+          "text": "O2 由组织间隙顺分压差进入组织细胞内",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "神经动作电位复极化相 K+ 顺浓度外流",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "神经动作电位复极化末期 Na+ 逆浓度泵出细胞外",
+          "isCorrect": true,
+          "rationale": "肌浆网钙泵逆浓度回收钙离子、钠钾泵逆浓度排出钠离子均属于原发性主动转运。"
+        },
+        {
+          "text": "水分子由低渗环境向高渗环境渗透",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "Ca2+ 由肌浆逆浓度泵入肌浆网储存",
+          "isCorrect": true,
+          "rationale": "肌浆网钙泵逆浓度回收钙离子、钠钾泵逆浓度排出钠离子均属于原发性主动转运。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "肌浆网钙泵逆浓度回收钙离子、钠钾泵逆浓度排出钠离子均属于原发性主动转运。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 34
+    },
+    {
+      "c": "35",
+      "type": "multiple_select",
+      "question": "关于人体皮肤系统的组织学解剖与生理功能，下列叙述正确的有（ ）。",
+      "prompt": "关于人体皮肤系统的组织学解剖与生理功能，下列叙述正确的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "表皮基底层细胞具有活跃的有丝分裂增殖能力",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        },
+        {
+          "text": "角质层细胞位于表皮最浅层，细胞核和细胞器已退化消失",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        },
+        {
+          "text": "黑色素细胞位于表皮基底层，合成黑色素防御紫外线损伤",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        },
+        {
+          "text": "表皮层与真皮层内均含有丰富的毛细血管网和痛觉神经末梢",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "在日光紫外线照射下，皮肤中的 7-脱氢胆固醇可转化为维生素 D3 原",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        }
+      ],
+      "options": [
+        {
+          "text": "表皮基底层细胞具有活跃的有丝分裂增殖能力",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        },
+        {
+          "text": "角质层细胞位于表皮最浅层，细胞核和细胞器已退化消失",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        },
+        {
+          "text": "黑色素细胞位于表皮基底层，合成黑色素防御紫外线损伤",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        },
+        {
+          "text": "表皮层与真皮层内均含有丰富的毛细血管网和痛觉神经末梢",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "在日光紫外线照射下，皮肤中的 7-脱氢胆固醇可转化为维生素 D3 原",
+          "isCorrect": true,
+          "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "表皮内无血管分布，依靠真皮毛细血管弥散营养；A 错误。其余各项均为皮肤正确生理学知识。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 35
+    },
+    {
+      "c": "36",
+      "type": "multiple_select",
+      "question": "关于人体结缔组织的多样性与结构特征，下列叙述正确的有（ ）。",
+      "prompt": "关于人体结缔组织的多样性与结构特征，下列叙述正确的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "关节软骨与流动的血液虽然物理形态迥异，但在组织学分类上均属于结缔组织",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        },
+        {
+          "text": "致密结缔组织中胶原纤维排列致密，细胞与基质相对较少",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        },
+        {
+          "text": "疏松结缔组织中细胞种类丰富（成纤维细胞、巨噬细胞、肥大细胞等）",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        },
+        {
+          "text": "皮脂腺和皮下浅筋膜均属于疏松结缔组织",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "网状结缔组织构成红骨髓、脾脏和淋巴结的网状支架，形成造血微环境",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        }
+      ],
+      "options": [
+        {
+          "text": "关节软骨与流动的血液虽然物理形态迥异，但在组织学分类上均属于结缔组织",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        },
+        {
+          "text": "致密结缔组织中胶原纤维排列致密，细胞与基质相对较少",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        },
+        {
+          "text": "疏松结缔组织中细胞种类丰富（成纤维细胞、巨噬细胞、肥大细胞等）",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        },
+        {
+          "text": "皮脂腺和皮下浅筋膜均属于疏松结缔组织",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "网状结缔组织构成红骨髓、脾脏和淋巴结的网状支架，形成造血微环境",
+          "isCorrect": true,
+          "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "皮脂腺属于上皮组织（外分泌腺）；其余四项关于结缔组织特点的叙述均完全正确。",
+      "hint": "注意多选题选项的全面性与概念辨析",
+      "id": 36
+    },
+    {
+      "c": "37",
+      "type": "judge",
+      "question": "【判断题】氧气（O2）和二氧化碳（CO2）跨越细胞膜的转运方式是消耗 ATP 的主动运输。",
+      "prompt": "【判断题】氧气（O2）和二氧化碳（CO2）跨越细胞膜的转运方式是消耗 ATP 的主动运输。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。O2 与 CO2 是脂溶性分子，通过单纯扩散（自由扩散）顺浓度差被动跨膜。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。O2 与 CO2 是脂溶性分子，通过单纯扩散（自由扩散）顺浓度差被动跨膜。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。O2 与 CO2 是脂溶性分子，通过单纯扩散（自由扩散）顺浓度差被动跨膜。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 37
+    },
+    {
+      "c": "38",
+      "type": "judge",
+      "question": "【判断题】细胞内用于分泌到细胞外的蛋白质主要在滑面内质网内进行生物合成。",
+      "prompt": "【判断题】细胞内用于分泌到细胞外的蛋白质主要在滑面内质网内进行生物合成。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。分泌蛋白和膜蛋白主要在粗面内质网的结合核糖体上合成，滑面内质网主要合成脂质并参与解毒。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。分泌蛋白和膜蛋白主要在粗面内质网的结合核糖体上合成，滑面内质网主要合成脂质并参与解毒。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。分泌蛋白和膜蛋白主要在粗面内质网的结合核糖体上合成，滑面内质网主要合成脂质并参与解毒。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 38
+    },
+    {
+      "c": "39",
+      "type": "judge",
+      "question": "【判断题】溶酶体内部含有多种酸性水解酶，能够消化分解机体衰老变性的细胞器成分。",
+      "prompt": "【判断题】溶酶体内部含有多种酸性水解酶，能够消化分解机体衰老变性的细胞器成分。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。溶酶体是细胞的“消化器官”，负责自体吞噬和外来异物的降解。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。溶酶体是细胞的“消化器官”，负责自体吞噬和外来异物的降解。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。溶酶体是细胞的“消化器官”，负责自体吞噬和外来异物的降解。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 39
+    },
+    {
+      "c": "40",
+      "type": "judge",
+      "question": "【判断题】在组织学分类中，血液与淋巴液均属于结缔组织的特殊范畴。",
+      "prompt": "【判断题】在组织学分类中，血液与淋巴液均属于结缔组织的特殊范畴。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。血液由血细胞和大量液体基质（血浆）构成，起源于间充质，属于特殊结缔组织。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。血液由血细胞和大量液体基质（血浆）构成，起源于间充质，属于特殊结缔组织。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。血液由血细胞和大量液体基质（血浆）构成，起源于间充质，属于特殊结缔组织。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 40
+    },
+    {
+      "c": "41",
+      "type": "judge",
+      "question": "【判断题】骨组织和软骨组织虽然质地坚硬，但在组织学分类上均属于结缔组织。",
+      "prompt": "【判断题】骨组织和软骨组织虽然质地坚硬，但在组织学分类上均属于结缔组织。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。软骨与骨组织由细胞和大量钙化或固态的细胞外基质构成，属于支持性结缔组织。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。软骨与骨组织由细胞和大量钙化或固态的细胞外基质构成，属于支持性结缔组织。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。软骨与骨组织由细胞和大量钙化或固态的细胞外基质构成，属于支持性结缔组织。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 41
+    },
+    {
+      "c": "42",
+      "type": "judge",
+      "question": "【判断题】真核细胞内的全部遗传物质（DNA）无一例外全部存在于细胞核中。",
+      "prompt": "【判断题】真核细胞内的全部遗传物质（DNA）无一例外全部存在于细胞核中。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。线粒体基质中也含有独立的双链线粒体 DNA（mtDNA）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。线粒体基质中也含有独立的双链线粒体 DNA（mtDNA）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。线粒体基质中也含有独立的双链线粒体 DNA（mtDNA）。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 42
+    },
+    {
+      "c": "43",
+      "type": "judge",
+      "question": "【判断题】皮肤的表皮层内部不仅神经末梢分布极为丰富，而且血管网极为致密。",
+      "prompt": "【判断题】皮肤的表皮层内部不仅神经末梢分布极为丰富，而且血管网极为致密。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。表皮层属于复层扁平角化上皮，内部无任何毛细血管分布。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。表皮层属于复层扁平角化上皮，内部无任何毛细血管分布。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。表皮层属于复层扁平角化上皮，内部无任何毛细血管分布。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 43
+    },
+    {
+      "c": "44",
+      "type": "judge",
+      "question": "【判断题】人体生理学所定义的内环境，本质上是指机体细胞内部的液体环境（细胞内液）。",
+      "prompt": "【判断题】人体生理学所定义的内环境，本质上是指机体细胞内部的液体环境（细胞内液）。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。内环境是指细胞直接浸润和生存的细胞外液环境（组织液、血浆、淋巴等）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。内环境是指细胞直接浸润和生存的细胞外液环境（组织液、血浆、淋巴等）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。内环境是指细胞直接浸润和生存的细胞外液环境（组织液、血浆、淋巴等）。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 44
+    },
+    {
+      "c": "45",
+      "type": "judge",
+      "question": "【判断题】人体全身总水分中，细胞内液的容量显著大于细胞外液的容量。",
+      "prompt": "【判断题】人体全身总水分中，细胞内液的容量显著大于细胞外液的容量。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。体液占体重的 60%，其中细胞内液占 40%，细胞外液仅占 20%。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。体液占体重的 60%，其中细胞内液占 40%，细胞外液仅占 20%。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。体液占体重的 60%，其中细胞内液占 40%，细胞外液仅占 20%。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 45
+    },
+    {
+      "c": "46",
+      "type": "judge",
+      "question": "【判断题】皮肤在紫外线照射下合成的维生素 D3，无需经过肝、肾转化即可完全发挥促进钙吸收的作用。",
+      "prompt": "【判断题】皮肤在紫外线照射下合成的维生素 D3，无需经过肝、肾转化即可完全发挥促进钙吸收的作用。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。皮肤合成的维生素 D3 是无活性前体，必须经肝脏 25-羟化和肾脏 1α-羟化为 1,25-(OH)2-D3 后才具有完全活性。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。皮肤合成的维生素 D3 是无活性前体，必须经肝脏 25-羟化和肾脏 1α-羟化为 1,25-(OH)2-D3 后才具有完全活性。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。皮肤合成的维生素 D3 是无活性前体，必须经肝脏 25-羟化和肾脏 1α-羟化为 1,25-(OH)2-D3 后才具有完全活性。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 46
+    },
+    {
+      "c": "47",
+      "type": "judge",
+      "question": "【判断题】内皮（覆盖心血管管腔）与间皮（覆盖胸膜腹膜表面）在组织学分类上均属于单层扁平上皮。",
+      "prompt": "【判断题】内皮（覆盖心血管管腔）与间皮（覆盖胸膜腹膜表面）在组织学分类上均属于单层扁平上皮。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。内皮和间皮是单层扁平上皮在特定解剖部位的专门名称。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "正确。内皮和间皮是单层扁平上皮在特定解剖部位的专门名称。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。内皮和间皮是单层扁平上皮在特定解剖部位的专门名称。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 47
+    },
+    {
+      "c": "48",
+      "type": "judge",
+      "question": "【判断题】细胞能量通货 ATP 主要在线粒体产生，个体的线粒体遗传物质等量继承自父亲与母亲双方。",
+      "prompt": "【判断题】细胞能量通货 ATP 主要在线粒体产生，个体的线粒体遗传物质等量继承自父亲与母亲双方。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。受精卵中的线粒体几乎全部来自卵细胞胞质，表现为严格的母系遗传。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。受精卵中的线粒体几乎全部来自卵细胞胞质，表现为严格的母系遗传。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。受精卵中的线粒体几乎全部来自卵细胞胞质，表现为严格的母系遗传。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 48
+    },
+    {
+      "c": "49",
+      "type": "judge",
+      "question": "【判断题】基因转录过程发生在细胞核，蛋白质翻译合成过程发生在高尔基体内部。",
+      "prompt": "【判断题】基因转录过程发生在细胞核，蛋白质翻译合成过程发生在高尔基体内部。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。转录在细胞核内进行，蛋白质翻译过程发生在细胞质基质中的核糖体上，高尔基体仅负责修饰加工和分选包装。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。转录在细胞核内进行，蛋白质翻译过程发生在细胞质基质中的核糖体上，高尔基体仅负责修饰加工和分选包装。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。转录在细胞核内进行，蛋白质翻译过程发生在细胞质基质中的核糖体上，高尔基体仅负责修饰加工和分选包装。",
+      "hint": "根据人体解剖学与细胞生物学基本规律作出是非判断",
+      "id": 49
+    },
+    {
+      "c": "50",
+      "type": "fill_blank",
+      "question": "解剖学上常用的切面指____、____和____。",
+      "prompt": "解剖学上常用的切面指____、____和____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "水平面（横断面）",
+        "矢状面（纵断面）",
+        "冠状面"
+      ],
+      "blanks": [
+        "水平面（横断面）",
+        "矢状面（纵断面）",
+        "冠状面"
+      ],
+      "rationale": "解剖学三大基本切面为矢状面、冠状面（额状面）和水平面（横断面）。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 50
+    },
+    {
+      "c": "51",
+      "type": "fill_blank",
+      "question": "将人体分为左右两部分的是____；将人体分为上下两部分的是____；将人体分为前后两部分的是____。将人体分为左右对称两半的称____。",
+      "prompt": "将人体分为左右两部分的是____；将人体分为上下两部分的是____；将人体分为前后两部分的是____。将人体分为左右对称两半的称____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "矢状面",
+        "水平面",
+        "冠状面",
+        "正中矢状面"
+      ],
+      "blanks": [
+        "矢状面",
+        "水平面",
+        "冠状面",
+        "正中矢状面"
+      ],
+      "rationale": "矢状面分左右，冠状面分前后，水平面分上下，正中矢状面分为对称左右。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 51
+    },
+    {
+      "c": "52",
+      "type": "fill_blank",
+      "question": "由头顶向足底的垂直于地面的轴称作____，腹背轴又称作____。",
+      "prompt": "由头顶向足底的垂直于地面的轴称作____，腹背轴又称作____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "垂直轴",
+        "前后轴"
+      ],
+      "blanks": [
+        "垂直轴",
+        "前后轴"
+      ],
+      "rationale": "人体解剖学三轴：垂直轴（上下）、矢状轴/前后轴（前后）、冠状轴/垂直于矢状轴（左右）。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 52
+    },
+    {
+      "c": "53",
+      "type": "fill_blank",
+      "question": "在人体的前面体腔中，膈肌之上的是____，膈肌之下的是____。心脏和肺位于____，肝脏和胃肠位于____，膀胱和卵巢位于____。",
+      "prompt": "在人体的前面体腔中，膈肌之上的是____，膈肌之下的是____。心脏和肺位于____，肝脏和胃肠位于____，膀胱和卵巢位于____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "胸腔",
+        "腹腔",
+        "胸腔",
+        "腹腔",
+        "盆腔"
+      ],
+      "blanks": [
+        "胸腔",
+        "腹腔",
+        "胸腔",
+        "腹腔",
+        "盆腔"
+      ],
+      "rationale": "前体腔以膈肌分为胸腔和腹盆腔，腹盆腔以界线分为腹腔和盆腔。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 53
+    },
+    {
+      "c": "54",
+      "type": "fill_blank",
+      "question": "物质由高浓度侧向低浓度侧转运，并且不消耗能量的两种方式为____和____。主动转运时物质由浓度梯度____侧向浓度梯度____侧转运，同时消耗能量。",
+      "prompt": "物质由高浓度侧向低浓度侧转运，并且不消耗能量的两种方式为____和____。主动转运时物质由浓度梯度____侧向浓度梯度____侧转运，同时消耗能量。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "单纯扩散",
+        "协助扩散",
+        "低",
+        "高"
+      ],
+      "blanks": [
+        "单纯扩散",
+        "协助扩散",
+        "低",
+        "高"
+      ],
+      "rationale": "被动转运顺浓度梯度且不耗能（单纯扩散和易化扩散）；主动转运逆浓度梯度且消耗 ATP。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 54
+    },
+    {
+      "c": "55",
+      "type": "fill_blank",
+      "question": "渗透指水分子由____侧向____侧的跨半透膜转移。",
+      "prompt": "渗透指水分子由____侧向____侧的跨半透膜转移。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "低渗",
+        "高渗"
+      ],
+      "blanks": [
+        "低渗",
+        "高渗"
+      ],
+      "rationale": "渗透指水分子由水势高（低溶质/低渗）向水势低（高溶质/高渗）方向扩散。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 55
+    },
+    {
+      "c": "56",
+      "type": "fill_blank",
+      "question": "人体的四种基本组织包括____、____、____和____。",
+      "prompt": "人体的四种基本组织包括____、____、____和____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "上皮组织",
+        "结缔组织",
+        "肌肉组织",
+        "神经组织"
+      ],
+      "blanks": [
+        "上皮组织",
+        "结缔组织",
+        "肌肉组织",
+        "神经组织"
+      ],
+      "rationale": "人体的四大基本组织结构，构成全部器官系统。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 56
+    },
+    {
+      "c": "57",
+      "type": "fill_blank",
+      "question": "结缔组织根据基质及细胞不同分为____、____、脂肪组织、____、骨组织、____和血液。",
+      "prompt": "结缔组织根据基质及细胞不同分为____、____、脂肪组织、____、骨组织、____和血液。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "疏松结缔组织",
+        "致密结缔组织",
+        "网状组织",
+        "软骨组织"
+      ],
+      "blanks": [
+        "疏松结缔组织",
+        "致密结缔组织",
+        "网状组织",
+        "软骨组织"
+      ],
+      "rationale": "固有结缔组织包括疏松、致密、脂肪和网状结缔组织；广义包括软骨、骨和血液。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 57
+    },
+    {
+      "c": "58",
+      "type": "fill_blank",
+      "question": "血液的基本成分包括____和____，血细胞由____、____和____三种成分组成，其中____在止血过程中发挥重要作用。",
+      "prompt": "血液的基本成分包括____和____，血细胞由____、____和____三种成分组成，其中____在止血过程中发挥重要作用。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "血浆",
+        "血细胞",
+        "红细胞",
+        "白细胞",
+        "血小板",
+        "血小板"
+      ],
+      "blanks": [
+        "血浆",
+        "血细胞",
+        "红细胞",
+        "白细胞",
+        "血小板",
+        "血小板"
+      ],
+      "rationale": "血液由血浆和有形成分血细胞组成；血小板参与生理止血与凝血。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 58
+    },
+    {
+      "c": "59",
+      "type": "fill_blank",
+      "question": "外周血中的白细胞包括中性粒细胞、嗜酸粒细胞、嗜碱粒细胞，单核细胞和淋巴细胞。数量最多的白细胞是____，单核细胞进入组织后分化为____。",
+      "prompt": "外周血中的白细胞包括中性粒细胞、嗜酸粒细胞、嗜碱粒细胞，单核细胞和淋巴细胞。数量最多的白细胞是____，单核细胞进入组织后分化为____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "中性粒细胞",
+        "巨噬细胞"
+      ],
+      "blanks": [
+        "中性粒细胞",
+        "巨噬细胞"
+      ],
+      "rationale": "中性粒细胞占白细胞 50%~70%；单核细胞在组织中发育为巨噬细胞发挥吞噬功能。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 59
+    },
+    {
+      "c": "60",
+      "type": "fill_blank",
+      "question": "描述肢体部位时，将靠近躯干侧称为____，远离躯干侧称为____。",
+      "prompt": "描述肢体部位时，将靠近躯干侧称为____，远离躯干侧称为____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "近端",
+        "远端"
+      ],
+      "blanks": [
+        "近端",
+        "远端"
+      ],
+      "rationale": "四肢方位术语中，近躯干端为近端（Proximal），远离端为远端（Distal）。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 60
+    },
+    {
+      "c": "61",
+      "type": "fill_blank",
+      "question": "ABO血型主要取决于____表面是否存在相应的血型抗原，A型血者血清中存在____抗体。Rh血型取决于红细胞表面是否存在____抗原。",
+      "prompt": "ABO血型主要取决于____表面是否存在相应的血型抗原，A型血者血清中存在____抗体。Rh血型取决于红细胞表面是否存在____抗原。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "红细胞",
+        "抗B",
+        "D"
+      ],
+      "blanks": [
+        "红细胞",
+        "抗B",
+        "D"
+      ],
+      "rationale": "红细胞膜上的凝集原决定血型；A型有A抗原，含抗B抗体；Rh阳性指含D抗原。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 61
+    },
+    {
+      "c": "62",
+      "type": "fill_blank",
+      "question": "皮肤包括____和____，其中仅有神经末梢分布而无血管的是____。朗格汉斯细胞相当于皮肤中的____。",
+      "prompt": "皮肤包括____和____，其中仅有神经末梢分布而无血管的是____。朗格汉斯细胞相当于皮肤中的____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "表皮",
+        "真皮",
+        "表皮",
+        "巨噬细胞"
+      ],
+      "blanks": [
+        "表皮",
+        "真皮",
+        "表皮",
+        "巨噬细胞"
+      ],
+      "rationale": "表皮无血管分布，由真皮乳头毛细血管提供营养；朗格汉斯细胞为抗原提呈细胞（巨噬细胞系统）。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 62
+    },
+    {
+      "c": "63",
+      "type": "fill_blank",
+      "question": "内环境指____，细胞内液、细胞外液中属于内环境的是____。",
+      "prompt": "内环境指____，细胞内液、细胞外液中属于内环境的是____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "细胞生存的液体环境",
+        "细胞外液"
+      ],
+      "blanks": [
+        "细胞生存的液体环境",
+        "细胞外液"
+      ],
+      "rationale": "细胞外液即内环境，是体内细胞赖以生存并进行物质交换的直接环境。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 63
+    },
+    {
+      "c": "64",
+      "type": "fill_blank",
+      "question": "细胞骨架包括____、____和____。在细胞有丝分裂时参与组装纺锤体的是____。",
+      "prompt": "细胞骨架包括____、____和____。在细胞有丝分裂时参与组装纺锤体的是____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "微丝",
+        "微管",
+        "中间丝",
+        "微管"
+      ],
+      "blanks": [
+        "微丝",
+        "微管",
+        "中间丝",
+        "微管"
+      ],
+      "rationale": "细胞骨架维持细胞形态；中心体与微管参与组装纺锤丝驱动染色体分离。",
+      "hint": "注意人体解剖学方位术语、细胞结构与组织学分类",
+      "id": 64
+    }
+  ]
+}

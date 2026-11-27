@@ -1,0 +1,353 @@
+{
+  "id": "micro_02",
+  "title": "02 细菌形态与结构 闪卡",
+  "description": "医学微生物学·细菌大小形态、基本结构（细胞壁肽聚糖/G+与G-对比/L型）、特殊结构（荚膜/鞭毛/菌毛/芽胞）与革兰染色法核心考点",
+  "topics": {
+    "covered": [
+      "细菌大小度量单位与三大基本形态",
+      "细菌基本结构（细胞壁、细胞膜、细胞质、核质）",
+      "肽聚糖三联分子结构与青霉素/溶菌酶作用机制",
+      "革兰阳性菌与革兰阴性菌细胞壁全维度横向对比",
+      "脂多糖（LPS/内毒素）分子三层结构与致病中心脂质A",
+      "细菌L型的概念、诱因与临床耐药复发意义",
+      "细菌四大特殊结构（荚膜、鞭毛、菌毛、芽胞）特性与功能",
+      "革兰染色法原理、四步操作程序、结果与三大医学意义"
+    ],
+    "followUp": [
+      "细菌的营养摄取与生长曲线各期生物学特性",
+      "细菌内毒素与外毒素的致病机制与免疫原性差异"
+    ]
+  },
+  "flashcards": [
+    {
+      "c": 1,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【测量与形态】细菌大小的度量单位是什么？三大基本形态有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **度量单位**：**微米（μm）**，光学显微镜油镜下观察。\n• **三大形态**：\n  ① **球菌**：双球菌、链球菌、葡萄球菌。\n  ② **杆菌**：长短粗细不一（大肠杆菌、结核杆菌）。\n  ③ **螺形菌**：弧菌（一个弯曲）、螺菌（多个弯曲）。"
+          }
+        ]
+      },
+      "pointType": "形态基础",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 2,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【核心组成】细菌细胞壁骨架成分肽聚糖由哪三部分构成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **聚糖骨架**：**N-乙酰葡糖胺（NAG）**与**N-乙酰胞壁酸（NAM）**通过 **β-1,4 糖苷键**交替连接。\n• **四肽侧链**：连于 NAM 上。\n• **五肽交联桥**（或侧链直接肽键连接）。"
+          }
+        ]
+      },
+      "pointType": "分子结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 3,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【药理机制】溶菌酶与青霉素破坏细菌细胞壁的机制有何不同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **溶菌酶**：特异性水解聚糖骨架中的 **β-1,4 糖苷键**（静止期、繁殖期细菌均有效）。\n• **青霉素**：竞争性抑制**转肽酶（PBPs）**，阻断肽聚糖交叉联结（**仅对繁殖期细菌有效**）。"
+          }
+        ]
+      },
+      "pointType": "作用机制",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 4,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【大纲重点】革兰阳性菌（G+）与革兰阴性菌（G-）细胞壁的主要区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **G+ 菌**：厚（20~80nm），肽聚糖致密（多达50层），含特有**磷壁酸**，无外膜。\n• **G- 菌**：薄（10~15nm），肽聚糖仅1~2层，无磷壁酸，外被**外膜（含脂多糖 LPS / 内毒素）**。"
+          }
+        ]
+      },
+      "pointType": "核心对比",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 5,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【高危致病】什么是脂多糖（LPS）？其核心毒性中心是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **本质**：G- 菌外膜特有成分，即**内毒素（Endotoxin）**。\n• **三层结构**：**脂质 A（主要毒性成分与活性中心）** + 核心多糖 + O 特异多糖（菌株特异抗原）。"
+          }
+        ]
+      },
+      "pointType": "高频考点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 6,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床高频】什么是细菌 L 型？其主要诱因与临床意义是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **概念**：肽聚糖受损缺失的细胞壁缺陷型细菌，仅在**高渗环境**下生存，菌落呈典型**“荷包蛋”状**。\n• **意义**：对青霉素等**天然耐药**；常规培养易漏诊；诱因去除后可恢复壁结构导致感染复发。"
+          }
+        ]
+      },
+      "pointType": "临床意义",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 7,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【特殊结构】什么是细菌荚膜（Capsule）？有何关键功能？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **本质**：多为多糖（炭疽杆菌为多肽）。\n• **四大功能**：\n  ① **抗吞噬**（最核心毒力因素，如肺炎链球菌）；\n  ② 抗体液免疫杀伤；\n  ③ 黏附组织表面；\n  ④ K 抗原分型与制备疫苗。"
+          }
+        ]
+      },
+      "pointType": "特殊结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 8,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【特殊结构】什么是细菌鞭毛（Flagellum）？主要功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **本质**：由鞭毛蛋白构成的细长波状丝状物。\n• **三大功能**：\n  ① **运动器官**（半固体培养穿刺线呈云雾状扩散）；\n  ② 辅助细菌穿透黏液定植；\n  ③ **H 抗原**（细菌鉴定与血清分型）。"
+          }
+        ]
+      },
+      "pointType": "特殊结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 9,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【横向对比】普通菌毛与性菌毛有何本质区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **普通菌毛**：多（数百根），短细，负责**特异性黏附**宿主受体，是重要致病定植因子。\n• **性菌毛（F菌毛）**：极少（1~4根），长粗，仅见于雄性菌，负责**接合传递质粒（传递耐药性）**。"
+          }
+        ]
+      },
+      "pointType": "考点对比",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 10,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【重要考点】什么是细菌芽胞？为什么说芽胞不是繁殖方式？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **定义**：部分 G+ 菌在恶劣环境中于胞内形成的圆形致密**休眠体**。\n• **非繁殖方式**：1 个细菌仅产生 1 个芽胞，1 个芽胞萌发也只恢复成 1 个菌，**数量并未增加**，纯属抗逆休眠形式。"
+          }
+        ]
+      },
+      "pointType": "概念辨析",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 11,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【灭菌标准】芽胞耐热的关键物质是什么？在灭菌中有何指标意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **耐热机制**：含高浓度特有的**吡啶二羧酸钙（DPA-Ca）**，极低含水率，蛋白质高度耐热。\n• **指标意义**：是生物界抵抗力最强的结构，**以杀灭芽胞作为衡量物理/化学灭菌彻底的黄金指标**。"
+          }
+        ]
+      },
+      "pointType": "指标意义",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 12,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【染色精要】革兰染色法的四步操作流程与各步试剂是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "① **初染**：结晶紫染 1min（全紫）；\n② **媒染**：碘液染 1min（形成复合物）；\n③ **脱色（最关键）**：**95% 乙醇脱色约 30s**；\n④ **复染**：稀释复红（或沙黄）染 30s。"
+          }
+        ]
+      },
+      "pointType": "实验原理",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 13,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【实验机制】革兰染色脱色步骤的基本原理与结果是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **G+ 菌（显紫色）**：细胞壁厚、肽聚糖致密，乙醇脱水使孔径缩小，紫色复合物不漏出。\n• **G- 菌（显红色）**：细胞壁薄、外膜脂质多，乙醇溶解脂质孔径大，紫色复合物脱失，被复红染成红色。"
+          }
+        ]
+      },
+      "pointType": "机制原理",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 14,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【医学应用】革兰染色在医学实践中有哪三大重大意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "① **鉴别分类**：迅速将细菌初分为 G+ 和 G- 两大类。\n② **指导选药**：G+ 选青霉素类/万古霉素；G- 选氨基糖苷类/喹诺酮/三代头孢。\n③ **致病机制**：G+ 多产生外毒素；G- 细胞壁含内毒素。"
+          }
+        ]
+      },
+      "pointType": "三大意义",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 15,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【胞质颗粒】什么是异染颗粒？在临床何种细菌诊断中有重要意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **本质**：嗜碱性多聚偏磷酸盐颗粒，储藏能量。\n• **临床意义**：在**白喉棒状杆菌**菌体两端极明显，为快速形态学鉴别白喉杆菌的重要特征。"
+          }
+        ]
+      },
+      "pointType": "颗粒诊断",
+      "starRating": "★★☆",
+      "importance": 2
+    }
+  ]
+}

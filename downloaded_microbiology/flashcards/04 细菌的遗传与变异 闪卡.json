@@ -1,0 +1,1309 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌发生变异的生物学意义是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "使细菌更能适应外界环境的变化，促使其在物种上发生进化，产生新的变种或新种，是产生生物多样性的根本原因。"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是细菌的“转导”（Transduction）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "以噬菌体为媒介，将供体菌的 DNA 片段转入受体菌，使其获得供体菌部分遗传性状的过程。"
+          }
+        ]
+      },
+      "c": 53
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通过哪些人工处理手段可以消除（curing）细菌体内的质粒？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "紫外线照射、高温培养、吖啶橙或溴化乙锭（EB）处理。"
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是细菌致病岛（Pathogenic Island, PAI）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病原菌基因组中存在的存在编码与细菌毒力或致病性相关因子（如黏附因子、毒素等）的外源 DNA 片段。"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "普遍性转导（Generalized Transduction）的发生机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "噬菌体装配过程中误将供体菌的任意染色体 DNA 碎片装入衣壳形成转导颗粒，注入受体菌。"
+          }
+        ]
+      },
+      "c": 54
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "白喉棒状杆菌产生白喉毒素的机制属于哪种基因转移方式？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "溶原性转换（$\\beta$-棒状噬菌体基因整合导致）。"
+          }
+        ]
+      },
+      "c": 59
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "环境中的阳离子（如 $\\mathrm{Ca^{2+}}$、$\\mathrm{Mg^{2+}}$）在细菌转化中起什么作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "稳定 DNA 结构，改变细胞壁通透性，促进外源 DNA 的结合与摄取。"
+          }
+        ]
+      },
+      "c": 48
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "质粒携带的基因对宿主细菌的生命活动是必需的吗？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不是必需的，但可赋予宿主菌耐药性、致病性、致育性或代谢改变等特定生物学性状。"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "质粒（Plasmid）的定义是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "存在于细胞质中、独立于染色体外并具有自我复制能力的双链 DNA 分子（多为闭合环状）。"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "局限性转导（Specialized Transduction）的传递 DNA 范围有何特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "仅能传递前噬菌体整合位点两侧的特定供体菌 DNA 片段。"
+          }
+        ]
+      },
+      "c": 56
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "简述四种细菌基因水平转移（HGT）的主要方式。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "转化（Transformation）、接合（Conjugation）、转导（Transduction）和溶原性转换（Lysogenic conversion）。"
+          }
+        ]
+      },
+      "c": 67
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "接合性质粒与非接合性质粒在结构和大小上有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "接合性质粒带有接合传递基因，分子量较大（40~100 kb）；非接合性质粒不能通过接合传递，分子量较小（通常 <15 kb）。"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "处于感受态（Competent state）的细菌具有哪些生理特征？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "菌体表面带正电荷，细胞膜通透性显著增加，利于摄取外源 DNA。"
+          }
+        ]
+      },
+      "c": 41
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "多数细菌（>90%）的染色体 DNA 具有怎样的分子形态和大小范围？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为单条环状双链 DNA（dsDNA），长度约为 580~5220 kb。"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌素质粒（如 Col 质粒）的功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "编码能够抑菌或杀菌的各类细菌素（如大肠埃希菌的大肠菌素）。"
+          }
+        ]
+      },
+      "c": 31
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$F^+$ 菌与 $F^-$ 菌接合后，受体菌的 $F$ 质粒状态会发生什么变化？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$F^-$ 受体菌获得 F 质粒，转变为 $F^+$ 菌。"
+          }
+        ]
+      },
+      "c": 51
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌基因组中，为什么 rRNA 基因通常为多拷贝？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "以满足细菌迅速生长繁殖过程中对核糖体的大量需求。"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "接合性耐药质粒（R质粒）由哪两部分组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "耐药传递因子（RTF，编码性菌毛及传递相关基因）和耐药决定因子（r-决定子，包含耐药基因/转座子）。"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是基因的水平转移（HGT）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "遗传物质 DNA 从一种生物直接转移至另一种生物（可同种或远缘种）并改变其遗传组成的过程。"
+          }
+        ]
+      },
+      "c": 36
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "严紧型质粒（Stringent plasmid）与松弛型质粒（Relaxed plasmid）的主要区别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "严紧型质粒复制与染色体同步，拷贝数低；松弛型质粒复制自主控制，拷贝数高（20~60个或更多）。"
+          }
+        ]
+      },
+      "c": 27
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "基因同源重组（Homologous Recombination）需要什么关键重组酶？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌 $rec$ 基因编码的重组酶。"
+          }
+        ]
+      },
+      "c": 37
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "疏螺旋体属细菌（如伯道疏螺旋体）的染色体 DNA 分子形态有何特殊之处？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "其染色体为线性双链 DNA（dsDNA）。"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "基因岛两侧通常包含哪些特征性核苷酸序列？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "重复序列、插入序列或 tRNA 基因。"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "哪些细菌的粗糙型（R型）菌落反比光滑型（S型）致病性更强？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "结核分枝杆菌、炭疽芽孢杆菌和鼠疫耶尔森菌。"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肺炎链球菌的天然感受态通常出现在细菌生长的哪个阶段？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "对数生长期后期（可维持约 40 分钟）。"
+          }
+        ]
+      },
+      "c": 43
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是质粒的不相容性（Incompatibility）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "两种序列结构相似、亲缘关系密切相关的质粒不能稳定共存于同一宿主菌中的现象。"
+          }
+        ]
+      },
+      "c": 25
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "哪些细菌的基因组由两条环状 dsDNA 分子组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "霍乱弧菌、问号钩端螺旋体和马耳他布鲁菌。"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌基因组在编码与转录机制上有哪些显著特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "编码序列占比高达 90% 以上；基因连续且一般无内含子，转录后的 RNA 无需剪接加工。"
+          }
+        ]
+      },
+      "c": 16
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "非接合性耐药质粒（r质粒）如何在细菌间转移？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不能通过接合传递，主要通过噬菌体转导等方式在细菌间传递。"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "能有效发生转化的 DNA 片段大小通常有何限制？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "片段小于 $1 \\times 10^7\\text{ bp}$，包含不超过 10~20 个基因。"
+          }
+        ]
+      },
+      "c": 47
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "溶原性转换与噬菌体转导的主要区别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "溶原性转换传递的是噬菌体自身的特定基因；转导传递的是供体细菌的基因片段。"
+          }
+        ]
+      },
+      "c": 60
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "炭疽芽孢杆菌在 42℃ 下连续培养数天后，其芽孢形成能力和毒力会发生怎样的改变？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "会失去形成芽孢的能力，毒力也相应减弱。"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "列举三种具有天然转化感受态能力的细菌。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肺炎链球菌、枯草芽孢杆菌、流感嗜血杆菌（或淋病奈瑟菌、脑膜炎奈瑟菌）。"
+          }
+        ]
+      },
+      "c": 42
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "分析细菌染色体 DNA 的 G+C 含量（百分比）有何实际意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不同种细菌染色体的 G+C 含量不同，可作为分析细菌种属亲缘关系或基因来源的依据之一。"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌基因组中常见的可移动基因元件（Mobile Elements）包括哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "插入序列（IS）、转座子（Tn）和前噬菌体。"
+          }
+        ]
+      },
+      "c": 65
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "化学法人工诱导大肠埃希菌呈感受态的标准操作步骤是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "用低渗的 $\\mathrm{CaCl_2}$ 溶液处理对数生长期的细菌，然后在 42℃ 下作短暂的热击/热激活。"
+          }
+        ]
+      },
+      "c": 44
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是前噬菌体（Prophage）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "整合在细菌染色体上的温和噬菌体基因组。"
+          }
+        ]
+      },
+      "c": 32
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为什么说细菌遗传和变异是细菌的基本属性？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "遗传保证了物种特性的稳定和繁衍，变异赋予了细菌适应多变环境及进化的能力。"
+          }
+        ]
+      },
+      "c": 68
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "导致细菌发生 S-R 菌落变异的主要原因是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌失去了表面多糖或荚膜等结构成分。"
+          }
+        ]
+      },
+      "c": 9
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "检测标本中是否存在某种已知噬菌体有何微生物学诊断价值？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "提示该标本中曾存在或现存相应的特异性宿主细菌。"
+          }
+        ]
+      },
+      "c": 62
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "若摄入受体菌的外源 DNA 片段与受体基因组缺乏同源性，该 DNA 的结局如何？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "无法发生重组，将被细菌内的酶降解消化。"
+          }
+        ]
+      },
+      "c": 46
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌的“遗传”与“变异”分别指什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "遗传是指亲代的生物学特性通过遗传物质传递给子代；变异是指子代与亲代之间生物学特性出现的差异。"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌基因组中基因岛的存在主要反映了哪种基因转移方式？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "基因水平转移（Horizontal Gene Transfer, HGT）。"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肺炎链球菌有毒株经多次传代培养后，其荚膜和致病性会发生什么变化？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "会失去荚膜，致病性随之减弱甚至消失。"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "转座元件（Transposable Element）的重组机制有何独特之处？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不依赖于序列同源重组，插入位点无需同源核苷酸序列即可改变自身的基因组位置。"
+          }
+        ]
+      },
+      "c": 35
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在微生物学中，用于定量表示噬菌体数量的常用标准单位是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "噬斑形成单位（Plaque Forming Unit, PFU）。"
+          }
+        ]
+      },
+      "c": 63
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在转化过程中，双链 DNA 片段进入感受态受体菌的具体步骤是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "双链 DNA 结合至受体菌表面，其中一条链被降解，另一条单链进入细胞并与受体染色体同源区重组。"
+          }
+        ]
+      },
+      "c": 45
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "卡介苗（BCG）是如何获得的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "将有毒的牛分枝杆菌在含胆汁、甘油、马铃薯的培养基上，经 13 年连续传 230 代，培育出毒力高度减弱但保持免疫原性的变异株。"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是细菌的“转化”（Transformation）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "受体菌直接摄取供体菌释放或提取的游离 DNA 片段，通过重组获得供体菌遗传性状的过程。"
+          }
+        ]
+      },
+      "c": 39
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "大肠埃希菌 K12 $\\lambda$ 噬菌体在基因工程中有何主要用途？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "可作为重组基因载体，能重组较大的 DNA 片段（约 20 kbp），常用于建立真核基因文库。"
+          }
+        ]
+      },
+      "c": 33
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌遗传变异的发生途径主要有哪些类别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "基因突变（自发突变与诱发突变）以及基因水平转移（HGT）。"
+          }
+        ]
+      },
+      "c": 66
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌发生耐药变异的主要临床危害是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "导致临床常用抗菌药物疗效降低或失效，甚至出现抗生素无法控制的多重耐药菌感染。"
+          }
+        ]
+      },
+      "c": 61
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "F 质粒（致育质粒）的核心功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "编码性菌毛，介导细菌之间质粒的接合转移。"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌的 S-R 变异是指什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌菌落由表面光滑、湿润的 S 型（Smooth）变异为表面粗糙、干燥的 R 型（Rough）。"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "普通变形杆菌接种在含 1% 苯酚的培养基上会发生什么变异？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "失去鞭毛。"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是细菌的“接合”（Conjugation）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "供体菌与受体菌通过性菌毛相互连接，将遗传物质（主要是质粒）从供体传递给受体的方式。"
+          }
+        ]
+      },
+      "c": 49
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在接合过程中，$F^+$ 菌与 $F^-$ 菌分别代表什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$F^+$ 菌为含有 F 质粒且带有性菌毛的供体菌；$F^-$ 菌为无 F 质粒且无性菌毛的受体菌。"
+          }
+        ]
+      },
+      "c": 50
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在暴露于 $\\beta$-内酰胺类抗生素或溶菌酶的环境中，葡萄球菌常发生哪种形态结构变异？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞壁合成受阻，形成细胞壁缺陷型变异（L型变异）。"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单链环状 DNA 噬菌体 M13 释放子代时是否会导致宿主细菌裂解？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不会使细菌裂解，子代以单链形式分泌到菌体外。"
+          }
+        ]
+      },
+      "c": 34
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "普遍性转导可由哪些类型的噬菌体介导？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "毒性噬菌体或温和噬菌体均可介导。"
+          }
+        ]
+      },
+      "c": 55
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "转化作用中，对受体菌的生理状态有何特殊要求？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "受体菌必须处于感受态（Competence）。"
+          }
+        ]
+      },
+      "c": 40
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是溶原性转换（Lysogenic Conversion）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "温和噬菌体的 DNA 整合到细菌染色体（成为前噬菌体）后，其携带的特定基因使宿主菌发生表型改变。"
+          }
+        ]
+      },
+      "c": 58
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "毒性噬菌体与温和噬菌体在生活周期上有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "毒性噬菌体只有溶菌性周期；温和噬菌体具有溶菌性周期和溶原性周期两个备选过程。"
+          }
+        ]
+      },
+      "c": 64
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "接合性耐药质粒在革兰阴性菌中的流行有何重要临床意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "可通过接合快速传播传染性耐药，导致多重耐药菌株在同种或异种细菌间迅速增加。"
+          }
+        ]
+      },
+      "c": 52
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "局限性转导主要由哪种类型的噬菌体介导？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "仅由温和噬菌体介导。"
+          }
+        ]
+      },
+      "c": 57
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是细菌基因组中的基因岛（如耐药岛、致病岛）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌基因组中 G+C 百分比和密码子偏向性与主区域显著不同的外源 DNA 片段，携带与耐药、致病或代谢相关的基因。"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是细菌的多重耐药性（MDR）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌同时对多种结构与作用机制不同的抗菌药物表现出耐药的现象。"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "非同源重组（Nonhomologous Recombination）主要依赖什么酶来完成 DNA 拼接？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "位点专一重组酶。"
+          }
+        ]
+      },
+      "c": 38
+    }
+  ],
+  "topics": {
+    "covered": [
+      "细菌的变异现象与临床意义",
+      "细菌基因组结构与特异性元件",
+      "质粒分类与生物学特性",
+      "基因水平转移机制（转化、接合、转导、溶原性转换）"
+    ],
+    "followUp": [
+      "质粒不相容群与分子流行病学分型",
+      "转座子（Tn）与多重耐药基因盒装配",
+      "噬菌体 display 技术与工程载体应用"
+    ]
+  }
+}

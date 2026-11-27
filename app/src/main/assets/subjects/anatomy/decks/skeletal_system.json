@@ -1,0 +1,1357 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基本概念 · ★★★】\n成人全身共有多少块骨骼？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "206块（其中6块听小骨属于感觉器）。"
+          }
+        ]
+      },
+      "c": 1,
+      "pointType": "基本概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【基本概念 · ★★★】\n按骨的形态分类，人体骨骼主要分为哪四种类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "长骨、短骨、扁骨和不规则骨。"
+          }
+        ]
+      },
+      "c": 2,
+      "pointType": "基本概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【解剖构造 · ★★☆】\n人体最大的籽骨是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "髌骨（位于股四头肌腱内）。"
+          }
+        ]
+      },
+      "c": 3,
+      "pointType": "解剖构造",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【长骨构造 · ★★★】\n典型长骨在形态结构上常概括为什么格式？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "“一体两端”，即中间细长的骨干（又称体）和两端膨大的骨骺。"
+          }
+        ]
+      },
+      "c": 4,
+      "pointType": "长骨构造",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨的生长 · ★★☆】\n幼年时期促使长骨不断加长的关键软骨结构是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "骺软骨（位于干骺端与骨骺之间）。"
+          }
+        ]
+      },
+      "c": 5,
+      "pointType": "骨的生长",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【长骨构造 · ★★☆】\n成年后骺软骨骨化融合，在长骨骨干与骨骺之间遗留的痕迹称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "骺线（Epiphysial line）。"
+          }
+        ]
+      },
+      "c": 6,
+      "pointType": "长骨构造",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨的基本构造 · ★★★】\n骨的基本构造由哪三部分组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "image",
+            "content": "骨质、骨膜和骨髓。",
+            "reference": "d489dcc0-a361-4bfd-ac08-318be4d2980d",
+            "alt": "骨的内部构造剖面图"
+          }
+        ]
+      },
+      "c": 7,
+      "pointType": "骨的基本构造",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨的基本构造 · ★★★】\n骨质按结构分为哪两种？它们各自有何分布与功能特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 骨密质：分布于骨表层，结构致密，抗压抗扭曲能力强；\n2. 骨松质：分布于骨内部，呈海绵状，由骨小梁按受力方向交错排列而成。"
+          }
+        ]
+      },
+      "c": 8,
+      "pointType": "骨的基本构造",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨细胞与功能 · ★★★】\n骨膜的内层和骨内膜富含哪种细胞，在骨的发生与修复中起何作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "含有成骨细胞和破骨细胞，在骨的生长、增粗、重建以及骨折修复愈合中起关键作用。"
+          }
+        ]
+      },
+      "c": 9,
+      "pointType": "骨细胞与功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨的功能 · ★★★】\n终生保持造血功能的骨髓类型是什么？成人主要储存在哪些部位？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "红骨髓；主要分布在椎骨、髂骨、肋骨、胸骨以及长骨骨骺的骨松质网眼内。"
+          }
+        ]
+      },
+      "c": 10,
+      "pointType": "骨的功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨的功能 · ★★☆】\n幼年与成年后，长骨骨干髓腔内的骨髓发生了怎样的转变？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "约5岁以后，长骨骨干内的红骨髓逐渐被脂肪组织代替，转化为黄骨髓，失去造血功能（重度贫血时可重新转化为红骨髓）。"
+          }
+        ]
+      },
+      "c": 11,
+      "pointType": "骨的功能",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【化学成分与特性 · ★★☆】\n骨的有机质与无机质分别赋予骨骼怎样的物理性质？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "有机质（主要是胶原纤维和黏多糖蛋白）赋予骨弹性与韧性；无机质（主要是钙盐）维持骨的硬度。"
+          }
+        ]
+      },
+      "c": 12,
+      "pointType": "化学成分与特性",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床了解 · ★☆☆】\n为什么儿童易发生“青枝骨折”，而老年人易发生骨折？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "儿童骨中有机质占比高，骨柔软柔韧，受外力易折而不断；老年人骨中无机质比例增高且骨质疏松，骨脆性增大，受轻微外力即易骨折。"
+          }
+        ]
+      },
+      "c": 13,
+      "pointType": "临床了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨的生长 · ★★☆】\n骨发生（骨化）的两种基本形式是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 膜化骨（膜内骨化）：直接在间充质膜的基础上骨化（如颅顶骨、面颅骨）；\n2. 软骨化骨：先形成软骨雏形，再在软骨基础上骨化（如四肢骨、躯干骨）。"
+          }
+        ]
+      },
+      "c": 14,
+      "pointType": "骨的生长",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨细胞与功能 · ★★★】\n破骨细胞与成骨细胞在骨重建与塑建中的功能有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "破骨细胞释放溶酶体酶和酸性物质，负责破坏和吸收旧骨质；成骨细胞分泌类骨质并促进骨盐沉积，负责形成新骨。"
+          }
+        ]
+      },
+      "c": 15,
+      "pointType": "骨细胞与功能",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊柱与椎骨 · ★★★】\n成人脊柱由多少块椎骨组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "成人共有26块（颈椎7块、胸椎12块、腰椎5块、骶骨1块由5块骶椎融合、尾骨1块由3-4块尾椎融合）。"
+          }
+        ]
+      },
+      "c": 16,
+      "pointType": "脊柱与椎骨",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【椎骨基本结构 · ★★★】\n椎骨的基本形态由哪两部分构成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "前方的椎体（承重主要部分）和后方的椎弓。"
+          }
+        ]
+      },
+      "c": 17,
+      "pointType": "椎骨基本结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【椎骨基本结构 · ★★★】\n椎体与椎弓共同围成什么结构？各椎骨该结构上下相连构成什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "围成椎孔；各椎孔上下贯通形成椎管，容纳并保护脊髓。"
+          }
+        ]
+      },
+      "c": 18,
+      "pointType": "椎骨基本结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【椎骨基本结构 · ★★★】\n相邻椎骨的椎上切迹和椎下切迹共同围成什么结构？有何通过？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "围成椎间孔；有脊神经和血管穿行。"
+          }
+        ]
+      },
+      "c": 19,
+      "pointType": "椎骨基本结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【椎骨基本结构 · ★★★】\n颈椎在结构上有哪些特有的标志性特征？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "横突上有横突孔（内有椎动脉通过）；第2~6颈椎的棘突末端分叉；椎体较小。"
+          }
+        ]
+      },
+      "c": 20,
+      "pointType": "椎骨基本结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【椎骨基本结构 · ★★★】\n胸椎在形态特征上最重要的识别标志是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "椎体两侧及横突末端有与肋骨相关节的肋凹（和横突肋凹）；棘突长且斜向后下方呈叠瓦状排列。"
+          }
+        ]
+      },
+      "c": 21,
+      "pointType": "椎骨基本结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【椎骨基本结构 · ★★★】\n腰椎的形态特征是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "椎体粗大呈肾形；棘突宽大呈板状，水平向后伸出。"
+          }
+        ]
+      },
+      "c": 22,
+      "pointType": "椎骨基本结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊柱生理弯曲 · ★★★】\n脊柱的四个生理弯曲中，凸向前和凸向后的弯曲分别是哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "凸向前：颈曲、腰曲；\n凸向后：胸曲、骶曲。"
+          }
+        ]
+      },
+      "c": 23,
+      "pointType": "脊柱生理弯曲",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【胸廓结构 · ★★★】\n骨性胸廓由哪些骨骼组合围成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由12块胸椎、12对肋骨和1块胸骨借助骨连结共同围成。"
+          }
+        ]
+      },
+      "c": 24,
+      "pointType": "胸廓结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【胸廓结构 · ★★★】\n胸骨由哪三部分构成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胸骨柄、胸骨体和剑突。"
+          }
+        ]
+      },
+      "c": 25,
+      "pointType": "胸廓结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【胸廓结构 · ★★☆】\n根据肋骨与胸骨连接方式的不同，12对肋骨如何分类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 真肋（第1~7肋）：直接借肋软骨与胸骨相连；\n2. 假肋（第8~10肋）：借肋软骨依次连接形成肋弓；\n3. 浮肋（第11~12肋）：前端游离于腹壁肌层中。"
+          }
+        ]
+      },
+      "c": 26,
+      "pointType": "胸廓结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【颅骨组成 · ★★★】\n颅骨分为脑颅骨和面颅骨两部分，它们各有多少块？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脑颅骨8块（围成颅腔），面颅骨15块（构成面部支架），共23块（不计听小骨）。"
+          }
+        ]
+      },
+      "c": 27,
+      "pointType": "颅骨组成",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【颅骨组成 · ★★★】\n8块脑颅骨中，哪些是成对的，哪些是不成对的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "成对（4块）：顶骨、颞骨；\n不成对（4块）：额骨、枕骨、蝶骨、筛骨。"
+          }
+        ]
+      },
+      "c": 28,
+      "pointType": "颅骨组成",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【颅骨组成 · ★★★】\n15块面颅骨中，不成对的骨有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "下颌骨、犁骨和舌骨。"
+          }
+        ]
+      },
+      "c": 29,
+      "pointType": "颅骨组成",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【颅骨特征 · ★★★】\n颅骨侧面的“翼点”（Pterion）是由哪四块骨会合构成的？有何临床意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由额骨、顶骨、颞骨和蝶骨大翼汇合形成的“H”形缝；该处骨质薄弱，内面有脑膜中动脉前支经过，受暴力打击易骨折并导致硬膜外血肿。"
+          }
+        ]
+      },
+      "c": 30,
+      "pointType": "颅骨特征",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【主要关节 · ★★★】\n颅骨之间唯一的动关节（滑膜关节）是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "颞下颌关节（由下颌骨的头与颞骨的下颌窝及关节结节构成）。"
+          }
+        ]
+      },
+      "c": 31,
+      "pointType": "主要关节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【附肢骨骼 · ★★★】\n上肢带骨包括哪两块骨？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "锁骨和肩胛骨。"
+          }
+        ]
+      },
+      "c": 32,
+      "pointType": "附肢骨骼",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床了解 · ★☆☆】\n锁骨最易发生骨折的解剖部位在哪里？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "锁骨内侧2/3（凸向前）与外侧1/3（凸向后）的交界处。"
+          }
+        ]
+      },
+      "c": 33,
+      "pointType": "临床了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【附肢骨骼 · ★★★】\n肱骨体中部的斜行沟称为什么？内有什么重要神经通过？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "桡神经沟；内有桡神经和肱深动脉通过（肱骨中段骨折易损伤桡神经）。"
+          }
+        ]
+      },
+      "c": 34,
+      "pointType": "附肢骨骼",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【附肢骨骼 · ★★★】\n解剖学姿势下，前臂内侧和外侧的长骨分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "内侧为尺骨，外侧为桡骨（口诀：内尺外桡）。"
+          }
+        ]
+      },
+      "c": 35,
+      "pointType": "附肢骨骼",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【附肢骨骼 · ★★★】\n尺骨上端两个显著的突起分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "后上方的鹰嘴和前下方的冠突。"
+          }
+        ]
+      },
+      "c": 36,
+      "pointType": "附肢骨骼",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【附肢骨骼 · ★★☆】\n8块腕骨的名称及排列顺序是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "image",
+            "content": "近侧列（由桡侧向尺侧）：手舟骨、月骨、三角骨、豌豆骨；\n远侧列（由桡侧向尺侧）：大多角骨、小多角骨、头状骨、钩骨。\n（记忆口诀：舟月三角豆，大小头状钩）",
+            "reference": "e1f35e55-74c3-4a0c-8d6b-7a3497611181",
+            "alt": "手骨及腕骨结构示意图"
+          }
+        ]
+      },
+      "c": 37,
+      "pointType": "附肢骨骼",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床了解 · ★☆☆】\n腕骨中最易发生骨折的是哪一块？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "手舟骨。"
+          }
+        ]
+      },
+      "c": 38,
+      "pointType": "临床了解",
+      "starRating": "★☆☆",
+      "importance": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【骨盆与附肢骨 · ★★★】\n髋骨由哪三块骨融合而成？融合处形成什么结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由髂骨、耻骨和坐骨融合而成（约16岁完全融合）；融合处形成髋臼（与股骨头构成髋关节）。"
+          }
+        ]
+      },
+      "c": 39,
+      "pointType": "骨盆与附肢骨",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【附肢骨骼 · ★★★】\n人体最长最结实的长骨是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "股骨（长度约为体高的1/4）。"
+          }
+        ]
+      },
+      "c": 40,
+      "pointType": "附肢骨骼",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【附肢骨骼 · ★★★】\n股骨颈与股骨体连接处，上外侧和内下方的两个重要隆起分别称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "上外侧方形隆起为大转子，内下方隆起为小转子（大转子为重要体表标志）。"
+          }
+        ]
+      },
+      "c": 41,
+      "pointType": "附肢骨骼",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【附肢骨骼 · ★★★】\n小腿两块长骨的位置关系如何？哪一块是小腿的主要承重骨？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "内侧为胫骨，外侧为腓骨；胫骨是小腿的主要承重骨。"
+          }
+        ]
+      },
+      "c": 42,
+      "pointType": "附肢骨骼",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【附肢骨骼 · ★★★】\n胫骨下端内侧和腓骨下端外侧膨大形成的体表突起分别称为什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胫骨下端内侧为内踝，腓骨下端外侧为外踝（均参与构成踝关节）。"
+          }
+        ]
+      },
+      "c": 43,
+      "pointType": "附肢骨骼",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【附肢骨骼 · ★★☆】\n7块跗骨包括哪些骨？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "后列：跟骨、距骨；\n中列：足舟骨；\n前列：内侧楔骨、中间楔骨、外侧楔骨和骰骨。\n（记忆口诀：跟下距上距前舟，舟前三楔骰外头）"
+          }
+        ]
+      },
+      "c": 44,
+      "pointType": "附肢骨骼",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【关节基本概念 · ★★★】\n骨连结按其连结方式和分化程度分为哪两大类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 直接连结：包括纤维连结、软骨连结和骨性结合（活动度极小或不活动）；\n2. 间接连结：即关节或滑膜关节（具有充以滑液的腔隙，活动度大）。"
+          }
+        ]
+      },
+      "c": 45,
+      "pointType": "关节基本概念",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【关节基本结构 · ★★★】\n关节（滑膜关节）的三项基本构造是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "image",
+            "content": "关节面（覆盖关节软骨）、关节囊（分纤维膜和滑膜层）和关节腔。",
+            "reference": "44366e37-dea2-457d-9cf0-0be824c5dc00",
+            "alt": "滑膜关节的基本构造模式图"
+          }
+        ]
+      },
+      "c": 46,
+      "pointType": "关节基本结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【关节基本结构 · ★★★】\n关节软骨的主要生理功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "使粗糙不平的关节面变光滑，并在运动时减少关节面摩擦、缓冲震荡与冲击。"
+          }
+        ]
+      },
+      "c": 47,
+      "pointType": "关节基本结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【关节基本结构 · ★★★】\n关节囊的内层（滑膜层）有何重要生理功能？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "产生滑液，在关节腔内提供润滑环境、减少摩擦，并为关节软骨和半月板等提供营养。"
+          }
+        ]
+      },
+      "c": 48,
+      "pointType": "关节基本结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【关节基本结构 · ★★☆】\n关节腔内的压力状态及其生理意义是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "关节腔呈密闭负压状态，对维持关节的稳固性与紧密贴合起重要作用。"
+          }
+        ]
+      },
+      "c": 49,
+      "pointType": "关节基本结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【关节辅助结构 · ★★☆】\n常见的关节辅助结构有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "韧带、关节盘（半月板）、关节唇、滑膜襞和滑膜囊。"
+          }
+        ]
+      },
+      "c": 50,
+      "pointType": "关节辅助结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【人体主要关节 · ★★★】\n肩关节的结构特点是什么？为什么该关节活动度最大却易发生脱位？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "image",
+            "content": "由肱骨头与肩胛骨关节盂构成。肱骨头大而关节窝浅，关节囊薄而松弛，因此运动幅度极大，但稳固性较差，易向前下方脱位。",
+            "reference": "69cb6c3c-b10d-4be9-a72c-6eb78031f058",
+            "alt": "肩关节结构剖面图"
+          }
+        ]
+      },
+      "c": 51,
+      "pointType": "人体主要关节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【关节辅助结构 · ★★☆】\n肩关节辅助结构中，起增大关节窝深度作用的是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "关节唇（肩盂唇，由纤维软骨构成）。"
+          }
+        ]
+      },
+      "c": 52,
+      "pointType": "关节辅助结构",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【人体主要关节 · ★★★】\n膝关节由哪些骨构成？腓骨是否参与构成膝关节？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由股骨下端、胫骨上端和髌骨构成；腓骨不参与构成膝关节。"
+          }
+        ]
+      },
+      "c": 53,
+      "pointType": "人体主要关节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【人体主要关节 · ★★★】\n膝关节腔内的内侧半月板和外侧半月板有何主要生理功能？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "垫平关节面、匹配关节头与关节窝、增加膝关节稳固性、减少运动摩擦并缓冲冲击力。"
+          }
+        ]
+      },
+      "c": 54,
+      "pointType": "人体主要关节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【人体主要关节 · ★★★】\n肘关节由哪三个子关节包裹在同一关节囊内组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "肱尺关节、肱桡关节和桡尺近侧关节。"
+          }
+        ]
+      },
+      "c": 55,
+      "pointType": "人体主要关节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【人体主要关节 · ★★★】\n髋关节与肩关节相比，在结构稳固性上有何特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "髋臼深且有髋臼唇紧抱股骨头，关节囊坚韧致密，囊外及囊内有强坚韧带（如髂股韧带、股骨头韧带），稳固性远高于肩关节，适合支撑体重。"
+          }
+        ]
+      },
+      "c": 56,
+      "pointType": "人体主要关节",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊柱连结构造 · ★★★】\n椎体之间的主要连结结构有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "椎间盘、前纵韧带和后纵韧带。"
+          }
+        ]
+      },
+      "c": 57,
+      "pointType": "脊柱连结构造",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊柱连结构造 · ★★★】\n椎间盘由哪两部分构成？临床上椎间盘突出最常发生在哪个方向？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由外周坚韧的纤维环和中央富于弹性的髓核构成；最常向后外侧突出，压迫脊神经根引起疼痛和运动障碍。"
+          }
+        ]
+      },
+      "c": 58,
+      "pointType": "脊柱连结构造",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【脊柱连结构造 · ★★☆】\n连结相邻椎骨椎弓板之间的韧带称为什么？有何特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "黄韧带（由弹性纤维构成，呈黄色）；能限制脊柱过度前屈。"
+          }
+        ]
+      },
+      "c": 59,
+      "pointType": "脊柱连结构造",
+      "starRating": "★★☆",
+      "importance": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【解剖构造与功能 · ★★★】\n人体足弓的主要生理功能是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "image",
+            "content": "赋予足部弹性，在行走、跑步和跳跃时发挥弹性和缓冲震荡的作用，保护脑与内脏器官，并保护足底血管神经免受压迫。",
+            "reference": "533536fe-a5a3-41c4-998b-c5e97b9df85a",
+            "alt": "足弓结构示意图"
+          }
+        ]
+      },
+      "c": 60,
+      "pointType": "解剖构造与功能",
+      "starRating": "★★★",
+      "importance": 3
+    }
+  ],
+  "topics": {
+    "covered": [
+      "骨学总论与构造",
+      "骨的化学成分与发生",
+      "中轴骨骼：椎骨与脊柱",
+      "中轴骨骼：胸廓与胸骨",
+      "中轴骨骼：颅骨特征与翼点",
+      "附肢骨骼：上肢骨解剖",
+      "附肢骨骼：下肢骨解剖",
+      "关节学：关节结构与辅助结构",
+      "主要关节：肩关节与膝关节",
+      "脊柱连结与足弓功能"
+    ],
+    "followUp": [
+      "骨折愈合过程的生物学机制",
+      "骨重塑与成骨-破骨平衡调节",
+      "颅底各孔裂通行的神经与血管",
+      "脊柱病理改变与椎间盘突出症",
+      "下肢生物力学与足弓坍塌（扁平足）"
+    ]
+  },
+  "id": "e4085f89-2ba4-40da-bb43-c492adf52943",
+  "title": "人体骨骼 闪卡"
+}

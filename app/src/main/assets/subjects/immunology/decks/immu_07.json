@@ -1,0 +1,1257 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "生发中心内BCR呈现高亲和力的B细胞会发生什么选择和转归？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "发生阳性选择，发育成为浆细胞或记忆B细胞"
+          }
+        ]
+      },
+      "c": 25
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B细胞介导的免疫应答属于哪种类型的特异性免疫应答？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "体液免疫应答"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "主要诱导B细胞进行Ig类别转换产生黏膜局部重要抗体IgA的细胞因子是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "TGF-β（及IL-5）"
+          }
+        ]
+      },
+      "c": 44
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫与适应性免疫在识别病原体方式上的主要区别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫直接识别PAMP（非特异性）；适应性免疫中T细胞识别APC提呈的抗原肽-MHC复合物，B细胞直接特异性识别抗原表位。"
+          }
+        ]
+      },
+      "c": 45
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "免疫应答的物质基础是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "免疫细胞、免疫分子以及免疫细胞与免疫分子间的相互作用"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "辅助BCR识别抗原并传导活化信号的B细胞共受体复合物由哪些分子组成？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "CD21/CD19/CD81复合物"
+          }
+        ]
+      },
+      "c": 33
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "生发中心内清扫并吞噬凋亡B细胞残体的细胞是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "可染体巨噬细胞（tingible body macrophage）"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体抵御所有病原体入侵的第一道防线是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫（固有免疫）"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "免疫球蛋白（Ig）、补体、干扰素、白细胞介素和肿瘤坏死因子属于免疫系统的哪一组成部分？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "免疫分子"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在初次体液免疫应答中，Th细胞与B细胞主要通过什么方式相互作用并激活B细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "由其它APC活化的Th细胞与B细胞通过粘附分子相互作用激活B细胞"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫与适应性免疫在作用机制与记忆功能上的主要区别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有免疫无需克隆扩增分化，产生作用迅速，无免疫记忆；适应性免疫需克隆扩增与分化，产生效应相对较慢，具有免疫记忆。"
+          }
+        ]
+      },
+      "c": 46
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "再次体液免疫应答相比于初次体液免疫应答，产生的抗体在亲和力上有何显著变化？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "再次应答产生的抗体亲和力显著增高（亲和力成熟）"
+          }
+        ]
+      },
+      "c": 61
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在生发中心暗区（dark zone），B细胞的主要形态和功能状态是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "中心母细胞（centroblast）增殖分裂并发生BCR体细胞高频突变"
+          }
+        ]
+      },
+      "c": 59
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B淋巴细胞在生发中心最终分化为什么细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "浆细胞（分泌抗体）和记忆性B细胞"
+          }
+        ]
+      },
+      "c": 52
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "活化后的B细胞在生发中心成熟过程中，通过什么机制提高抗体与抗原的结合亲和力？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "体细胞高频突变（Somatic Hypermutation）与抗原亲和力选择"
+          }
+        ]
+      },
+      "c": 50
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B细胞与Th细胞相互作用时，B细胞表面的ICAM-1与Th细胞表面的哪种粘附分子结合？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "LFA-1"
+          }
+        ]
+      },
+      "c": 38
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "维持体内特异性高亲和力抗体长期处于一定水平的关键细胞是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗原特异性长寿浆细胞"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Th细胞表面的CD28分子在与B细胞相互作用时，结合B细胞表面的什么协同刺激分子？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B7分子（CD80/CD86）"
+          }
+        ]
+      },
+      "c": 37
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "巨噬细胞、T细胞、B细胞和NK细胞属于免疫系统的哪一组成部分？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "免疫细胞"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "适应性免疫应答的特异性具体体现在哪两个方面？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "特异性识别与特异性记忆"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "骨髓和胸腺在免疫系统中属于哪一类器官？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "中枢免疫器官（免疫器官）"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "T细胞介导的免疫应答属于哪种类型的特异性免疫应答？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞免疫应答"
+          }
+        ]
+      },
+      "c": 16
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在细胞因子作用下，主要诱导Ig类别转换为IgE的细胞因子是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IL-4"
+          }
+        ]
+      },
+      "c": 43
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是TD抗原（胸腺依赖性抗原）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "必须依赖T细胞（CD4+ Th细胞）辅助才能激活B细胞并产生抗体的抗原"
+          }
+        ]
+      },
+      "c": 47
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在再次体液免疫应答中，哪种细胞直接作为抗原提呈细胞（APC）与T细胞相互作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "已扩增的B细胞"
+          }
+        ]
+      },
+      "c": 31
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是ADCC作用（抗体依赖的细胞介导的细胞毒作用）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗体结合靶细胞表面的抗原后，其Fc段结合NK细胞等效应细胞表面的Fc受体，介导效应细胞直接杀伤靶细胞。"
+          }
+        ]
+      },
+      "c": 55
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B细胞活化所需的第一信号是如何产生的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "BCR与特异性抗原（抗原表位）特异性结合"
+          }
+        ]
+      },
+      "c": 34
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "特异性免疫（适应性免疫）根据机制和效应分子不同可分为哪两大类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细胞免疫与体液免疫"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脾脏、淋巴结、扁桃体以及小肠集合淋巴结属于免疫系统的哪一类结构？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外周免疫器官"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "体液免疫应答主要的体液效应分子是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗体（Ab）"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "参与指导和促进B细胞分化的主要细胞因子有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IL-4、IL-5、IL-6、IL-10、IFN-γ"
+          }
+        ]
+      },
+      "c": 42
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "适应性免疫应答发生的场所是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外周免疫器官（如淋巴结、脾脏、黏膜免疫系统）"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "生发中心内，中心母细胞发生BCR改变后与哪种细胞表面结合的抗原相互作用？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "滤泡性树突状细胞（FDC）"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫主要识别病原微生物的什么成分？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病原体特有的成分（如细菌细胞壁上的多糖等病原相关分子模式）"
+          }
+        ]
+      },
+      "c": 9
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "记忆B细胞库不断更新和维持的抗原刺激来源有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "病原微生物反复暴露、长期慢性炎症以及自身或环境中共同抗原的存在（交叉反应、独特型网络）"
+          }
+        ]
+      },
+      "c": 27
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B细胞作为APC将加工后的抗原提呈给CD4+ Th细胞时，利用的是哪种MHC分子？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "MHC II类分子"
+          }
+        ]
+      },
+      "c": 36
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "滤泡性树突状细胞（FDC）表面抗原抗体复合物可持存在多久以维持免疫记忆？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "数月至数年"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为什么说天然免疫与特异性免疫是相互依赖的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫为适应性免疫的启动提供抗原提呈与协同刺激，而适应性免疫的效应分子（如抗体）又常需依赖固有免疫机制（如补体、吞噬细胞）来最终清除病原体。"
+          }
+        ]
+      },
+      "c": 65
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "与TD抗原诱导B细胞活化相关的关键细胞因子有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IL-1、IL-4、IL-7"
+          }
+        ]
+      },
+      "c": 40
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B细胞活化所需的第二信号主要由B细胞上的什么分子与Th细胞上的CD40L结合提供？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "CD40分子"
+          }
+        ]
+      },
+      "c": 35
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "简述B细胞对TD抗原特异性识别的过程。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "BCR-Igα/Igβ复合体在共受体CD21/CD19/CD81的辅助下，直接特异性识别并结合抗原表位。"
+          }
+        ]
+      },
+      "c": 48
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "树突状细胞（DC细胞）、肥大细胞和中性粒细胞在免疫系统中属于什么分类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "免疫细胞"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗体发挥保护作用的“调理作用”机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗体Fab段结合病原体，Fc段与吞噬细胞表面的Fc受体结合，促进吞噬细胞对病原体的吞噬与杀灭。"
+          }
+        ]
+      },
+      "c": 54
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗体发挥保护作用的“中和作用”机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗体特异性结合病毒或细菌外毒素，阻止其与宿主细胞表面受体结合入侵。"
+          }
+        ]
+      },
+      "c": 53
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在生发中心明区（light zone），B细胞的主要形态和选择过程是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "中心细胞（centrocyte）与FDC及Th细胞相互作用，接受亲和力选择与筛选"
+          }
+        ]
+      },
+      "c": 60
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "生发中心内BCR呈现低亲和力的B细胞会发生什么选择和转归？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "发生阴性选择，导致细胞凋亡"
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "除了发挥保护性防御作用外，抗体还可能参与哪些病理过程？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "超敏反应和自身免疫病"
+          }
+        ]
+      },
+      "c": 63
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "T细胞介导的细胞免疫应答中，效应T细胞的主要作用靶点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "表达相应特异性抗原肽-MHC复合物的靶细胞（如被病毒感染的细胞或肿瘤细胞）"
+          }
+        ]
+      },
+      "c": 58
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "免疫系统的三大基本组成部分是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "免疫器官、免疫细胞、免疫分子"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "再次体液免疫应答中主要产生的抗体Ig类别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IgG（初次应答早期以IgM为主）"
+          }
+        ]
+      },
+      "c": 62
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "T细胞表面用于特异性识别抗原的受体简称是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "TCR（T细胞受体）"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "天然免疫系统的主要组成细胞与体液途径包括哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "吞噬细胞、NK细胞、补体旁路途径等"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Th辅助B细胞免疫应答主要通过哪两种基本方式？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1. 细胞直接接触并提供协同刺激分子（如CD40L-CD40）；2. 分泌细胞因子促进B细胞活化、增殖和分化。"
+          }
+        ]
+      },
+      "c": 57
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "促进活化B细胞增殖的关键细胞因子有哪些？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IL-2、IL-4、IL-5、IL-7"
+          }
+        ]
+      },
+      "c": 41
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗体与抗原结合形成免疫复合物后，可激活固有免疫中的哪一补体激活途径？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "补体经典途径"
+          }
+        ]
+      },
+      "c": 56
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "什么是Ig类型转换（Class Switching）？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B细胞在应答过程中抗体重链恒定区发生改变，使产生的抗体由IgM转换为IgG、IgA或IgE等不同类别的过程。"
+          }
+        ]
+      },
+      "c": 51
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人体抵御特定病原体入侵的第二道防线是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "特异性免疫（适应性免疫）"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "黏膜免疫系统中代表性的外周免疫结构是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "小肠集合淋巴结（Peyer's patch）"
+          }
+        ]
+      },
+      "c": 64
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B细胞表面用于特异性识别抗原的受体简称是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "BCR（B细胞受体）"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "成熟B细胞受抗原刺激后，在生发中心首先增殖分裂为什么细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "中心母细胞（centroblast）"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有性免疫应答与适应性免疫应答的别称分别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "固有性免疫应答 = 非特异性免疫应答；适应性免疫应答 = 特异性免疫应答"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B细胞直接特异性识别抗原主要依赖什么受体复合体？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "BCR-Igα/Igβ复合体"
+          }
+        ]
+      },
+      "c": 32
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "简述B细胞针对TD抗原活化所需的双信号体系。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "第一信号：BCR特异性结合抗原；第二信号：Th细胞表面的CD40L与B细胞表面的CD40结合。"
+          }
+        ]
+      },
+      "c": 49
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "适应性免疫应答中，免疫细胞间的相互作用受到什么分子的限制？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "MHC（主要组织相容性复合体）分子"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "活化Th细胞辅助B细胞活化、增殖和分化所提供的“第三信号”是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "活化Th细胞分泌的细胞因子（CK）"
+          }
+        ]
+      },
+      "c": 39
+    }
+  ],
+  "topics": {
+    "covered": [
+      "免疫系统组成与免疫器官",
+      "天然免疫与适应性免疫比较",
+      "免疫应答场所与共同规律",
+      "生发中心与B细胞亲和力选择",
+      "记忆B细胞库维持机制",
+      "B细胞与Th细胞相互作用与活化信号",
+      "体液免疫应答与细胞因子作用",
+      "抗体效应机制与Ig类型转换"
+    ],
+    "followUp": [
+      "T淋巴细胞介导的细胞免疫应答阶段与效应机制",
+      "抗原提呈细胞（APC）对加工抗原的提呈途径（MHC I/II）",
+      "补体系统的激活途径与生物学效应",
+      "超敏反应的免疫学机制"
+    ]
+  }
+}

@@ -1,0 +1,1252 @@
+{
+  "flashcards": [
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "滤泡 B 细胞大约占外周淋巴细胞总数的多少比例？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "约 20%"
+          }
+        ]
+      },
+      "c": 52
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在克隆选择过程中，未被抗原选择的 B 细胞克隆会处于何种状态？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "保持静默状态（克隆排除/未激活）"
+          }
+        ]
+      },
+      "c": 18
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "克隆选择学说关于“一个细胞克隆产生一种特异性抗体”的预见在1975年被哪项技术证实？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "单克隆抗体技术（Monoclonal antibody technology）"
+          }
+        ]
+      },
+      "c": 13
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在 V-D-J 连接处插入非模板核苷酸（N区域）会产生什么效应？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "显著增加高变区（CDR3）的连接灵活性与 CDR3 多样性。"
+          }
+        ]
+      },
+      "c": 29
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "记忆 B 细胞的寿命通常可达多久？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "数十年"
+          }
+        ]
+      },
+      "c": 21
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "成熟 B 细胞受抗原刺激活化后，形成的记忆 B 细胞表面主要表达什么类型的 Ig？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$sIgG^+$ 或 $sIgA^+$"
+          }
+        ]
+      },
+      "c": 37
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Ehrlich 提出侧链学说（Side-chain theory）的时间是哪一年？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1897年"
+          }
+        ]
+      },
+      "c": 1
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为什么说 B1 细胞兼具“固有免疫”特征？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "因为其反应迅速、无需 Th 细胞辅助、不发生类别转换，识别常见病原体共有多糖成分（类似模式识别）。"
+          }
+        ]
+      },
+      "c": 61
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "根据克隆选择学说，抗原进入机体后的核心作用是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "作为选择剂，特异性选择并结合表面表达互补受体的细胞克隆，致其克隆扩增与分化。"
+          }
+        ]
+      },
+      "c": 14
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人类重链胚系基因结构中包含的常区基因片段按顺序排列起始于哪两个？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$C_\\mu$ 和 $C_\\delta$"
+          }
+        ]
+      },
+      "c": 27
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "侧链学说的核心观点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外毒素与细胞表面预先存在的特异性侧链（受体）结合，刺激细胞产生更多侧链并脱落入血液形成抗体。"
+          }
+        ]
+      },
+      "c": 3
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "免疫球蛋白轻链（L链）可变区由哪两种基因片段组合编码？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "V（可变）和 J（连接）片段"
+          }
+        ]
+      },
+      "c": 25
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1958年进一步完善克隆选择学说并确立“一个克隆-一种抗体”原则的科学家是_____。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "David 与 Joshua Lederberg"
+          }
+        ]
+      },
+      "c": 9
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "克隆选择学说（Clonal Selection Theory）是由哪一位澳大利亚免疫学家于1957年系统提出的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Frank Burnet（弗兰克·伯内特）"
+          }
+        ]
+      },
+      "c": 8
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人类 $\\kappa$ 轻链胚系基因包含约多少个 $V_\\kappa$ 片段和多少个 $C_\\kappa$ 片段？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "40个 $V_\\kappa$ 片段，5个 $J_\\kappa$ 片段，1个 $C_\\kappa$ 片段。"
+          }
+        ]
+      },
+      "c": 28
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "成熟 B 细胞（Mature B cell）表面同时表达哪两种膜表面免疫球蛋白？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$sIgM^+$ 和 $sIgD^+$"
+          }
+        ]
+      },
+      "c": 36
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B 细胞分化的基本发育阶段顺序是怎样的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "淋巴样前体细胞 → 祖 B 细胞（Pro-B） → 前 B 细胞（Pre-B） → 未成熟 B 细胞（Immature B） → 成熟 B 细胞（Mature B）"
+          }
+        ]
+      },
+      "c": 30
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "初始 B 细胞（Naive B cell）的概念是指_____。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "发育成熟但尚未接触同源抗原刺激的 B 细胞（膜表达 $sIgM^+ sIgD^+$）"
+          }
+        ]
+      },
+      "c": 59
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "边缘区 B 细胞主要定位于机体的哪一器官的哪一特定部位？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脾脏（Spleen）的边缘窦区（Marginal zone）"
+          }
+        ]
+      },
+      "c": 54
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "侧链学说在解释免疫机制时存在的主要历史局限是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "未能阐明抗体合成与多样性产生的具体生物学与遗传机制。"
+          }
+        ]
+      },
+      "c": 4
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Frank Burnet 因提出克隆选择学说于哪一年获得诺贝尔生理学或医学奖？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1960年"
+          }
+        ]
+      },
+      "c": 10
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B1 细胞发育起源于胚胎时期的什么细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胎肝（Fetal liver）中的造血干细胞"
+          }
+        ]
+      },
+      "c": 41
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B1 细胞在激活与产生抗体时是否需要 Th 细胞的辅助？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不需要（具有独立产生 TI 应答的特性）"
+          }
+        ]
+      },
+      "c": 45
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "滤泡 B 细胞定位于机体的什么部位？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外周淋巴器官的滤泡区"
+          }
+        ]
+      },
+      "c": 51
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B2 细胞包含哪两个主要的子亚群？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "滤泡 B 细胞（Follicular B cell）和 边缘区 B 细胞（Marginal-zone B cell）"
+          }
+        ]
+      },
+      "c": 50
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "前 B 细胞（Pre-B cell）阶段发生的关键 Ig 基因重排事件是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "轻链（L链）基因重排"
+          }
+        ]
+      },
+      "c": 34
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "祖 B 细胞（Pro-B cell）阶段发生的关键 Ig 基因重排事件是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "重链（H链）基因重排"
+          }
+        ]
+      },
+      "c": 33
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "20世纪30年代提出的“模板学说”（Template theory）的核心观点是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "认为抗体是以抗原为直接模板指导折叠或合成而生成的。"
+          }
+        ]
+      },
+      "c": 5
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "终末分化的浆细胞（Plasma cell）中 Ig 的存在形式主要是_____。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "胞浆 Ig（大幅增加合成并分泌可溶性抗体，膜受体表达显著下降）"
+          }
+        ]
+      },
+      "c": 38
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B1 细胞在自我维持方面具有什么突出生物学特性？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "具有自我更新（Self-renewal）能力"
+          }
+        ]
+      },
+      "c": 47
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "20世纪70年代在基因水平证实 Ig 基因重排机制并获得1987年诺贝尔奖的科学家是谁？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "利根川进（Susumu Tonegawa）"
+          }
+        ]
+      },
+      "c": 23
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "为什么说模板学说是根本错误的？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "抗体的结构与特异性由基因重排决定，抗原只起筛选特异克隆的作用，而非合成模板。"
+          }
+        ]
+      },
+      "c": 57
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "除了参与早期防御，B1 细胞产生的某些天然抗体还与哪类病理现象相关？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "自身免疫病（Autoimmune diseases）的发生"
+          }
+        ]
+      },
+      "c": 48
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "根据活化阶段的不同，B 细胞可划分为哪三类？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "初始 B 细胞（Naive B）、效应 B 细胞（Effector B/浆细胞）和 记忆 B 细胞（Memory B）"
+          }
+        ]
+      },
+      "c": 39
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "疫苗接种能产生长期免疫保护的生物学基础是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "记忆 B 细胞的形成与其在二次应答中的快速扩增和高效抗体产生能力。"
+          }
+        ]
+      },
+      "c": 22
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "1955年提出天然抗体选择学说、为克隆选择理论提供关键启发的是哪一位学者？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Jerne（杰奈）"
+          }
+        ]
+      },
+      "c": 7
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B1 细胞在应答微生物感染早期主要分泌哪种类型的抗体？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "IgM"
+          }
+        ]
+      },
+      "c": 43
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "激活的 B 细胞在生发中心反应中，通过什么机制发生亲和力成熟？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "体细胞高频突变（Somatic hypermutation）"
+          }
+        ]
+      },
+      "c": 19
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B1 细胞主要定居在机体的哪些部位？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "腹膜腔、胸膜腔和肠道黏膜固有层"
+          }
+        ]
+      },
+      "c": 42
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "脾脏边缘区 B 细胞在防御机制中的主要功能是应对通过何种途径入侵的病原体？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "血液循环途径入侵的病原体"
+          }
+        ]
+      },
+      "c": 60
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Paul Ehrlich 提出侧链学说时，主要基于对哪种毒素与受体结合的研究？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "白喉抗毒素（外毒素）"
+          }
+        ]
+      },
+      "c": 2
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "首次提出现代“细胞表面受体与毒素结合”概念的科学家是谁？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "Paul Ehrlich（保罗·埃尔利希）"
+          }
+        ]
+      },
+      "c": 58
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "根据发育途径的不同，B 细胞分为哪两大亚群？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B1 细胞和 B2 细胞"
+          }
+        ]
+      },
+      "c": 40
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "免疫球蛋白重链（H链）可变区由哪三种基因片段组合编码？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "V（可变）、D（多样性）、J（连接）片段"
+          }
+        ]
+      },
+      "c": 24
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "生发中心反应中发生的“亲和力成熟”是指什么现象？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B 细胞在体细胞高频突变后，结合抗原亲和力更高的克隆被优先选择存活并扩增。"
+          }
+        ]
+      },
+      "c": 65
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "克隆选择学说与侧链学说在细胞受体表达上的最本质区别是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "侧链学说认为单个细胞表面有多种不同特异性侧链；克隆选择学说认为一个细胞/克隆仅表达一种特异性受体。"
+          }
+        ]
+      },
+      "c": 56
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B 细胞发育的抗原依赖阶段发生的场所在哪里？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外周淋巴器官（如脾脏、淋巴结等）"
+          }
+        ]
+      },
+      "c": 32
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "成熟 B 细胞表面表达的 $sIgM$ 和 $sIgD$ 的可变区（V区）特异性是否相同？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "完全相同（由同一个重组成功的 V-D-J 基因片段表达）"
+          }
+        ]
+      },
+      "c": 64
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "克隆选择学说对抗体生成认知的最大理论突破是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "颠覆了“抗原指导抗体生成”的模板观点，将抗体多样性归因于机体内预先存在的特异性 B 细胞克隆库。"
+          }
+        ]
+      },
+      "c": 12
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B1 细胞主要针对哪一类化学成分的抗原产生较强的应答？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "细菌多糖（非 T 细胞依赖性抗原/TI抗原）"
+          }
+        ]
+      },
+      "c": 44
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "外来抗原对表面 BCR 互补的 B 细胞克隆的选择精度可达多少？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "百万分之一"
+          }
+        ]
+      },
+      "c": 17
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "通过 V(D)J 基因重排形成的 B 细胞克隆库大约包含多少种独特 BCR？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "约 $10^{11}$ 种"
+          }
+        ]
+      },
+      "c": 16
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "重链胚系基因进行 V(D)J 重排时，两个步骤发生的先后顺序是_____。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "先发生 D-J 重排，再发生 V-DJ 重排"
+          }
+        ]
+      },
+      "c": 26
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "未成熟 B 细胞（Immature B cell）表面特征性表达的免疫球蛋白类型是_____。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$sIgM^+$"
+          }
+        ]
+      },
+      "c": 35
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B1 细胞在免疫应答过程中是否会发生抗体类别转换？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "不发生（主要保持产生 IgM）"
+          }
+        ]
+      },
+      "c": 46
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B 细胞在骨髓发育阶段产生多样性 BCR 克隆库的关键基因机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "V(D)J 基因重排机制"
+          }
+        ]
+      },
+      "c": 15
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在 B 细胞发育过程中，最先出现在细胞膜表面的免疫球蛋白类型是_____。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "sIgM"
+          }
+        ]
+      },
+      "c": 62
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "在经典体液免疫应答中行使高亲和力抗体产生和记忆形成的主力 B 细胞亚群是_____。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "滤泡 B2 细胞"
+          }
+        ]
+      },
+      "c": 55
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "克隆扩增后，激活的 B 细胞最终分化为哪两类细胞？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "浆细胞（分泌抗体）和记忆 B 细胞（提供长期免疫记忆）"
+          }
+        ]
+      },
+      "c": 20
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "B 细胞发育的抗原非依赖阶段发生的场所在哪里？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "骨髓（胚胎期为胎肝）"
+          }
+        ]
+      },
+      "c": 31
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "克隆选择学说确立的核心原则是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "一个克隆-一种抗体（每个免疫细胞及其衍生克隆只合成和表达一种特异性抗体/受体）。"
+          }
+        ]
+      },
+      "c": 11
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "常用于比喻模板学说的错误逻辑的比喻是_____。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "先有钥匙后有锁"
+          }
+        ]
+      },
+      "c": 6
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "滤泡 B 细胞分化为浆细胞并产生高效抗体是否需要 Th 细胞辅助？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "需要（依赖 Th 细胞辅助，进行 TD 抗原应答）"
+          }
+        ]
+      },
+      "c": 53
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "人类免疫球蛋白轻链分为哪两种类型？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "$\\kappa$（kappa）链 与 $\\lambda$（lambda）链"
+          }
+        ]
+      },
+      "c": 63
+    },
+    {
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "成熟 B2 细胞的发育起源是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "骨髓多能造血干细胞"
+          }
+        ]
+      },
+      "c": 49
+    }
+  ],
+  "topics": {
+    "covered": [
+      "抗体理论历史与克隆选择学说",
+      "抗体多样性生成与遗传机制",
+      "B细胞发育与表面标志表达",
+      "B细胞功能亚群分类（B1与B2）"
+    ],
+    "followUp": [
+      "生发中心反应与体细胞高频突变细节",
+      "抗体类别转换重组（CSR）分子机制",
+      "B细胞中枢免疫耐受与克隆清除"
+    ]
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "下列关于微生物概念与基本特征的叙述，错误的是：",
+      "options": [
+        {
+          "text": "绝大多数微生物属于单细胞或非细胞结构",
+          "isCorrect": false,
+          "rationale": "叙述正确，微生物多为单细胞，病毒为非细胞型。"
+        },
+        {
+          "text": "微生物在自然界分布广泛，繁殖速度迅速",
+          "isCorrect": false,
+          "rationale": "叙述正确，繁殖快、易变异是微生物的关键特征。"
+        },
+        {
+          "text": "在自然界已知的所有微生物中，绝大多数是对人类有害的病原体",
+          "isCorrect": true,
+          "rationale": "符合题意。在已知微生物中，绝大多数对人类有益或必需（如参与物质循环、肠道微生态），致病微生物仅占极少数。"
+        },
+        {
+          "text": "观察微生物通常需要借助光学显微镜或电子显微镜",
+          "isCorrect": false,
+          "rationale": "叙述正确，肉眼不可见是微生物的物理特征。"
+        }
+      ],
+      "hint": "注意区分多数与少数微生物与人类的关系。",
+      "rationale": "绝大多数微生物对人类动植物是有益甚至必需的，仅有少数能引起机体疾病的微生物被称为病原微生物。"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "原核细胞型微生物与真核细胞型微生物最主要的本质区别在于：",
+      "options": [
+        {
+          "text": "原核细胞无核膜和核仁，仅含核糖体一种细胞器",
+          "isCorrect": true,
+          "rationale": "正确。原核细胞仅有原始拟核（无核膜、核仁），胞质内细胞器极不完善，仅具核糖体。"
+        },
+        {
+          "text": "原核细胞体内缺乏遗传物质DNA",
+          "isCorrect": false,
+          "rationale": "错误。原核细胞DNA与RNA并存，遗传物质为DNA。"
+        },
+        {
+          "text": "真核细胞对抗生素具有极高的敏感性",
+          "isCorrect": false,
+          "rationale": "错误。常用抗细菌抗生素通常不作用于真核细胞。"
+        },
+        {
+          "text": "原核细胞均不能独立进行能量代谢与增殖",
+          "isCorrect": false,
+          "rationale": "错误。大多数细菌能独立合成能量并自主二分裂增殖。"
+        }
+      ],
+      "hint": "紧扣细胞核的分化程度及细胞器完备程度思考。",
+      "rationale": "原核细胞型微生物的分化程度低，仅有原始拟核，缺乏核膜与核仁，细胞器仅有核糖体。"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "属于非细胞型微生物的代表生物是：",
+      "options": [
+        {
+          "text": "支原体",
+          "isCorrect": false,
+          "rationale": "支原体为原核细胞型微生物（无细胞壁）。"
+        },
+        {
+          "text": "真菌",
+          "isCorrect": false,
+          "rationale": "真菌属于真核细胞型微生物。"
+        },
+        {
+          "text": "病毒",
+          "isCorrect": true,
+          "rationale": "正确。病毒缺乏细胞结构，无能量代谢酶系，仅含一种核酸，严格活细胞内寄生。"
+        },
+        {
+          "text": "立克次体",
+          "isCorrect": false,
+          "rationale": "立克次体为原核细胞型微生物。"
+        }
+      ],
+      "hint": "体积最小、无细胞结构、仅含一种核酸。",
+      "rationale": "非细胞型微生物仅由核酸和蛋白质外壳构成（或仅含感染性核酸/蛋白），典型代表为病毒及亚病毒（朊粒）。"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "下列微生物中，缺乏完整细胞壁、呈现高度多形性、但仍属于原核细胞型微生物的是：",
+      "options": [
+        {
+          "text": "支原体（Mycoplasma）",
+          "isCorrect": true,
+          "rationale": "正确。支原体是唯一天然没有细胞壁的原核细胞型微生物，具有高度多形性，能通过细菌滤器。"
+        },
+        {
+          "text": "衣原体（Chlamydia）",
+          "isCorrect": false,
+          "rationale": "衣原体有类似革兰阴性菌的细胞壁结构，具有独特发育周期。"
+        },
+        {
+          "text": "螺旋体（Spirochete）",
+          "isCorrect": false,
+          "rationale": "螺旋体具有细胞壁与轴丝。"
+        },
+        {
+          "text": "酵母菌（Yeast）",
+          "isCorrect": false,
+          "rationale": "酵母菌为真核细胞型真菌，细胞壁含几丁质和葡聚糖。"
+        }
+      ],
+      "hint": "注意‘无细胞壁’与‘原核微生物’的双重限定条件。",
+      "rationale": "支原体是能在无生命培养基中生长繁殖的最小原核微生物，其典型特征是天然缺乏细胞壁。"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "正常菌群在宿主体内转化为“机会性致病微生物”（条件致病菌）的核心诱发条件不包括：",
+      "options": [
+        {
+          "text": "宿主全身或局部免疫功能严重低下",
+          "isCorrect": false,
+          "rationale": "这是主要诱因之一（如器官移植、艾滋病、化疗）。"
+        },
+        {
+          "text": "细菌寄居部位发生改变（如肠道菌移位至泌尿道）",
+          "isCorrect": false,
+          "rationale": "这是主要诱因之一（异位寄生）。"
+        },
+        {
+          "text": "宿主按医嘱短疗程接种灭活疫苗",
+          "isCorrect": true,
+          "rationale": "符合题意。正常接种灭活疫苗激活保护性免疫，不会诱发菌群失调或条件致病。"
+        },
+        {
+          "text": "长期大量应用广谱抗生素导致微生态失调",
+          "isCorrect": false,
+          "rationale": "广谱抗生素破坏菌群平衡可诱发假膜性肠炎等二重感染。"
+        }
+      ],
+      "hint": "思考哪些因素会打破菌群平衡或破坏宿主防御。",
+      "rationale": "条件致病菌致病的三大条件为：机体免疫力下降、寄居部位改变、菌群失调。疫苗接种增强特异性免疫，非诱发因素。"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "医学微生物学研究的核心内容通常被概括为“三性两法”，其中的“三性”具体是指：",
+      "options": [
+        {
+          "text": "生物学特性、致病性、免疫性",
+          "isCorrect": true,
+          "rationale": "正确。三性即生物学性状、致病机制、宿主免疫反应。"
+        },
+        {
+          "text": "感染性、传染性、耐药性",
+          "isCorrect": false,
+          "rationale": "属于传染病及药理特性范畴。"
+        },
+        {
+          "text": "抗原性、毒力性、侵袭性",
+          "isCorrect": false,
+          "rationale": "毒力和侵袭性均归属于致病性范畴。"
+        },
+        {
+          "text": "多形性、运动性、抗原性",
+          "isCorrect": false,
+          "rationale": "属于形态抗原特征，概括不全面。"
+        }
+      ],
+      "hint": "病原体本身的属性、对宿主的危害以及宿主的防御反应。",
+      "rationale": "“三性”即生物学特性、致病性、免疫性；“两法”即病原学诊断检查方法与特异性防治方法。"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "首创固体培养基分离纯化细菌、发明细菌染色技术并提出病原学鉴定金标准的科学家是：",
+      "options": [
+        {
+          "text": "巴斯德（Louis Pasteur）",
+          "isCorrect": false,
+          "rationale": "巴斯德是微生物学奠基人，贡献为巴氏消毒法及狂犬病减毒疫苗等。"
+        },
+        {
+          "text": "郭霍（Robert Koch）",
+          "isCorrect": true,
+          "rationale": "正确。郭霍发明琼脂固体培养基纯培养、细菌染色并提出郭霍法则，被誉为细菌学奠基人。"
+        },
+        {
+          "text": "列文虎克（Antoni van Leeuwenhoek）",
+          "isCorrect": false,
+          "rationale": "列文虎克首次用单式显微镜观察到微生物形态。"
+        },
+        {
+          "text": "李斯特（Joseph Lister）",
+          "isCorrect": false,
+          "rationale": "李斯特创立外科防腐与消毒灭菌法。"
+        }
+      ],
+      "hint": "注意‘固体培养基’与‘细菌学奠基人’。",
+      "rationale": "郭霍创用琼脂固体培养基进行纯培养，发现了炭疽杆菌、结核分枝杆菌和霍乱弧菌，创立了郭霍法则。"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "下列关于“郭霍法则”（Koch’s Postulates）的表述中，不属于其基本准则的是：",
+      "options": [
+        {
+          "text": "该微生物必须见于相同的全部病例中，健康个体中不存在",
+          "isCorrect": false,
+          "rationale": "符合郭霍法则第一条（常在性）。"
+        },
+        {
+          "text": "能从患病组织分离出该微生物，并在体外实现纯培养",
+          "isCorrect": false,
+          "rationale": "符合郭霍法则第二条（纯分离）。"
+        },
+        {
+          "text": "纯培养的微生物接种给易感实验动物，能复制出相同疾病",
+          "isCorrect": false,
+          "rationale": "符合郭霍法则第三条（可复制）。"
+        },
+        {
+          "text": "实验动物体内产生的抗体滴度必须高于体外凝集试验标准",
+          "isCorrect": true,
+          "rationale": "符合题意。血清学抗体滴度不是郭霍法则的经典原则，其第四条为能从人工发病动物体内再次分离纯培养该菌。"
+        }
+      ],
+      "hint": "郭霍法则四步：见于病患、体外纯培养、动物复制、再次纯分离。",
+      "rationale": "郭霍法则第四条是从实验感染患病动物体内重新分离出该纯培养物，不涉及抗体滴度阈值。"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "1796年，英国乡村医生爱德华·琴纳（Edward Jenner）通过接种何种物质成功预防了天花？",
+      "options": [
+        {
+          "text": "接种天花患者的干水疱痂皮（人痘法）",
+          "isCorrect": false,
+          "rationale": "人痘法是我国古代发明，存在一定感染风险。"
+        },
+        {
+          "text": "接种牛痘脓疱提取物（牛痘苗）",
+          "isCorrect": true,
+          "rationale": "正确。琴纳利用牛痘病毒感染人体后引起的轻微局部反应，产生了抵抗天花病毒的强交叉免疫力。"
+        },
+        {
+          "text": "经巴氏消毒灭活的天花病毒悬液",
+          "isCorrect": false,
+          "rationale": "当时尚未发明巴氏消毒法。"
+        },
+        {
+          "text": "接种马血清抗毒素",
+          "isCorrect": false,
+          "rationale": "抗毒素由贝林格等人后来研制。"
+        }
+      ],
+      "hint": "牛痘苗是人类免疫学史上的里程碑事件。",
+      "rationale": "爱德华·琴纳发明牛痘接种法预防天花，使天花成为人类迄今为止唯一被彻底消灭的传染病。"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "1928年，亚历山大·弗莱明（Alexander Fleming）在培养葡萄球菌时，偶然发现抑制细菌生长的划时代抗生素是：",
+      "options": [
+        {
+          "text": "链霉素（Streptomycin）",
+          "isCorrect": false,
+          "rationale": "链霉素由瓦克斯曼从放线菌中分离。"
+        },
+        {
+          "text": "青霉素（Penicillin）",
+          "isCorrect": true,
+          "rationale": "正确。弗莱明发现点青霉菌分泌青霉素能溶解金黄色葡萄球菌。"
+        },
+        {
+          "text": "头孢菌素（Cephalosporin）",
+          "isCorrect": false,
+          "rationale": "头孢菌素由Brotzu于1945年发现。"
+        },
+        {
+          "text": "四环素（Tetracycline）",
+          "isCorrect": false,
+          "rationale": "四环素发现于20世纪40年代。"
+        }
+      ],
+      "hint": "由点青霉菌产生的第一种临床抗生素。",
+      "rationale": "青霉素的发现开启了抗生素治疗细菌感染的黄金时代，使人类平均寿命大幅提升。"
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "病毒作为非细胞型微生物，体内仅含有单一类型的核酸，即DNA或RNA中的一种，二者不可能同时存在于同一个病毒颗粒中。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "判断正确。病毒的一大标志性特征就是单一核酸（DNA病毒或RNA病毒）。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": "病毒绝不包含双重核酸系统。"
+        }
+      ],
+      "hint": "非细胞型微生物与细胞型生物在核酸组成上的核心差异。",
+      "rationale": "病毒仅含DNA或RNA一种核酸，而所有细胞型微生物（原核与真核）体内均同时存在DNA和RNA。"
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "原核细胞型微生物细胞核分化程度低，但其胞质内部拥有与真核细胞一样完备的膜性细胞器（如线粒体和内质网）。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": "判断错误。原核生物没有线粒体、高尔基体或内质网等膜性细胞器。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "判断正确。原核细胞唯一的细胞器是核糖体（70S）。"
+        }
+      ],
+      "hint": "注意原核细胞的细胞器种类非常有限。",
+      "rationale": "原核细胞结构简单，无核膜核仁，细胞器仅有核糖体，无内质网、线粒体等复杂膜性细胞器。"
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "正常菌群通常对宿主无害且有益，但在机体免疫力下降或长期大量使用广谱抗生素导致菌群失调时，可转化为机会致病菌致病。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "判断正确。这是条件致病菌致病的基本原理。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": "违背机会致病菌的核心定义。"
+        }
+      ],
+      "hint": "正常菌群致病是有特定条件的。",
+      "rationale": "当宿主屏障受损、免疫力低下、菌群移位或发生抗生素引起的菌群失调时，条件致病菌可引发严重内源性感染。"
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "巴斯德通过著名的鹅颈瓶（曲颈瓶）实验彻底证实了微生物可以从无生命的肉汤腐败物中“自然发生”。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": "判断错误。巴斯德彻底推翻、否定了自然发生说！"
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "判断正确。巴斯德的曲颈瓶实验证明有机物腐败是由空气中沉降的活微生物引起的，从而彻底否定了自然发生论。"
+        }
+      ],
+      "hint": "巴斯德究竟是证实还是否定了自然发生说？",
+      "rationale": "巴斯德曲颈瓶实验表明未受微生物污染的肉汤经煮沸灭菌后长年不腐，彻底宣告“自然发生说”破产。"
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "question": "病毒对抗生素不敏感，但对机体产生的干扰素敏感；而细菌对抗生素敏感，但对干扰素不敏感。",
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "判断正确。抗生素通常靶向细胞壁、70S核糖体等细胞结构，对病毒无效；干扰素诱导抗病毒蛋白，专一抑制病毒生物合成。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": "病毒与细菌在药物敏感性上有显著的特异性分离。"
+        }
+      ],
+      "hint": "抗生素与干扰素各自的作用靶点和范围。",
+      "rationale": "这是临床抗感染用药的基本原则：抗生素用于治疗细菌/支原体等细胞型微生物感染，不能滥用于普通病毒感染；干扰素为广谱抗病毒生物制品。"
+    },
+    {
+      "id": 16,
+      "type": "multiple_select",
+      "question": "下列微生物中，属于原核细胞型微生物的包括哪些？",
+      "options": [
+        {
+          "text": "铜绿假单胞菌（细菌）",
+          "isCorrect": true,
+          "rationale": "细菌为典型原核细胞型微生物。"
+        },
+        {
+          "text": "肺炎支原体",
+          "isCorrect": true,
+          "rationale": "支原体属于无细胞壁的原核细胞型微生物。"
+        },
+        {
+          "text": "白假丝酵母菌（真菌）",
+          "isCorrect": false,
+          "rationale": "真菌为真核细胞型微生物。"
+        },
+        {
+          "text": "沙眼衣原体",
+          "isCorrect": true,
+          "rationale": "衣原体属于原核细胞型微生物。"
+        },
+        {
+          "text": "梅毒螺旋体",
+          "isCorrect": true,
+          "rationale": "螺旋体属于原核细胞型微生物。"
+        }
+      ],
+      "hint": "牢记原核六大家族：菌、支、衣、立、螺、放。",
+      "rationale": "原核细胞型微生物包括细菌、支原体、衣原体、立克次体、螺旋体和放线菌；真菌是真核细胞型微生物。"
+    },
+    {
+      "id": 17,
+      "type": "multiple_select",
+      "question": "关于非细胞型微生物的特征描述，正确的有：",
+      "options": [
+        {
+          "text": "缺乏典型的细胞结构与细胞壁",
+          "isCorrect": true,
+          "rationale": "正确，非细胞结构。"
+        },
+        {
+          "text": "内部同时含有DNA和RNA两种核酸分子",
+          "isCorrect": false,
+          "rationale": "错误，仅含DNA或RNA一种。"
+        },
+        {
+          "text": "增殖方式为在宿主活细胞内进行自我复制",
+          "isCorrect": true,
+          "rationale": "正确，以核酸复制和蛋白质衣壳合成组装完成。"
+        },
+        {
+          "text": "体外具有独立的能量代谢ATP产生系统",
+          "isCorrect": false,
+          "rationale": "错误，无代谢酶系，依赖宿主细胞提供能量。"
+        },
+        {
+          "text": "能通过常规除菌孔径（0.22μm）的细菌滤器",
+          "isCorrect": true,
+          "rationale": "正确，纳米级别超显微结构可通过细菌滤器。"
+        }
+      ],
+      "hint": "关注核酸种类、能量系统和增殖特点。",
+      "rationale": "非细胞型微生物（病毒）无细胞结构，无能量产生酶系，仅含一种核酸，严格活细胞内自我复制增殖，能通过细菌滤器。"
+    },
+    {
+      "id": 18,
+      "type": "multiple_select",
+      "question": "下列属于正常菌群对人类机体有益生理功能的有：",
+      "options": [
+        {
+          "text": "生物拮抗作用：竞争营养和结合位点，阻止外来致病菌定植",
+          "isCorrect": true,
+          "rationale": "正确。构成机体黏膜生物屏障。"
+        },
+        {
+          "text": "营养代谢作用：参与合成维生素K及B族维生素",
+          "isCorrect": true,
+          "rationale": "正确。如大肠埃希菌在肠道合成维生素K和B族。"
+        },
+        {
+          "text": "免疫刺激作用：促进宿主免疫系统发育与抗体成熟",
+          "isCorrect": true,
+          "rationale": "正确。正常抗原刺激使免疫器官分化成熟。"
+        },
+        {
+          "text": "抗衰老与清除体内某些毒性代谢产物",
+          "isCorrect": true,
+          "rationale": "正确。参与胆酸代谢、降解过氧化物及致癌前体物质。"
+        }
+      ],
+      "hint": "正常菌群是宿主维持微生态健康的重要生理防线。",
+      "rationale": "正常菌群在生物拮抗、营养合成、免疫促进和抗衰老抗肿瘤等方面均发挥不可或缺的生理作用。"
+    },
+    {
+      "id": 19,
+      "type": "multiple_select",
+      "question": "下列医学微生物学历史人物与其划时代贡献对应正确的有：",
+      "options": [
+        {
+          "text": "巴斯德——彻底否定自然发生说，研制狂犬病疫苗",
+          "isCorrect": true,
+          "rationale": "正确。巴斯德奠定了实验微生物学基础。"
+        },
+        {
+          "text": "郭霍——创用琼脂固体培养基纯培养，提出郭霍法则",
+          "isCorrect": true,
+          "rationale": "正确。郭霍是细菌学奠基人。"
+        },
+        {
+          "text": "李斯特——创立外科石炭酸防腐与无菌手术原则",
+          "isCorrect": true,
+          "rationale": "正确。显著降低了术后化脓性感染死亡率。"
+        },
+        {
+          "text": "弗莱明——从点青霉菌中发现并提取青霉素",
+          "isCorrect": true,
+          "rationale": "正确。开创抗生素时代。"
+        }
+      ],
+      "hint": "检查四位著名科学家与对应实验贡献的吻合度。",
+      "rationale": "四个选项均完全符合医学微生物学发展史的经典里程碑事件。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "question": "根据结构和组成特点，微生物通常被划分为（1）____型微生物（如病毒）、（2）____型微生物（如细菌、支原体）和（3）____型微生物（如真菌）。",
+      "blankAnswers": [
+        "非细胞",
+        "原核细胞",
+        "真核细胞"
+      ],
+      "hint": "分别对应无细胞结构、原始拟核和具有典型细胞核的三类分化阶梯。",
+      "rationale": "微生物三大类型划分为：非细胞型微生物、原核细胞型微生物、真核细胞型微生物。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "question": "医学微生物学研究的核心范畴通常概括为“三性两法”，其中“三性”指生物学特性、致病性与（1）____性；而确认某种微生物为某种传染病病原体的经典因果准则被称为（2）____法则。",
+      "blankAnswers": [
+        "免疫",
+        "郭霍"
+      ],
+      "hint": "宿主针对病原体的抗感染反应；德国细菌学奠基人命名的四原则准则。",
+      "rationale": "三性为生物学特性、致病性、免疫性；郭霍法则（Koch's postulates）是确定病原学因果关联的黄金准则。"
+    }
+  ]
+}

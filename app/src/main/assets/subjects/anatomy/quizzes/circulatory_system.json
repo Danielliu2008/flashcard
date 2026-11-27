@@ -1,0 +1,4228 @@
+{
+  "id": "quiz_circulatory_system",
+  "systemType": "CIRCULATORY",
+  "title": "循环系统 单元测验",
+  "description": "严格对齐循环系统（心脏、血管）PPT第2页要点与官方复习题，覆盖心脏结构、电生理、心动周期、微循环与血压神经体液调控",
+  "topics": {
+    "covered": [
+      "心脏结构、瓣膜、传导系统与冠脉供血",
+      "心肌工作细胞与窦房结细胞电生理特性",
+      "心动周期时相、心音、射血评价与心力储备",
+      "动静脉及毛细血管结构、体/肺循环与微循环",
+      "动脉血压形成机制、影响因素与减压反射",
+      "神经（交感/迷走）与体液（AngⅡ/E/NE）调控"
+    ]
+  },
+  "coveredTopics": [
+    "心脏结构、瓣膜、传导系统与冠脉供血",
+    "心肌工作细胞与窦房结细胞电生理特性",
+    "心动周期时相、心音、射血评价与心力储备",
+    "动静脉及毛细血管结构、体/肺循环与微循环",
+    "动脉血压形成机制、影响因素与减压反射",
+    "神经（交感/迷走）与体液（AngⅡ/E/NE）调控"
+  ],
+  "questions": [
+    {
+      "c": "1",
+      "type": "single_choice",
+      "question": "心室肌细胞动作电位具有典型的平坦平台期（2期），形成该平台期的主要跨膜离子流机制是（ ）。",
+      "prompt": "心室肌细胞动作电位具有典型的平坦平台期（2期），形成该平台期的主要跨膜离子流机制是（ ）。",
+      "answerOptions": [
+        {
+          "text": "Ca²⁺ 缓慢内流（L型钙通道）与 K⁺ 外流的相对平衡",
+          "isCorrect": true,
+          "rationale": "心室肌动作电位2期平台期由内向 Ca²⁺（ICa-L）电流与外向 K⁺ 电流处于动态平衡而形成。"
+        },
+        {
+          "text": "Na⁺ 快速大量内流",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "K⁺ 快速外流完全占优",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大量 Cl⁻ 持续内流",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "Ca²⁺ 缓慢内流（L型钙通道）与 K⁺ 外流的相对平衡",
+          "isCorrect": true,
+          "rationale": "心室肌动作电位2期平台期由内向 Ca²⁺（ICa-L）电流与外向 K⁺ 电流处于动态平衡而形成。"
+        },
+        {
+          "text": "Na⁺ 快速大量内流",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "K⁺ 快速外流完全占优",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大量 Cl⁻ 持续内流",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "心室肌动作电位2期平台期由内向 Ca²⁺（ICa-L）电流与外向 K⁺ 电流处于动态平衡而形成。",
+      "hint": "回顾心室肌动作电位 0~4 期离子流变化",
+      "id": 1
+    },
+    {
+      "c": "2",
+      "type": "single_choice",
+      "question": "心肌细胞兴奋后有效不应期特别长的核心生理意义在于（ ）。",
+      "prompt": "心肌细胞兴奋后有效不应期特别长的核心生理意义在于（ ）。",
+      "answerOptions": [
+        {
+          "text": "使心肌具有极高的自律起搏频率",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "延长房室交界处的房室延搁时间",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "防止心肌发生强直收缩，保证心脏节律性充盈和射血",
+          "isCorrect": true,
+          "rationale": "心肌有效不应期持续至舒张早期，使心肌在收缩至舒张早期不产生第二次兴奋与收缩，不会发生强直收缩。"
+        },
+        {
+          "text": "有利于心室肌同步快速去极化",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "使心肌具有极高的自律起搏频率",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "延长房室交界处的房室延搁时间",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "防止心肌发生强直收缩，保证心脏节律性充盈和射血",
+          "isCorrect": true,
+          "rationale": "心肌有效不应期持续至舒张早期，使心肌在收缩至舒张早期不产生第二次兴奋与收缩，不会发生强直收缩。"
+        },
+        {
+          "text": "有利于心室肌同步快速去极化",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "心肌有效不应期持续至舒张早期，使心肌在收缩至舒张早期不产生第二次兴奋与收缩，不会发生强直收缩。",
+      "hint": "联系心动周期中收缩与舒张交替的需求",
+      "id": 2
+    },
+    {
+      "c": "3",
+      "type": "single_choice",
+      "question": "关于微循环的三条血流通路，下列叙述错误的是（ ）。",
+      "prompt": "关于微循环的三条血流通路，下列叙述错误的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "迂回通路（营养通路）是血液与组织液进行物质交换的主要场所",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "直捷通路血流较快，主要促进血液迅速回心，骨骼肌中多见",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "动-静脉短路主要参与体温调节，一般不进行物质交换",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "动-静脉短路管壁极薄、通透性高，是体内主要的物质交换场所",
+          "isCorrect": true,
+          "rationale": "进行营养和物质交换的场所是迂回通路（真毛细血管网）；动-静脉短路血流极快、不交换物质，主要参与体温调节。"
+        }
+      ],
+      "options": [
+        {
+          "text": "迂回通路（营养通路）是血液与组织液进行物质交换的主要场所",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "直捷通路血流较快，主要促进血液迅速回心，骨骼肌中多见",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "动-静脉短路主要参与体温调节，一般不进行物质交换",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "动-静脉短路管壁极薄、通透性高，是体内主要的物质交换场所",
+          "isCorrect": true,
+          "rationale": "进行营养和物质交换的场所是迂回通路（真毛细血管网）；动-静脉短路血流极快、不交换物质，主要参与体温调节。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "进行营养和物质交换的场所是迂回通路（真毛细血管网）；动-静脉短路血流极快、不交换物质，主要参与体温调节。",
+      "hint": "区分迂回通路、直捷通路和动-静脉短路的功能",
+      "id": 3
+    },
+    {
+      "c": "4",
+      "type": "single_choice",
+      "question": "颈动脉窦和主动脉弓压力感受性反射（减压反射）的主要生理意义是（ ）。",
+      "prompt": "颈动脉窦和主动脉弓压力感受性反射（减压反射）的主要生理意义是（ ）。",
+      "answerOptions": [
+        {
+          "text": "在严重缺氧或酸中毒时直接兴奋呼吸中枢",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "缓冲动脉血压的短期波动，维持血压相对稳定",
+          "isCorrect": true,
+          "rationale": "减压反射通过负反馈调节心率与外周阻力，使动脉血压维持在相对稳定的水平。"
+        },
+        {
+          "text": "直接引起全身交感神经广泛强烈兴奋",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "长期决定体内的基础慢性动脉血压水平",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "在严重缺氧或酸中毒时直接兴奋呼吸中枢",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "缓冲动脉血压的短期波动，维持血压相对稳定",
+          "isCorrect": true,
+          "rationale": "减压反射通过负反馈调节心率与外周阻力，使动脉血压维持在相对稳定的水平。"
+        },
+        {
+          "text": "直接引起全身交感神经广泛强烈兴奋",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "长期决定体内的基础慢性动脉血压水平",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "减压反射通过负反馈调节心率与外周阻力，使动脉血压维持在相对稳定的水平。",
+      "hint": "注意压力感受器属于短期快速缓冲调节",
+      "id": 4
+    },
+    {
+      "c": "5",
+      "type": "single_choice",
+      "question": "体循环中，产生外周阻力（Peripheral resistance）的最主要血管部位是（ ）。",
+      "prompt": "体循环中，产生外周阻力（Peripheral resistance）的最主要血管部位是（ ）。",
+      "answerOptions": [
+        {
+          "text": "小动脉和微动脉（前阻力血管）",
+          "isCorrect": true,
+          "rationale": "小动脉和微动脉管径小、平滑肌丰富，是形成外周阻力的主要部位，又称毛细血管前阻力血管。"
+        },
+        {
+          "text": "大静脉和下腔静脉（容量血管）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "真毛细血管网（交换血管）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉和大弹性动脉（弹性贮器血管）",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "小动脉和微动脉（前阻力血管）",
+          "isCorrect": true,
+          "rationale": "小动脉和微动脉管径小、平滑肌丰富，是形成外周阻力的主要部位，又称毛细血管前阻力血管。"
+        },
+        {
+          "text": "大静脉和下腔静脉（容量血管）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "真毛细血管网（交换血管）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉和大弹性动脉（弹性贮器血管）",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "小动脉和微动脉管径小、平滑肌丰富，是形成外周阻力的主要部位，又称毛细血管前阻力血管。",
+      "hint": "回顾各类血管的功能命名",
+      "id": 5
+    },
+    {
+      "c": "6",
+      "type": "single_choice",
+      "question": "在一次心动周期中，心室腔内压力达到全周期最高峰的时相是（ ）。",
+      "prompt": "在一次心动周期中，心室腔内压力达到全周期最高峰的时相是（ ）。",
+      "answerOptions": [
+        {
+          "text": "减慢射血期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "快速射血期",
+          "isCorrect": true,
+          "rationale": "等容收缩期末主动脉瓣开启进入快速射血期，心室内压继续急剧升高并在快速射血期达到峰值。"
+        },
+        {
+          "text": "等容收缩期末",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "快速充盈期",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "减慢射血期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "快速射血期",
+          "isCorrect": true,
+          "rationale": "等容收缩期末主动脉瓣开启进入快速射血期，心室内压继续急剧升高并在快速射血期达到峰值。"
+        },
+        {
+          "text": "等容收缩期末",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "快速充盈期",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "等容收缩期末主动脉瓣开启进入快速射血期，心室内压继续急剧升高并在快速射血期达到峰值。",
+      "hint": "区分瓣膜刚打开时刻与室内压峰值时刻",
+      "id": 6
+    },
+    {
+      "c": "7",
+      "type": "single_choice",
+      "question": "心房与心室之间传导冲动发生明显“房-室延搁”的部位是（ ）。",
+      "prompt": "心房与心室之间传导冲动发生明显“房-室延搁”的部位是（ ）。",
+      "answerOptions": [
+        {
+          "text": "心房肌优势传导通路",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "窦房结内部",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "房室交界区（房室结）",
+          "isCorrect": true,
+          "rationale": "兴奋在房室交界（房室结）处传导速度最慢（0.02 m/s），产生约 0.1 s 的房-室延搁，保证心房先收缩完毕、心室再收缩。"
+        },
+        {
+          "text": "浦肯野纤维网",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "心房肌优势传导通路",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "窦房结内部",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "房室交界区（房室结）",
+          "isCorrect": true,
+          "rationale": "兴奋在房室交界（房室结）处传导速度最慢（0.02 m/s），产生约 0.1 s 的房-室延搁，保证心房先收缩完毕、心室再收缩。"
+        },
+        {
+          "text": "浦肯野纤维网",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "兴奋在房室交界（房室结）处传导速度最慢（0.02 m/s），产生约 0.1 s 的房-室延搁，保证心房先收缩完毕、心室再收缩。",
+      "hint": "回顾心传导系各部位传导速度（两头快中间慢）",
+      "id": 7
+    },
+    {
+      "c": "8",
+      "type": "single_choice",
+      "question": "下列关于静脉回心血量影响因素的叙述，错误的是（ ）。",
+      "prompt": "下列关于静脉回心血量影响因素的叙述，错误的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "吸气时胸膜腔负压增大，有利于腹腔和胸腔大静脉血回心",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心脏收缩力与心室舒张抽吸作用是推动静脉回流的重要动力",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "由卧位突然转为立位时，下肢静脉回心血量显著增加",
+          "isCorrect": true,
+          "rationale": "由卧位转为立位时，受重力影响血液大量滞留于下肢静脉，回心血量减少而非增加。"
+        },
+        {
+          "text": "骨骼肌有节律舒缩配合静脉瓣膜起“肌肉泵”促进回流作用",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "吸气时胸膜腔负压增大，有利于腹腔和胸腔大静脉血回心",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心脏收缩力与心室舒张抽吸作用是推动静脉回流的重要动力",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "由卧位突然转为立位时，下肢静脉回心血量显著增加",
+          "isCorrect": true,
+          "rationale": "由卧位转为立位时，受重力影响血液大量滞留于下肢静脉，回心血量减少而非增加。"
+        },
+        {
+          "text": "骨骼肌有节律舒缩配合静脉瓣膜起“肌肉泵”促进回流作用",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "由卧位转为立位时，受重力影响血液大量滞留于下肢静脉，回心血量减少而非增加。",
+      "hint": "结合体位改变与重力对静脉回流的影响",
+      "id": 8
+    },
+    {
+      "c": "9",
+      "type": "single_choice",
+      "question": "关于第一心音（S1）与第二心音（S2）的叙述，正确的是（ ）。",
+      "prompt": "关于第一心音（S1）与第二心音（S2）的叙述，正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "第一心音标志心室收缩开始，主要由房室瓣关闭产生",
+          "isCorrect": true,
+          "rationale": "S1 标志心室收缩开始（二/三尖瓣关闭）；S2 标志心室舒张开始（主动脉瓣/肺动脉瓣关闭）。"
+        },
+        {
+          "text": "第二心音标志心室收缩开始，主要由房室瓣关闭产生",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "第一心音标志心室舒张开始，主要由半月瓣关闭产生",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "第一、第二心音均主要由动脉瓣突然开放引起血液冲撞产生",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "第一心音标志心室收缩开始，主要由房室瓣关闭产生",
+          "isCorrect": true,
+          "rationale": "S1 标志心室收缩开始（二/三尖瓣关闭）；S2 标志心室舒张开始（主动脉瓣/肺动脉瓣关闭）。"
+        },
+        {
+          "text": "第二心音标志心室收缩开始，主要由房室瓣关闭产生",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "第一心音标志心室舒张开始，主要由半月瓣关闭产生",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "第一、第二心音均主要由动脉瓣突然开放引起血液冲撞产生",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "S1 标志心室收缩开始（二/三尖瓣关闭）；S2 标志心室舒张开始（主动脉瓣/肺动脉瓣关闭）。",
+      "hint": "对应收缩期起点与舒张期起点的瓣膜关闭事件",
+      "id": 9
+    },
+    {
+      "c": "10",
+      "type": "single_choice",
+      "question": "下列血管结构中，不直接开口于右心房的是（ ）。",
+      "prompt": "下列血管结构中，不直接开口于右心房的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "冠状窦口",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "上腔静脉口",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "下腔静脉口",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肺静脉口",
+          "isCorrect": true,
+          "rationale": "右心房腔静脉窦接纳上腔静脉、下腔静脉和冠状窦的开口；左右共 4 条肺静脉开口于左心房。"
+        }
+      ],
+      "options": [
+        {
+          "text": "冠状窦口",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "上腔静脉口",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "下腔静脉口",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肺静脉口",
+          "isCorrect": true,
+          "rationale": "右心房腔静脉窦接纳上腔静脉、下腔静脉和冠状窦的开口；左右共 4 条肺静脉开口于左心房。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "右心房腔静脉窦接纳上腔静脉、下腔静脉和冠状窦的开口；左右共 4 条肺静脉开口于左心房。",
+      "hint": "区分右心房与左心房的静脉入口",
+      "id": 10
+    },
+    {
+      "c": "11",
+      "type": "single_choice",
+      "question": "左心室收缩向升主动脉射血时，左侧心脏瓣膜的开闭状态是（ ）。",
+      "prompt": "左心室收缩向升主动脉射血时，左侧心脏瓣膜的开闭状态是（ ）。",
+      "answerOptions": [
+        {
+          "text": "主动脉瓣关闭，二尖瓣开放",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉瓣开放，三尖瓣开放",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉瓣开放，二尖瓣开放",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉瓣开放，二尖瓣关闭",
+          "isCorrect": true,
+          "rationale": "左室射血期左室内压高于主动脉压和左房压，故动脉出口的主动脉瓣开放，左房室瓣（二尖瓣）关闭防血液逆流回左房。"
+        }
+      ],
+      "options": [
+        {
+          "text": "主动脉瓣关闭，二尖瓣开放",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉瓣开放，三尖瓣开放",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉瓣开放，二尖瓣开放",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉瓣开放，二尖瓣关闭",
+          "isCorrect": true,
+          "rationale": "左室射血期左室内压高于主动脉压和左房压，故动脉出口的主动脉瓣开放，左房室瓣（二尖瓣）关闭防血液逆流回左房。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "左室射血期左室内压高于主动脉压和左房压，故动脉出口的主动脉瓣开放，左房室瓣（二尖瓣）关闭防血液逆流回左房。",
+      "hint": "明确左右心房室瓣的对应名称（左二右三）",
+      "id": 11
+    },
+    {
+      "c": "12",
+      "type": "single_choice",
+      "question": "心脏自身的供血动脉（左、右冠状动脉）直接起自（ ）。",
+      "prompt": "心脏自身的供血动脉（左、右冠状动脉）直接起自（ ）。",
+      "answerOptions": [
+        {
+          "text": "主动脉弓",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胸主动脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "升主动脉（主动脉窦）",
+          "isCorrect": true,
+          "rationale": "左、右冠状动脉分别起自升主动脉根部的主动脉左窦与右窦，营养整个心脏。"
+        },
+        {
+          "text": "肺动脉干",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "主动脉弓",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胸主动脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "升主动脉（主动脉窦）",
+          "isCorrect": true,
+          "rationale": "左、右冠状动脉分别起自升主动脉根部的主动脉左窦与右窦，营养整个心脏。"
+        },
+        {
+          "text": "肺动脉干",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "左、右冠状动脉分别起自升主动脉根部的主动脉左窦与右窦，营养整个心脏。",
+      "hint": "注意区分升主动脉与主动脉弓的分支",
+      "id": 12
+    },
+    {
+      "c": "13",
+      "type": "single_choice",
+      "question": "在一个心动周期中，心室血液充盈（占总充盈量约 75%）主要取决于（ ）。",
+      "prompt": "在一个心动周期中，心室血液充盈（占总充盈量约 75%）主要取决于（ ）。",
+      "answerOptions": [
+        {
+          "text": "心房收缩的强力挤压推动",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "骨骼肌收缩对下肢静脉的挤压",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心室舒张时的“抽吸”作用（快速与减慢充盈期）",
+          "isCorrect": true,
+          "rationale": "心室充盈期心室内压低于心房压，心室舒张抽吸完成约 75% 的充盈，心房收缩仅占约 25%。"
+        },
+        {
+          "text": "吸气时胸膜腔负压的直接抽吸",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "心房收缩的强力挤压推动",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "骨骼肌收缩对下肢静脉的挤压",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心室舒张时的“抽吸”作用（快速与减慢充盈期）",
+          "isCorrect": true,
+          "rationale": "心室充盈期心室内压低于心房压，心室舒张抽吸完成约 75% 的充盈，心房收缩仅占约 25%。"
+        },
+        {
+          "text": "吸气时胸膜腔负压的直接抽吸",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "心室充盈期心室内压低于心房压，心室舒张抽吸完成约 75% 的充盈，心房收缩仅占约 25%。",
+      "hint": "比较心室抽吸与心房收缩在充盈中的占比",
+      "id": 13
+    },
+    {
+      "c": "14",
+      "type": "single_choice",
+      "question": "正常体表心电图（ECG）中，代表两心房去极化、两心室去极化和心室复极化的波形依次为（ ）。",
+      "prompt": "正常体表心电图（ECG）中，代表两心房去极化、两心室去极化和心室复极化的波形依次为（ ）。",
+      "answerOptions": [
+        {
+          "text": "QRS波群、P波、T波",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "P波、QRS波群、T波",
+          "isCorrect": true,
+          "rationale": "ECG 中 P 波反映左右心房去极化，QRS 波群反映左右心室去极化，T 波反映心室复极化。"
+        },
+        {
+          "text": "P波、T波、QRS波群",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "T波、QRS波群、P波",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "QRS波群、P波、T波",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "P波、QRS波群、T波",
+          "isCorrect": true,
+          "rationale": "ECG 中 P 波反映左右心房去极化，QRS 波群反映左右心室去极化，T 波反映心室复极化。"
+        },
+        {
+          "text": "P波、T波、QRS波群",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "T波、QRS波群、P波",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "ECG 中 P 波反映左右心房去极化，QRS 波群反映左右心室去极化，T 波反映心室复极化。",
+      "hint": "按心电兴奋由心房传向心室的顺序记忆波形",
+      "id": 14
+    },
+    {
+      "c": "15",
+      "type": "single_choice",
+      "question": "关于心脏射血功能评价指标及心力储备的叙述，正确的是（ ）。",
+      "prompt": "关于心脏射血功能评价指标及心力储备的叙述，正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "心室泵血的舒张期储备（约 35 mL）显著大于收缩期储备（约 15 mL）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "正常成年人射血分数约为 55%~65%，动用心率储备是提高心输出量的主要途径",
+          "isCorrect": true,
+          "rationale": "射血分数(EF=SV/EDV)正常为55%~65%；心脏做功量比心输出量更全面；收缩期储备(35mL)＞舒张期储备(15mL)；动用心率储备是提高心输出量的主要途径。"
+        },
+        {
+          "text": "射血分数是指心输出量占心室舒张末期容积的百分比",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心输出量比心脏做功量更全面反映心脏泵血功能",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "心室泵血的舒张期储备（约 35 mL）显著大于收缩期储备（约 15 mL）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "正常成年人射血分数约为 55%~65%，动用心率储备是提高心输出量的主要途径",
+          "isCorrect": true,
+          "rationale": "射血分数(EF=SV/EDV)正常为55%~65%；心脏做功量比心输出量更全面；收缩期储备(35mL)＞舒张期储备(15mL)；动用心率储备是提高心输出量的主要途径。"
+        },
+        {
+          "text": "射血分数是指心输出量占心室舒张末期容积的百分比",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心输出量比心脏做功量更全面反映心脏泵血功能",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "射血分数(EF=SV/EDV)正常为55%~65%；心脏做功量比心输出量更全面；收缩期储备(35mL)＞舒张期储备(15mL)；动用心率储备是提高心输出量的主要途径。",
+      "hint": "核对射血分数定义、储备大小与心率储备地位",
+      "id": 15
+    },
+    {
+      "c": "16",
+      "type": "single_choice",
+      "question": "支配心脏的心迷走神经（副交感神经）兴奋时，不会引起的生理效应是（ ）。",
+      "prompt": "支配心脏的心迷走神经（副交感神经）兴奋时，不会引起的生理效应是（ ）。",
+      "answerOptions": [
+        {
+          "text": "心房肌收缩力减弱",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心输出量与动脉血压下降",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "窦房结自律性降低，心跳减慢",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "房室传导速度明显加快",
+          "isCorrect": true,
+          "rationale": "迷走神经释放乙酰胆碱，对心脏产生负性变时、负性变力和负性变传导作用（传导减慢而非加速）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "心房肌收缩力减弱",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心输出量与动脉血压下降",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "窦房结自律性降低，心跳减慢",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "房室传导速度明显加快",
+          "isCorrect": true,
+          "rationale": "迷走神经释放乙酰胆碱，对心脏产生负性变时、负性变力和负性变传导作用（传导减慢而非加速）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "迷走神经释放乙酰胆碱，对心脏产生负性变时、负性变力和负性变传导作用（传导减慢而非加速）。",
+      "hint": "区分心交感神经（正性）与心迷走神经（负性）效应",
+      "id": 16
+    },
+    {
+      "c": "17",
+      "type": "single_choice",
+      "question": "在肾素-血管紧张素系统中，血管紧张素Ⅱ（AngⅡ）升高动脉血压的主要作用机制是（ ）。",
+      "prompt": "在肾素-血管紧张素系统中，血管紧张素Ⅱ（AngⅡ）升高动脉血压的主要作用机制是（ ）。",
+      "answerOptions": [
+        {
+          "text": "强烈收缩外周小血管，并促进醛固酮分泌以增加循环血量",
+          "isCorrect": true,
+          "rationale": "AngⅡ 一方面直接强烈收缩微动脉使外周阻力升高，另一方面刺激肾上腺皮质分泌醛固酮，保钠保水增加循环血量。"
+        },
+        {
+          "text": "抑制交感缩血管纤维释放去甲肾上腺素",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "直接增强窦房结起搏频率使心率大幅飙升",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "直接舒张全身微动脉并减少肾脏排水",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "强烈收缩外周小血管，并促进醛固酮分泌以增加循环血量",
+          "isCorrect": true,
+          "rationale": "AngⅡ 一方面直接强烈收缩微动脉使外周阻力升高，另一方面刺激肾上腺皮质分泌醛固酮，保钠保水增加循环血量。"
+        },
+        {
+          "text": "抑制交感缩血管纤维释放去甲肾上腺素",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "直接增强窦房结起搏频率使心率大幅飙升",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "直接舒张全身微动脉并减少肾脏排水",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "AngⅡ 一方面直接强烈收缩微动脉使外周阻力升高，另一方面刺激肾上腺皮质分泌醛固酮，保钠保水增加循环血量。",
+      "hint": "回顾血管部分 PPT 第 37 页 AngⅡ 两条核心作用",
+      "id": 17
+    },
+    {
+      "c": "18",
+      "type": "single_choice",
+      "question": "关于肾上腺素（E）与去甲肾上腺素（NE）心血管作用的比较，叙述正确的是（ ）。",
+      "prompt": "关于肾上腺素（E）与去甲肾上腺素（NE）心血管作用的比较，叙述正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "E 对 α 和 β 受体均强，临床以强心为主；NE 对 α 受体强而对 β 受体弱，临床以升压为主",
+          "isCorrect": true,
+          "rationale": "E 兴奋 α 与 β 受体均强，心率快、收缩力强（强心为主），皮肤内脏血管收缩而骨骼肌肝血管舒张，总阻力变化不大；NE 兴奋 α 受体强、β 受体弱，全身血管广泛收缩致外周阻力大增（升压为主）。"
+        },
+        {
+          "text": "NE 能显著舒张骨骼肌血管（β₂ 受体），使总外周阻力变化不大",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "E 引起全身所有血管广泛剧烈收缩，总外周阻力大幅升高",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "NE 强心作用远强于 E，可使脉压显著增大",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "E 对 α 和 β 受体均强，临床以强心为主；NE 对 α 受体强而对 β 受体弱，临床以升压为主",
+          "isCorrect": true,
+          "rationale": "E 兴奋 α 与 β 受体均强，心率快、收缩力强（强心为主），皮肤内脏血管收缩而骨骼肌肝血管舒张，总阻力变化不大；NE 兴奋 α 受体强、β 受体弱，全身血管广泛收缩致外周阻力大增（升压为主）。"
+        },
+        {
+          "text": "NE 能显著舒张骨骼肌血管（β₂ 受体），使总外周阻力变化不大",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "E 引起全身所有血管广泛剧烈收缩，总外周阻力大幅升高",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "NE 强心作用远强于 E，可使脉压显著增大",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "E 兴奋 α 与 β 受体均强，心率快、收缩力强（强心为主），皮肤内脏血管收缩而骨骼肌肝血管舒张，总阻力变化不大；NE 兴奋 α 受体强、β 受体弱，全身血管广泛收缩致外周阻力大增（升压为主）。",
+      "hint": "对照 PPT 第 38 页 E 与 NE 表格",
+      "id": 18
+    },
+    {
+      "c": "19",
+      "type": "multiple_select",
+      "question": "自主动脉弓凸侧自右向左依次直接发出的三大动脉分支是（ ）。",
+      "prompt": "自主动脉弓凸侧自右向左依次直接发出的三大动脉分支是（ ）。",
+      "answerOptions": [
+        {
+          "text": "右锁骨下动脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "左锁骨下动脉",
+          "isCorrect": true,
+          "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。"
+        },
+        {
+          "text": "头臂干（无名动脉）",
+          "isCorrect": true,
+          "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。"
+        },
+        {
+          "text": "左颈总动脉",
+          "isCorrect": true,
+          "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。"
+        },
+        {
+          "text": "右颈总动脉",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "右锁骨下动脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "左锁骨下动脉",
+          "isCorrect": true,
+          "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。"
+        },
+        {
+          "text": "头臂干（无名动脉）",
+          "isCorrect": true,
+          "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。"
+        },
+        {
+          "text": "左颈总动脉",
+          "isCorrect": true,
+          "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。"
+        },
+        {
+          "text": "右颈总动脉",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。",
+      "hint": "区分直接起自主动脉弓还是起自头臂干的分支",
+      "id": 19
+    },
+    {
+      "c": "20",
+      "type": "multiple_select",
+      "question": "关于心脏瓣膜的解剖分布与开闭功能，下列叙述正确的有（ ）。",
+      "prompt": "关于心脏瓣膜的解剖分布与开闭功能，下列叙述正确的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "二尖瓣（左房室瓣）位于左心房与左心室之间",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "三尖瓣（右房室瓣）位于右心房与右心室之间",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "主动脉瓣位于左心室流出道与升主动脉根部之间",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "肺动脉瓣位于右心室流出道与肺动脉干起始处",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "心室收缩射血时，房室瓣开放而动脉瓣关闭",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "二尖瓣（左房室瓣）位于左心房与左心室之间",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "三尖瓣（右房室瓣）位于右心房与右心室之间",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "主动脉瓣位于左心室流出道与升主动脉根部之间",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "肺动脉瓣位于右心室流出道与肺动脉干起始处",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "心室收缩射血时，房室瓣开放而动脉瓣关闭",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。",
+      "hint": "对照心脏四腔出口入口对应瓣膜",
+      "id": 20
+    },
+    {
+      "c": "21",
+      "type": "multiple_select",
+      "question": "在其他条件不变的情况下，能导致动脉血压显著升高的因素有（ ）。",
+      "prompt": "在其他条件不变的情况下，能导致动脉血压显著升高的因素有（ ）。",
+      "answerOptions": [
+        {
+          "text": "心率在适宜范围内加快使心输出量增加",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        },
+        {
+          "text": "主动脉和大动脉弹性减弱（顺应性下降）使收缩压升高",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        },
+        {
+          "text": "循环血量大幅减少（如大失血）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "全身微动脉广泛收缩导致外周阻力增大",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        },
+        {
+          "text": "每搏输出量增大使收缩压明显升高",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        }
+      ],
+      "options": [
+        {
+          "text": "心率在适宜范围内加快使心输出量增加",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        },
+        {
+          "text": "主动脉和大动脉弹性减弱（顺应性下降）使收缩压升高",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        },
+        {
+          "text": "循环血量大幅减少（如大失血）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "全身微动脉广泛收缩导致外周阻力增大",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        },
+        {
+          "text": "每搏输出量增大使收缩压明显升高",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。",
+      "hint": "逐一分析影响动脉血压的五大因素",
+      "id": 21
+    },
+    {
+      "c": "22",
+      "type": "multiple_select",
+      "question": "下列结构属于心脏特殊传导系统组成成分的有（ ）。",
+      "prompt": "下列结构属于心脏特殊传导系统组成成分的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "房室结（房室交界区，房室延搁）",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        },
+        {
+          "text": "窦房结（正常起搏点）",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        },
+        {
+          "text": "浦肯野纤维网",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        },
+        {
+          "text": "冠状窦（收集心脏静脉血）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "房室束（希氏束）与左、右束支",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        }
+      ],
+      "options": [
+        {
+          "text": "房室结（房室交界区，房室延搁）",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        },
+        {
+          "text": "窦房结（正常起搏点）",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        },
+        {
+          "text": "浦肯野纤维网",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        },
+        {
+          "text": "冠状窦（收集心脏静脉血）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "房室束（希氏束）与左、右束支",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。",
+      "hint": "排除属于静脉回流通道的结构",
+      "id": 22
+    },
+    {
+      "c": "23",
+      "type": "multiple_select",
+      "question": "下列血管直接开口于右心房的有（ ）。",
+      "prompt": "下列血管直接开口于右心房的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "冠状窦",
+          "isCorrect": true,
+          "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。"
+        },
+        {
+          "text": "上腔静脉",
+          "isCorrect": true,
+          "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。"
+        },
+        {
+          "text": "肺动脉干",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "下腔静脉",
+          "isCorrect": true,
+          "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。"
+        },
+        {
+          "text": "肺静脉",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "冠状窦",
+          "isCorrect": true,
+          "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。"
+        },
+        {
+          "text": "上腔静脉",
+          "isCorrect": true,
+          "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。"
+        },
+        {
+          "text": "肺动脉干",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "下腔静脉",
+          "isCorrect": true,
+          "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。"
+        },
+        {
+          "text": "肺静脉",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。",
+      "hint": "回顾右心房腔静脉窦的三大入口",
+      "id": 23
+    },
+    {
+      "c": "24",
+      "type": "multiple_select",
+      "question": "心动周期中，二尖瓣与主动脉瓣均处于闭合状态的时相有（ ）。",
+      "prompt": "心动周期中，二尖瓣与主动脉瓣均处于闭合状态的时相有（ ）。",
+      "answerOptions": [
+        {
+          "text": "快速充盈期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心房收缩期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "等容舒张期",
+          "isCorrect": true,
+          "rationale": "只有等容收缩期和等容舒张期，房室瓣和动脉瓣同时关闭，心室容积保持不变。"
+        },
+        {
+          "text": "快速射血期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "等容收缩期",
+          "isCorrect": true,
+          "rationale": "只有等容收缩期和等容舒张期，房室瓣和动脉瓣同时关闭，心室容积保持不变。"
+        }
+      ],
+      "options": [
+        {
+          "text": "快速充盈期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心房收缩期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "等容舒张期",
+          "isCorrect": true,
+          "rationale": "只有等容收缩期和等容舒张期，房室瓣和动脉瓣同时关闭，心室容积保持不变。"
+        },
+        {
+          "text": "快速射血期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "等容收缩期",
+          "isCorrect": true,
+          "rationale": "只有等容收缩期和等容舒张期，房室瓣和动脉瓣同时关闭，心室容积保持不变。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "只有等容收缩期和等容舒张期，房室瓣和动脉瓣同时关闭，心室容积保持不变。",
+      "hint": "“等容”意味着入口与出口瓣膜全部关闭",
+      "id": 24
+    },
+    {
+      "c": "25",
+      "type": "multiple_select",
+      "question": "关于减压反射（压力感受性反射）的叙述，正确的有（ ）。",
+      "prompt": "关于减压反射（压力感受性反射）的叙述，正确的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "压力感受器主要位于颈动脉体和主动脉体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "压力感受器受牵张刺激增加时，交感神经兴奋、迷走神经抑制",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "动脉血压降低时，压力感受器传入冲动减少，交感神经兴奋性增强",
+          "isCorrect": true,
+          "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。"
+        },
+        {
+          "text": "动脉血压升高使颈动脉窦牵张增加时，心率减慢、血压下降",
+          "isCorrect": true,
+          "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。"
+        },
+        {
+          "text": "身体由蹲位突然转为站立位时，通过减压反射减弱使心率加快、血压回升",
+          "isCorrect": true,
+          "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。"
+        }
+      ],
+      "options": [
+        {
+          "text": "压力感受器主要位于颈动脉体和主动脉体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "压力感受器受牵张刺激增加时，交感神经兴奋、迷走神经抑制",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "动脉血压降低时，压力感受器传入冲动减少，交感神经兴奋性增强",
+          "isCorrect": true,
+          "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。"
+        },
+        {
+          "text": "动脉血压升高使颈动脉窦牵张增加时，心率减慢、血压下降",
+          "isCorrect": true,
+          "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。"
+        },
+        {
+          "text": "身体由蹲位突然转为站立位时，通过减压反射减弱使心率加快、血压回升",
+          "isCorrect": true,
+          "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。",
+      "hint": "区分压力感受器（窦/弓）与化学感受器（体），把握负反馈方向",
+      "id": 25
+    },
+    {
+      "c": "26",
+      "type": "judge",
+      "question": "【判断题】在一次完整的心动周期中，心室收缩期的时间显著长于心室舒张期的时间。",
+      "prompt": "【判断题】在一次完整的心动周期中，心室收缩期的时间显著长于心室舒张期的时间。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。正常心率75次/分时，心动周期为0.8秒，其中心室收缩期约0.3秒，舒张期约0.5秒，舒张期明显长于收缩期。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。正常心率75次/分时，心动周期为0.8秒，其中心室收缩期约0.3秒，舒张期约0.5秒，舒张期明显长于收缩期。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。正常心率75次/分时，心动周期为0.8秒，其中心室收缩期约0.3秒，舒张期约0.5秒，舒张期明显长于收缩期。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 26
+    },
+    {
+      "c": "27",
+      "type": "judge",
+      "question": "【判断题】动脉瓣（主动脉瓣和肺动脉瓣）在心室等容收缩期期间即已处于开放状态。",
+      "prompt": "【判断题】动脉瓣（主动脉瓣和肺动脉瓣）在心室等容收缩期期间即已处于开放状态。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。等容收缩期心室内压虽高于心房压但仍低于主动脉压，动脉瓣和房室瓣均处于关闭状态；等容收缩期末室内压超过动脉压后动脉瓣才开放。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。等容收缩期心室内压虽高于心房压但仍低于主动脉压，动脉瓣和房室瓣均处于关闭状态；等容收缩期末室内压超过动脉压后动脉瓣才开放。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。等容收缩期心室内压虽高于心房压但仍低于主动脉压，动脉瓣和房室瓣均处于关闭状态；等容收缩期末室内压超过动脉压后动脉瓣才开放。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 27
+    },
+    {
+      "c": "28",
+      "type": "judge",
+      "question": "【判断题】心肌工作细胞（心房肌、心室肌）具有兴奋性、传导性和收缩性，但不具备自律性。",
+      "prompt": "【判断题】心肌工作细胞（心房肌、心室肌）具有兴奋性、传导性和收缩性，但不具备自律性。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。心房肌和心室肌细胞属于工作细胞，具有兴奋性、传导性和收缩性，无自律性；窦房结、房室结和浦肯野纤维等属于自律细胞。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。心房肌和心室肌细胞属于工作细胞，具有兴奋性、传导性和收缩性，无自律性；窦房结、房室结和浦肯野纤维等属于自律细胞。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。心房肌和心室肌细胞属于工作细胞，具有兴奋性、传导性和收缩性，无自律性；窦房结、房室结和浦肯野纤维等属于自律细胞。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 28
+    },
+    {
+      "c": "29",
+      "type": "judge",
+      "question": "【判断题】窦房结是控制全心节律活动的正常起搏点，由它主导的心脏节律称为窦性心律。",
+      "prompt": "【判断题】窦房结是控制全心节律活动的正常起搏点，由它主导的心脏节律称为窦性心律。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。窦房结自律性最高（约100次/分），通过抢先占领和超速驱动抑制控制潜在起搏点，是正常心脏的起搏点。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。窦房结自律性最高（约100次/分），通过抢先占领和超速驱动抑制控制潜在起搏点，是正常心脏的起搏点。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。窦房结自律性最高（约100次/分），通过抢先占领和超速驱动抑制控制潜在起搏点，是正常心脏的起搏点。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 29
+    },
+    {
+      "c": "30",
+      "type": "judge",
+      "question": "【判断题】颈动脉窦压力感受器感受的是血管壁受牵拉引起的机械形变刺激，而非血液化学成分变化。",
+      "prompt": "【判断题】颈动脉窦压力感受器感受的是血管壁受牵拉引起的机械形变刺激，而非血液化学成分变化。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。颈动脉窦和主动脉弓压力感受器对动脉管壁的机械牵张变化敏感；感受 PO₂、PCO₂ 和 H⁺ 变化的是颈动脉体和主动脉体化学感受器。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。颈动脉窦和主动脉弓压力感受器对动脉管壁的机械牵张变化敏感；感受 PO₂、PCO₂ 和 H⁺ 变化的是颈动脉体和主动脉体化学感受器。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。颈动脉窦和主动脉弓压力感受器对动脉管壁的机械牵张变化敏感；感受 PO₂、PCO₂ 和 H⁺ 变化的是颈动脉体和主动脉体化学感受器。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 30
+    },
+    {
+      "c": "31",
+      "type": "judge",
+      "question": "【判断题】体循环的大动脉（如主动脉）中膜富含弹性纤维，在血液动力学中被称为弹性贮器血管。",
+      "prompt": "【判断题】体循环的大动脉（如主动脉）中膜富含弹性纤维，在血液动力学中被称为弹性贮器血管。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。大动脉中膜弹性纤维丰富，能在心室收缩期扩张蓄积部分血液、舒张期弹性回缩推动血液继续流动，缓冲血压波动。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。大动脉中膜弹性纤维丰富，能在心室收缩期扩张蓄积部分血液、舒张期弹性回缩推动血液继续流动，缓冲血压波动。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。大动脉中膜弹性纤维丰富，能在心室收缩期扩张蓄积部分血液、舒张期弹性回缩推动血液继续流动，缓冲血压波动。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 31
+    },
+    {
+      "c": "32",
+      "type": "judge",
+      "question": "【判断题】左心室心肌壁显著厚于右心室且收缩力更强，因此左心室每次搏动排出的血量明显大于右心室。",
+      "prompt": "【判断题】左心室心肌壁显著厚于右心室且收缩力更强，因此左心室每次搏动排出的血量明显大于右心室。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。体循环阻力远大于肺循环，故左心室壁更厚以产生更高压力；但左、右心室串联工作，正常时每搏输出量和心输出量基本相等。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。体循环阻力远大于肺循环，故左心室壁更厚以产生更高压力；但左、右心室串联工作，正常时每搏输出量和心输出量基本相等。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。体循环阻力远大于肺循环，故左心室壁更厚以产生更高压力；但左、右心室串联工作，正常时每搏输出量和心输出量基本相等。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 32
+    },
+    {
+      "c": "33",
+      "type": "judge",
+      "question": "【判断题】静脉瓣膜在上腔静脉、下腔静脉主干以及肝门静脉中最为密集发达，以防血液逆流。",
+      "prompt": "【判断题】静脉瓣膜在上腔静脉、下腔静脉主干以及肝门静脉中最为密集发达，以防血液逆流。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。上、下腔静脉及肝门静脉内均无静脉瓣；静脉瓣主要存在于四肢（尤其是下肢）的中小静脉内。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。上、下腔静脉及肝门静脉内均无静脉瓣；静脉瓣主要存在于四肢（尤其是下肢）的中小静脉内。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。上、下腔静脉及肝门静脉内均无静脉瓣；静脉瓣主要存在于四肢（尤其是下肢）的中小静脉内。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 33
+    },
+    {
+      "c": "34",
+      "type": "judge",
+      "question": "【判断题】心交感神经兴奋时末梢释放去甲肾上腺素，可使心率加快、心肌收缩力增强、房室传导加速。",
+      "prompt": "【判断题】心交感神经兴奋时末梢释放去甲肾上腺素，可使心率加快、心肌收缩力增强、房室传导加速。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。交感神经兴奋作用于心脏产生正性变时（心率↑）、正性变力（收缩力↑）和正性变传导（传导↑）效应。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。交感神经兴奋作用于心脏产生正性变时（心率↑）、正性变力（收缩力↑）和正性变传导（传导↑）效应。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。交感神经兴奋作用于心脏产生正性变时（心率↑）、正性变力（收缩力↑）和正性变传导（传导↑）效应。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 34
+    },
+    {
+      "c": "35",
+      "type": "judge",
+      "question": "【判断题】窦房结细胞之所以具有自律性，是因为其 4 期膜电位不稳定，能自发缓慢自动去极化达到阈电位。",
+      "prompt": "【判断题】窦房结细胞之所以具有自律性，是因为其 4 期膜电位不稳定，能自发缓慢自动去极化达到阈电位。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。自律细胞最大复极电位后，4期由递减性外向 K⁺ 电流（Ik）及递增性内向 If、Ca²⁺ 电流引起自动去极化，达阈电位后触发动作电位。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。自律细胞最大复极电位后，4期由递减性外向 K⁺ 电流（Ik）及递增性内向 If、Ca²⁺ 电流引起自动去极化，达阈电位后触发动作电位。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。自律细胞最大复极电位后，4期由递减性外向 K⁺ 电流（Ik）及递增性内向 If、Ca²⁺ 电流引起自动去极化，达阈电位后触发动作电位。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 35
+    },
+    {
+      "c": "36",
+      "type": "judge",
+      "question": "【判断题】心率加快时心动周期缩短且主要缩短心室舒张期；心脏的左、右纤维三角及瓣膜纤维环等共同构成心纤维支架，支持稳定心肌和瓣膜。",
+      "prompt": "【判断题】心率加快时心动周期缩短且主要缩短心室舒张期；心脏的左、右纤维三角及瓣膜纤维环等共同构成心纤维支架，支持稳定心肌和瓣膜。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。心动周期缩短主要发生于心舒期（故心率过快不利于充盈）；心纤维支架为心肌和瓣膜提供附着并支持稳定心肌。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。心动周期缩短主要发生于心舒期（故心率过快不利于充盈）；心纤维支架为心肌和瓣膜提供附着并支持稳定心肌。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。心动周期缩短主要发生于心舒期（故心率过快不利于充盈）；心纤维支架为心肌和瓣膜提供附着并支持稳定心肌。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 36
+    },
+    {
+      "c": "37",
+      "type": "judge",
+      "question": "【判断题】胎儿期因无肺呼吸功能，血液循环具有卵圆孔（右心房→左心房）和动脉导管（肺动脉→主动脉）等特有通道。",
+      "prompt": "【判断题】胎儿期因无肺呼吸功能，血液循环具有卵圆孔（右心房→左心房）和动脉导管（肺动脉→主动脉）等特有通道。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。胎儿通过胎盘和脐带与母体进行物质气体交换，血液经静脉导管、卵圆孔和动脉导管分流，出生后这些通道逐渐闭锁。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。胎儿通过胎盘和脐带与母体进行物质气体交换，血液经静脉导管、卵圆孔和动脉导管分流，出生后这些通道逐渐闭锁。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。胎儿通过胎盘和脐带与母体进行物质气体交换，血液经静脉导管、卵圆孔和动脉导管分流，出生后这些通道逐渐闭锁。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 37
+    },
+    {
+      "c": "38",
+      "type": "fill_blank",
+      "question": "主动脉起自____心室，主动脉弓处自右向左分出____、____和____，全身的静脉血经上腔静脉和下腔静脉回流至____心房。",
+      "prompt": "主动脉起自____心室，主动脉弓处自右向左分出____、____和____，全身的静脉血经上腔静脉和下腔静脉回流至____心房。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "左",
+        "头臂干",
+        "左颈总动脉",
+        "左锁骨下动脉",
+        "右"
+      ],
+      "blanks": [
+        "左",
+        "头臂干",
+        "左颈总动脉",
+        "左锁骨下动脉",
+        "右"
+      ],
+      "rationale": "体循环动脉始于左心室，主动脉弓三大分支自右向左为头臂干、左颈总动脉和左锁骨下动脉，全身静脉血经上下腔静脉汇入右心房。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 38
+    },
+    {
+      "c": "39",
+      "type": "fill_blank",
+      "question": "第一心音标志____的开始，产生的主要原因是____；第二心音标志____的开始，产生的主要原因是____。",
+      "prompt": "第一心音标志____的开始，产生的主要原因是____；第二心音标志____的开始，产生的主要原因是____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "心室收缩",
+        "房室瓣关闭",
+        "心室舒张",
+        "动脉瓣关闭"
+      ],
+      "blanks": [
+        "心室收缩",
+        "房室瓣关闭",
+        "心室舒张",
+        "动脉瓣关闭"
+      ],
+      "rationale": "第一心音标志心室收缩开始，主因房室瓣关闭；第二心音标志心室舒张开始，主因动脉瓣关闭。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 39
+    },
+    {
+      "c": "40",
+      "type": "fill_blank",
+      "question": "分隔左、右心室的隔膜为____，分隔左、右心房的隔膜为____，升主动脉起始处的瓣膜称为____，右心房与右心室之间的瓣膜为____。",
+      "prompt": "分隔左、右心室的隔膜为____，分隔左、右心房的隔膜为____，升主动脉起始处的瓣膜称为____，右心房与右心室之间的瓣膜为____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "室间隔",
+        "房间隔",
+        "主动脉瓣",
+        "三尖瓣"
+      ],
+      "blanks": [
+        "室间隔",
+        "房间隔",
+        "主动脉瓣",
+        "三尖瓣"
+      ],
+      "rationale": "心脏内部四腔由房间隔和室间隔分隔，升主动脉起始部为主动脉瓣，右房室口处为三尖瓣。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 40
+    },
+    {
+      "c": "41",
+      "type": "fill_blank",
+      "question": "右心室收缩时____瓣关闭，____瓣开放，此时血液由右心室射入____。",
+      "prompt": "右心室收缩时____瓣关闭，____瓣开放，此时血液由右心室射入____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "三尖",
+        "肺动脉",
+        "肺动脉"
+      ],
+      "blanks": [
+        "三尖",
+        "肺动脉",
+        "肺动脉"
+      ],
+      "rationale": "右心室收缩射血时，三尖瓣关闭防止血回流右心房，肺动脉瓣开放将静脉血射入肺动脉干进行肺循环。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 41
+    },
+    {
+      "c": "42",
+      "type": "fill_blank",
+      "question": "左心室快速射血期，左心室内压____左房内压和主动脉压，____处于关闭状态，____处于开放状态，血液由左室射入主动脉。",
+      "prompt": "左心室快速射血期，左心室内压____左房内压和主动脉压，____处于关闭状态，____处于开放状态，血液由左室射入主动脉。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "大于",
+        "二尖瓣",
+        "主动脉瓣"
+      ],
+      "blanks": [
+        "大于",
+        "二尖瓣",
+        "主动脉瓣"
+      ],
+      "rationale": "快速射血期左室内压高于房内压及主动脉压，二尖瓣关闭防止血液返流，主动脉瓣开放完成高速射血。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 42
+    },
+    {
+      "c": "43",
+      "type": "fill_blank",
+      "question": "等容收缩期时，左侧心脏____和____均处于关闭状态，左心室内压____左房内压，而____主动脉压。",
+      "prompt": "等容收缩期时，左侧心脏____和____均处于关闭状态，左心室内压____左房内压，而____主动脉压。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "二尖瓣",
+        "主动脉瓣",
+        "大于",
+        "小于"
+      ],
+      "blanks": [
+        "二尖瓣",
+        "主动脉瓣",
+        "大于",
+        "小于"
+      ],
+      "rationale": "等容收缩期内左心室内压急剧上升（高于左房压以致二尖瓣关），但尚未超过主动脉压（故主动脉瓣未开），心室容积不变。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 43
+    },
+    {
+      "c": "44",
+      "type": "fill_blank",
+      "question": "心肌细胞在动作电位的有效不应期之后受到窦房结以外的异常刺激，能够产生____，此后在下一次窦房结冲动到达时将出现一次____。",
+      "prompt": "心肌细胞在动作电位的有效不应期之后受到窦房结以外的异常刺激，能够产生____，此后在下一次窦房结冲动到达时将出现一次____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "期前收缩",
+        "代偿间歇"
+      ],
+      "blanks": [
+        "期前收缩",
+        "代偿间歇"
+      ],
+      "rationale": "有效不应期后心室遇异常刺激提前产生期前收缩；随后紧接的正常窦性节律恰好落入期前兴奋的有效不应期，引发代偿间歇。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 44
+    },
+    {
+      "c": "45",
+      "type": "fill_blank",
+      "question": "心脏的正常起搏点位于____，起搏细胞的自律性电生理机制表现为____。",
+      "prompt": "心脏的正常起搏点位于____，起搏细胞的自律性电生理机制表现为____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "窦房结",
+        "四期自动去极化"
+      ],
+      "blanks": [
+        "窦房结",
+        "四期自动去极化"
+      ],
+      "rationale": "窦房结P细胞自律性最高，主要靠动作电位4期膜电位不稳定发生自动去极化达到阈电位启动起搏。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 45
+    },
+    {
+      "c": "46",
+      "type": "fill_blank",
+      "question": "心脏自身的供血动脉是____，起自____；静脉血主要汇集成____，直接开口于____。",
+      "prompt": "心脏自身的供血动脉是____，起自____；静脉血主要汇集成____，直接开口于____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "冠状动脉",
+        "升主动脉",
+        "冠状窦",
+        "右心房"
+      ],
+      "blanks": [
+        "冠状动脉",
+        "升主动脉",
+        "冠状窦",
+        "右心房"
+      ],
+      "rationale": "左、右冠状动脉起自升主动脉根部的主动脉窦，营养心脏；心肌静脉血主要汇入冠状窦，开口于右心房。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 46
+    },
+    {
+      "c": "47",
+      "type": "fill_blank",
+      "question": "右心室收缩将静脉血射入肺动脉，在肺泡进行气体交换后汇集成左、右肺上、下静脉回流至____，这被称为____循环。",
+      "prompt": "右心室收缩将静脉血射入肺动脉，在肺泡进行气体交换后汇集成左、右肺上、下静脉回流至____，这被称为____循环。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "左心房",
+        "肺"
+      ],
+      "blanks": [
+        "左心房",
+        "肺"
+      ],
+      "rationale": "肺循环（小循环）起于右心室、止于左心房，在肺泡毛细血管完成排出 CO₂、摄取 O₂ 的气体交换功能。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 47
+    },
+    {
+      "c": "48",
+      "type": "fill_blank",
+      "question": "临床诊断高血压的标准为：静息状态下收缩压 ≥____ mmHg 和（或）舒张压 ≥____ mmHg。",
+      "prompt": "临床诊断高血压的标准为：静息状态下收缩压 ≥____ mmHg 和（或）舒张压 ≥____ mmHg。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "140",
+        "90"
+      ],
+      "blanks": [
+        "140",
+        "90"
+      ],
+      "rationale": "我国高血压诊断标准为未使用降压药物条件下，收缩压 ≥140 mmHg 和（或）舒张压 ≥90 mmHg。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 48
+    }
+  ],
+  "quiz": [
+    {
+      "c": "1",
+      "type": "single_choice",
+      "question": "心室肌细胞动作电位具有典型的平坦平台期（2期），形成该平台期的主要跨膜离子流机制是（ ）。",
+      "prompt": "心室肌细胞动作电位具有典型的平坦平台期（2期），形成该平台期的主要跨膜离子流机制是（ ）。",
+      "answerOptions": [
+        {
+          "text": "Ca²⁺ 缓慢内流（L型钙通道）与 K⁺ 外流的相对平衡",
+          "isCorrect": true,
+          "rationale": "心室肌动作电位2期平台期由内向 Ca²⁺（ICa-L）电流与外向 K⁺ 电流处于动态平衡而形成。"
+        },
+        {
+          "text": "Na⁺ 快速大量内流",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "K⁺ 快速外流完全占优",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大量 Cl⁻ 持续内流",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "Ca²⁺ 缓慢内流（L型钙通道）与 K⁺ 外流的相对平衡",
+          "isCorrect": true,
+          "rationale": "心室肌动作电位2期平台期由内向 Ca²⁺（ICa-L）电流与外向 K⁺ 电流处于动态平衡而形成。"
+        },
+        {
+          "text": "Na⁺ 快速大量内流",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "K⁺ 快速外流完全占优",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "大量 Cl⁻ 持续内流",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "心室肌动作电位2期平台期由内向 Ca²⁺（ICa-L）电流与外向 K⁺ 电流处于动态平衡而形成。",
+      "hint": "回顾心室肌动作电位 0~4 期离子流变化",
+      "id": 1
+    },
+    {
+      "c": "2",
+      "type": "single_choice",
+      "question": "心肌细胞兴奋后有效不应期特别长的核心生理意义在于（ ）。",
+      "prompt": "心肌细胞兴奋后有效不应期特别长的核心生理意义在于（ ）。",
+      "answerOptions": [
+        {
+          "text": "使心肌具有极高的自律起搏频率",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "延长房室交界处的房室延搁时间",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "防止心肌发生强直收缩，保证心脏节律性充盈和射血",
+          "isCorrect": true,
+          "rationale": "心肌有效不应期持续至舒张早期，使心肌在收缩至舒张早期不产生第二次兴奋与收缩，不会发生强直收缩。"
+        },
+        {
+          "text": "有利于心室肌同步快速去极化",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "使心肌具有极高的自律起搏频率",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "延长房室交界处的房室延搁时间",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "防止心肌发生强直收缩，保证心脏节律性充盈和射血",
+          "isCorrect": true,
+          "rationale": "心肌有效不应期持续至舒张早期，使心肌在收缩至舒张早期不产生第二次兴奋与收缩，不会发生强直收缩。"
+        },
+        {
+          "text": "有利于心室肌同步快速去极化",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "心肌有效不应期持续至舒张早期，使心肌在收缩至舒张早期不产生第二次兴奋与收缩，不会发生强直收缩。",
+      "hint": "联系心动周期中收缩与舒张交替的需求",
+      "id": 2
+    },
+    {
+      "c": "3",
+      "type": "single_choice",
+      "question": "关于微循环的三条血流通路，下列叙述错误的是（ ）。",
+      "prompt": "关于微循环的三条血流通路，下列叙述错误的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "迂回通路（营养通路）是血液与组织液进行物质交换的主要场所",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "直捷通路血流较快，主要促进血液迅速回心，骨骼肌中多见",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "动-静脉短路主要参与体温调节，一般不进行物质交换",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "动-静脉短路管壁极薄、通透性高，是体内主要的物质交换场所",
+          "isCorrect": true,
+          "rationale": "进行营养和物质交换的场所是迂回通路（真毛细血管网）；动-静脉短路血流极快、不交换物质，主要参与体温调节。"
+        }
+      ],
+      "options": [
+        {
+          "text": "迂回通路（营养通路）是血液与组织液进行物质交换的主要场所",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "直捷通路血流较快，主要促进血液迅速回心，骨骼肌中多见",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "动-静脉短路主要参与体温调节，一般不进行物质交换",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "动-静脉短路管壁极薄、通透性高，是体内主要的物质交换场所",
+          "isCorrect": true,
+          "rationale": "进行营养和物质交换的场所是迂回通路（真毛细血管网）；动-静脉短路血流极快、不交换物质，主要参与体温调节。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "进行营养和物质交换的场所是迂回通路（真毛细血管网）；动-静脉短路血流极快、不交换物质，主要参与体温调节。",
+      "hint": "区分迂回通路、直捷通路和动-静脉短路的功能",
+      "id": 3
+    },
+    {
+      "c": "4",
+      "type": "single_choice",
+      "question": "颈动脉窦和主动脉弓压力感受性反射（减压反射）的主要生理意义是（ ）。",
+      "prompt": "颈动脉窦和主动脉弓压力感受性反射（减压反射）的主要生理意义是（ ）。",
+      "answerOptions": [
+        {
+          "text": "在严重缺氧或酸中毒时直接兴奋呼吸中枢",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "缓冲动脉血压的短期波动，维持血压相对稳定",
+          "isCorrect": true,
+          "rationale": "减压反射通过负反馈调节心率与外周阻力，使动脉血压维持在相对稳定的水平。"
+        },
+        {
+          "text": "直接引起全身交感神经广泛强烈兴奋",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "长期决定体内的基础慢性动脉血压水平",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "在严重缺氧或酸中毒时直接兴奋呼吸中枢",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "缓冲动脉血压的短期波动，维持血压相对稳定",
+          "isCorrect": true,
+          "rationale": "减压反射通过负反馈调节心率与外周阻力，使动脉血压维持在相对稳定的水平。"
+        },
+        {
+          "text": "直接引起全身交感神经广泛强烈兴奋",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "长期决定体内的基础慢性动脉血压水平",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "减压反射通过负反馈调节心率与外周阻力，使动脉血压维持在相对稳定的水平。",
+      "hint": "注意压力感受器属于短期快速缓冲调节",
+      "id": 4
+    },
+    {
+      "c": "5",
+      "type": "single_choice",
+      "question": "体循环中，产生外周阻力（Peripheral resistance）的最主要血管部位是（ ）。",
+      "prompt": "体循环中，产生外周阻力（Peripheral resistance）的最主要血管部位是（ ）。",
+      "answerOptions": [
+        {
+          "text": "小动脉和微动脉（前阻力血管）",
+          "isCorrect": true,
+          "rationale": "小动脉和微动脉管径小、平滑肌丰富，是形成外周阻力的主要部位，又称毛细血管前阻力血管。"
+        },
+        {
+          "text": "大静脉和下腔静脉（容量血管）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "真毛细血管网（交换血管）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉和大弹性动脉（弹性贮器血管）",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "小动脉和微动脉（前阻力血管）",
+          "isCorrect": true,
+          "rationale": "小动脉和微动脉管径小、平滑肌丰富，是形成外周阻力的主要部位，又称毛细血管前阻力血管。"
+        },
+        {
+          "text": "大静脉和下腔静脉（容量血管）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "真毛细血管网（交换血管）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉和大弹性动脉（弹性贮器血管）",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "小动脉和微动脉管径小、平滑肌丰富，是形成外周阻力的主要部位，又称毛细血管前阻力血管。",
+      "hint": "回顾各类血管的功能命名",
+      "id": 5
+    },
+    {
+      "c": "6",
+      "type": "single_choice",
+      "question": "在一次心动周期中，心室腔内压力达到全周期最高峰的时相是（ ）。",
+      "prompt": "在一次心动周期中，心室腔内压力达到全周期最高峰的时相是（ ）。",
+      "answerOptions": [
+        {
+          "text": "减慢射血期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "快速射血期",
+          "isCorrect": true,
+          "rationale": "等容收缩期末主动脉瓣开启进入快速射血期，心室内压继续急剧升高并在快速射血期达到峰值。"
+        },
+        {
+          "text": "等容收缩期末",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "快速充盈期",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "减慢射血期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "快速射血期",
+          "isCorrect": true,
+          "rationale": "等容收缩期末主动脉瓣开启进入快速射血期，心室内压继续急剧升高并在快速射血期达到峰值。"
+        },
+        {
+          "text": "等容收缩期末",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "快速充盈期",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "等容收缩期末主动脉瓣开启进入快速射血期，心室内压继续急剧升高并在快速射血期达到峰值。",
+      "hint": "区分瓣膜刚打开时刻与室内压峰值时刻",
+      "id": 6
+    },
+    {
+      "c": "7",
+      "type": "single_choice",
+      "question": "心房与心室之间传导冲动发生明显“房-室延搁”的部位是（ ）。",
+      "prompt": "心房与心室之间传导冲动发生明显“房-室延搁”的部位是（ ）。",
+      "answerOptions": [
+        {
+          "text": "心房肌优势传导通路",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "窦房结内部",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "房室交界区（房室结）",
+          "isCorrect": true,
+          "rationale": "兴奋在房室交界（房室结）处传导速度最慢（0.02 m/s），产生约 0.1 s 的房-室延搁，保证心房先收缩完毕、心室再收缩。"
+        },
+        {
+          "text": "浦肯野纤维网",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "心房肌优势传导通路",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "窦房结内部",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "房室交界区（房室结）",
+          "isCorrect": true,
+          "rationale": "兴奋在房室交界（房室结）处传导速度最慢（0.02 m/s），产生约 0.1 s 的房-室延搁，保证心房先收缩完毕、心室再收缩。"
+        },
+        {
+          "text": "浦肯野纤维网",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "兴奋在房室交界（房室结）处传导速度最慢（0.02 m/s），产生约 0.1 s 的房-室延搁，保证心房先收缩完毕、心室再收缩。",
+      "hint": "回顾心传导系各部位传导速度（两头快中间慢）",
+      "id": 7
+    },
+    {
+      "c": "8",
+      "type": "single_choice",
+      "question": "下列关于静脉回心血量影响因素的叙述，错误的是（ ）。",
+      "prompt": "下列关于静脉回心血量影响因素的叙述，错误的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "吸气时胸膜腔负压增大，有利于腹腔和胸腔大静脉血回心",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心脏收缩力与心室舒张抽吸作用是推动静脉回流的重要动力",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "由卧位突然转为立位时，下肢静脉回心血量显著增加",
+          "isCorrect": true,
+          "rationale": "由卧位转为立位时，受重力影响血液大量滞留于下肢静脉，回心血量减少而非增加。"
+        },
+        {
+          "text": "骨骼肌有节律舒缩配合静脉瓣膜起“肌肉泵”促进回流作用",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "吸气时胸膜腔负压增大，有利于腹腔和胸腔大静脉血回心",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心脏收缩力与心室舒张抽吸作用是推动静脉回流的重要动力",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "由卧位突然转为立位时，下肢静脉回心血量显著增加",
+          "isCorrect": true,
+          "rationale": "由卧位转为立位时，受重力影响血液大量滞留于下肢静脉，回心血量减少而非增加。"
+        },
+        {
+          "text": "骨骼肌有节律舒缩配合静脉瓣膜起“肌肉泵”促进回流作用",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "由卧位转为立位时，受重力影响血液大量滞留于下肢静脉，回心血量减少而非增加。",
+      "hint": "结合体位改变与重力对静脉回流的影响",
+      "id": 8
+    },
+    {
+      "c": "9",
+      "type": "single_choice",
+      "question": "关于第一心音（S1）与第二心音（S2）的叙述，正确的是（ ）。",
+      "prompt": "关于第一心音（S1）与第二心音（S2）的叙述，正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "第一心音标志心室收缩开始，主要由房室瓣关闭产生",
+          "isCorrect": true,
+          "rationale": "S1 标志心室收缩开始（二/三尖瓣关闭）；S2 标志心室舒张开始（主动脉瓣/肺动脉瓣关闭）。"
+        },
+        {
+          "text": "第二心音标志心室收缩开始，主要由房室瓣关闭产生",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "第一心音标志心室舒张开始，主要由半月瓣关闭产生",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "第一、第二心音均主要由动脉瓣突然开放引起血液冲撞产生",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "第一心音标志心室收缩开始，主要由房室瓣关闭产生",
+          "isCorrect": true,
+          "rationale": "S1 标志心室收缩开始（二/三尖瓣关闭）；S2 标志心室舒张开始（主动脉瓣/肺动脉瓣关闭）。"
+        },
+        {
+          "text": "第二心音标志心室收缩开始，主要由房室瓣关闭产生",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "第一心音标志心室舒张开始，主要由半月瓣关闭产生",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "第一、第二心音均主要由动脉瓣突然开放引起血液冲撞产生",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "S1 标志心室收缩开始（二/三尖瓣关闭）；S2 标志心室舒张开始（主动脉瓣/肺动脉瓣关闭）。",
+      "hint": "对应收缩期起点与舒张期起点的瓣膜关闭事件",
+      "id": 9
+    },
+    {
+      "c": "10",
+      "type": "single_choice",
+      "question": "下列血管结构中，不直接开口于右心房的是（ ）。",
+      "prompt": "下列血管结构中，不直接开口于右心房的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "冠状窦口",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "上腔静脉口",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "下腔静脉口",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肺静脉口",
+          "isCorrect": true,
+          "rationale": "右心房腔静脉窦接纳上腔静脉、下腔静脉和冠状窦的开口；左右共 4 条肺静脉开口于左心房。"
+        }
+      ],
+      "options": [
+        {
+          "text": "冠状窦口",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "上腔静脉口",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "下腔静脉口",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "肺静脉口",
+          "isCorrect": true,
+          "rationale": "右心房腔静脉窦接纳上腔静脉、下腔静脉和冠状窦的开口；左右共 4 条肺静脉开口于左心房。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "右心房腔静脉窦接纳上腔静脉、下腔静脉和冠状窦的开口；左右共 4 条肺静脉开口于左心房。",
+      "hint": "区分右心房与左心房的静脉入口",
+      "id": 10
+    },
+    {
+      "c": "11",
+      "type": "single_choice",
+      "question": "左心室收缩向升主动脉射血时，左侧心脏瓣膜的开闭状态是（ ）。",
+      "prompt": "左心室收缩向升主动脉射血时，左侧心脏瓣膜的开闭状态是（ ）。",
+      "answerOptions": [
+        {
+          "text": "主动脉瓣关闭，二尖瓣开放",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉瓣开放，三尖瓣开放",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉瓣开放，二尖瓣开放",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉瓣开放，二尖瓣关闭",
+          "isCorrect": true,
+          "rationale": "左室射血期左室内压高于主动脉压和左房压，故动脉出口的主动脉瓣开放，左房室瓣（二尖瓣）关闭防血液逆流回左房。"
+        }
+      ],
+      "options": [
+        {
+          "text": "主动脉瓣关闭，二尖瓣开放",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉瓣开放，三尖瓣开放",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉瓣开放，二尖瓣开放",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "主动脉瓣开放，二尖瓣关闭",
+          "isCorrect": true,
+          "rationale": "左室射血期左室内压高于主动脉压和左房压，故动脉出口的主动脉瓣开放，左房室瓣（二尖瓣）关闭防血液逆流回左房。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "左室射血期左室内压高于主动脉压和左房压，故动脉出口的主动脉瓣开放，左房室瓣（二尖瓣）关闭防血液逆流回左房。",
+      "hint": "明确左右心房室瓣的对应名称（左二右三）",
+      "id": 11
+    },
+    {
+      "c": "12",
+      "type": "single_choice",
+      "question": "心脏自身的供血动脉（左、右冠状动脉）直接起自（ ）。",
+      "prompt": "心脏自身的供血动脉（左、右冠状动脉）直接起自（ ）。",
+      "answerOptions": [
+        {
+          "text": "主动脉弓",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胸主动脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "升主动脉（主动脉窦）",
+          "isCorrect": true,
+          "rationale": "左、右冠状动脉分别起自升主动脉根部的主动脉左窦与右窦，营养整个心脏。"
+        },
+        {
+          "text": "肺动脉干",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "主动脉弓",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "胸主动脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "升主动脉（主动脉窦）",
+          "isCorrect": true,
+          "rationale": "左、右冠状动脉分别起自升主动脉根部的主动脉左窦与右窦，营养整个心脏。"
+        },
+        {
+          "text": "肺动脉干",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "左、右冠状动脉分别起自升主动脉根部的主动脉左窦与右窦，营养整个心脏。",
+      "hint": "注意区分升主动脉与主动脉弓的分支",
+      "id": 12
+    },
+    {
+      "c": "13",
+      "type": "single_choice",
+      "question": "在一个心动周期中，心室血液充盈（占总充盈量约 75%）主要取决于（ ）。",
+      "prompt": "在一个心动周期中，心室血液充盈（占总充盈量约 75%）主要取决于（ ）。",
+      "answerOptions": [
+        {
+          "text": "心房收缩的强力挤压推动",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "骨骼肌收缩对下肢静脉的挤压",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心室舒张时的“抽吸”作用（快速与减慢充盈期）",
+          "isCorrect": true,
+          "rationale": "心室充盈期心室内压低于心房压，心室舒张抽吸完成约 75% 的充盈，心房收缩仅占约 25%。"
+        },
+        {
+          "text": "吸气时胸膜腔负压的直接抽吸",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "心房收缩的强力挤压推动",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "骨骼肌收缩对下肢静脉的挤压",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心室舒张时的“抽吸”作用（快速与减慢充盈期）",
+          "isCorrect": true,
+          "rationale": "心室充盈期心室内压低于心房压，心室舒张抽吸完成约 75% 的充盈，心房收缩仅占约 25%。"
+        },
+        {
+          "text": "吸气时胸膜腔负压的直接抽吸",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "心室充盈期心室内压低于心房压，心室舒张抽吸完成约 75% 的充盈，心房收缩仅占约 25%。",
+      "hint": "比较心室抽吸与心房收缩在充盈中的占比",
+      "id": 13
+    },
+    {
+      "c": "14",
+      "type": "single_choice",
+      "question": "正常体表心电图（ECG）中，代表两心房去极化、两心室去极化和心室复极化的波形依次为（ ）。",
+      "prompt": "正常体表心电图（ECG）中，代表两心房去极化、两心室去极化和心室复极化的波形依次为（ ）。",
+      "answerOptions": [
+        {
+          "text": "QRS波群、P波、T波",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "P波、QRS波群、T波",
+          "isCorrect": true,
+          "rationale": "ECG 中 P 波反映左右心房去极化，QRS 波群反映左右心室去极化，T 波反映心室复极化。"
+        },
+        {
+          "text": "P波、T波、QRS波群",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "T波、QRS波群、P波",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "QRS波群、P波、T波",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "P波、QRS波群、T波",
+          "isCorrect": true,
+          "rationale": "ECG 中 P 波反映左右心房去极化，QRS 波群反映左右心室去极化，T 波反映心室复极化。"
+        },
+        {
+          "text": "P波、T波、QRS波群",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "T波、QRS波群、P波",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "ECG 中 P 波反映左右心房去极化，QRS 波群反映左右心室去极化，T 波反映心室复极化。",
+      "hint": "按心电兴奋由心房传向心室的顺序记忆波形",
+      "id": 14
+    },
+    {
+      "c": "15",
+      "type": "single_choice",
+      "question": "关于心脏射血功能评价指标及心力储备的叙述，正确的是（ ）。",
+      "prompt": "关于心脏射血功能评价指标及心力储备的叙述，正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "心室泵血的舒张期储备（约 35 mL）显著大于收缩期储备（约 15 mL）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "正常成年人射血分数约为 55%~65%，动用心率储备是提高心输出量的主要途径",
+          "isCorrect": true,
+          "rationale": "射血分数(EF=SV/EDV)正常为55%~65%；心脏做功量比心输出量更全面；收缩期储备(35mL)＞舒张期储备(15mL)；动用心率储备是提高心输出量的主要途径。"
+        },
+        {
+          "text": "射血分数是指心输出量占心室舒张末期容积的百分比",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心输出量比心脏做功量更全面反映心脏泵血功能",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "心室泵血的舒张期储备（约 35 mL）显著大于收缩期储备（约 15 mL）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "正常成年人射血分数约为 55%~65%，动用心率储备是提高心输出量的主要途径",
+          "isCorrect": true,
+          "rationale": "射血分数(EF=SV/EDV)正常为55%~65%；心脏做功量比心输出量更全面；收缩期储备(35mL)＞舒张期储备(15mL)；动用心率储备是提高心输出量的主要途径。"
+        },
+        {
+          "text": "射血分数是指心输出量占心室舒张末期容积的百分比",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心输出量比心脏做功量更全面反映心脏泵血功能",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "射血分数(EF=SV/EDV)正常为55%~65%；心脏做功量比心输出量更全面；收缩期储备(35mL)＞舒张期储备(15mL)；动用心率储备是提高心输出量的主要途径。",
+      "hint": "核对射血分数定义、储备大小与心率储备地位",
+      "id": 15
+    },
+    {
+      "c": "16",
+      "type": "single_choice",
+      "question": "支配心脏的心迷走神经（副交感神经）兴奋时，不会引起的生理效应是（ ）。",
+      "prompt": "支配心脏的心迷走神经（副交感神经）兴奋时，不会引起的生理效应是（ ）。",
+      "answerOptions": [
+        {
+          "text": "心房肌收缩力减弱",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心输出量与动脉血压下降",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "窦房结自律性降低，心跳减慢",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "房室传导速度明显加快",
+          "isCorrect": true,
+          "rationale": "迷走神经释放乙酰胆碱，对心脏产生负性变时、负性变力和负性变传导作用（传导减慢而非加速）。"
+        }
+      ],
+      "options": [
+        {
+          "text": "心房肌收缩力减弱",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心输出量与动脉血压下降",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "窦房结自律性降低，心跳减慢",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "房室传导速度明显加快",
+          "isCorrect": true,
+          "rationale": "迷走神经释放乙酰胆碱，对心脏产生负性变时、负性变力和负性变传导作用（传导减慢而非加速）。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "迷走神经释放乙酰胆碱，对心脏产生负性变时、负性变力和负性变传导作用（传导减慢而非加速）。",
+      "hint": "区分心交感神经（正性）与心迷走神经（负性）效应",
+      "id": 16
+    },
+    {
+      "c": "17",
+      "type": "single_choice",
+      "question": "在肾素-血管紧张素系统中，血管紧张素Ⅱ（AngⅡ）升高动脉血压的主要作用机制是（ ）。",
+      "prompt": "在肾素-血管紧张素系统中，血管紧张素Ⅱ（AngⅡ）升高动脉血压的主要作用机制是（ ）。",
+      "answerOptions": [
+        {
+          "text": "强烈收缩外周小血管，并促进醛固酮分泌以增加循环血量",
+          "isCorrect": true,
+          "rationale": "AngⅡ 一方面直接强烈收缩微动脉使外周阻力升高，另一方面刺激肾上腺皮质分泌醛固酮，保钠保水增加循环血量。"
+        },
+        {
+          "text": "抑制交感缩血管纤维释放去甲肾上腺素",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "直接增强窦房结起搏频率使心率大幅飙升",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "直接舒张全身微动脉并减少肾脏排水",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "强烈收缩外周小血管，并促进醛固酮分泌以增加循环血量",
+          "isCorrect": true,
+          "rationale": "AngⅡ 一方面直接强烈收缩微动脉使外周阻力升高，另一方面刺激肾上腺皮质分泌醛固酮，保钠保水增加循环血量。"
+        },
+        {
+          "text": "抑制交感缩血管纤维释放去甲肾上腺素",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "直接增强窦房结起搏频率使心率大幅飙升",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "直接舒张全身微动脉并减少肾脏排水",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "AngⅡ 一方面直接强烈收缩微动脉使外周阻力升高，另一方面刺激肾上腺皮质分泌醛固酮，保钠保水增加循环血量。",
+      "hint": "回顾血管部分 PPT 第 37 页 AngⅡ 两条核心作用",
+      "id": 17
+    },
+    {
+      "c": "18",
+      "type": "single_choice",
+      "question": "关于肾上腺素（E）与去甲肾上腺素（NE）心血管作用的比较，叙述正确的是（ ）。",
+      "prompt": "关于肾上腺素（E）与去甲肾上腺素（NE）心血管作用的比较，叙述正确的是（ ）。",
+      "answerOptions": [
+        {
+          "text": "E 对 α 和 β 受体均强，临床以强心为主；NE 对 α 受体强而对 β 受体弱，临床以升压为主",
+          "isCorrect": true,
+          "rationale": "E 兴奋 α 与 β 受体均强，心率快、收缩力强（强心为主），皮肤内脏血管收缩而骨骼肌肝血管舒张，总阻力变化不大；NE 兴奋 α 受体强、β 受体弱，全身血管广泛收缩致外周阻力大增（升压为主）。"
+        },
+        {
+          "text": "NE 能显著舒张骨骼肌血管（β₂ 受体），使总外周阻力变化不大",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "E 引起全身所有血管广泛剧烈收缩，总外周阻力大幅升高",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "NE 强心作用远强于 E，可使脉压显著增大",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "E 对 α 和 β 受体均强，临床以强心为主；NE 对 α 受体强而对 β 受体弱，临床以升压为主",
+          "isCorrect": true,
+          "rationale": "E 兴奋 α 与 β 受体均强，心率快、收缩力强（强心为主），皮肤内脏血管收缩而骨骼肌肝血管舒张，总阻力变化不大；NE 兴奋 α 受体强、β 受体弱，全身血管广泛收缩致外周阻力大增（升压为主）。"
+        },
+        {
+          "text": "NE 能显著舒张骨骼肌血管（β₂ 受体），使总外周阻力变化不大",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "E 引起全身所有血管广泛剧烈收缩，总外周阻力大幅升高",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "NE 强心作用远强于 E，可使脉压显著增大",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "E 兴奋 α 与 β 受体均强，心率快、收缩力强（强心为主），皮肤内脏血管收缩而骨骼肌肝血管舒张，总阻力变化不大；NE 兴奋 α 受体强、β 受体弱，全身血管广泛收缩致外周阻力大增（升压为主）。",
+      "hint": "对照 PPT 第 38 页 E 与 NE 表格",
+      "id": 18
+    },
+    {
+      "c": "19",
+      "type": "multiple_select",
+      "question": "自主动脉弓凸侧自右向左依次直接发出的三大动脉分支是（ ）。",
+      "prompt": "自主动脉弓凸侧自右向左依次直接发出的三大动脉分支是（ ）。",
+      "answerOptions": [
+        {
+          "text": "右锁骨下动脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "左锁骨下动脉",
+          "isCorrect": true,
+          "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。"
+        },
+        {
+          "text": "头臂干（无名动脉）",
+          "isCorrect": true,
+          "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。"
+        },
+        {
+          "text": "左颈总动脉",
+          "isCorrect": true,
+          "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。"
+        },
+        {
+          "text": "右颈总动脉",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "右锁骨下动脉",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "左锁骨下动脉",
+          "isCorrect": true,
+          "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。"
+        },
+        {
+          "text": "头臂干（无名动脉）",
+          "isCorrect": true,
+          "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。"
+        },
+        {
+          "text": "左颈总动脉",
+          "isCorrect": true,
+          "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。"
+        },
+        {
+          "text": "右颈总动脉",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "主动脉弓三大分支自右向左为头臂干、左颈总动脉、左锁骨下动脉；右颈总和右锁骨下动脉起自头臂干。",
+      "hint": "区分直接起自主动脉弓还是起自头臂干的分支",
+      "id": 19
+    },
+    {
+      "c": "20",
+      "type": "multiple_select",
+      "question": "关于心脏瓣膜的解剖分布与开闭功能，下列叙述正确的有（ ）。",
+      "prompt": "关于心脏瓣膜的解剖分布与开闭功能，下列叙述正确的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "二尖瓣（左房室瓣）位于左心房与左心室之间",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "三尖瓣（右房室瓣）位于右心房与右心室之间",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "主动脉瓣位于左心室流出道与升主动脉根部之间",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "肺动脉瓣位于右心室流出道与肺动脉干起始处",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "心室收缩射血时，房室瓣开放而动脉瓣关闭",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "二尖瓣（左房室瓣）位于左心房与左心室之间",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "三尖瓣（右房室瓣）位于右心房与右心室之间",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "主动脉瓣位于左心室流出道与升主动脉根部之间",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "肺动脉瓣位于右心室流出道与肺动脉干起始处",
+          "isCorrect": true,
+          "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。"
+        },
+        {
+          "text": "心室收缩射血时，房室瓣开放而动脉瓣关闭",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "心室收缩时房室瓣关闭（防血液返流入心房）、动脉瓣开放（射血入动脉）；各瓣膜位置均正确。",
+      "hint": "对照心脏四腔出口入口对应瓣膜",
+      "id": 20
+    },
+    {
+      "c": "21",
+      "type": "multiple_select",
+      "question": "在其他条件不变的情况下，能导致动脉血压显著升高的因素有（ ）。",
+      "prompt": "在其他条件不变的情况下，能导致动脉血压显著升高的因素有（ ）。",
+      "answerOptions": [
+        {
+          "text": "心率在适宜范围内加快使心输出量增加",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        },
+        {
+          "text": "主动脉和大动脉弹性减弱（顺应性下降）使收缩压升高",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        },
+        {
+          "text": "循环血量大幅减少（如大失血）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "全身微动脉广泛收缩导致外周阻力增大",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        },
+        {
+          "text": "每搏输出量增大使收缩压明显升高",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        }
+      ],
+      "options": [
+        {
+          "text": "心率在适宜范围内加快使心输出量增加",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        },
+        {
+          "text": "主动脉和大动脉弹性减弱（顺应性下降）使收缩压升高",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        },
+        {
+          "text": "循环血量大幅减少（如大失血）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "全身微动脉广泛收缩导致外周阻力增大",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        },
+        {
+          "text": "每搏输出量增大使收缩压明显升高",
+          "isCorrect": true,
+          "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "循环血量减少会导致血压降低；搏出量↑、心率↑、外周阻力↑及大动脉硬化均会导致收缩压或舒张压升高。",
+      "hint": "逐一分析影响动脉血压的五大因素",
+      "id": 21
+    },
+    {
+      "c": "22",
+      "type": "multiple_select",
+      "question": "下列结构属于心脏特殊传导系统组成成分的有（ ）。",
+      "prompt": "下列结构属于心脏特殊传导系统组成成分的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "房室结（房室交界区，房室延搁）",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        },
+        {
+          "text": "窦房结（正常起搏点）",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        },
+        {
+          "text": "浦肯野纤维网",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        },
+        {
+          "text": "冠状窦（收集心脏静脉血）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "房室束（希氏束）与左、右束支",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        }
+      ],
+      "options": [
+        {
+          "text": "房室结（房室交界区，房室延搁）",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        },
+        {
+          "text": "窦房结（正常起搏点）",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        },
+        {
+          "text": "浦肯野纤维网",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        },
+        {
+          "text": "冠状窦（收集心脏静脉血）",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "房室束（希氏束）与左、右束支",
+          "isCorrect": true,
+          "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "心脏特殊传导系统包括窦房结、结间束、房室结、房室束、左右束支和浦肯野纤维；冠状窦属于心静脉系。",
+      "hint": "排除属于静脉回流通道的结构",
+      "id": 22
+    },
+    {
+      "c": "23",
+      "type": "multiple_select",
+      "question": "下列血管直接开口于右心房的有（ ）。",
+      "prompt": "下列血管直接开口于右心房的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "冠状窦",
+          "isCorrect": true,
+          "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。"
+        },
+        {
+          "text": "上腔静脉",
+          "isCorrect": true,
+          "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。"
+        },
+        {
+          "text": "肺动脉干",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "下腔静脉",
+          "isCorrect": true,
+          "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。"
+        },
+        {
+          "text": "肺静脉",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "冠状窦",
+          "isCorrect": true,
+          "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。"
+        },
+        {
+          "text": "上腔静脉",
+          "isCorrect": true,
+          "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。"
+        },
+        {
+          "text": "肺动脉干",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "下腔静脉",
+          "isCorrect": true,
+          "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。"
+        },
+        {
+          "text": "肺静脉",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "上、下腔静脉及冠状窦直接开口于右心房；肺动脉干起自右心室，肺静脉开口于左心房。",
+      "hint": "回顾右心房腔静脉窦的三大入口",
+      "id": 23
+    },
+    {
+      "c": "24",
+      "type": "multiple_select",
+      "question": "心动周期中，二尖瓣与主动脉瓣均处于闭合状态的时相有（ ）。",
+      "prompt": "心动周期中，二尖瓣与主动脉瓣均处于闭合状态的时相有（ ）。",
+      "answerOptions": [
+        {
+          "text": "快速充盈期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心房收缩期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "等容舒张期",
+          "isCorrect": true,
+          "rationale": "只有等容收缩期和等容舒张期，房室瓣和动脉瓣同时关闭，心室容积保持不变。"
+        },
+        {
+          "text": "快速射血期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "等容收缩期",
+          "isCorrect": true,
+          "rationale": "只有等容收缩期和等容舒张期，房室瓣和动脉瓣同时关闭，心室容积保持不变。"
+        }
+      ],
+      "options": [
+        {
+          "text": "快速充盈期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "心房收缩期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "等容舒张期",
+          "isCorrect": true,
+          "rationale": "只有等容收缩期和等容舒张期，房室瓣和动脉瓣同时关闭，心室容积保持不变。"
+        },
+        {
+          "text": "快速射血期",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "等容收缩期",
+          "isCorrect": true,
+          "rationale": "只有等容收缩期和等容舒张期，房室瓣和动脉瓣同时关闭，心室容积保持不变。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "只有等容收缩期和等容舒张期，房室瓣和动脉瓣同时关闭，心室容积保持不变。",
+      "hint": "“等容”意味着入口与出口瓣膜全部关闭",
+      "id": 24
+    },
+    {
+      "c": "25",
+      "type": "multiple_select",
+      "question": "关于减压反射（压力感受性反射）的叙述，正确的有（ ）。",
+      "prompt": "关于减压反射（压力感受性反射）的叙述，正确的有（ ）。",
+      "answerOptions": [
+        {
+          "text": "压力感受器主要位于颈动脉体和主动脉体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "压力感受器受牵张刺激增加时，交感神经兴奋、迷走神经抑制",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "动脉血压降低时，压力感受器传入冲动减少，交感神经兴奋性增强",
+          "isCorrect": true,
+          "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。"
+        },
+        {
+          "text": "动脉血压升高使颈动脉窦牵张增加时，心率减慢、血压下降",
+          "isCorrect": true,
+          "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。"
+        },
+        {
+          "text": "身体由蹲位突然转为站立位时，通过减压反射减弱使心率加快、血压回升",
+          "isCorrect": true,
+          "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。"
+        }
+      ],
+      "options": [
+        {
+          "text": "压力感受器主要位于颈动脉体和主动脉体",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "压力感受器受牵张刺激增加时，交感神经兴奋、迷走神经抑制",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "动脉血压降低时，压力感受器传入冲动减少，交感神经兴奋性增强",
+          "isCorrect": true,
+          "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。"
+        },
+        {
+          "text": "动脉血压升高使颈动脉窦牵张增加时，心率减慢、血压下降",
+          "isCorrect": true,
+          "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。"
+        },
+        {
+          "text": "身体由蹲位突然转为站立位时，通过减压反射减弱使心率加快、血压回升",
+          "isCorrect": true,
+          "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "压力感受器位于颈动脉窦和主动脉弓（颈动脉体/主动脉体是化学感受器）；血压升高牵张增强时迷走神经兴奋、交感神经抑制。",
+      "hint": "区分压力感受器（窦/弓）与化学感受器（体），把握负反馈方向",
+      "id": 25
+    },
+    {
+      "c": "26",
+      "type": "judge",
+      "question": "【判断题】在一次完整的心动周期中，心室收缩期的时间显著长于心室舒张期的时间。",
+      "prompt": "【判断题】在一次完整的心动周期中，心室收缩期的时间显著长于心室舒张期的时间。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。正常心率75次/分时，心动周期为0.8秒，其中心室收缩期约0.3秒，舒张期约0.5秒，舒张期明显长于收缩期。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。正常心率75次/分时，心动周期为0.8秒，其中心室收缩期约0.3秒，舒张期约0.5秒，舒张期明显长于收缩期。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。正常心率75次/分时，心动周期为0.8秒，其中心室收缩期约0.3秒，舒张期约0.5秒，舒张期明显长于收缩期。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 26
+    },
+    {
+      "c": "27",
+      "type": "judge",
+      "question": "【判断题】动脉瓣（主动脉瓣和肺动脉瓣）在心室等容收缩期期间即已处于开放状态。",
+      "prompt": "【判断题】动脉瓣（主动脉瓣和肺动脉瓣）在心室等容收缩期期间即已处于开放状态。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。等容收缩期心室内压虽高于心房压但仍低于主动脉压，动脉瓣和房室瓣均处于关闭状态；等容收缩期末室内压超过动脉压后动脉瓣才开放。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。等容收缩期心室内压虽高于心房压但仍低于主动脉压，动脉瓣和房室瓣均处于关闭状态；等容收缩期末室内压超过动脉压后动脉瓣才开放。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。等容收缩期心室内压虽高于心房压但仍低于主动脉压，动脉瓣和房室瓣均处于关闭状态；等容收缩期末室内压超过动脉压后动脉瓣才开放。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 27
+    },
+    {
+      "c": "28",
+      "type": "judge",
+      "question": "【判断题】心肌工作细胞（心房肌、心室肌）具有兴奋性、传导性和收缩性，但不具备自律性。",
+      "prompt": "【判断题】心肌工作细胞（心房肌、心室肌）具有兴奋性、传导性和收缩性，但不具备自律性。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。心房肌和心室肌细胞属于工作细胞，具有兴奋性、传导性和收缩性，无自律性；窦房结、房室结和浦肯野纤维等属于自律细胞。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。心房肌和心室肌细胞属于工作细胞，具有兴奋性、传导性和收缩性，无自律性；窦房结、房室结和浦肯野纤维等属于自律细胞。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。心房肌和心室肌细胞属于工作细胞，具有兴奋性、传导性和收缩性，无自律性；窦房结、房室结和浦肯野纤维等属于自律细胞。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 28
+    },
+    {
+      "c": "29",
+      "type": "judge",
+      "question": "【判断题】窦房结是控制全心节律活动的正常起搏点，由它主导的心脏节律称为窦性心律。",
+      "prompt": "【判断题】窦房结是控制全心节律活动的正常起搏点，由它主导的心脏节律称为窦性心律。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。窦房结自律性最高（约100次/分），通过抢先占领和超速驱动抑制控制潜在起搏点，是正常心脏的起搏点。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。窦房结自律性最高（约100次/分），通过抢先占领和超速驱动抑制控制潜在起搏点，是正常心脏的起搏点。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。窦房结自律性最高（约100次/分），通过抢先占领和超速驱动抑制控制潜在起搏点，是正常心脏的起搏点。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 29
+    },
+    {
+      "c": "30",
+      "type": "judge",
+      "question": "【判断题】颈动脉窦压力感受器感受的是血管壁受牵拉引起的机械形变刺激，而非血液化学成分变化。",
+      "prompt": "【判断题】颈动脉窦压力感受器感受的是血管壁受牵拉引起的机械形变刺激，而非血液化学成分变化。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。颈动脉窦和主动脉弓压力感受器对动脉管壁的机械牵张变化敏感；感受 PO₂、PCO₂ 和 H⁺ 变化的是颈动脉体和主动脉体化学感受器。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。颈动脉窦和主动脉弓压力感受器对动脉管壁的机械牵张变化敏感；感受 PO₂、PCO₂ 和 H⁺ 变化的是颈动脉体和主动脉体化学感受器。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。颈动脉窦和主动脉弓压力感受器对动脉管壁的机械牵张变化敏感；感受 PO₂、PCO₂ 和 H⁺ 变化的是颈动脉体和主动脉体化学感受器。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 30
+    },
+    {
+      "c": "31",
+      "type": "judge",
+      "question": "【判断题】体循环的大动脉（如主动脉）中膜富含弹性纤维，在血液动力学中被称为弹性贮器血管。",
+      "prompt": "【判断题】体循环的大动脉（如主动脉）中膜富含弹性纤维，在血液动力学中被称为弹性贮器血管。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。大动脉中膜弹性纤维丰富，能在心室收缩期扩张蓄积部分血液、舒张期弹性回缩推动血液继续流动，缓冲血压波动。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。大动脉中膜弹性纤维丰富，能在心室收缩期扩张蓄积部分血液、舒张期弹性回缩推动血液继续流动，缓冲血压波动。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。大动脉中膜弹性纤维丰富，能在心室收缩期扩张蓄积部分血液、舒张期弹性回缩推动血液继续流动，缓冲血压波动。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 31
+    },
+    {
+      "c": "32",
+      "type": "judge",
+      "question": "【判断题】左心室心肌壁显著厚于右心室且收缩力更强，因此左心室每次搏动排出的血量明显大于右心室。",
+      "prompt": "【判断题】左心室心肌壁显著厚于右心室且收缩力更强，因此左心室每次搏动排出的血量明显大于右心室。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。体循环阻力远大于肺循环，故左心室壁更厚以产生更高压力；但左、右心室串联工作，正常时每搏输出量和心输出量基本相等。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。体循环阻力远大于肺循环，故左心室壁更厚以产生更高压力；但左、右心室串联工作，正常时每搏输出量和心输出量基本相等。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。体循环阻力远大于肺循环，故左心室壁更厚以产生更高压力；但左、右心室串联工作，正常时每搏输出量和心输出量基本相等。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 32
+    },
+    {
+      "c": "33",
+      "type": "judge",
+      "question": "【判断题】静脉瓣膜在上腔静脉、下腔静脉主干以及肝门静脉中最为密集发达，以防血液逆流。",
+      "prompt": "【判断题】静脉瓣膜在上腔静脉、下腔静脉主干以及肝门静脉中最为密集发达，以防血液逆流。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。上、下腔静脉及肝门静脉内均无静脉瓣；静脉瓣主要存在于四肢（尤其是下肢）的中小静脉内。"
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
+          "text": "错误",
+          "isCorrect": true,
+          "rationale": "错误。上、下腔静脉及肝门静脉内均无静脉瓣；静脉瓣主要存在于四肢（尤其是下肢）的中小静脉内。"
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "错误。上、下腔静脉及肝门静脉内均无静脉瓣；静脉瓣主要存在于四肢（尤其是下肢）的中小静脉内。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 33
+    },
+    {
+      "c": "34",
+      "type": "judge",
+      "question": "【判断题】心交感神经兴奋时末梢释放去甲肾上腺素，可使心率加快、心肌收缩力增强、房室传导加速。",
+      "prompt": "【判断题】心交感神经兴奋时末梢释放去甲肾上腺素，可使心率加快、心肌收缩力增强、房室传导加速。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。交感神经兴奋作用于心脏产生正性变时（心率↑）、正性变力（收缩力↑）和正性变传导（传导↑）效应。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。交感神经兴奋作用于心脏产生正性变时（心率↑）、正性变力（收缩力↑）和正性变传导（传导↑）效应。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。交感神经兴奋作用于心脏产生正性变时（心率↑）、正性变力（收缩力↑）和正性变传导（传导↑）效应。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 34
+    },
+    {
+      "c": "35",
+      "type": "judge",
+      "question": "【判断题】窦房结细胞之所以具有自律性，是因为其 4 期膜电位不稳定，能自发缓慢自动去极化达到阈电位。",
+      "prompt": "【判断题】窦房结细胞之所以具有自律性，是因为其 4 期膜电位不稳定，能自发缓慢自动去极化达到阈电位。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。自律细胞最大复极电位后，4期由递减性外向 K⁺ 电流（Ik）及递增性内向 If、Ca²⁺ 电流引起自动去极化，达阈电位后触发动作电位。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。自律细胞最大复极电位后，4期由递减性外向 K⁺ 电流（Ik）及递增性内向 If、Ca²⁺ 电流引起自动去极化，达阈电位后触发动作电位。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。自律细胞最大复极电位后，4期由递减性外向 K⁺ 电流（Ik）及递增性内向 If、Ca²⁺ 电流引起自动去极化，达阈电位后触发动作电位。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 35
+    },
+    {
+      "c": "36",
+      "type": "judge",
+      "question": "【判断题】心率加快时心动周期缩短且主要缩短心室舒张期；心脏的左、右纤维三角及瓣膜纤维环等共同构成心纤维支架，支持稳定心肌和瓣膜。",
+      "prompt": "【判断题】心率加快时心动周期缩短且主要缩短心室舒张期；心脏的左、右纤维三角及瓣膜纤维环等共同构成心纤维支架，支持稳定心肌和瓣膜。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。心动周期缩短主要发生于心舒期（故心率过快不利于充盈）；心纤维支架为心肌和瓣膜提供附着并支持稳定心肌。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。心动周期缩短主要发生于心舒期（故心率过快不利于充盈）；心纤维支架为心肌和瓣膜提供附着并支持稳定心肌。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。心动周期缩短主要发生于心舒期（故心率过快不利于充盈）；心纤维支架为心肌和瓣膜提供附着并支持稳定心肌。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 36
+    },
+    {
+      "c": "37",
+      "type": "judge",
+      "question": "【判断题】胎儿期因无肺呼吸功能，血液循环具有卵圆孔（右心房→左心房）和动脉导管（肺动脉→主动脉）等特有通道。",
+      "prompt": "【判断题】胎儿期因无肺呼吸功能，血液循环具有卵圆孔（右心房→左心房）和动脉导管（肺动脉→主动脉）等特有通道。",
+      "answerOptions": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。胎儿通过胎盘和脐带与母体进行物质气体交换，血液经静脉导管、卵圆孔和动脉导管分流，出生后这些通道逐渐闭锁。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "options": [
+        {
+          "text": "正确",
+          "isCorrect": true,
+          "rationale": "正确。胎儿通过胎盘和脐带与母体进行物质气体交换，血液经静脉导管、卵圆孔和动脉导管分流，出生后这些通道逐渐闭锁。"
+        },
+        {
+          "text": "错误",
+          "isCorrect": false,
+          "rationale": ""
+        }
+      ],
+      "blankAnswers": [],
+      "blanks": [],
+      "rationale": "正确。胎儿通过胎盘和脐带与母体进行物质气体交换，血液经静脉导管、卵圆孔和动脉导管分流，出生后这些通道逐渐闭锁。",
+      "hint": "结合课程要点概念与机制进行正误判断",
+      "id": 37
+    },
+    {
+      "c": "38",
+      "type": "fill_blank",
+      "question": "主动脉起自____心室，主动脉弓处自右向左分出____、____和____，全身的静脉血经上腔静脉和下腔静脉回流至____心房。",
+      "prompt": "主动脉起自____心室，主动脉弓处自右向左分出____、____和____，全身的静脉血经上腔静脉和下腔静脉回流至____心房。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "左",
+        "头臂干",
+        "左颈总动脉",
+        "左锁骨下动脉",
+        "右"
+      ],
+      "blanks": [
+        "左",
+        "头臂干",
+        "左颈总动脉",
+        "左锁骨下动脉",
+        "右"
+      ],
+      "rationale": "体循环动脉始于左心室，主动脉弓三大分支自右向左为头臂干、左颈总动脉和左锁骨下动脉，全身静脉血经上下腔静脉汇入右心房。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 38
+    },
+    {
+      "c": "39",
+      "type": "fill_blank",
+      "question": "第一心音标志____的开始，产生的主要原因是____；第二心音标志____的开始，产生的主要原因是____。",
+      "prompt": "第一心音标志____的开始，产生的主要原因是____；第二心音标志____的开始，产生的主要原因是____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "心室收缩",
+        "房室瓣关闭",
+        "心室舒张",
+        "动脉瓣关闭"
+      ],
+      "blanks": [
+        "心室收缩",
+        "房室瓣关闭",
+        "心室舒张",
+        "动脉瓣关闭"
+      ],
+      "rationale": "第一心音标志心室收缩开始，主因房室瓣关闭；第二心音标志心室舒张开始，主因动脉瓣关闭。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 39
+    },
+    {
+      "c": "40",
+      "type": "fill_blank",
+      "question": "分隔左、右心室的隔膜为____，分隔左、右心房的隔膜为____，升主动脉起始处的瓣膜称为____，右心房与右心室之间的瓣膜为____。",
+      "prompt": "分隔左、右心室的隔膜为____，分隔左、右心房的隔膜为____，升主动脉起始处的瓣膜称为____，右心房与右心室之间的瓣膜为____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "室间隔",
+        "房间隔",
+        "主动脉瓣",
+        "三尖瓣"
+      ],
+      "blanks": [
+        "室间隔",
+        "房间隔",
+        "主动脉瓣",
+        "三尖瓣"
+      ],
+      "rationale": "心脏内部四腔由房间隔和室间隔分隔，升主动脉起始部为主动脉瓣，右房室口处为三尖瓣。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 40
+    },
+    {
+      "c": "41",
+      "type": "fill_blank",
+      "question": "右心室收缩时____瓣关闭，____瓣开放，此时血液由右心室射入____。",
+      "prompt": "右心室收缩时____瓣关闭，____瓣开放，此时血液由右心室射入____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "三尖",
+        "肺动脉",
+        "肺动脉"
+      ],
+      "blanks": [
+        "三尖",
+        "肺动脉",
+        "肺动脉"
+      ],
+      "rationale": "右心室收缩射血时，三尖瓣关闭防止血回流右心房，肺动脉瓣开放将静脉血射入肺动脉干进行肺循环。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 41
+    },
+    {
+      "c": "42",
+      "type": "fill_blank",
+      "question": "左心室快速射血期，左心室内压____左房内压和主动脉压，____处于关闭状态，____处于开放状态，血液由左室射入主动脉。",
+      "prompt": "左心室快速射血期，左心室内压____左房内压和主动脉压，____处于关闭状态，____处于开放状态，血液由左室射入主动脉。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "大于",
+        "二尖瓣",
+        "主动脉瓣"
+      ],
+      "blanks": [
+        "大于",
+        "二尖瓣",
+        "主动脉瓣"
+      ],
+      "rationale": "快速射血期左室内压高于房内压及主动脉压，二尖瓣关闭防止血液返流，主动脉瓣开放完成高速射血。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 42
+    },
+    {
+      "c": "43",
+      "type": "fill_blank",
+      "question": "等容收缩期时，左侧心脏____和____均处于关闭状态，左心室内压____左房内压，而____主动脉压。",
+      "prompt": "等容收缩期时，左侧心脏____和____均处于关闭状态，左心室内压____左房内压，而____主动脉压。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "二尖瓣",
+        "主动脉瓣",
+        "大于",
+        "小于"
+      ],
+      "blanks": [
+        "二尖瓣",
+        "主动脉瓣",
+        "大于",
+        "小于"
+      ],
+      "rationale": "等容收缩期内左心室内压急剧上升（高于左房压以致二尖瓣关），但尚未超过主动脉压（故主动脉瓣未开），心室容积不变。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 43
+    },
+    {
+      "c": "44",
+      "type": "fill_blank",
+      "question": "心肌细胞在动作电位的有效不应期之后受到窦房结以外的异常刺激，能够产生____，此后在下一次窦房结冲动到达时将出现一次____。",
+      "prompt": "心肌细胞在动作电位的有效不应期之后受到窦房结以外的异常刺激，能够产生____，此后在下一次窦房结冲动到达时将出现一次____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "期前收缩",
+        "代偿间歇"
+      ],
+      "blanks": [
+        "期前收缩",
+        "代偿间歇"
+      ],
+      "rationale": "有效不应期后心室遇异常刺激提前产生期前收缩；随后紧接的正常窦性节律恰好落入期前兴奋的有效不应期，引发代偿间歇。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 44
+    },
+    {
+      "c": "45",
+      "type": "fill_blank",
+      "question": "心脏的正常起搏点位于____，起搏细胞的自律性电生理机制表现为____。",
+      "prompt": "心脏的正常起搏点位于____，起搏细胞的自律性电生理机制表现为____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "窦房结",
+        "四期自动去极化"
+      ],
+      "blanks": [
+        "窦房结",
+        "四期自动去极化"
+      ],
+      "rationale": "窦房结P细胞自律性最高，主要靠动作电位4期膜电位不稳定发生自动去极化达到阈电位启动起搏。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 45
+    },
+    {
+      "c": "46",
+      "type": "fill_blank",
+      "question": "心脏自身的供血动脉是____，起自____；静脉血主要汇集成____，直接开口于____。",
+      "prompt": "心脏自身的供血动脉是____，起自____；静脉血主要汇集成____，直接开口于____。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "冠状动脉",
+        "升主动脉",
+        "冠状窦",
+        "右心房"
+      ],
+      "blanks": [
+        "冠状动脉",
+        "升主动脉",
+        "冠状窦",
+        "右心房"
+      ],
+      "rationale": "左、右冠状动脉起自升主动脉根部的主动脉窦，营养心脏；心肌静脉血主要汇入冠状窦，开口于右心房。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 46
+    },
+    {
+      "c": "47",
+      "type": "fill_blank",
+      "question": "右心室收缩将静脉血射入肺动脉，在肺泡进行气体交换后汇集成左、右肺上、下静脉回流至____，这被称为____循环。",
+      "prompt": "右心室收缩将静脉血射入肺动脉，在肺泡进行气体交换后汇集成左、右肺上、下静脉回流至____，这被称为____循环。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "左心房",
+        "肺"
+      ],
+      "blanks": [
+        "左心房",
+        "肺"
+      ],
+      "rationale": "肺循环（小循环）起于右心室、止于左心房，在肺泡毛细血管完成排出 CO₂、摄取 O₂ 的气体交换功能。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 47
+    },
+    {
+      "c": "48",
+      "type": "fill_blank",
+      "question": "临床诊断高血压的标准为：静息状态下收缩压 ≥____ mmHg 和（或）舒张压 ≥____ mmHg。",
+      "prompt": "临床诊断高血压的标准为：静息状态下收缩压 ≥____ mmHg 和（或）舒张压 ≥____ mmHg。",
+      "answerOptions": [],
+      "options": [],
+      "blankAnswers": [
+        "140",
+        "90"
+      ],
+      "blanks": [
+        "140",
+        "90"
+      ],
+      "rationale": "我国高血压诊断标准为未使用降压药物条件下，收缩压 ≥140 mmHg 和（或）舒张压 ≥90 mmHg。",
+      "hint": "依据核心生理机制与解剖路径准确填写",
+      "id": 48
+    }
+  ]
+}

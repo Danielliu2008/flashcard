@@ -1,0 +1,353 @@
+{
+  "id": "micro_08",
+  "title": "08 真菌学总论 闪卡",
+  "description": "医学微生物学·真菌真核细胞结构、几丁质/麦角固醇靶点、单细胞与多细胞（菌丝/孢子）、沙氏培养基三型菌落、条件致病性与抗真菌药物机制核心考点",
+  "topics": {
+    "covered": [
+      "真菌典型真核细胞型结构（核膜核仁与细胞器）",
+      "真菌细胞壁成分（几丁质/葡聚糖）与抗细菌抗生素天然耐受",
+      "真菌细胞膜麦角固醇与药物特异性靶向机制",
+      "单细胞真菌（酵母型如隐球菌荚膜、类酵母型如白念珠菌假菌丝）",
+      "多细胞真菌（有隔/无隔菌丝、营养/气生菌丝与孢子）",
+      "沙氏培养基（SDA，弱酸性pH 4-6，22-28℃）与三大典型菌落",
+      "真菌致病性分类（原发性深部菌、条件致病真菌、黄曲霉毒素致肝癌）",
+      "抗真菌药物三大核心靶点：多烯类（两性霉素B结合麦角固醇打孔）、唑类（氟康唑抑14α脱甲基酶）、棘白菌素类（卡泊芬净抑β-葡聚糖）"
+    ],
+    "followUp": [
+      "主要致病性真菌各论（白念珠菌、隐球菌、曲霉）",
+      "真菌耐药机制与临床深部真菌感染联合用药方案"
+    ]
+  },
+  "flashcards": [
+    {
+      "c": 1,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【核心属性】真菌属于哪类微生物？细胞壁与细菌有何区别？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **类别**：**真核细胞型微生物**（有完整核膜、核仁、细胞器完备）。\n• **细胞壁**：主要由**几丁质、葡聚糖、甘露聚糖**构成，**完全不含肽聚糖**（青霉素类抗生素对其天然无效）。"
+          }
+        ]
+      },
+      "pointType": "细胞结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 2,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【药物靶分子】真菌细胞膜特有的固醇成分是什么？有何意义？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **特有成分**：**麦角固醇（Ergosterol）**（动物细胞膜为胆固醇）。\n• **意义**：是两性霉素 B、唑类等抗真菌药物高度选择性打击的关键分子靶点。"
+          }
+        ]
+      },
+      "pointType": "分子靶点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 3,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【形态分类】酵母型真菌与类酵母型真菌有何区别？代表菌是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **酵母型真菌**：单细胞出芽，无菌丝，如**新生隐球菌**（具宽厚**多糖荚膜**，用墨汁负染镜检）。\n• **类酵母型真菌**：出芽延长形成**假菌丝（Pseudohypha）**，如**白假丝酵母菌（白念珠菌）**。"
+          }
+        ]
+      },
+      "pointType": "单细胞真菌",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 4,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【多细胞结构】丝状真菌（霉菌）的菌丝和孢子各具什么特征？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **菌丝**：管状丝状物，分为**有隔菌丝**（曲霉、青霉）与**无隔菌丝**（毛霉）；按功能分**营养菌丝**与**气生菌丝**。\n• **孢子**：真菌的繁殖器官，耐热性弱（60℃ 1h 灭活），与细菌休眠芽胞截然不同。"
+          }
+        ]
+      },
+      "pointType": "多细胞结构",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 5,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【培养特性】真菌培养基是什么？生长环境（pH/温度）有何特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **培养基**：**沙氏葡萄糖琼脂（SDA）**。\n• **环境特点**：**嗜弱酸性（pH 4.0~6.0）**；最适生长温度 **22~28℃**（深部菌 37℃）；生长缓慢（需数天至数周）。"
+          }
+        ]
+      },
+      "pointType": "培养特性",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 6,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【菌落表型】简述固体培养基上真菌形成的三大典型菌落特征。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **酵母型菌落**：湿润、光滑、黏稠似细菌菌落（隐球菌）。\n• **类酵母型菌落**：似酵母菌落但假菌丝向琼脂深层扎根（白念珠菌）。\n• **丝状菌落**：绒毛状、絮状或粉末状，常带鲜艳色素（曲霉、青霉）。"
+          }
+        ]
+      },
+      "pointType": "菌落类型",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 7,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【抵抗力与药敏】真菌对理化因素的抵抗力与药敏有何特点？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **抵抗力**：对干燥、紫外线抵抗力强；**对热敏感（60℃ 1小时杀灭）**。\n• **药敏**：抗细菌抗生素天然耐受；对抗真菌药（两性霉素B、氟康唑、卡泊芬净）敏感。"
+          }
+        ]
+      },
+      "pointType": "理化特性",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 8,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床高危】常见的四大条件致病真菌有哪些？三大诱因是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **四大菌**：**白假丝酵母菌（白念珠菌）、新生隐球菌、曲霉、毛霉**。\n• **三大诱因**：① 长期滥用广谱抗生素（二重感染）；② 激素/免疫抑制剂/放化疗；③ 艾滋病（AIDS）。"
+          }
+        ]
+      },
+      "pointType": "条件致病",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 9,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【毒素致癌】黄曲霉毒素主要污染何种食品？有何严重危害？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **来源**：黄曲霉污染发霉的**花生、玉米、粮油**产生的剧毒代谢物。\n• **危害**：强肝脏毒性，世界卫生组织 I 类强致癌物，特异诱发**原发性肝细胞癌（HCC）**。"
+          }
+        ]
+      },
+      "pointType": "真菌毒素",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 10,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【药物机制】多烯类抗真菌药（两性霉素B）的分子机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **靶点**：直接结合细胞膜上的**麦角固醇**。\n• **机制**：在膜上形成跨膜微孔，导致胞内 **K+ 钾离子大量外漏**，真菌崩解死亡。"
+          }
+        ]
+      },
+      "pointType": "药物靶点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 11,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【药物机制】唑类抗真菌药（氟康唑、伏立康唑）的分子机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **靶点**：抑制**羊毛甾醇 14α-脱甲基酶（CYP51）**。\n• **机制**：阻断羊毛甾醇向麦角固醇转化，导致麦角固醇匮乏破坏膜完整性。"
+          }
+        ]
+      },
+      "pointType": "药物靶点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 12,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【药物机制】棘白菌素类抗真菌药（卡泊芬净）的作用靶点和机制是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **靶点**：真菌细胞壁 **β-1,3-葡聚糖合成酶**。\n• **机制**：阻断细胞壁核心多糖骨架合成，使细胞壁完整性丧失渗透裂解（人体无细胞壁，毒性低）。"
+          }
+        ]
+      },
+      "pointType": "药物靶点",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 13,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【靶点总结】常用抗真菌药物的三大作用靶点速查。"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **细胞膜结合打孔**：多烯类（两性霉素B、制霉菌素）。\n• **抑制膜固醇合成**：唑类（氟康唑、伊曲康唑）。\n• **抑制细胞壁合成**：棘白菌素类（卡泊芬净）。"
+          }
+        ]
+      },
+      "pointType": "靶点总结",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 14,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【染色诊断】脑脊液中检查新生隐球菌的经典染色方法与特征是什么？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **方法**：**墨汁负染色法**。\n• **镜下特征**：黑色视野背景中，可见圆形单细胞外围环绕一圈**宽厚清晰透亮的透明晕**，可确诊隐球菌脑膜炎。"
+          }
+        ]
+      },
+      "pointType": "经典诊断",
+      "starRating": "★★★",
+      "importance": 3
+    },
+    {
+      "c": 15,
+      "f": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "【临床假丝】白假丝酵母菌引起人体浅表黏膜感染的两种典型病症？"
+          }
+        ]
+      },
+      "b": {
+        "flashcardContentBlock": [
+          {
+            "type": "text",
+            "content": "• **鹅口疮**：儿童或免疫低下者颊、舌黏膜表面附着**凝乳状白色假膜**。\n• **霉菌性阴道炎**：女性剧烈外阴瘙痒伴**豆腐渣样/凝乳块状白色阴道分泌物**。"
+          }
+        ]
+      },
+      "pointType": "临床病症",
+      "starRating": "★★★",
+      "importance": 3
+    }
+  ]
+}

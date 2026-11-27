@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>记忆辅助 - Windows 桌面极速预览</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📱</text></svg>">
+  <link rel="stylesheet" href="libs/katex/katex.min.css">
+  <script src="libs/katex/katex.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- 全局拖入悬浮蒙版 (任何时候把 JSON 往窗口一拖就会出现) -->
+  <div class="global-drag-overlay" id="global-drag-overlay">
+    <div class="drag-overlay-box">
+      <div style="font-size: 56px; margin-bottom: 12px; animation: bounce 1s infinite alternate;">📥</div>
+      <div style="font-size: 22px; font-weight: 800; color: #fff;">松开鼠标，自动识别并直接打开</div>
+      <div style="font-size: 14px; color: #8ab4f8; margin-top: 8px;">
+        自动嗅探类型：闪卡复习 · 单元小测 · 思维导图 · ZIP 压缩包
+      </div>
+    </div>
+  </div>
+
+  <!-- 轻量悬浮 Toast 提示 -->
+  <div class="floating-toast" id="app-toast"></div>
+
+  <!-- 隐藏的文件选择器 -->
+  <input type="file" id="file-picker" accept=".json,.zip" style="display:none;">
+
+  <!-- 顶部控制面板 -->
+  <header class="top-controller-bar">
+    <div class="controller-left">
+      <span style="font-weight: 700; color: #fff; display: flex; align-items: center; gap: 6px;">
+        <span>📱</span> 记忆辅助 · Windows 桌面预览
+      </span>
+      <span id="current-page-badge" style="background: #2f3239; padding: 2px 8px; border-radius: 4px; font-size: 11px;">
+        学科大厅
+      </span>
+    </div>
+
+    <div class="controller-right">
+      <!-- 醒目的顶栏快捷导入 -->
+      <button class="controller-btn highlight-btn" id="btn-top-import" title="选择本地 JSON 或 ZIP 文件直接解析打开">
+        <span>📂</span> <span>导入 JSON/ZIP</span>
+      </button>
+
+      <button class="controller-btn" id="btn-toggle-theme" title="切换深色/浅色主题">
+        <span id="theme-icon">🌙</span> <span id="theme-text">深色</span>
+      </button>
+
+      <button class="controller-btn" id="btn-toggle-frame" title="切换手机边框/满屏视口">
+        <span>🖼️</span> <span>手机边框</span>
+      </button>
+
+      <button class="controller-btn" id="btn-reload-data" title="重新从本地 Assets 读取数据">
+        <span>🔄</span> <span>重载数据</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- 预览主体舞台 -->
+  <main class="preview-stage">
+    
+    <div class="phone-mockup" id="phone-frame">
+      <!-- 灵动岛 / 听筒 -->
+      <div class="phone-island"></div>
+
+      <!-- 手机状态栏 -->
+      <div class="status-bar">
+        <span id="status-clock">09:41</span>
+        <div style="display: flex; gap: 6px; font-size: 12px; align-items: center;">
+          <span>5G</span>
+          <span>📶</span>
+          <span>100% 🔋</span>
+        </div>
+      </div>
+
+      <!-- 手机主视口容器 -->
+      <div class="app-container" id="app-viewport">
+        
+        <!-- 页面 1: 学科大厅 (SubjectSelectScreen) -->
+        <section class="screen-view active" id="screen-subject-select">
+          <div class="app-header">
+            <div>
+              <div class="app-header-title">记忆辅助</div>
+              <div class="app-header-subtitle">分学科复习与知识系统</div>
+            </div>
+            <div style="display: flex; gap: 8px;">
+              <button class="back-btn" id="btn-switch-subject-view" title="切换大图/列表视图">
+                <span>⊞</span>
+              </button>
+              <button class="back-btn" id="btn-add-subject" title="新建学科">
+                <span>+</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- 核心：醒目的直接投掷/导入卡片 -->
+          <div class="drop-zone-card" id="drop-zone-card">
+            <div class="drop-zone-icon">📥</div>
+            <div class="drop-zone-title">拖入 JSON 自动解析打开</div>
+            <div class="drop-zone-desc">直接把闪卡 / 考题 / 导图 JSON 拖进来，秒级自动识别并打开</div>
+            <button class="drop-zone-btn" id="btn-browse-file">或点击选择文件</button>
+          </div>
+
+          <div style="font-size: 13px; font-weight: 700; color: var(--text-secondary); margin: 12px 0 6px 4px;">
+            📚 全部学科列表
+          </div>
+
+          <div class="subject-grid" id="subjects-container">
+            <!-- 动态注入学科卡片 -->
+          </div>
+        </section>
+
+        <!-- 页面 2: 学科主页章节列表 (HomeScreen) -->
+        <section class="screen-view" id="screen-home">
+          <div class="app-header">
+            <div class="app-header-left">
+              <button class="back-btn" id="btn-back-to-subjects">←</button>
+              <div>
+                <div class="app-header-title" id="home-subject-title">系统解剖学</div>
+                <div class="app-header-subtitle" id="home-subject-desc">单元章节考点精析</div>
+              </div>
+            </div>
+            <span id="home-subject-emoji" style="font-size: 28px;">🫀</span>
+          </div>
+
+          <!-- 在主页也提供快速投掷条 -->
+          <div class="mini-drop-zone" id="mini-drop-zone" title="把该学科的新 JSON 拖到这里">
+            <span>📥 拖入本学科的新章节 JSON 自动识别</span>
+          </div>
+
+          <div class="unit-list" id="units-container">
+            <!-- 动态注入章节卡片 -->
+          </div>
+        </section>
+
+        <!-- 页面 3: 闪卡学习视窗 (StudyScreen & 3D FlipCard) -->
+        <section class="screen-view" id="screen-study">
+          <div class="app-header">
+            <div class="app-header-left">
+              <button class="back-btn" id="btn-back-from-study">←</button>
+              <div>
+                <div class="app-header-title" id="study-unit-title">闪卡复习</div>
+                <div class="app-header-subtitle" id="study-progress-text">卡片 1 / 20</div>
+              </div>
+            </div>
+            <div style="display: flex; gap: 6px; font-size: 12px;">
+              <span id="badge-mastered" style="color: var(--color-success); font-weight: 700;">✅ 0</span>
+              <span id="badge-review" style="color: var(--color-danger); font-weight: 700;">❌ 0</span>
+            </div>
+          </div>
+
+          <div class="study-viewport">
+            <div class="card-3d-wrapper" id="flashcard-3d">
+              <!-- 判定手势蒙版 Overlay -->
+              <div class="gesture-overlay mastered" id="overlay-mastered">已掌握 (Mastered)</div>
+              <div class="gesture-overlay review" id="overlay-review">待复习 (Review)</div>
+
+              <!-- 卡片正面 (问题) -->
+              <div class="flashcard-face flashcard-front">
+                <div class="card-tag"><span>ℹ️ 考点问题</span></div>
+                <div class="card-content" id="card-front-content">正在载入问题...</div>
+                <div class="card-hint">💡 点击卡片翻转</div>
+              </div>
+
+              <!-- 卡片背面 (答案与要点) -->
+              <div class="flashcard-face flashcard-back">
+                <div class="card-tag"><span id="card-back-tag">💡 核心解析</span></div>
+                <div class="card-content" id="card-back-content">正在载入答案...</div>
+                <div class="card-hint">💡 点击翻回正面</div>
+              </div>
+            </div>
+
+            <!-- 控制按钮 -->
+            <div class="study-controls">
+              <button class="action-round-btn btn-missed" id="btn-card-missed" title="未掌握 (按 1)">✕</button>
+              <button class="action-round-btn btn-flip" id="btn-card-flip" title="翻转卡片 (空格 / 点击)">🔄</button>
+              <button class="action-round-btn btn-gotit" id="btn-card-gotit" title="已掌握 (按 2)">✓</button>
+            </div>
+
+            <div class="keyboard-hints">
+              键盘：← 上一张 | → 下一张 | 空格 翻转 | 1 未掌握 | 2 已掌握
+            </div>
+          </div>
+        </section>
+
+        <!-- 页面 4: 单元小测 (QuizScreen) -->
+        <section class="screen-view" id="screen-quiz">
+          <div class="app-header">
+            <div class="app-header-left">
+              <button class="back-btn" id="btn-back-from-quiz">←</button>
+              <div>
+                <div class="app-header-title" id="quiz-unit-title">单元考题小测</div>
+                <div class="app-header-subtitle" id="quiz-progress-text">第 1 / 15 题</div>
+              </div>
+            </div>
+            <div id="quiz-timer" style="font-size: 13px; font-weight: 700; color: var(--primary);">00:00</div>
+          </div>
+
+          <div style="flex: 1; display: flex; flex-direction: column;">
+            <div class="quiz-question-box">
+              <div class="quiz-badge-row">
+                <span class="quiz-type-badge" id="quiz-type-badge">单项选择</span>
+                <span id="quiz-score-badge" style="font-size: 12px; color: var(--text-secondary);">正确率: 100%</span>
+              </div>
+              <div class="quiz-question-text" id="quiz-question-text">题目加载中...</div>
+            </div>
+
+            <div class="quiz-options-list" id="quiz-options-container">
+              <!-- 动态注入选项 -->
+            </div>
+
+            <div class="quiz-rationale-box" id="quiz-rationale-box">
+              <div style="font-weight: 700; margin-bottom: 4px;" id="quiz-rationale-title">💡 答案解析：</div>
+              <div id="quiz-rationale-text"></div>
+            </div>
+
+            <div style="margin-top: auto; padding-top: 14px; display: flex; justify-content: flex-end;">
+              <button class="controller-btn" id="btn-quiz-next" style="padding: 10px 20px; font-size: 14px; font-weight: 700;">
+                下一题 →
+              </button>
+            </div>
+          </div>
+        </section>
+
+        <!-- 页面 5: 知识思维导图 (MindMapView) -->
+        <section class="screen-view" id="screen-mindmap">
+          <div class="app-header" style="margin-bottom: 8px;">
+            <div class="app-header-left">
+              <button class="back-btn" id="btn-back-from-mindmap">←</button>
+              <div>
+                <div class="app-header-title" id="mindmap-unit-title">知识思维导图</div>
+                <div class="app-header-subtitle">可拖拽平移 / 滚轮缩放 / 点击展开收起</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="mindmap-viewport" id="mindmap-viewport">
+            <div class="mindmap-canvas" id="mindmap-canvas">
+              <svg id="mindmap-svg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; z-index: 1;"></svg>
+              <div class="mindmap-tree" id="mindmap-tree-root">
+                <!-- 动态生成知识树节点 -->
+              </div>
+            </div>
+
+            <div class="mindmap-tools">
+              <button class="mindmap-tool-btn" id="btn-mindmap-zoom-in" title="放大">+</button>
+              <button class="mindmap-tool-btn" id="btn-mindmap-zoom-out" title="缩小">-</button>
+              <button class="mindmap-tool-btn" id="btn-mindmap-reset" title="重置视角">⛶</button>
+            </div>
+          </div>
+        </section>
+
+      </div>
+    </div>
+
+  </main>
+
+  <!-- 简洁的新建学科弹窗 -->
+  <div class="modal-backdrop" id="add-subject-modal" style="display:none;">
+    <div class="modal-box">
+      <div style="font-size: 18px; font-weight: 700; margin-bottom: 14px;">➕ 新建学科</div>
+      <div class="form-group">
+        <label>学科名称</label>
+        <input type="text" id="input-subject-name" placeholder="例如：医学心理学" class="form-input">
+      </div>
+      <div class="form-group">
+        <label>Emoji 图标</label>
+        <input type="text" id="input-subject-emoji" value="📚" class="form-input" style="width: 80px; font-size: 20px; text-align: center;">
+      </div>
+      <div class="form-group">
+        <label>简介说明</label>
+        <input type="text" id="input-subject-desc" placeholder="例如：核心考点与知识体系精析" class="form-input">
+      </div>
+      <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: 18px;">
+        <button class="controller-btn" id="btn-cancel-add-subject">取消</button>
+        <button class="controller-btn highlight-btn" id="btn-confirm-add-subject">创建并进入</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 导入持久化目标选择弹窗 (在未选中具体学科时拖入使用) -->
+  <div class="modal-backdrop" id="import-target-modal" style="display:none;">
+    <div class="modal-box">
+      <div style="font-size: 18px; font-weight: 700; margin-bottom: 6px;">📥 导入章节数据</div>
+      <div id="import-target-file-info" style="font-size: 13px; color: var(--primary); margin-bottom: 14px; word-break: break-all; font-weight: 600;"></div>
+      <div style="font-size: 13px; color: var(--text-secondary); margin-bottom: 10px;">选择保存到哪个学科（长期持久化）：</div>
+      <div id="import-target-subjects-list" style="display:flex; flex-direction:column; gap:8px; max-height:220px; overflow-y:auto; margin-bottom:16px;">
+        <!-- 动态生成学科选择按钮 -->
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items:center; border-top: 1px solid var(--border-color); padding-top: 12px;">
+        <button class="controller-btn" id="btn-import-preview-only">👁️ 仅临时预览</button>
+        <button class="controller-btn" id="btn-cancel-import-target">取消</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

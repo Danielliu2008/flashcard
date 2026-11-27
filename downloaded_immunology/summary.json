@@ -1,0 +1,181 @@
+{
+  "exportedAt": "2026-10-19T03:22:24.117Z",
+  "notebookTitle": "医学免疫学核心概念与习题解析 - Gemini Notebook",
+  "totalArtifacts": 24,
+  "counts": {
+    "flashcards": 8,
+    "quizzes": 8,
+    "mindmaps": 8,
+    "others": 0
+  },
+  "files": [
+    {
+      "path": "quizzes/02 固有免疫 测验.json",
+      "id": "bde957b0-3929-4fb0-908f-96aea8e17e49",
+      "title": "02 固有免疫 测验",
+      "type": "quizzes",
+      "sizeBytes": 56559
+    },
+    {
+      "path": "quizzes/04 抗原提呈与MHC 测验.json",
+      "id": "50568c2d-9e61-4473-a165-c521a3059256",
+      "title": "04 抗原提呈与MHC 测验",
+      "type": "quizzes",
+      "sizeBytes": 61306
+    },
+    {
+      "path": "mindmaps/08 免疫学应用 脑图.json",
+      "id": "976ba1db-f0f5-406e-a751-4b650ebc38f1",
+      "title": "08 免疫学应用 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 5539
+    },
+    {
+      "path": "flashcards/08 免疫学应用 闪卡.json",
+      "id": "5dfe1522-dd23-4f06-8783-67e9bc973f7c",
+      "title": "08 免疫学应用 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 20629
+    },
+    {
+      "path": "quizzes/08 免疫学应用 测验.json",
+      "id": "5a70e81b-7790-43da-9a96-3c1dbd07242f",
+      "title": "08 免疫学应用 测验",
+      "type": "quizzes",
+      "sizeBytes": 49762
+    },
+    {
+      "path": "quizzes/07 免疫应答 测验.json",
+      "id": "1a439d7d-3664-40cf-8159-1811afec5663",
+      "title": "07 免疫应答 测验",
+      "type": "quizzes",
+      "sizeBytes": 59108
+    },
+    {
+      "path": "flashcards/07 免疫应答 闪卡.json",
+      "id": "bef5c646-4654-40ca-a0bd-c9ada6c1ee20",
+      "title": "07 免疫应答 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 38630
+    },
+    {
+      "path": "mindmaps/07 免疫应答 脑图.json",
+      "id": "0ce24772-aec3-4b90-b0f4-79bee8efebec",
+      "title": "07 免疫应答 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 6252
+    },
+    {
+      "path": "flashcards/06 B淋巴细胞和抗体 闪卡.json",
+      "id": "728fef96-ae53-4d9f-b4f7-f6e5995481b3",
+      "title": "06 B淋巴细胞和抗体 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 37260
+    },
+    {
+      "path": "quizzes/06 B淋巴细胞和抗体 测验.json",
+      "id": "1fd54dec-0ef0-4094-beb8-4a613271e7d9",
+      "title": "06 B淋巴细胞和抗体 测验",
+      "type": "quizzes",
+      "sizeBytes": 52649
+    },
+    {
+      "path": "mindmaps/06 B淋巴细胞和抗体 脑图.json",
+      "id": "50412218-348d-46bd-b87b-cdaa4a9e2aa0",
+      "title": "06 B淋巴细胞和抗体 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 6394
+    },
+    {
+      "path": "quizzes/05 T淋巴细胞与免疫分子 测验.json",
+      "id": "4eada4b0-788c-4fed-90ec-0b3d914a1a69",
+      "title": "05 T淋巴细胞与免疫分子 测验",
+      "type": "quizzes",
+      "sizeBytes": 54105
+    },
+    {
+      "path": "mindmaps/05 T淋巴细胞与免疫分子 脑图.json",
+      "id": "440ea5ea-60ed-41e1-a2a2-1b7bb9247e0b",
+      "title": "05 T淋巴细胞与免疫分子 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 6457
+    },
+    {
+      "path": "flashcards/05 T淋巴细胞与免疫分子 闪卡.json",
+      "id": "6681ea54-3a51-49a5-b529-09e20dad052a",
+      "title": "05 T淋巴细胞与免疫分子 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 32240
+    },
+    {
+      "path": "mindmaps/04 抗原提呈与MHC 脑图.json",
+      "id": "5f506d2d-49c9-44e0-a8d3-ea2653d6cee0",
+      "title": "04 抗原提呈与MHC 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 3604
+    },
+    {
+      "path": "flashcards/04 抗原提呈与MHC 闪卡.json",
+      "id": "44487cf0-5aae-4c4c-9add-4c527feca5c0",
+      "title": "04 抗原提呈与MHC 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 18747
+    },
+    {
+      "path": "quizzes/03 抗原 测验.json",
+      "id": "0f12f637-b36c-4f7b-bae7-0f602c69c0c0",
+      "title": "03 抗原 测验",
+      "type": "quizzes",
+      "sizeBytes": 51830
+    },
+    {
+      "path": "mindmaps/03 抗原 脑图.json",
+      "id": "b1d77670-b176-42f3-adf5-382a043d0898",
+      "title": "03 抗原 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 6689
+    },
+    {
+      "path": "flashcards/03 抗原 闪卡.json",
+      "id": "3b42d996-c798-4dcf-a88b-e65b49da3901",
+      "title": "03 抗原 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 27301
+    },
+    {
+      "path": "mindmaps/02 固有免疫 脑图.json",
+      "id": "8b7534c8-4dd5-4ce2-89b0-12b53f5354a5",
+      "title": "02 固有免疫 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 8947
+    },
+    {
+      "path": "flashcards/02 固有免疫 闪卡.json",
+      "id": "67f6ff89-adb3-49ea-88c7-613016b557e6",
+      "title": "02 固有免疫 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 46523
+    },
+    {
+      "path": "mindmaps/01 绪论与免疫系统 脑图.json",
+      "id": "599aa847-e64a-41b0-bf23-f457fbce38fa",
+      "title": "01 绪论与免疫系统 脑图",
+      "type": "mindmaps",
+      "sizeBytes": 7819
+    },
+    {
+      "path": "flashcards/01 绪论与免疫系统 闪卡.json",
+      "id": "7dbc565e-9b40-4263-b38b-0b129fc809a7",
+      "title": "01 绪论与免疫系统 闪卡",
+      "type": "flashcards",
+      "sizeBytes": 34119
+    },
+    {
+      "path": "quizzes/01 绪论与免疫系统 测验.json",
+      "id": "59801ea9-8482-4e65-a5de-52a697d2880c",
+      "title": "01 绪论与免疫系统 测验",
+      "type": "quizzes",
+      "sizeBytes": 51421
+    }
+  ]
+}
